@@ -51,32 +51,33 @@
         }
         button:hover { background: #357abd; }
         
-        .char-list-section {
+        .career-section {
             margin-top: 20px;
+            padding-top: 15px;
+            border-top: 1px solid #eee;
         }
-        .char-list-title {
+        .career-title {
             font-size: 14px;
             color: #666;
             margin-bottom: 10px;
+            font-weight: bold;
         }
-        .char-list {
-            font-size: 14px;
+        .career-list {
+            font-size: 13px;
             line-height: 2;
-            color: #333;
+            color: #444;
         }
-        .char-list-item {
-            display: inline;
-            cursor: pointer;
-            color: #1565c0;
+        .career-char {
+            display: inline-block;
             margin-right: 12px;
-            white-space: nowrap;
+            cursor: pointer;
+            padding: 2px 6px;
+            border-radius: 4px;
+            transition: all 0.2s;
         }
-        .char-list-item:hover {
-            text-decoration: underline;
-        }
-        .char-list-item .count {
-            color: #888;
-            font-size: 12px;
+        .career-char:hover {
+            background: #e9f4ff;
+            color: #4a90d9;
         }
         
         .char-grid {
@@ -224,20 +225,21 @@
     
     <div class="search-box">
         <div class="search-row">
-            <input type="text" id="keyword" placeholder="캐릭터 이름 검색 (일본어)">
+            <input type="text" id="keyword" placeholder="캐릭터 이름 검색 (일본어/한국어)">
             <button onclick="searchCharacter()">검색</button>
         </div>
-        
-        <div class="char-list-section">
-            <div class="char-list-title">🏇 우마무스메 목록 (등장 스토리 순)</div>
-            <div id="char-list" class="char-list"></div>
-        </div>
-        
         <div id="char-results" class="char-grid"></div>
+        
+        <div class="career-section">
+            <div class="career-title">📋 육성 스토리 보유 우마무스메 (124명, 총 스토리 수 기준)</div>
+            <div class="career-list">
+                <span class="career-char" data-id="1001">1. スペシャルウィーク (572)</span>\n<span class="career-char" data-id="1018">2. エアグルーヴ (482)</span>\n<span class="career-char" data-id="1017">3. シンボリルドルフ (481)</span>\n<span class="career-char" data-id="1002">4. サイレンススズカ (480)</span>\n<span class="career-char" data-id="1032">5. アグネスタキオン (476)</span>\n<span class="career-char" data-id="1046">6. スマートファルコン (473)</span>\n<span class="career-char" data-id="1013">7. メジロマックイーン (464)</span>\n<span class="career-char" data-id="1003">8. トウカイテイオー (434)</span>\n<span class="career-char" data-id="1015">9. テイエムオペラオー (416)</span>\n<span class="career-char" data-id="1026">10. ミホノブルボン (415)</span>\n<span class="career-char" data-id="1068">11. キタサンブラック (390)</span>\n<span class="career-char" data-id="1007">12. ゴールドシップ (374)</span>\n<span class="career-char" data-id="1027">13. メジロライアン (370)</span>\n<span class="career-char" data-id="1060">14. ナイスネイチャ (366)</span>\n<span class="career-char" data-id="1016">15. ナリタブライアン (365)</span>\n<span class="career-char" data-id="1065">16. ダイタクヘリオス (356)</span>\n<span class="career-char" data-id="1067">17. サトノダイヤモンド (354)</span>\n<span class="career-char" data-id="1083">18. シンボリクリスエス (342)</span>\n<span class="career-char" data-id="1058">19. メイショウドトウ (339)</span>\n<span class="career-char" data-id="1041">20. サクラバクシンオー (338)</span>\n<span class="career-char" data-id="1030">21. ライスシャワー (337)</span>\n<span class="career-char" data-id="1008">22. ウオッカ (336)</span>\n<span class="career-char" data-id="1047">23. ゼンノロブロイ (334)</span>\n<span class="career-char" data-id="1006">24. オグリキャップ (332)</span>\n<span class="career-char" data-id="1011">25. グラスワンダー (329)</span>\n<span class="career-char" data-id="1009">26. ダイワスカーレット (327)</span>\n<span class="career-char" data-id="1036">27. エアシャカール (325)</span>\n<span class="career-char" data-id="1023">28. ビワハヤヒデ (324)</span>\n<span class="career-char" data-id="1005">29. フジキセキ (319)</span>\n<span class="career-char" data-id="1014">30. エルコンドルパサー (318)</span>\n<span class="career-char" data-id="1012">31. ヒシアマゾン (313)</span>\n<span class="career-char" data-id="1010">32. タイキシャトル (312)</span>\n<span class="career-char" data-id="1061">33. キングヘイロー (311)</span>\n<span class="career-char" data-id="1064">34. メジロパーマー (311)</span>\n<span class="career-char" data-id="1069">35. サクラチヨノオー (300)</span>\n<span class="career-char" data-id="1059">36. メジロドーベル (298)</span>\n<span class="career-char" data-id="1051">37. ニシノフラワー (297)</span>\n<span class="career-char" data-id="1089">38. シュヴァルグラン (297)</span>\n<span class="career-char" data-id="1020">39. セイウンスカイ (294)</span>\n<span class="career-char" data-id="1021">40. タマモクロス (294)</span>\n<span class="career-char" data-id="1071">41. メジロアルダン (294)</span>\n<span class="career-char" data-id="1084">42. タニノギムレット (287)</span>\n<span class="career-char" data-id="1040">43. ゴールドシチー (286)</span>\n<span class="career-char" data-id="1063">44. イクノディクタス (285)</span>\n<span class="career-char" data-id="1053">45. バンブーメモリー (282)</span>\n<span class="career-char" data-id="1048">46. トーセンジョーダン (281)</span>\n<span class="career-char" data-id="1024">47. マヤノトップガン (280)</span>\n<span class="career-char" data-id="1056">48. マチカネフクキタル (278)</span>\n<span class="career-char" data-id="1035">49. ウイニングチケット (275)</span>\n<span class="career-char" data-id="1072">50. ヤエノムテキ (273)</span>\n<span class="career-char" data-id="1033">51. アドマイヤベガ (270)</span>\n<span class="career-char" data-id="1022">52. ファインモーション (268)</span>\n<span class="career-char" data-id="1066">53. ツインターボ (268)</span>\n<span class="career-char" data-id="1025">54. マンハッタンカフェ (267)</span>\n<span class="career-char" data-id="1077">55. ナリタトップロード (262)</span>\n<span class="career-char" data-id="1044">56. スイープトウショウ (259)</span>\n<span class="career-char" data-id="1004">57. マルゼンスキー (258)</span>\n<span class="career-char" data-id="1028">58. ヒシアケボノ (257)</span>\n<span class="career-char" data-id="1050">59. ナリタタイシン (257)</span>\n<span class="career-char" data-id="1090">60. ヴィルシーナ (256)</span>\n<span class="career-char" data-id="1100">61. ワンダーアキュート (254)</span>\n<span class="career-char" data-id="1091">62. ヴィブロス (253)</span>\n<span class="career-char" data-id="1099">63. ホッコータルマエ (253)</span>\n<span class="career-char" data-id="1054">64. ビコーペガサス (252)</span>\n<span class="career-char" data-id="1062">65. マチカネタンホイザ (249)</span>\n<span class="career-char" data-id="1057">66. ミスターシービー (247)</span>\n<span class="career-char" data-id="1045">67. スーパークリーク (246)</span>\n<span class="career-char" data-id="1107">68. タップダンスシチー (243)</span>\n<span class="career-char" data-id="1049">69. ナカヤマフェスタ (242)</span>\n<span class="career-char" data-id="1037">70. エイシンフラッシュ (241)</span>\n<span class="career-char" data-id="1039">71. カワカミプリンセス (240)</span>\n<span class="career-char" data-id="1074">72. メジロブライト (240)</span>\n<span class="career-char" data-id="1115">73. オルフェーヴル (239)</span>\n<span class="career-char" data-id="1031">74. アイネスフウジン (235)</span>\n<span class="career-char" data-id="1029">75. ユキノビジン (233)</span>\n<span class="career-char" data-id="1038">76. カレンチャン (232)</span>\n<span class="career-char" data-id="1052">77. ハルウララ (231)</span>\n<span class="career-char" data-id="1042">78. シーキングザパール (229)</span>\n<span class="career-char" data-id="1094">79. ジャングルポケット (229)</span>\n<span class="career-char" data-id="1104">80. カツラギエース (229)</span>\n<span class="career-char" data-id="1106">81. ヒシミラクル (226)</span>\n<span class="career-char" data-id="1085">82. ダイイチルビー (217)</span>\n<span class="career-char" data-id="1086">83. メジロラモーヌ (211)</span>\n<span class="career-char" data-id="1088">84. サトノクラウン (211)</span>\n<span class="career-char" data-id="1055">85. マーベラスサンデー (210)</span>\n<span class="career-char" data-id="1034">86. イナリワン (208)</span>\n<span class="career-char" data-id="1093">87. ケイエスミラクル (208)</span>\n<span class="career-char" data-id="1109">88. ラインクラフト (208)</span>\n<span class="career-char" data-id="1019">89. アグネスデジタル (206)</span>\n<span class="career-char" data-id="1070">90. シリウスシンボリ (206)</span>\n<span class="career-char" data-id="1076">91. サクラローレル (206)</span>\n<span class="career-char" data-id="1098">92. コパノリッキー (206)</span>\n<span class="career-char" data-id="1110">93. シーザリオ (205)</span>\n<span class="career-char" data-id="1119">94. ドリームジャーニー (204)</span>\n<span class="career-char" data-id="1105">95. ネオユニヴァース (201)</span>\n<span class="career-char" data-id="1108">96. ドゥラメンテ (200)</span>\n<span class="career-char" data-id="1092">97. ダンツフレーム (192)</span>\n<span class="career-char" data-id="1080">98. トランセンド (191)</span>\n<span class="career-char" data-id="1078">99. ヤマニンゼファー (188)</span>\n<span class="career-char" data-id="1111">100. エアメサイア (186)</span>\n<span class="career-char" data-id="1116">101. ジェンティルドンナ (186)</span>\n<span class="career-char" data-id="1117">102. ウインバリアシオン (185)</span>\n<span class="career-char" data-id="1114">103. ブエナビスタ (173)</span>\n<span class="career-char" data-id="1133">104. クロノジェネシス (169)</span>\n<span class="career-char" data-id="1081">105. エスポワールシチー (165)</span>\n<span class="career-char" data-id="1121">106. デュランダル (165)</span>\n<span class="career-char" data-id="1087">107. アストンマーチャン (164)</span>\n<span class="career-char" data-id="1132">108. ラヴズオンリーユー (163)</span>\n<span class="career-char" data-id="1082">109. ノースフライト (158)</span>\n<span class="career-char" data-id="1102">110. サウンズオブアース (157)</span>\n<span class="career-char" data-id="1120">111. カルストンライトオ (157)</span>\n<span class="career-char" data-id="1073">112. ツルマルツヨシ (156)</span>\n<span class="career-char" data-id="1131">113. グランアレグリア (154)</span>\n<span class="career-char" data-id="1127">114. フェノーメノ (153)</span>\n<span class="career-char" data-id="1043">115. シンコウウインディ (151)</span>\n<span class="career-char" data-id="1096">116. ノーリーズン (149)</span>\n<span class="career-char" data-id="1124">117. バブルガムフェロー (146)</span>\n<span class="career-char" data-id="1079">118. フリオーソ (144)</span>\n<span class="career-char" data-id="1095">119. ビリーヴ (140)</span>\n<span class="career-char" data-id="1097">120. スティルインラブ (126)</span>\n<span class="career-char" data-id="1135">121. ステイゴールド (124)</span>\n<span class="career-char" data-id="1113">122. フサイチパンドラ (114)</span>\n<span class="career-char" data-id="1137">123. キセキ (107)</span>\n<span class="career-char" data-id="0">124. ID:0 (0)</span>\n
+            </div>
+        </div>
     </div>
     
     <div id="results" class="results">
-        <div class="empty-state">캐릭터를 검색하거나 선택하면 스토리 목록이 표시됩니다</div>
+        <div class="empty-state">캐릭터를 검색하거나 위 목록에서 선택하면 스토리 목록이 표시됩니다</div>
     </div>
 
     <script>
@@ -256,8 +258,19 @@
             const resp = await fetch('char_list.json');
             charList = await resp.json();
             
-            renderCharList();
+            // 육성 캐릭터 클릭 이벤트
+            document.querySelectorAll('.career-char').forEach(el => {
+                el.addEventListener('click', () => {
+                    const charId = el.dataset.id;
+                    const char = charList.find(c => c.id == charId);
+                    if (char) {
+                        document.getElementById('keyword').value = char.name;
+                        selectCharacter(char.id, char.name);
+                    }
+                });
+            });
             
+            // URL 파라미터 체크
             const params = new URLSearchParams(location.search);
             const charId = params.get('char');
             if (charId) {
@@ -270,33 +283,20 @@
             }
         }
         
-        function renderCharList() {
-            // 육성 스토리 있는 캐릭터만, 스토리 개수 순 정렬
-            const filtered = charList
-                .filter(c => c.hasCareer)
-                .sort((a, b) => b.count - a.count);
-            
-            const html = filtered.map(c => 
-                `<span class="char-list-item" onclick="selectCharacter(${c.id}, '${c.name.replace(/'/g, "\'")}')">${c.name}<span class="count">(${c.count})</span></span>`
-            ).join('');
-            
-            document.getElementById('char-list').innerHTML = html;
-        }
-        
         function searchCharacter() {
             const keyword = document.getElementById('keyword').value.toLowerCase();
             const filtered = keyword 
                 ? charList.filter(c => c.name.toLowerCase().includes(keyword))
-                : [];
+                : charList.slice(0, 50);
             
             const html = filtered.map(c => `
-                <div class="char-item" onclick="selectCharacter(${c.id}, '${c.name.replace(/'/g, "\'")}')">
+                <div class="char-item" onclick="selectCharacter(${c.id}, '${c.name.replace(/'/g, "\\'")}')">
                     <div class="char-name">${c.name}</div>
                     <div class="char-count">${c.count}개 스토리</div>
                 </div>
             `).join('');
             
-            document.getElementById('char-results').innerHTML = html || (keyword ? '<div class="empty-state">검색 결과 없음</div>' : '');
+            document.getElementById('char-results').innerHTML = html || '<div class="empty-state">검색 결과 없음</div>';
         }
         
         async function selectCharacter(charId, charName) {
