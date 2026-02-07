@@ -221,7 +221,7 @@
             
             const frames = story.frames || {};
             const skipFrames = new Set();
-            const processedChoices = new Set(); // 이미 처리한 선택지 추적
+            const processedBranches = new Set(); // next_frame 기준으로 중복 체크
             
             // 복사용 텍스트
             let copyText = `${name}\n`;
@@ -300,10 +300,6 @@
                     }
                     
                     if (choices.length) {
-                        // 선택지 고유 키 생성 (중복 처리 방지)
-                        const choiceKey = choices.map(c => c.text || '').join('|');
-                        const alreadyProcessed = processedChoices.has(choiceKey);
-                        
                         const flags = choices.map(c => c.flag_type || '');
                         const nextFrames = choices.map(c => c.next_frame).filter(f => f != null);
                         const nextSet = new Set(nextFrames);
@@ -318,6 +314,7 @@
                         const validChoices = choices.filter(c => c.text);
                         const isSingleChoice = validChoices.length === 1;
                         
+                        let choiceIndex = 0;
                         for (let i = 0; i < choices.length; i++) {
                             const choice = choices[i];
                             const choiceText = choice.text || '';
@@ -325,6 +322,8 @@
                             const flag = choice.flag_type || '';
                             
                             if (!choiceText) continue;
+                            
+                            choiceIndex++;
                             
                             let label = '';
                             if (flag === 'male_trainer') label = '(남성 트레이너)';
@@ -334,6 +333,10 @@
                             html += `<div class="choice-text">${hasBranch ? '➤ ' : ''}${choiceText}<span class="choice-label">${label}</span></div>`;
                             
                             if (hasBranch && nextFrame != null) {
+                                // next_frame 기준으로 중복 체크
+                                const branchKey = `${nextFrame}`;
+                                const alreadyProcessedBranch = processedBranches.has(branchKey);
+                                
                                 const branchDialogues = getBranchDialogues(nextFrame, allBranchStarts);
                                 
                                 if (branchDialogues.length > 0) {
@@ -347,12 +350,14 @@
                                     }
                                     
                                     // 복사용 분기 추가 (중복 방지)
-                                    if (!alreadyProcessed) {
+                                    if (!alreadyProcessedBranch) {
+                                        processedBranches.add(branchKey);
+                                        
                                         let branchText = `\n${'_'.repeat(40)}\n\n`;
                                         if (isSingleChoice) {
                                             branchText += `[선택지의 분기: ${choiceText}]\n\n`;
                                         } else {
-                                            branchText += `[선택지 ${i + 1}의 분기: ${choiceText}]\n\n`;
+                                            branchText += `[선택지 ${choiceIndex}의 분기: ${choiceText}]\n\n`;
                                         }
                                         
                                         for (const bd of branchDialogues) {
@@ -372,17 +377,17 @@
                         }
                         html += '</div>';
                         
-                        // 처리 완료 표시
-                        processedChoices.add(choiceKey);
-                        
                         // 복사용: 분기 없는 선택지만 본문에 표시
-                        if (!hasBranch && !alreadyProcessed) {
+                        if (!hasBranch) {
+                            let copyChoiceIndex = 0;
                             for (let i = 0; i < choices.length; i++) {
                                 const choice = choices[i];
                                 const choiceText = choice.text || '';
                                 const flag = choice.flag_type || '';
                                 
                                 if (!choiceText) continue;
+                                
+                                copyChoiceIndex++;
                                 
                                 let label = '';
                                 if (flag === 'male_trainer') label = ' (남성 트레이너)';
@@ -391,7 +396,7 @@
                                 if (isSingleChoice) {
                                     copyText += `[선택지${label}] ${choiceText}\n`;
                                 } else {
-                                    copyText += `[선택지 ${i + 1}${label}] ${choiceText}\n`;
+                                    copyText += `[선택지 ${copyChoiceIndex}${label}] ${choiceText}\n`;
                                 }
                             }
                         }
