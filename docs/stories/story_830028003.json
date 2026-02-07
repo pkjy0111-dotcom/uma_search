@@ -1,0 +1,928 @@
+{
+  "story_id": "830028003",
+  "casts": [
+    0,
+    1067,
+    1068,
+    93999,
+    90001,
+    -1
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 24,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 24,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "レースを観に行った時のこと。\r どうやら、キタサンブラックも 出走するようだが……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 24,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 1067,
+          "speaker_name": "サトノダイヤモンド",
+          "text": "すみません！\r キタちゃんを見ていらっしゃいませんか？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 24,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 1067,
+          "speaker_name": "サトノダイヤモンド",
+          "text": "まだレース場にも来ていなくて……\r スタッフの方も探してくださって いるのですが……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 24,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 1067,
+          "speaker_name": "サトノダイヤモンド",
+          "text": "レース場で待ち合わせにしなければ\r よかった……ここに来る途中で、 もし、何かあったら……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 5,
+              "loop_ends_at_frame": -1,
+              "text": "外を探してくるよ",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 24,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 1067,
+          "speaker_name": "サトノダイヤモンド",
+          "text": "私も行きます！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 6,
+              "loop_ends_at_frame": -1,
+              "text": "君にはレースがあるだろう？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 6,
+              "loop_ends_at_frame": -1,
+              "text": "貴方にはレースがあるでしょう？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 24,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 1067,
+          "speaker_name": "サトノダイヤモンド",
+          "text": "っ、そうですね……。\r わかりました……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 24,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "サトノダイヤモンドをその場にとどめ、\r キタサンブラックを探しに行くことにした。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 33,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 1068,
+          "speaker_name": "キタサンブラック",
+          "text": "みなさーん！　諦めないで！\r もう1回いきますよー！　せーのっ！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 33,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "河川敷でキタサンブラックを見つけた。\r その手には綱が、そして綱の先には 川に浸かったトラックが繋がっている。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 33,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 1068,
+          "speaker_name": "キタサンブラック",
+          "text": "はぁ、はぁ……！\r もう少しで引き上げられるんだけど！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 11,
+              "loop_ends_at_frame": -1,
+              "text": "もうすぐレースの時間だぞ！",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 11,
+              "loop_ends_at_frame": -1,
+              "text": "もうすぐレースの時間だよ！",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 33,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 1068,
+          "speaker_name": "キタサンブラック",
+          "text": "えっ！？　もうそんな……！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 33,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 0,
+          "speaker_name": "おじさん",
+          "text": "君、レースに出るのか！？\r それなら早く行かないと！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 33,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 0,
+          "speaker_name": "トラックの運転手",
+          "text": "そうだ、あとは俺たちでどうにかする！\r 早く行ってくれ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 33,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 1068,
+          "speaker_name": "キタサンブラック",
+          "text": "いえ！　このトラックの積み荷、あと\r 1時間で届けなきゃいけないんですよね！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 33,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 1068,
+          "speaker_name": "キタサンブラック",
+          "text": "ギリギリまで手伝わせてください！\r レースに間に合うように戻りますから！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 16,
+              "loop_ends_at_frame": -1,
+              "text": "わかった。時間になったら言うぞ",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 16,
+              "loop_ends_at_frame": -1,
+              "text": "わかった。時間になったら言うよ",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 33,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 1068,
+          "speaker_name": "キタサンブラック",
+          "text": "はいっ！　ありがとうございますっ！\r じゃあもう1度……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 33,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "しかし、その後どれだけ粘っても\r 川の泥にはまったトラックは 動かなかった……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 33,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 19,
+          "character_id": 1068,
+          "speaker_name": "キタサンブラック",
+          "text": "あと、もうちょっと……なのに……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 19,
+              "loop_ends_at_frame": -1,
+              "text": "もう時間が……！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 33,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 20,
+          "character_id": 1068,
+          "speaker_name": "キタサンブラック",
+          "text": "そんな、ここまでなんて……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "20": {
+      "frame_id": 20,
+      "background_id": 33,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 21,
+          "character_id": 93999,
+          "speaker_name": "？？？",
+          "text": "……たし、も……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "21": {
+      "frame_id": 21,
+      "background_id": 33,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 22,
+          "character_id": 93999,
+          "speaker_name": "？？？",
+          "text": "私も手伝わせてください！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "22": {
+      "frame_id": 22,
+      "background_id": 33,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 23,
+          "character_id": 1068,
+          "speaker_name": "キタサンブラック",
+          "text": "ダイヤちゃん！？\r どうしてここに！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "23": {
+      "frame_id": 23,
+      "background_id": 33,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 24,
+          "character_id": 1067,
+          "speaker_name": "サトノダイヤモンド",
+          "text": "その話はあと！\r これを引き上げればいいんだよね？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "24": {
+      "frame_id": 24,
+      "background_id": 33,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 25,
+          "character_id": 0,
+          "speaker_name": "おじさん",
+          "text": "ウマ娘がもう1人……\r これなら、いけるかもしれない！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "25": {
+      "frame_id": 25,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 26,
+          "character_id": 1068,
+          "speaker_name": "キタサンブラック",
+          "text": "今度こそ引き上げられるはず……！\r みんな、行くよーっ！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "26": {
+      "frame_id": 26,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 27,
+          "character_id": 1068,
+          "speaker_name": "キタサンブラック",
+          "text": "わーっしょい！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 27,
+              "loop_ends_at_frame": -1,
+              "text": "わーっしょい！！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "27": {
+      "frame_id": 27,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 28,
+          "character_id": 1067,
+          "speaker_name": "サトノダイヤモンド",
+          "text": "わーっしょい！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "28": {
+      "frame_id": 28,
+      "background_id": 33,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 29,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "ウマ娘2人の力は大きかった――\r 川の泥にめり込んだタイヤが転がり、 ついにトラックを引き上げた！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "29": {
+      "frame_id": 29,
+      "background_id": 33,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 30,
+          "character_id": 0,
+          "speaker_name": "トラックの運転手",
+          "text": "うおおー！　これで配送時間に間に合う！\r ありがとう！　本当にありがとう！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "30": {
+      "frame_id": 30,
+      "background_id": 33,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 31,
+          "character_id": 1068,
+          "speaker_name": "キタサンブラック",
+          "text": "なんのなんの、困ってたらお互いさま！\r って、父さんの口癖なんで！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "31": {
+      "frame_id": 31,
+      "background_id": 33,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 32,
+          "character_id": 1067,
+          "speaker_name": "サトノダイヤモンド",
+          "text": "お助け成功だね、キタちゃん！",
+          "flag_type": "",
+          "flag": "chance_branch_root",
+          "choices": []
+        }
+      ]
+    },
+    "32": {
+      "frame_id": 32,
+      "background_id": 33,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 33,
+          "character_id": 1068,
+          "speaker_name": "キタサンブラック",
+          "text": "……ダイヤちゃん、ごめんね。\r 本番前に心配かけて。",
+          "flag_type": "",
+          "flag": "chance_branch_leaf",
+          "choices": []
+        }
+      ]
+    },
+    "33": {
+      "frame_id": 33,
+      "background_id": 33,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 34,
+          "character_id": 1067,
+          "speaker_name": "サトノダイヤモンド",
+          "text": "それこそお互いさま、でしょ？\r 私だって体調崩して心配かけたし。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "34": {
+      "frame_id": 34,
+      "background_id": 33,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 35,
+          "character_id": 1067,
+          "speaker_name": "サトノダイヤモンド",
+          "text": "それにね、キタちゃんがいないレースは\r 寂しいもの。私だって、一緒に走りたい。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "35": {
+      "frame_id": 35,
+      "background_id": 33,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 36,
+          "character_id": 1067,
+          "speaker_name": "サトノダイヤモンド",
+          "text": "今日を楽しみにしてたの、\r キタちゃんだけじゃないんだよ？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "36": {
+      "frame_id": 36,
+      "background_id": 33,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 37,
+          "character_id": 1068,
+          "speaker_name": "キタサンブラック",
+          "text": "ダイヤちゃん……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "37": {
+      "frame_id": 37,
+      "background_id": 33,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 38,
+          "character_id": 1068,
+          "speaker_name": "キタサンブラック",
+          "text": "嬉しい！　全力で戦おうね！\r 1番をダイヤちゃんと競いたいっ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "38": {
+      "frame_id": 38,
+      "background_id": 33,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 39,
+          "character_id": 1067,
+          "speaker_name": "サトノダイヤモンド",
+          "text": "指切りげんまん、ね！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "39": {
+      "frame_id": 39,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "青空の下、2人は駆け出した。\r ピンチを乗り越えて辿り着いた、晴れ舞台。 全力で戦うと誓った、レース場を目指して。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "40": {
+      "frame_id": 40,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 41,
+          "character_id": 1068,
+          "speaker_name": "キタサンブラック",
+          "text": "……ありがとね。\r ダイヤちゃんが来てくれて助かったよ！",
+          "flag_type": "",
+          "flag": "chance_branch_leaf",
+          "choices": []
+        }
+      ]
+    },
+    "41": {
+      "frame_id": 41,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 42,
+          "character_id": 1067,
+          "speaker_name": "サトノダイヤモンド",
+          "text": "ふふっ、本当にキタちゃんは無茶を\r するんだから～。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "42": {
+      "frame_id": 42,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 43,
+          "character_id": 1068,
+          "speaker_name": "キタサンブラック",
+          "text": "いやー、それを言ったらダイヤちゃんもだよ！\r その格好のままで！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "43": {
+      "frame_id": 43,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 44,
+          "character_id": 1067,
+          "speaker_name": "サトノダイヤモンド",
+          "text": "キタちゃんがピンチかもって思ったら、\r いてもたってもいられなかったの！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "44": {
+      "frame_id": 44,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 45,
+          "character_id": 1067,
+          "speaker_name": "サトノダイヤモンド",
+          "text": "……ふふっ、やっぱり\r 似たもの同士ね。私たち。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "45": {
+      "frame_id": 45,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 46,
+          "character_id": 1068,
+          "speaker_name": "キタサンブラック",
+          "text": "うん。ダイヤちゃんがピンチの時は、\r 絶対あたしが駆けつけるよ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "46": {
+      "frame_id": 46,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "固い友情を誓い、2人は駆けて行く。\r どんなレースを見せてくれるのだろうか。 期待で胸が高鳴ったのであった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "story_id": "501062715",
+  "casts": [
+    1062,
+    90001,
+    -1
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "マチカネタンホイザのトレーニングが\r 全て終わったところで――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 1062,
+          "speaker_name": "マチカネタンホイザ",
+          "text": "トレーナー！\r 今日はもうちょっと走りたいです！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 1062,
+          "speaker_name": "マチカネタンホイザ",
+          "text": "フクちゃん先輩に\r 今日の私のラッキーアイテムは 『月』って言われたんですよ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 1062,
+          "speaker_name": "マチカネタンホイザ",
+          "text": "夜に走ったら、すんごいパワーを\r もらえるのかもしれません！ 普通な私を超越するビッグチャンスかも！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 5,
+              "loop_ends_at_frame": -1,
+              "text": "ステップアップ目指して頑張って！",
+              "flag_type": "",
+              "flag": ""
+            },
+            {
+              "next_frame": 8,
+              "loop_ends_at_frame": -1,
+              "text": "オーバーワークになるからダメ",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 1062,
+          "speaker_name": "マチカネタンホイザ",
+          "text": "はい！　月の光でパワーアップしてくるので、\r 楽しみにしててくださいね！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 1062,
+          "speaker_name": "マチカネタンホイザ",
+          "text": "それじゃあ、行ってきま～す！\r むっふっふ～♪",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "マチカネタンホイザはこの日、\r 夜になっても嬉しそうに走り続けたのだった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 1062,
+          "speaker_name": "マチカネタンホイザ",
+          "text": "むぅ……。でも月の光のパワーが……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 9,
+              "loop_ends_at_frame": -1,
+              "text": "月を見るだけじゃダメなのか？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 9,
+              "loop_ends_at_frame": -1,
+              "text": "月を見るだけじゃダメなの？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 1062,
+          "speaker_name": "マチカネタンホイザ",
+          "text": "――あ、たしかに。\r 別に走れとは言われてないですね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 1062,
+          "speaker_name": "マチカネタンホイザ",
+          "text": "それじゃあ今日はお部屋で月を見て、\r いっぱいパワーをもらうことにします！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "マチカネタンホイザはそう言って、\r 寮に戻っていった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

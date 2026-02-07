@@ -1,0 +1,744 @@
+{
+  "story_id": "830071003",
+  "casts": [
+    0,
+    1064,
+    1065,
+    93998,
+    90001,
+    -1
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 64,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 64,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "今日はダイタクヘリオスと\r メジロパーマーと共に、 ライブ会場に向かっている。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 6,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "先日の『日本テンアゲ計画』改め\r 『世界テンアゲ計画』で、人気海外歌手 N.B.のライブにゲスト参加すると決まった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 6,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "『世界テンアゲ計画』メンバーとして、\r 付き添うことにしたのである――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 64,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 1065,
+          "speaker_name": "ダイタクヘリオス",
+          "text": "マジぶち上げんの楽しみー！！\r あ～、はやく会場着かないかな～！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 64,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 1065,
+          "speaker_name": "ダイタクヘリオス",
+          "text": "って、渋滞ー！？\r 会場まで続いてんの！？　がおん！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 64,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 1064,
+          "speaker_name": "メジロパーマー",
+          "text": "やっばいね……トレーナーさん、\r ライブの責任者さん、電話でなんて？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 7,
+              "loop_ends_at_frame": -1,
+              "text": "間に合わなければ、出番は削るって……",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 64,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 1065,
+          "speaker_name": "ダイタクヘリオス",
+          "text": "ぴえーーん、マジか～～～……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 64,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 1065,
+          "speaker_name": "ダイタクヘリオス",
+          "text": "んじゃ、走っか！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 9,
+              "loop_ends_at_frame": -1,
+              "text": "会場まで！？遠いぞ！？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 9,
+              "loop_ends_at_frame": -1,
+              "text": "会場まで！？遠いよ！？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 64,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 1065,
+          "speaker_name": "ダイタクヘリオス",
+          "text": "までまで。笑顔みんなに届けなきゃ\r ヤバたにえんだし？　走るっきゃなくねー！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 64,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 1064,
+          "speaker_name": "メジロパーマー",
+          "text": "そう来ると思った！\r ほらほら、トレーナーさんも行くよ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 11,
+              "loop_ends_at_frame": -1,
+              "text": "……わかった、行こう！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 64,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 1065,
+          "speaker_name": "ダイタクヘリオス",
+          "text": "うぇ～～～～い☆\r ヒアウィーゴー☆",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 28,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 1065,
+          "speaker_name": "ダイタクヘリオス",
+          "text": "あっはは！　マジ道なげーっ！\r 走れ走れパーマー！ プロデューサーもいける～！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 28,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 1064,
+          "speaker_name": "メジロパーマー",
+          "text": "はっ、モチ……だっての！\r トレーナーさん、合わせるから無理しないで！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 14,
+              "loop_ends_at_frame": -1,
+              "text": "あ、あり……がとう……",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 28,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 0,
+          "speaker_name": "通行人",
+          "text": "あ、あの！　『テンアゲチャンネル』の\r プロデューサーですよね？　応援してます！ よければ私の自転車使ってください！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 28,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 1065,
+          "speaker_name": "ダイタクヘリオス",
+          "text": "おおっ、マジてんくすー！\r プロデューサーが救われたわ！！ あ、今日伝説つくっから、マジヨロたん！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 26,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 1065,
+          "speaker_name": "ダイタクヘリオス",
+          "text": "ぜはっ、ひー、ふー、ほー……\r けほっ、けほぉ……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 26,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 1064,
+          "speaker_name": "メジロパーマー",
+          "text": "間に、合っ……けほっ……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 26,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 19,
+          "character_id": 0,
+          "speaker_name": "ライブ責任者",
+          "text": "大丈夫ですか！？\r とりあえず息を整えてください！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 26,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 20,
+          "character_id": 0,
+          "speaker_name": "ライブ責任者",
+          "text": "あ……あの！　ライブ本当に大丈夫ですか？\r 体力的に、きつそうに見えるというか……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "20": {
+      "frame_id": 20,
+      "background_id": 26,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 21,
+          "character_id": 1065,
+          "speaker_name": "ダイタクヘリオス",
+          "text": "あはっ、心配ありがと！　でも――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "21": {
+      "frame_id": 21,
+      "background_id": 26,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 22,
+          "character_id": 1065,
+          "speaker_name": "ダイタクヘリオス",
+          "text": "ウチ、やれる！　やりたい！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "22": {
+      "frame_id": 22,
+      "background_id": 26,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 23,
+          "character_id": 1065,
+          "speaker_name": "ダイタクヘリオス",
+          "text": "ウチの笑顔で元気になるヒトがいんだって。\r 見ているだけで、元気になってくれるって。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "23": {
+      "frame_id": 23,
+      "background_id": 26,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 24,
+          "character_id": 1065,
+          "speaker_name": "ダイタクヘリオス",
+          "text": "そんなの言われたらね！\r とびっきりの笑顔見せて、 テンアゲしてあげたいじゃんッ！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 24,
+              "loop_ends_at_frame": -1,
+              "text": "ヘリオス……",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "24": {
+      "frame_id": 24,
+      "background_id": 26,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 25,
+          "character_id": 1065,
+          "speaker_name": "ダイタクヘリオス",
+          "text": "それにこちとらウマ娘！\r 全力疾走のあとのライブなんて ヨユーだよねっ☆",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "25": {
+      "frame_id": 25,
+      "background_id": 26,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 26,
+          "character_id": 1064,
+          "speaker_name": "メジロパーマー",
+          "text": "……だね、いっちょやってやろう！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "26": {
+      "frame_id": 26,
+      "background_id": 26,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 27,
+          "character_id": 0,
+          "speaker_name": "N.B.",
+          "text": "That’s the spirit! See?\r Just look at them.",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "27": {
+      "frame_id": 27,
+      "background_id": 26,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 28,
+          "character_id": 0,
+          "speaker_name": "ライブ責任者",
+          "text": "N.B.……ふふっ、そうね。\r つらそうなんかじゃない…… あの子の笑顔、眩しいくらい輝いているわ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "28": {
+      "frame_id": 28,
+      "background_id": 26,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 29,
+          "character_id": 0,
+          "speaker_name": "N.B.",
+          "text": "Come on, girls!\r It’s showtime!",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "29": {
+      "frame_id": 29,
+      "background_id": 26,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 30,
+          "character_id": 93998,
+          "speaker_name": "2人",
+          "text": "Yes!\r イッツ・ショーターイム！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "30": {
+      "frame_id": 30,
+      "background_id": 26,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 31,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "……笑顔でテンアゲさせたい。\r そんな思いで走っているから、彼女の笑顔は みんなを元気にさせるのかもしれない。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "31": {
+      "frame_id": 31,
+      "background_id": 106,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 32,
+          "character_id": 1065,
+          "speaker_name": "ダイタクヘリオス",
+          "text": "DJヘリオスいっちゃうよー！\r エヴィバディ・カマーン！！ Say, Ho-！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "32": {
+      "frame_id": 32,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 33,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "ダイタクヘリオスは疲れを感じさせない\r 笑顔で、無事にDJとしての役目を果たした。",
+          "flag_type": "",
+          "flag": "chance_branch_root",
+          "choices": []
+        }
+      ]
+    },
+    "33": {
+      "frame_id": 33,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 34,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "その様子は衛星放送を通じて、\r 海外に紹介され話題となったのだった。 『太陽のごとき笑顔』、と――",
+          "flag_type": "",
+          "flag": "chance_branch_leaf",
+          "choices": []
+        }
+      ]
+    },
+    "34": {
+      "frame_id": 34,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 1065,
+          "speaker_name": "ダイタクヘリオス",
+          "text": "衛星？　海外？　これはもう……\r 宇宙までいったんじゃねー！？ 神ーーーーーー！！！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "35": {
+      "frame_id": 35,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 36,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "会場に向かうまでの全力疾走の様子が\r 拡散され、ライブと合わせて話題に なったのだった。",
+          "flag_type": "",
+          "flag": "chance_branch_leaf",
+          "choices": []
+        }
+      ]
+    },
+    "36": {
+      "frame_id": 36,
+      "background_id": 6,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 37,
+          "character_id": 1065,
+          "speaker_name": "ダイタクヘリオス",
+          "text": "見て見て！　見てくれた人が笑ったーって！\r これはもー、テンアゲ成功っしょ！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "37": {
+      "frame_id": 37,
+      "background_id": 6,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 0,
+          "speaker_name": "2人",
+          "text": "うぇ～～い☆",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

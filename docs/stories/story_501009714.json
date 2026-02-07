@@ -1,0 +1,532 @@
+{
+  "story_id": "501009714",
+  "casts": [
+    90001,
+    1009,
+    -1
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "トレーニング中、ダイワスカーレットが\r ケガをしたので急いで保健室に連れていった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "……その、世話かけたわね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "でも、もう大丈夫よ。\r 横になってる時間がもったいないわ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "“1番”を目指すならなおさら。\r もっとトレーニングを重ねないと――",
+          "flag_type": "male_trainer",
+          "flag": "male_trainer",
+          "choices": [
+            {
+              "next_frame": 6,
+              "loop_ends_at_frame": -1,
+              "text": "……1番になるためにもしっかり治そう",
+              "flag_type": "",
+              "flag": ""
+            },
+            {
+              "next_frame": 11,
+              "loop_ends_at_frame": -1,
+              "text": "その気持ちがあればすぐに治るな！",
+              "flag_type": "male_trainer",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 11,
+              "loop_ends_at_frame": -1,
+              "text": "その気持ちがあればすぐに治るね！",
+              "flag_type": "female_trainer",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "“1番”を目指すならなおさら。\r もっとトレーニングを重ねないと――",
+          "flag_type": "female_trainer",
+          "flag": "female_trainer",
+          "choices": [
+            {
+              "next_frame": 6,
+              "loop_ends_at_frame": -1,
+              "text": "……1番になるためにもしっかり治そう",
+              "flag_type": "",
+              "flag": ""
+            },
+            {
+              "next_frame": 11,
+              "loop_ends_at_frame": -1,
+              "text": "その気持ちがあればすぐに治るな！",
+              "flag_type": "male_trainer",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 11,
+              "loop_ends_at_frame": -1,
+              "text": "その気持ちがあればすぐに治るね！",
+              "flag_type": "female_trainer",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "……余計な心配しないで。\r ケガした本人が平気って言ってるのよ？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 7,
+              "loop_ends_at_frame": -1,
+              "text": "全力が出せなければ、練習しても意味がない",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "……それは……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "……アンタの言う通りね。\r 負荷がかけづらい中で運動しても意味がない。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "……はぁ。バカね、アタシ……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "その日は大事をとってダイワスカーレットを\r 休ませることにしたのだった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "ふふっ、ええ！\r アンタもよくわかってるじゃない。",
+          "flag_type": "chance_branch_root",
+          "flag": "chance_branch_root",
+          "choices": []
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "それじゃあ、今すぐ\r トレーニングを再開するわよ！",
+          "flag_type": "chance_branch_leaf",
+          "flag": "chance_branch_leaf",
+          "choices": [
+            {
+              "next_frame": 13,
+              "loop_ends_at_frame": -1,
+              "text": "それはさすがに無茶だ！",
+              "flag_type": "male_trainer",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 13,
+              "loop_ends_at_frame": -1,
+              "text": "それはさすがに無茶だよ！",
+              "flag_type": "female_trainer",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "多少の無茶は承知の上だわ。\r 生ぬるいことは言わないでよね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "ほら、はやく――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "きゃ……ッ！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 16,
+              "loop_ends_at_frame": -1,
+              "text": "スカーレット！？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "制⽌を振り切ってトレーニングを再開しよう\r とした彼⼥だったが、結局また倒れてしまい 休養に数⽇を要してしまったのだった……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "そうと決まったら、さっさと\r ケガを治すことに集中しましょ。",
+          "flag_type": "chance_branch_leaf",
+          "flag": "chance_branch_leaf",
+          "choices": []
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 19,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "まずは患部を冷やして――……って。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 20,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "……なによ、その顔。\r アタシ、変なこと言ってないでしょ？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "20": {
+      "frame_id": 20,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 21,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "1分1秒でも、トレーニングをするために。\r “1番”を目指すならケガへの対処も、 十分にしてこそだわ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 21,
+              "loop_ends_at_frame": -1,
+              "text": "さすがだな",
+              "flag_type": "male_trainer",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 21,
+              "loop_ends_at_frame": -1,
+              "text": "さすがだね",
+              "flag_type": "female_trainer",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "21": {
+      "frame_id": 21,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 22,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "ふん、『さすが』じゃないの。\r 『それでこそ』ダイワスカーレット、でしょ？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "22": {
+      "frame_id": 22,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 23,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "アタシは1番になるウマ娘なんだから！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "23": {
+      "frame_id": 23,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "後日、ダイワスカーレットは\r 無事にトレーニングを再開したのであった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

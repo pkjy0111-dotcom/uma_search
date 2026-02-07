@@ -1,0 +1,538 @@
+{
+  "story_id": "400001043",
+  "casts": [
+    2001,
+    90001,
+    9004,
+    -1
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 2001,
+          "speaker_name": "ハッピーミーク",
+          "text": "……勝負、しませんか。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 2,
+              "loop_ends_at_frame": -1,
+              "text": "勝負？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 9004,
+          "speaker_name": "桐生院トレーナー",
+          "text": "はい……！ 私からも、ぜひお願いしたいです。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 9004,
+          "speaker_name": "桐生院トレーナー",
+          "text": "さっき、ミークと話していたんです。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 9004,
+          "speaker_name": "桐生院トレーナー",
+          "text": "いい合同トレーニングができたので、 この流れで何か、競い合うことができれば お互いにいい刺激になるんじゃないかって。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 2001,
+          "speaker_name": "ハッピーミーク",
+          "text": "……お願い、します。 ……むん。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 6,
+              "loop_ends_at_frame": -1,
+              "text": "もちろん、ぜひ",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "種目は特に問わない、ということだったので こちらで選ばせてもらうことにした。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 7,
+              "loop_ends_at_frame": -1,
+              "text": "スピードで勝負！",
+              "flag_type": "",
+              "flag": ""
+            },
+            {
+              "next_frame": 8,
+              "loop_ends_at_frame": -1,
+              "text": "スタミナで勝負！",
+              "flag_type": "",
+              "flag": ""
+            },
+            {
+              "next_frame": 9,
+              "loop_ends_at_frame": -1,
+              "text": "パワーで勝負！",
+              "flag_type": "",
+              "flag": ""
+            },
+            {
+              "next_frame": 10,
+              "loop_ends_at_frame": -1,
+              "text": "根性で勝負！",
+              "flag_type": "",
+              "flag": ""
+            },
+            {
+              "next_frame": 11,
+              "loop_ends_at_frame": -1,
+              "text": "賢さで勝負！",
+              "flag_type": "",
+              "flag": ""
+            },
+            {
+              "next_frame": 12,
+              "loop_ends_at_frame": -1,
+              "text": "体力で勝負！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 2001,
+          "speaker_name": "ハッピーミーク",
+          "text": "……スピード。 ……私、風になります。……びゅん。",
+          "flag_type": "",
+          "flag": "chance_branch_root",
+          "choices": []
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 2001,
+          "speaker_name": "ハッピーミーク",
+          "text": "……スタミナ。 ……たくさん、たくさん、走るぞ。おー。",
+          "flag_type": "",
+          "flag": "chance_branch_root",
+          "choices": []
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 2001,
+          "speaker_name": "ハッピーミーク",
+          "text": "……パワー。 ……筋肉モリモリ、全開でいきます。",
+          "flag_type": "",
+          "flag": "chance_branch_root",
+          "choices": []
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 2001,
+          "speaker_name": "ハッピーミーク",
+          "text": "……根性勝負。 ……がんばれます。 ……トレーナーの応援、あるので。",
+          "flag_type": "",
+          "flag": "chance_branch_root",
+          "choices": []
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 2001,
+          "speaker_name": "ハッピーミーク",
+          "text": "……賢さ勝負。 ……私の脳みそパワー、みせます。",
+          "flag_type": "",
+          "flag": "chance_branch_root",
+          "choices": []
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 2001,
+          "speaker_name": "ハッピーミーク",
+          "text": "……体力勝負。 ……大丈夫、自信あります。",
+          "flag_type": "",
+          "flag": "chance_branch_root",
+          "choices": []
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 2001,
+          "speaker_name": "ハッピーミーク",
+          "text": "……負け。むむ。",
+          "flag_type": "",
+          "flag": "chance_branch_leaf",
+          "choices": []
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 9004,
+          "speaker_name": "桐生院トレーナー",
+          "text": "でもミーク、よく頑張っていましたよ。 データも取れましたし…… また明日から、一緒に頑張りましょう！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 9004,
+          "speaker_name": "桐生院トレーナー",
+          "text": "お手合わせありがとうございました！ また次回、ぜひよろしくお願いします！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "勝負に勝ち、満足げな様子の <chrname>。 次の勝負も楽しみだ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 2001,
+          "speaker_name": "ハッピーミーク",
+          "text": "……む、むむむ～……。 ……ごめんなさい、トレーナー。",
+          "flag_type": "",
+          "flag": "chance_branch_leaf",
+          "choices": []
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 19,
+          "character_id": 9004,
+          "speaker_name": "桐生院トレーナー",
+          "text": "ミーク……！　いえ、私の力不足でした！ 次こそ、必ず……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 20,
+          "character_id": 9004,
+          "speaker_name": "桐生院トレーナー",
+          "text": "お手合わせありがとうございました……！ また、ぜひ……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "20": {
+      "frame_id": 20,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 21,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "去り行くハッピーミークと、 桐生院トレーナーの目には 熱い炎が宿っていた……ようにみえた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "21": {
+      "frame_id": 21,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "勝利が続き、満足げな様子の <chrname>。 次の勝負に向け、さらに鍛えていきたい！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "22": {
+      "frame_id": 22,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 23,
+          "character_id": 2001,
+          "speaker_name": "ハッピーミーク",
+          "text": "……勝てた。やった。 ……ありがとう、トレーナー。",
+          "flag_type": "",
+          "flag": "chance_branch_leaf",
+          "choices": []
+        }
+      ]
+    },
+    "23": {
+      "frame_id": 23,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 24,
+          "character_id": 9004,
+          "speaker_name": "桐生院トレーナー",
+          "text": "いえ、全部ミークの頑張りですよ。 ……今日はパン屋さんへ寄って 帰りましょうか。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "24": {
+      "frame_id": 24,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 25,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "ハッピーミークは強かった……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "25": {
+      "frame_id": 25,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "肩を落とす<chrname>だった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

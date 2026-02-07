@@ -1,0 +1,745 @@
+{
+  "story_id": "041046005",
+  "casts": [
+    90314,
+    90316,
+    90001,
+    1046,
+    90107,
+    -1
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 2,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 2,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 1046,
+          "speaker_name": "スマートファルコン",
+          "text": "――トレーナーさん！　聞いて聞いてっ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 2,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "ある日、学園内を歩いていると\r スマートファルコンが笑顔でこちらに駆けてきた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 2,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 1046,
+          "speaker_name": "スマートファルコン",
+          "text": "ファル子ね、\r 今度、競技大会でチアダンスやることになったんだ☆",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 4,
+              "loop_ends_at_frame": -1,
+              "text": "競技大会っていうと……",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 2,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "『種目別競技大会』。年2回開催されるトレセン学園内のレースで、\r 毎回大勢の観客が集まる一大行事となっている。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 2,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 1046,
+          "speaker_name": "スマートファルコン",
+          "text": "――そうっ！\r 学園の外からもたっくさんお客さんが来る、あの競技大会！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 2,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 1046,
+          "speaker_name": "スマートファルコン",
+          "text": "たくさんのお客さんの前で踊ったら、\r みんなファル子のファンになってくれるかな～、えへへっ♪",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "しかし、夕方になって再び彼女を見つけた時……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 1046,
+          "speaker_name": "スマートファルコン",
+          "text": "ごーごー、ふぁいと、おー……。\r れっつごー、ふぁいと、おー……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 9,
+              "loop_ends_at_frame": -1,
+              "text": "（何かあったのか……？）",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 9,
+              "loop_ends_at_frame": -1,
+              "text": "（何かあったのかな……？）",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "声をかけようとしたが、\r 彼女が別のウマ娘と話していることに気がついた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 1046,
+          "speaker_name": "スマートファルコン",
+          "text": "はぁ～……チアダンス、踊りたかったね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 90107,
+          "speaker_name": "ダート適性のウマ娘",
+          "text": "はい……まさか、\r 旗を振る役になっちゃうなんて……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 90107,
+          "speaker_name": "ダート適性のウマ娘",
+          "text": "私、ダート適性とか、旗振り適性とか……そんなのばっかり。\r 注目してもらおうにも、これじゃ……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "……どうやら彼女たちは、応援団の中でも\r ダンサーではなく旗手に選ばれてしまったらしい。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 14,
+              "loop_ends_at_frame": -1,
+              "text": "（なんて声をかけたら……）",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "励ます言葉を探していた、そんな時――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 1046,
+          "speaker_name": "スマートファルコン",
+          "text": "……でも、決まっちゃった以上は頑張ってやらなくちゃ。\r とりあえず練習してみようよ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 1046,
+          "speaker_name": "スマートファルコン",
+          "text": "これをこうして……こうっ！\r それから……こうして、こうっ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "夕空に旗がなびく。ポールの重さに反してその様は軽やかだ。\r 彼女たちが旗手に選ばれた理由が、なんとなくわかった気がした。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 19,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "旗振りの練習が終わり、\r 彼女が1人になった頃、声をかけることにした。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 20,
+          "character_id": 1046,
+          "speaker_name": "スマートファルコン",
+          "text": "ふぅ～、結構力いったなぁ……。\r もうヘトヘトだよ……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 20,
+              "loop_ends_at_frame": -1,
+              "text": "うまく振れてたぞ",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 20,
+              "loop_ends_at_frame": -1,
+              "text": "うまく振れてたよ",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "20": {
+      "frame_id": 20,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 21,
+          "character_id": 1046,
+          "speaker_name": "スマートファルコン",
+          "text": "――わぁっ！　トレーナーさん！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "21": {
+      "frame_id": 21,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 22,
+          "character_id": 1046,
+          "speaker_name": "スマートファルコン",
+          "text": "うぅ～……本当はキラキラキュートなファル子のダンス、\r 見てもらいたかったんだけどな～……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 22,
+              "loop_ends_at_frame": -1,
+              "text": "でも、旗もやりがいがありそう",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "22": {
+      "frame_id": 22,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 23,
+          "character_id": 1046,
+          "speaker_name": "スマートファルコン",
+          "text": "……そうかな？\r 旗でも『素敵だな』って思ってもらえるかな？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "23": {
+      "frame_id": 23,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 24,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "――少しの不安を抱きつつ、迎えた競技大会当日。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "24": {
+      "frame_id": 24,
+      "background_id": 74,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 25,
+          "character_id": 1046,
+          "speaker_name": "スマートファルコン",
+          "text": "ゴー、ゴー！　ファイト、オー！\r レッツゴー！　ファイト、オーッ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "25": {
+      "frame_id": 25,
+      "background_id": 74,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 26,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "華やかなダンサーたちの横で旗を振るスマートファルコン。\r 中盤で旗手がセンターの配置になると、彼女はその機会を逃さず――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "26": {
+      "frame_id": 26,
+      "background_id": 74,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 27,
+          "character_id": 1046,
+          "speaker_name": "スマートファルコン",
+          "text": "ゴー、ゴー！！　ファイト、オーーーッ！！！！\r レッツゴー！！　ファイト、オーーーーッ！！！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "27": {
+      "frame_id": 27,
+      "background_id": 74,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 28,
+          "character_id": 90316,
+          "speaker_name": "観客A",
+          "text": "すごい、あの旗の子……！\r めちゃくちゃ気合い入ってるよ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "28": {
+      "frame_id": 28,
+      "background_id": 74,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 29,
+          "character_id": 90314,
+          "speaker_name": "観客B",
+          "text": "ああ、あの旗の力強いなびき方……！\r まるで旗と体が一体化してるみたいだ……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 29,
+              "loop_ends_at_frame": -1,
+              "text": "（よし、いい感じだぞ……！）",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 29,
+              "loop_ends_at_frame": -1,
+              "text": "（よし、いい感じだよ……！）",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "29": {
+      "frame_id": 29,
+      "background_id": 74,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 30,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "……と、思ったのだが。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "30": {
+      "frame_id": 30,
+      "background_id": 74,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 31,
+          "character_id": 90314,
+          "speaker_name": "観客B",
+          "text": "おおーっ！　やっぱダンサーもすげーな！\r 見ろよ、あんな綺麗なピラミッド、普通できないって！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "31": {
+      "frame_id": 31,
+      "background_id": 74,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 32,
+          "character_id": 90316,
+          "speaker_name": "観客A",
+          "text": "わぁっ、ホントだ～！　みんな素敵な笑顔！\r かっこいいのに可愛くて、目が離せなくなっちゃう～♪",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "32": {
+      "frame_id": 32,
+      "background_id": 1,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 33,
+          "character_id": 1046,
+          "speaker_name": "スマートファルコン",
+          "text": "はぁ～……『旗のなびき方がすごく綺麗で、\r ダンサーが引き立ってました！』って感想もらっちゃった……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "33": {
+      "frame_id": 33,
+      "background_id": 1,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 34,
+          "character_id": 1046,
+          "speaker_name": "スマートファルコン",
+          "text": "……やっぱり、ダンサーには勝てなかったみたい。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 34,
+              "loop_ends_at_frame": -1,
+              "text": "頑張ってるのは伝わってきたぞ！",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 34,
+              "loop_ends_at_frame": -1,
+              "text": "頑張ってるのは伝わってきたよ！",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "34": {
+      "frame_id": 34,
+      "background_id": 1,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 35,
+          "character_id": 1046,
+          "speaker_name": "スマートファルコン",
+          "text": "でもでも、顔はきっと覚えてもらえてない！\r 覚えてもらってたとしたら、旗の絵柄くらいだよ～～……！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "35": {
+      "frame_id": 35,
+      "background_id": 95,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "頑張っても、すぐに結果がついてくるとは限らないようだ。\r トップウマドルの座はまだ遠いかもしれない……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

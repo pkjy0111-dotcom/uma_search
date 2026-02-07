@@ -1,0 +1,123 @@
+{
+  "story_id": "501084105",
+  "casts": [
+    90001,
+    1084,
+    -1
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 40,
+      "sub_background_id": 2110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 40,
+      "sub_background_id": 2110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 1084,
+          "speaker_name": "タニノギムレット",
+          "text": "ククッ。心躍るぞ……！ 何せ今年の夏合宿は 気兼ねなく全てを解放できるのだからな！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 2,
+              "loop_ends_at_frame": -1,
+              "text": "……そうだね、去年とは違う",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 40,
+      "sub_background_id": 2110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "それが、とても嬉しく思える自分がいる。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 40,
+      "sub_background_id": 2110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 1084,
+          "speaker_name": "タニノギムレット",
+          "text": "存分に灼熱に身を委ねるとしよう。 そして、極限まで我が身を研ぎ澄ますぞ！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 4,
+              "loop_ends_at_frame": -1,
+              "text": "のぞむところだ！",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 4,
+              "loop_ends_at_frame": -1,
+              "text": "のぞむところだよ！",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 40,
+      "sub_background_id": 2110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "2度目の『天皇賞（秋）』に向けた夏合宿が、 こうして始まったのだった！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

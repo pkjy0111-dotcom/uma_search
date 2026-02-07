@@ -1,0 +1,347 @@
+{
+  "story_id": "501102507",
+  "casts": [
+    90001,
+    -1,
+    1102
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 2,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 2,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "中央広場を歩いていると、 サウンズオブアースの姿を見つけた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 2,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 1102,
+          "speaker_name": "サウンズオブアース",
+          "text": "どれどれ…… これは……こうかな？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 2,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 1102,
+          "speaker_name": "サウンズオブアース",
+          "text": "……――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 2,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 1102,
+          "speaker_name": "サウンズオブアース",
+          "text": "ふふ、ははっ、 そうか……君はこう感じてくれたんだね！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 2,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 1102,
+          "speaker_name": "サウンズオブアース",
+          "text": "グラッツィエ！ 伝わったよ、君のコッモツィオーネ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 6,
+              "loop_ends_at_frame": -1,
+              "text": "何してるんだ？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 6,
+              "loop_ends_at_frame": -1,
+              "text": "何してるの？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 2,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "手紙を読んで、なぜかヴァイオリンを 弾いているサウンズオブアース。 一体どういうことなんだろう……？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 2,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 1102,
+          "speaker_name": "サウンズオブアース",
+          "text": "おっと、好奇心旺盛なタンバリーノ。 気になるかい？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 2,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 1102,
+          "speaker_name": "サウンズオブアース",
+          "text": "ふふ……実は私を慕うアモーレから こんなファンレターが届いてね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 2,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "サウンズオブアースが自身に届いた ファンレターを見せてくれた。そこには―― 五線譜に手書きで音符が書き込まれている。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 10,
+              "loop_ends_at_frame": -1,
+              "text": "が、楽譜？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 2,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 1102,
+          "speaker_name": "サウンズオブアース",
+          "text": "――スィ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 2,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 1102,
+          "speaker_name": "サウンズオブアース",
+          "text": "このアモーレは、私の走りに 音色を感じてくれたようでね――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 2,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 1102,
+          "speaker_name": "サウンズオブアース",
+          "text": "コッモツィオーネの赴くまま、 この楽譜を書き上げてくれたそうだよ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 2,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "なるほど――と頷きつつ、 1つ言えることがあった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 14,
+              "loop_ends_at_frame": -1,
+              "text": "（ファンも独特だなあ……）",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 2,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 1102,
+          "speaker_name": "サウンズオブアース",
+          "text": "ああ、アモーレのおかげで私の中にも 新しいメロディーアが生まれてきたよ……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 2,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 1102,
+          "speaker_name": "サウンズオブアース",
+          "text": "パッショーネの赴くままに―― いざ、スオニアーモ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 2,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "レースに音楽を見出すサウンズオブアース、 彼女の走りに音楽を見出すファン―― 特殊ではあるが、いい関係なのかもしれない。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

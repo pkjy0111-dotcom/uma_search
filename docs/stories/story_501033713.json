@@ -1,0 +1,435 @@
+{
+  "story_id": "501033713",
+  "casts": [
+    1033,
+    90001,
+    -1
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 1033,
+          "speaker_name": "アドマイヤベガ",
+          "text": "……だから、ちょっと足をひねっただけ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 1033,
+          "speaker_name": "アドマイヤベガ",
+          "text": "わざわざ保健室まで\r ついてこなくてもいいのに。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 1033,
+          "speaker_name": "アドマイヤベガ",
+          "text": "もう問題ないわ。\r さあ、メニューの続きをしないと。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 4,
+              "loop_ends_at_frame": -1,
+              "text": "トレーニングを再開するのか？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 4,
+              "loop_ends_at_frame": -1,
+              "text": "トレーニングを再開するの？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 1033,
+          "speaker_name": "アドマイヤベガ",
+          "text": "ゆっくり休んでいる時間はないの。\r 走らないといけないから……私は。",
+          "flag_type": "",
+          "flag": "male_trainer",
+          "choices": [
+            {
+              "next_frame": 6,
+              "loop_ends_at_frame": -1,
+              "text": "焦りに流されないことも強さだよ",
+              "flag_type": "",
+              "flag": ""
+            },
+            {
+              "next_frame": 10,
+              "loop_ends_at_frame": -1,
+              "text": "君らしいな",
+              "flag_type": "",
+              "flag": "male_trainer+chance_branch_root"
+            },
+            {
+              "next_frame": 10,
+              "loop_ends_at_frame": -1,
+              "text": "貴方らしいね",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 1033,
+          "speaker_name": "アドマイヤベガ",
+          "text": "ゆっくり休んでいる時間はないの。\r 走らないといけないから……私は。",
+          "flag_type": "",
+          "flag": "female_trainer",
+          "choices": [
+            {
+              "next_frame": 6,
+              "loop_ends_at_frame": -1,
+              "text": "焦りに流されないことも強さだよ",
+              "flag_type": "",
+              "flag": ""
+            },
+            {
+              "next_frame": 10,
+              "loop_ends_at_frame": -1,
+              "text": "君らしいな",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 10,
+              "loop_ends_at_frame": -1,
+              "text": "貴方らしいね",
+              "flag_type": "",
+              "flag": "female_trainer+chance_branch_root"
+            }
+          ]
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 1033,
+          "speaker_name": "アドマイヤベガ",
+          "text": "焦りに、流されない……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 7,
+              "loop_ends_at_frame": -1,
+              "text": "今はケガが治るのを待とう",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 1033,
+          "speaker_name": "アドマイヤベガ",
+          "text": "はぁ……わかったわ。\r ひとまずは、安静にしておく。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 1033,
+          "speaker_name": "アドマイヤベガ",
+          "text": "一応、あなたはトレーナーだし。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "渋々とだが、お願いを聞いてくれた\r アドマイヤベガなのだった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 1033,
+          "speaker_name": "アドマイヤベガ",
+          "text": "……痛みも軽いし、\r 動くのだって――",
+          "flag_type": "",
+          "flag": "chance_branch_leaf",
+          "choices": []
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 1033,
+          "speaker_name": "アドマイヤベガ",
+          "text": "うっ……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 12,
+              "loop_ends_at_frame": -1,
+              "text": "やっぱり保健室に戻ろう",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 1033,
+          "speaker_name": "アドマイヤベガ",
+          "text": "…………。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "気落ちしたアドマイヤベガを連れて\r 保健室に逆戻りすることに なってしまったのだった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 1033,
+          "speaker_name": "アドマイヤベガ",
+          "text": "……ふう。",
+          "flag_type": "",
+          "flag": "chance_branch_leaf",
+          "choices": [
+            {
+              "next_frame": 15,
+              "loop_ends_at_frame": -1,
+              "text": "痛みはない？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 1033,
+          "speaker_name": "アドマイヤベガ",
+          "text": "問題ないわ。\r もともと大したケガじゃないから。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 1033,
+          "speaker_name": "アドマイヤベガ",
+          "text": "……そんなに見てなくても大丈夫だから。\r 練習に集中できない。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 1033,
+          "speaker_name": "アドマイヤベガ",
+          "text": "それじゃあ、行くから。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "その後、アドマイヤベガは\r ケガに支障のない範囲で トレーニングを続けたのだった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

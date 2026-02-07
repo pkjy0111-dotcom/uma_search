@@ -1,0 +1,982 @@
+{
+  "story_id": "501044520",
+  "casts": [
+    1024,
+    0,
+    9002,
+    93999,
+    90001,
+    1044,
+    -1,
+    90103,
+    90104,
+    1022
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 6,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 6,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 90103,
+          "speaker_name": "ウマ娘A",
+          "text": "それホント？ 学園の七不思議的なヤツ？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 6,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 90104,
+          "speaker_name": "ウマ娘B",
+          "text": "私も聞いただけだけど、あるらしいよ～？ この学園に代々伝わる “幸せの呪文”っていうのが。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 1044,
+          "speaker_name": "スイープトウショウ",
+          "text": "――ということだから、行くわよ！ 呪文の正体を暴きに！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 4,
+              "loop_ends_at_frame": -1,
+              "text": "いいけど、どこに暴きにいくんだ？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 4,
+              "loop_ends_at_frame": -1,
+              "text": "いいけど、どこに暴きにいくの？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 1044,
+          "speaker_name": "スイープトウショウ",
+          "text": "いい質問ねっ！　口伝の呪文、ということは だれかが受け継いでるってこと！ だから――ひたすら聞き込みするのよ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 7,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 1022,
+          "speaker_name": "ファインモーション",
+          "text": "口伝の伝説か～♪　そういえば、 かのドルイド僧も文字で記さず、 口伝で彼らの教義を継承したと聞くね！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 7,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 1044,
+          "speaker_name": "スイープトウショウ",
+          "text": "さっそく有力な情報ね！ 教義を口伝……神秘的じゃない！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 7,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 1022,
+          "speaker_name": "ファインモーション",
+          "text": "深い森の中で受け継いだらしいからね。 ヒミツを守るには都合がよかったのかも？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 7,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 1044,
+          "speaker_name": "スイープトウショウ",
+          "text": "よしっ、森ね！ 行くわよ使い魔！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 9,
+              "loop_ends_at_frame": -1,
+              "text": "え、森に今から！？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 51,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 1044,
+          "speaker_name": "スイープトウショウ",
+          "text": "なにもなーーい！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 10,
+              "loop_ends_at_frame": -1,
+              "text": "じ、時代も国も違う話だから……！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 2,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 1024,
+          "speaker_name": "マヤノトップガン",
+          "text": "幸せの呪文？ それならマヤにお任せっ☆",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 2,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 1024,
+          "speaker_name": "マヤノトップガン",
+          "text": "まずはリップクリームを用意するの！ そしたら、思いっきり出して～……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 2,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 1044,
+          "speaker_name": "スイープトウショウ",
+          "text": "リップクリームに使い魔の名前を書いて、 夕陽の中、心の中で呪文を唱える……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 2,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 1044,
+          "speaker_name": "スイープトウショウ",
+          "text": "……。 …………。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 2,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 1044,
+          "speaker_name": "スイープトウショウ",
+          "text": "なにも起きないじゃないっ！！ 『幸せな運命の瞬間が訪れる』 魔法じゃないの！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 15,
+              "loop_ends_at_frame": -1,
+              "text": "うーん、そろそろ夕食だし戻ろうか？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 2,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 1044,
+          "speaker_name": "スイープトウショウ",
+          "text": "イヤッ！！！！！！ 魔法があるってわかってるのに あきらめられるもんですか！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 2,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 1044,
+          "speaker_name": "スイープトウショウ",
+          "text": "早くいっぱい呪文を集めて グランマみたいなすっごい魔法使いになるの！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 17,
+              "loop_ends_at_frame": -1,
+              "text": "とはいえ、手がかりもないし……",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 2,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 1044,
+          "speaker_name": "スイープトウショウ",
+          "text": "うぅ～～…… 幸せの呪文、知りたいぃ～～……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 2,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 19,
+          "character_id": 93999,
+          "speaker_name": "？？？",
+          "text": "天晴れッ！！ その探求心、実に見事なり！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 2,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 20,
+          "character_id": 9002,
+          "speaker_name": "秋川理事長",
+          "text": "学園に伝わりし幸せの呪文を 聞いて回っているのは、君だったか！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 20,
+              "loop_ends_at_frame": -1,
+              "text": "秋川理事長！？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "20": {
+      "frame_id": 20,
+      "background_id": 2,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 21,
+          "character_id": 9002,
+          "speaker_name": "秋川理事長",
+          "text": "うむうむ！ 学園でもひと握りしか知らぬ呪文！ わたしの耳に入るまで願い求めるとは――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "21": {
+      "frame_id": 21,
+      "background_id": 2,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 22,
+          "character_id": 9002,
+          "speaker_name": "秋川理事長",
+          "text": "感服ッ！　その頑張りの報酬に、 呪文の秘密を授けよう！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "22": {
+      "frame_id": 22,
+      "background_id": 2,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 23,
+          "character_id": 1044,
+          "speaker_name": "スイープトウショウ",
+          "text": "……ここね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "23": {
+      "frame_id": 23,
+      "background_id": 2,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 24,
+          "character_id": 1044,
+          "speaker_name": "スイープトウショウ",
+          "text": "ここで理事長に教わった呪文を唱えれば、 特大魔法が発動するはずよ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "24": {
+      "frame_id": 24,
+      "background_id": 3,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 25,
+          "character_id": 0,
+          "speaker_name": "？？？",
+          "text": "材料は全部買えたわね……っと、あら？ 貴方たち、こんなところでどうしたの？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "25": {
+      "frame_id": 25,
+      "background_id": 3,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 26,
+          "character_id": 1044,
+          "speaker_name": "スイープトウショウ",
+          "text": "……『幸せを呼ぶは宝船』。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "26": {
+      "frame_id": 26,
+      "background_id": 3,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 27,
+          "character_id": 0,
+          "speaker_name": "？？？",
+          "text": "……へぇ？　その言葉を唱えたということは 覚悟はできているのね？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "27": {
+      "frame_id": 27,
+      "background_id": 3,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 28,
+          "character_id": 1044,
+          "speaker_name": "スイープトウショウ",
+          "text": "っ、ええ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "28": {
+      "frame_id": 28,
+      "background_id": 11,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 29,
+          "character_id": 0,
+          "speaker_name": "食堂のおばちゃん",
+          "text": "はいっ、学園裏メニュー！ 『スイーツ全盛り宝船パフェ』おまち～！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 29,
+              "loop_ends_at_frame": -1,
+              "text": "大きいパフェ……！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "29": {
+      "frame_id": 29,
+      "background_id": 11,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 30,
+          "character_id": 0,
+          "speaker_name": "食堂のおばちゃん",
+          "text": "コストの関係で表メニューから消され、 どうしても甘い物を食べまくりたい子にだけ 受け継がれてきたオーダー方法……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "30": {
+      "frame_id": 30,
+      "background_id": 11,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 31,
+          "character_id": 0,
+          "speaker_name": "食堂のおばちゃん",
+          "text": "いわば禁断の呪文！ これを知る子がまだいたなんて、驚きだわ～♪",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "31": {
+      "frame_id": 31,
+      "background_id": 11,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 32,
+          "character_id": 1044,
+          "speaker_name": "スイープトウショウ",
+          "text": "こ、これが呪文の答え……？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "32": {
+      "frame_id": 32,
+      "background_id": 11,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 33,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "必死に追いかけた呪文の答えが、 裏メニューの合言葉だったとは！ これはさすがに、癇癪をおこしそうだが……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 33,
+              "loop_ends_at_frame": -1,
+              "text": "ま、まあこういうこともあるよ！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "33": {
+      "frame_id": 33,
+      "background_id": 11,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 34,
+          "character_id": 1044,
+          "speaker_name": "スイープトウショウ",
+          "text": "（パクッ）",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "34": {
+      "frame_id": 34,
+      "background_id": 118,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 35,
+          "character_id": 1044,
+          "speaker_name": "スイープトウショウ",
+          "text": "～～～～っ！ おいっしい！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 35,
+              "loop_ends_at_frame": -1,
+              "text": "えっ？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "35": {
+      "frame_id": 35,
+      "background_id": 118,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 36,
+          "character_id": 1044,
+          "speaker_name": "スイープトウショウ",
+          "text": "すごいわ！　こんなにたくさんの スイーツがポンと現れるんだもの！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "36": {
+      "frame_id": 36,
+      "background_id": 118,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 37,
+          "character_id": 1044,
+          "speaker_name": "スイープトウショウ",
+          "text": "苦労したかいがあったわ。 こんなすごい呪文、 簡単に手に入るわけなかったのよ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "37": {
+      "frame_id": 37,
+      "background_id": 118,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 38,
+          "character_id": 1044,
+          "speaker_name": "スイープトウショウ",
+          "text": "これだから魔法の探求って止められない！ 魔法のパフェ、サイコー！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "38": {
+      "frame_id": 38,
+      "background_id": 118,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 39,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "てっきり魔法っぽくないと言い出すかと 思ったが……彼女は想像よりも、 魔法をポジティブに広く考えているようだ。",
+          "flag_type": "",
+          "flag": "male_trainer",
+          "choices": [
+            {
+              "next_frame": 40,
+              "loop_ends_at_frame": -1,
+              "text": "ご機嫌になる魔法、だな……！",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 40,
+              "loop_ends_at_frame": -1,
+              "text": "ご機嫌になる魔法、だね……！",
+              "flag_type": "",
+              "flag": "female_trainer"
+            },
+            {
+              "next_frame": 43,
+              "loop_ends_at_frame": -1,
+              "text": "覚えた呪文、俺も使おうかな",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 43,
+              "loop_ends_at_frame": -1,
+              "text": "覚えた呪文、私も使おうかな",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "39": {
+      "frame_id": 39,
+      "background_id": 118,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 40,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "てっきり魔法っぽくないと言い出すかと 思ったが……彼女は想像よりも、 魔法をポジティブに広く考えているようだ。",
+          "flag_type": "",
+          "flag": "female_trainer",
+          "choices": [
+            {
+              "next_frame": 40,
+              "loop_ends_at_frame": -1,
+              "text": "ご機嫌になる魔法、だな……！",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 40,
+              "loop_ends_at_frame": -1,
+              "text": "ご機嫌になる魔法、だね……！",
+              "flag_type": "",
+              "flag": "female_trainer"
+            },
+            {
+              "next_frame": 43,
+              "loop_ends_at_frame": -1,
+              "text": "覚えた呪文、俺も使おうかな",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 43,
+              "loop_ends_at_frame": -1,
+              "text": "覚えた呪文、私も使おうかな",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "40": {
+      "frame_id": 40,
+      "background_id": 11,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 41,
+          "character_id": 1044,
+          "speaker_name": "スイープトウショウ",
+          "text": "ふふっ、そうよ。 わかってきたじゃない使い魔！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "41": {
+      "frame_id": 41,
+      "background_id": 11,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 42,
+          "character_id": 1044,
+          "speaker_name": "スイープトウショウ",
+          "text": "さーて、思いっきり堪能してやるわ！ 食べ尽くすわよ～～！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "42": {
+      "frame_id": 42,
+      "background_id": 11,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "巨大デザートを前にはしゃぐ彼女を、 微笑ましい気持ちで見守ったのであった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "43": {
+      "frame_id": 43,
+      "background_id": 11,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 44,
+          "character_id": 1044,
+          "speaker_name": "スイープトウショウ",
+          "text": "あら、使い魔のクセに 一丁前に魔法を使おうなんて生意気ね！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "44": {
+      "frame_id": 44,
+      "background_id": 11,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 45,
+          "character_id": 1044,
+          "speaker_name": "スイープトウショウ",
+          "text": "でも……たまにならいいわよ。 今回はアンタも探したわけだしね！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "45": {
+      "frame_id": 45,
+      "background_id": 11,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "その後、カフェテリアではたびたび、 得意げに魔法を唱えるスイープトウショウが 目撃されるのであった……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

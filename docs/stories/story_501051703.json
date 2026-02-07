@@ -1,0 +1,750 @@
+{
+  "story_id": "501051703",
+  "casts": [
+    90001,
+    1051,
+    -1
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 33,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 33,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "出先からの帰り道。しばらく歩いたせいか\r 喉が渇いたので、水筒を取り出し――",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 2,
+              "loop_ends_at_frame": -1,
+              "text": "外で飲む梅昆布茶は、格別だな",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 2,
+              "loop_ends_at_frame": -1,
+              "text": "外で飲む梅昆布茶は、格別だね",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 33,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 1051,
+          "speaker_name": "ニシノフラワー",
+          "text": "え、トレーナーさん、\r 飲んでくださっているんですか？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 67,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "前のお出かけで『梅昆布茶が疲れに効く』と\r 聞いてから、愛飲するようになったのだ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 4,
+              "loop_ends_at_frame": -1,
+              "text": "おかげで、すごく助かってる",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 4,
+              "loop_ends_at_frame": -1,
+              "text": "おかげで、すごく助かってるよ",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 33,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 1051,
+          "speaker_name": "ニシノフラワー",
+          "text": "えへへっ、おばあちゃんたちに\r たくさん教えてもらっておいてよかったです。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 5,
+              "loop_ends_at_frame": -1,
+              "text": "他にはどんなものがあるんだ？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 5,
+              "loop_ends_at_frame": -1,
+              "text": "他にはどんなものがあるの？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 33,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 1051,
+          "speaker_name": "ニシノフラワー",
+          "text": "んーと、色々ありますが……\r あの、よければいくつかご案内しましょうか？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 33,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "こうして、ニシノフラワーによる\r 癒しツアーが始まった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 175,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 1051,
+          "speaker_name": "ニシノフラワー",
+          "text": "どうですか？　トレーナーさん。\r お日さまをあびながら、お花をながめると…… ふわふわ～ってしてきませんか？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 8,
+              "loop_ends_at_frame": -1,
+              "text": "確かに、リラックスしてきた",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 175,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 1051,
+          "speaker_name": "ニシノフラワー",
+          "text": "ほんとうですか？　よかったです！\r よーしっ、もっとリラックス できるようなことを――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 175,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 1051,
+          "speaker_name": "ニシノフラワー",
+          "text": "あ、あっちのほうにベンチがあるので、\r 座ってじっくりながめましょうか！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 175,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "そうして、\r ニシノフラワーと花を眺め――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 175,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 1051,
+          "speaker_name": "ニシノフラワー",
+          "text": "ふぁぁ……お花のいいにおい。\r ふわふわしてきましたね～。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 1051,
+          "speaker_name": "ニシノフラワー",
+          "text": "はっ……！\r ね、寝ちゃってました……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 1051,
+          "speaker_name": "ニシノフラワー",
+          "text": "大変っ、もう夕方に……。\r つ、次に行きましょう！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 1051,
+          "speaker_name": "ニシノフラワー",
+          "text": "んんっ……おいしい……！\r 干し柿のあまさが、ほろほろってして……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 15,
+              "loop_ends_at_frame": -1,
+              "text": "懐かしい味かも",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 1051,
+          "speaker_name": "ニシノフラワー",
+          "text": "あ、私もですっ！　近所のおばあさんと\r こうして店先をお借りして食べてたんです。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 1051,
+          "speaker_name": "ニシノフラワー",
+          "text": "お店の人が、よくおまけで\r ちょっと多めにくれたりして……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 1051,
+          "speaker_name": "ニシノフラワー",
+          "text": "あ、懐かしいって言っても、\r ちょっと前のことなんですけどね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 19,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "その後もニシノフラワーの案内を受け、\r どこか素朴でのんびりとした時間が懐かしく、 とても癒され――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 33,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 20,
+          "character_id": 1051,
+          "speaker_name": "ニシノフラワー",
+          "text": "あの、今日できるのはこのくらいかなと。\r ……どう、だったでしょうか？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 20,
+              "loop_ends_at_frame": -1,
+              "text": "ありがとう、いい1日だった",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "20": {
+      "frame_id": 20,
+      "background_id": 33,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 21,
+          "character_id": 1051,
+          "speaker_name": "ニシノフラワー",
+          "text": "…………よかった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "21": {
+      "frame_id": 21,
+      "background_id": 33,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 22,
+          "character_id": 1051,
+          "speaker_name": "ニシノフラワー",
+          "text": "その……実は私、ずっと心配だったんです。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "22": {
+      "frame_id": 22,
+      "background_id": 33,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 23,
+          "character_id": 1051,
+          "speaker_name": "ニシノフラワー",
+          "text": "私の好きなことは、同じ歳のかたたちと\r 比べて、ちょっと変わっていますから。 ……でも。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "23": {
+      "frame_id": 23,
+      "background_id": 33,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 24,
+          "character_id": 1051,
+          "speaker_name": "ニシノフラワー",
+          "text": "私……好きなんです。\r ゆったり、のんびりと過ごすのが。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "24": {
+      "frame_id": 24,
+      "background_id": 33,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 25,
+          "character_id": 1051,
+          "speaker_name": "ニシノフラワー",
+          "text": "小さい頃に、\r おばあさんと一緒にお散歩をしたときの お日さまのポカポカした感じとか。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "25": {
+      "frame_id": 25,
+      "background_id": 33,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 26,
+          "character_id": 1051,
+          "speaker_name": "ニシノフラワー",
+          "text": "なので……今とてもうれしいです。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "26": {
+      "frame_id": 26,
+      "background_id": 33,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 27,
+          "character_id": 1051,
+          "speaker_name": "ニシノフラワー",
+          "text": "それをトレーナーさんと一緒にできて！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "27": {
+      "frame_id": 27,
+      "background_id": 33,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 28,
+          "character_id": 1051,
+          "speaker_name": "ニシノフラワー",
+          "text": "なんて……えへへっ、\r 案内の途中で寝ちゃうようでは、 まだまだですよね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 28,
+              "loop_ends_at_frame": -1,
+              "text": "そんなことないよ",
+              "flag_type": "",
+              "flag": ""
+            },
+            {
+              "next_frame": 32,
+              "loop_ends_at_frame": -1,
+              "text": "もらってばかりで悪い気がする",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "28": {
+      "frame_id": 28,
+      "background_id": 33,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 29,
+          "character_id": 1051,
+          "speaker_name": "ニシノフラワー",
+          "text": "トレーナーさん……。\r ふふっ、ありがとうございます。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "29": {
+      "frame_id": 29,
+      "background_id": 33,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 30,
+          "character_id": 1051,
+          "speaker_name": "ニシノフラワー",
+          "text": "でもきっと、\r 次はもっと案内できるようになりますねっ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "30": {
+      "frame_id": 30,
+      "background_id": 33,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 31,
+          "character_id": 1051,
+          "speaker_name": "ニシノフラワー",
+          "text": "優しいトレーナーさんのために、\r 私、がんばります……ですっ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "31": {
+      "frame_id": 31,
+      "background_id": 33,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "これ以上リラックスできるものだと、\r 今度はこちらが寝てしまいそうだが……。 それでも、次のツアーが楽しみだ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "32": {
+      "frame_id": 32,
+      "background_id": 33,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 33,
+          "character_id": 1051,
+          "speaker_name": "ニシノフラワー",
+          "text": "ええっ！　そんなことないですっ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "33": {
+      "frame_id": 33,
+      "background_id": 33,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 34,
+          "character_id": 1051,
+          "speaker_name": "ニシノフラワー",
+          "text": "むしろ、私こそ支えてもらってばかりで……。\r ご迷惑もいっぱいおかけしてますからっ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 34,
+              "loop_ends_at_frame": -1,
+              "text": "いつかお礼させてね",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "34": {
+      "frame_id": 34,
+      "background_id": 33,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 35,
+          "character_id": 1051,
+          "speaker_name": "ニシノフラワー",
+          "text": "えっと……でしたら私はそれより\r もっといっぱいお礼をしないとですね！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "35": {
+      "frame_id": 35,
+      "background_id": 33,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "その後、お互いお礼をすると言い合いながら\r 帰路についたのであった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

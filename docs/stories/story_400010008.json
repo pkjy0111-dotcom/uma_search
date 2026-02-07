@@ -1,0 +1,1385 @@
+{
+  "story_id": "400010008",
+  "casts": [
+    0,
+    9004,
+    90001,
+    9046,
+    1115,
+    1116,
+    -1
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "第1回目の『Dream Fest』のあと―― 世間のレースへの関心は、 以前よりも高まっていた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 191,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 0,
+          "speaker_name": "通行人A",
+          "text": "――あ、そうそう！ この子だよ、<chrname>！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 191,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 0,
+          "speaker_name": "通行人A",
+          "text": "俺、すっかりハマッちゃって！ これから応援してくつもり。 久々にレース場、通うことになりそう！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 191,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "街を歩いていても、『Dream Fest』 のみならずトゥインクル・シリーズ全体への 期待の声が聞こえる。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 5,
+              "loop_ends_at_frame": -1,
+              "text": "（うん、盛り上がってきてるな！）",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 5,
+              "loop_ends_at_frame": -1,
+              "text": "（うん、盛り上がってきてるね！）",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 191,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 0,
+          "speaker_name": "通行人B",
+          "text": "しかし俺たち、 いい時期に戻ってきたよなぁ。 だって、もうすぐ……――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "ウマ娘レースには、世代による “級”分けがある。 初年度はジュニア級、翌年はクラシック級。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "それ以降は、シニア級に属することになる。 これらの中で特に重要なのが、 クラシック級のみ、生涯一度のレース――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 220,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 0,
+          "speaker_name": "先輩トレーナー",
+          "text": "――今年も始まるな！ クラシックシーズンが……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 9,
+              "loop_ends_at_frame": -1,
+              "text": "ドキドキしますね……！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 220,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 9004,
+          "speaker_name": "桐生院トレーナー",
+          "text": "どんなレースも面白いですけど、 クラシックレースの熱さは格別！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 220,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 9004,
+          "speaker_name": "桐生院トレーナー",
+          "text": "実力が拮抗している中で、 本物の地力が試され、ぶつかり合う！ すさまじい熱量ですからね！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 11,
+              "loop_ends_at_frame": -1,
+              "text": "わかる！！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 220,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 0,
+          "speaker_name": "先輩トレーナー",
+          "text": "あとは、大記録が達成されるのかどうか？ 気になるよな～。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 12,
+              "loop_ends_at_frame": -1,
+              "text": "三冠、ですか……！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 220,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "王道路線の、『皐月賞』『日本ダービー』 『菊花賞』を達成するクラシック三冠――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 220,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "あるいはティアラ路線の『桜花賞』 『オークス』『秋華賞』を達成する トリプルティアラ……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 14,
+              "loop_ends_at_frame": -1,
+              "text": "三冠ウマ娘は、最高の栄誉ですからね！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 220,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 0,
+          "speaker_name": "後輩トレーナー",
+          "text": "あ！　ていうか、 クラシック三冠といえば……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 220,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 0,
+          "speaker_name": "後輩トレーナー",
+          "text": "セントライト！ 僕、初めて生で見ましたよ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 91,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "――セントライト。 史上初の、“クラシック三冠ウマ娘”。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 91,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "彼女は三冠を達成したあと、 わずか1年で、現役生活を終えた。 鮮烈な光だけを残して――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 220,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 19,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "表舞台で活躍し続けているハイセイコー、 URA職員のため、学園関係者であれば 動向は耳にするスピードシンボリ……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 220,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 20,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "彼女たちと異なり、現役を退いたあとの セントライトの情報は入ってこなかった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "20": {
+      "frame_id": 20,
+      "background_id": 220,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 21,
+          "character_id": 0,
+          "speaker_name": "後輩トレーナー",
+          "text": "この世界に入ったときから憧れてたんです！ でも、伝説的すぎて……まさか会えるとは！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "21": {
+      "frame_id": 21,
+      "background_id": 220,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 22,
+          "character_id": 9004,
+          "speaker_name": "桐生院トレーナー",
+          "text": "ご両親は、確か…… イギリスのさる貴族でしたよね！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 22,
+              "loop_ends_at_frame": -1,
+              "text": "き、貴族……！？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "22": {
+      "frame_id": 22,
+      "background_id": 220,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 23,
+          "character_id": 9004,
+          "speaker_name": "桐生院トレーナー",
+          "text": "はい！　私も子どもの頃から、 社交界で噂だけは聞いていたので…… 本当に光栄です！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "23": {
+      "frame_id": 23,
+      "background_id": 220,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 24,
+          "character_id": 0,
+          "speaker_name": "先輩トレーナー",
+          "text": "はは、2人とも元気だなぁ。 俺なんかまだドキドキしちゃって、 うまく話せないよ……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 24,
+              "loop_ends_at_frame": -1,
+              "text": "（実は俺も……）",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 24,
+              "loop_ends_at_frame": -1,
+              "text": "（実は私も……）",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "24": {
+      "frame_id": 24,
+      "background_id": 70,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 25,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "<chrname>のトレーニングを、 手伝ってもらっている時も……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "25": {
+      "frame_id": 25,
+      "background_id": 70,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 26,
+          "character_id": 9046,
+          "speaker_name": "セントライト",
+          "text": "……………………。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 26,
+              "loop_ends_at_frame": -1,
+              "text": "あの、<nickname>に何か……？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "26": {
+      "frame_id": 26,
+      "background_id": 70,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 27,
+          "character_id": 9046,
+          "speaker_name": "セントライト",
+          "text": "いいえ。 ただ、見ていただけですわ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "27": {
+      "frame_id": 27,
+      "background_id": 70,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 28,
+          "character_id": 9046,
+          "speaker_name": "セントライト",
+          "text": "ふ……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "28": {
+      "frame_id": 28,
+      "background_id": 220,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 29,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "彼女からは日々、学ぶことも多い。 トレーニングの手伝いも的確で、 大変助かっているが……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 29,
+              "loop_ends_at_frame": -1,
+              "text": "謎めいてるんだよなぁ……",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "29": {
+      "frame_id": 29,
+      "background_id": 220,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 30,
+          "character_id": 9004,
+          "speaker_name": "桐生院トレーナー",
+          "text": "……そういえば！ 今、ウマ娘ミュージアムで クラシック三冠特集をしているんですよ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "30": {
+      "frame_id": 30,
+      "background_id": 220,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 31,
+          "character_id": 9004,
+          "speaker_name": "桐生院トレーナー",
+          "text": "セントライトさんの資料もあるみたいです。 もしかしたら 彼女のことを学べるかもしれませんよ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "31": {
+      "frame_id": 31,
+      "background_id": 220,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 32,
+          "character_id": 0,
+          "speaker_name": "先輩トレーナー",
+          "text": "いいじゃん！　<chrname>、 今クラシック級なわけだし…… いい刺激になるんじゃないか。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 32,
+              "loop_ends_at_frame": -1,
+              "text": "（ウマ娘ミュージアムか……）",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "32": {
+      "frame_id": 32,
+      "background_id": 323,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 33,
+          "character_id": 0,
+          "speaker_name": "ミーハーなファンA",
+          "text": "――へー、三冠の展示……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "33": {
+      "frame_id": 33,
+      "background_id": 323,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 34,
+          "character_id": 0,
+          "speaker_name": "古参ファンA",
+          "text": "そうそう！　激アツよー！ 三冠ウマ娘なんて滅多に出てこないからね、 いろいろ調べると、沼だよ～。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "34": {
+      "frame_id": 34,
+      "background_id": 323,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 35,
+          "character_id": 0,
+          "speaker_name": "ミーハーなファンA",
+          "text": "いやー自分、『Dream Fest』新規ですし。 とりあえず今は推しを知ってくので十分かな。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "35": {
+      "frame_id": 35,
+      "background_id": 323,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 36,
+          "character_id": 0,
+          "speaker_name": "古参ファンA",
+          "text": "でも、自分の推しが三冠ウマ娘になったら、 一生忘れられない思い出になるよ？ いろいろ知っとくと感動も倍じゃない？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "36": {
+      "frame_id": 36,
+      "background_id": 323,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 37,
+          "character_id": 0,
+          "speaker_name": "ミーハーなファンA",
+          "text": "んー……ま、推しが好きなだけなんで！ 結果とかはいいんです。 楽しく走ってくれたら、それで十分！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "37": {
+      "frame_id": 37,
+      "background_id": 23,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 38,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "先輩トレーナーたちと話をした翌日。 東京レース場併設のミュージアムへ 足を運んでみると……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "38": {
+      "frame_id": 38,
+      "background_id": 23,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 39,
+          "character_id": 1116,
+          "speaker_name": "ジェンティルドンナ",
+          "text": "あら、 ごきげんよう。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 39,
+              "loop_ends_at_frame": -1,
+              "text": "あれ、2人は一緒に――",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "39": {
+      "frame_id": 39,
+      "background_id": 23,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 40,
+          "character_id": 1115,
+          "speaker_name": "オルフェーヴル",
+          "text": "……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 40,
+              "loop_ends_at_frame": -1,
+              "text": "――来たわけないよな！",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 40,
+              "loop_ends_at_frame": -1,
+              "text": "――来たわけないよね！",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "40": {
+      "frame_id": 40,
+      "background_id": 23,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 41,
+          "character_id": 1116,
+          "speaker_name": "ジェンティルドンナ",
+          "text": "オルフェさんも、 同じ企画展示にご興味がおありのようで。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "41": {
+      "frame_id": 41,
+      "background_id": 23,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 42,
+          "character_id": 1116,
+          "speaker_name": "ジェンティルドンナ",
+          "text": "推察するに、 貴方も……そうらしいですわね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "42": {
+      "frame_id": 42,
+      "background_id": 23,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 43,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "成り行きで、3人並び 沈黙のままミュージアムへ向かった……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "43": {
+      "frame_id": 43,
+      "background_id": 324,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 44,
+          "character_id": 9046,
+          "speaker_name": "セントライト",
+          "text": "Welcome, my darlings.",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 44,
+              "loop_ends_at_frame": -1,
+              "text": "セントライトさん……！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "44": {
+      "frame_id": 44,
+      "background_id": 324,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 45,
+          "character_id": 1116,
+          "speaker_name": "ジェンティルドンナ",
+          "text": "ごきげんよう。 お会いできまして光栄ですわ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "45": {
+      "frame_id": 45,
+      "background_id": 324,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 46,
+          "character_id": 1115,
+          "speaker_name": "オルフェーヴル",
+          "text": "……うむ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 46,
+              "loop_ends_at_frame": -1,
+              "text": "（……！）",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "46": {
+      "frame_id": 46,
+      "background_id": 324,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 47,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "あのオルフェーヴルとジェンティルドンナが、 尊大な態度を抑えている……それだけで、 セントライトがどれほどの存在かわかる。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 47,
+              "loop_ends_at_frame": -1,
+              "text": "あの、なぜここに――",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "47": {
+      "frame_id": 47,
+      "background_id": 324,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 48,
+          "character_id": 9046,
+          "speaker_name": "セントライト",
+          "text": "どうぞ、ご覧なさいませ。 ちょうど、資料を足したところですわ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "48": {
+      "frame_id": 48,
+      "background_id": 324,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 49,
+          "character_id": 9046,
+          "speaker_name": "セントライト",
+          "text": "わたくしのアルバムです。 ――クラシック三冠達成当時の。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 49,
+              "loop_ends_at_frame": -1,
+              "text": "……！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "49": {
+      "frame_id": 49,
+      "background_id": 324,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 50,
+          "character_id": 1115,
+          "speaker_name": "オルフェーヴル",
+          "text": "――拝見しよう。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "50": {
+      "frame_id": 50,
+      "background_id": 324,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 51,
+          "character_id": 9046,
+          "speaker_name": "セントライト",
+          "text": "“近代ウマ娘レース発祥の地”イギリス。 そこから範をとり、整えられたのが―― クラシック三冠路線です。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "51": {
+      "frame_id": 51,
+      "background_id": 324,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 52,
+          "character_id": 9046,
+          "speaker_name": "セントライト",
+          "text": "当時、日本レース界で クラシック三冠は成しえぬものでした。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "52": {
+      "frame_id": 52,
+      "background_id": 324,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 53,
+          "character_id": 9046,
+          "speaker_name": "セントライト",
+          "text": "“最も速く”“最も運があり” “最も強い”……全ては満たせない。 そこで全てを叶えるべく、生まれたのが――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "53": {
+      "frame_id": 53,
+      "background_id": 400010008,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 54,
+          "character_id": 9046,
+          "speaker_name": "セントライト",
+          "text": "――わたくし、 セントライトでございました。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "54": {
+      "frame_id": 54,
+      "background_id": 400010008,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 55,
+          "character_id": 1115,
+          "speaker_name": "オルフェーヴル",
+          "text": "……―― これは、クラシック三冠達成直後か？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "55": {
+      "frame_id": 55,
+      "background_id": 400010008,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 56,
+          "character_id": 9046,
+          "speaker_name": "セントライト",
+          "text": "Indeed.　岩手の屋敷で撮影いたしました。 三冠達成の威光を、示すために。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "56": {
+      "frame_id": 56,
+      "background_id": 400010008,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 57,
+          "character_id": 1116,
+          "speaker_name": "ジェンティルドンナ",
+          "text": "麗しい。 誇りと、格式を感じるお姿ですこと。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "57": {
+      "frame_id": 57,
+      "background_id": 400010008,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 58,
+          "character_id": 9046,
+          "speaker_name": "セントライト",
+          "text": "それが当時の日本レース界に、 必要なものだったのです。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "58": {
+      "frame_id": 58,
+      "background_id": 400010008,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 59,
+          "character_id": 9046,
+          "speaker_name": "セントライト",
+          "text": "レースは荒々しい勝負のみならず。 誇りを求めるものなのだと、 みなさまに知らしめること――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "59": {
+      "frame_id": 59,
+      "background_id": 324,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 60,
+          "character_id": 9046,
+          "speaker_name": "セントライト",
+          "text": "――後に続くみなさまが迷わぬよう、 眩い光跡を以て道と成す。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "60": {
+      "frame_id": 60,
+      "background_id": 324,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 61,
+          "character_id": 9046,
+          "speaker_name": "セントライト",
+          "text": "わたくしに与えられた使命は、それだけ。 全力で成し遂げた今、はっきりと言えます。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "61": {
+      "frame_id": 61,
+      "background_id": 324,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 62,
+          "character_id": 9046,
+          "speaker_name": "セントライト",
+          "text": "“三栄冠”を戴くことは、 日本レース界最大の偉業です。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "62": {
+      "frame_id": 62,
+      "background_id": 324,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 63,
+          "character_id": 0,
+          "speaker_name": "2人",
+          "text": "……――",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 63,
+              "loop_ends_at_frame": -1,
+              "text": "（なんて、気迫だろう……）",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "63": {
+      "frame_id": 63,
+      "background_id": 324,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 64,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "まるで後光が差しているかのようだ。 あまりの迫力に、言葉が出なかった――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "64": {
+      "frame_id": 64,
+      "background_id": 23,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 65,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "1人になり、ようやく気持ちが落ち着いた。 改めて、セントライトの話を思い出し…… ふと、思いつく。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 65,
+              "loop_ends_at_frame": -1,
+              "text": "（今の話、他の子にも伝えられないかな）",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "65": {
+      "frame_id": 65,
+      "background_id": 23,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 66,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "――とりわけ、クラシック級のウマ娘に。 クラシック三冠のみならず、どの路線にも 栄光の歴史……栄光そのものがある。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "66": {
+      "frame_id": 66,
+      "background_id": 23,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "あのセントライトの姿を見れば、 みんなが誇りを持ってレースに挑むだろう。 その姿は――ファンの心を熱くするはずだ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

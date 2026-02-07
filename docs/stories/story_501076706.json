@@ -1,0 +1,864 @@
+{
+  "story_id": "501076706",
+  "casts": [
+    1025,
+    90001,
+    1076,
+    -1
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 3,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 3,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "サクラローレルと出かけた後、 彼女からお誘いがあった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 3,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "このあとカフェテリアのキッチンを 借りて、エスプレッソを作る予定なんです。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 3,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "それで……よかったら、 ぜひ召し上がっていただけないでしょうか？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 4,
+              "loop_ends_at_frame": -1,
+              "text": "俺に飲ませてくれるのか？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 4,
+              "loop_ends_at_frame": -1,
+              "text": "私に飲ませてくれるの？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 3,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "はいっ。 ……実は、最近淹れ方を研究してるんですが いろいろと感想を聞きたくって。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 3,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "『フランスのエスプレッソ』を再現して、 お父さんに飲んでもらうことが目標なんです！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 3,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "帰国してこっちにいる間も、親しみの ある味があったら嬉しいと思うんですよ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 7,
+              "loop_ends_at_frame": -1,
+              "text": "そういうことなら、喜んで協力するよ",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 139,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "ふっふふん、ふん……♪　うん、よしっ！ タンピングもいい感じにできてるかな。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 8,
+              "loop_ends_at_frame": -1,
+              "text": "すごく手際がいいな！",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 8,
+              "loop_ends_at_frame": -1,
+              "text": "すごく手際がいいね！",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 139,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "うふふっ、実はカフェちゃんに教わって た～っくさん練習したんです！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 90,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "サクラローレルは、練習した時のことを 楽しそうに話し始めた――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 90,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 1025,
+          "speaker_name": "マンハッタンカフェ",
+          "text": "焙煎は、時間との勝負です……。 コーヒー豆を機械から 手早く取り出して、冷ましてください。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 90,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "うん、わかった！　手早くだね！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 90,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "あっ……つぅ……！ 焙煎機ってこんなに熱くなるんだ！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 90,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 1025,
+          "speaker_name": "マンハッタンカフェ",
+          "text": "大丈夫ですか……？ ヤケドしたなら、氷を当てた方がいいですよ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 90,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "ううん、軽く触っただけだから平気！ それよりも急がないと、だよね！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 90,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 1025,
+          "speaker_name": "マンハッタンカフェ",
+          "text": "次は豆を挽いていきます……。 エスプレッソには極細挽き。……ですが、 手持ちのミルだと大きさが均一になりません。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 90,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 1025,
+          "speaker_name": "マンハッタンカフェ",
+          "text": "何度かミルで挽き直してください……。 根気強く……何回もです。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 107,
+      "sub_background_id": 10,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "…………うん、均一になったかな？ こんな感じでどう？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 107,
+      "sub_background_id": 10,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 19,
+          "character_id": 1025,
+          "speaker_name": "マンハッタンカフェ",
+          "text": "……もう少しですね。 近い大きさの豆を集めてください……。 挽き直せば、整うと思いますので。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 107,
+      "sub_background_id": 10,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 20,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "そっか……！　うん、わかった。 おいしくなるまで、たくさん回すね！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "20": {
+      "frame_id": 20,
+      "background_id": 90,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 21,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "ふぅ……完成、かな！？ これが私のエスプレッソ……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "21": {
+      "frame_id": 21,
+      "background_id": 90,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 22,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "それでは……いただきます！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "22": {
+      "frame_id": 22,
+      "background_id": 90,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 23,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "ん……んんっ？　かなり苦いっ！！ どうして……！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "23": {
+      "frame_id": 23,
+      "background_id": 90,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 24,
+          "character_id": 1025,
+          "speaker_name": "マンハッタンカフェ",
+          "text": "……焙煎機から取り出した豆を冷ますまで…… 時間を要してしまったため、かと。 その間にも、焙煎は進んでしまうのです……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "24": {
+      "frame_id": 24,
+      "background_id": 90,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 25,
+          "character_id": 1025,
+          "speaker_name": "マンハッタンカフェ",
+          "text": "それと……ミルをたくさん回して いただいたのですが……もう少しでしたね。 ……味に、少々バラつきが感じられます。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "25": {
+      "frame_id": 25,
+      "background_id": 90,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 26,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "ふむふむ……。機械から出した後も 豆の焙煎が進んで……豆の大きさで 味わいも変わってくる、と。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "26": {
+      "frame_id": 26,
+      "background_id": 90,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 27,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "……ということは、焙煎や豆の挽き方次第で、 味の微調整もできるんだね！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "27": {
+      "frame_id": 27,
+      "background_id": 90,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 28,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "よーし、一歩前進！ お父さんの好きな味を目指して、 何回でもトライするよ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "28": {
+      "frame_id": 28,
+      "background_id": 90,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 29,
+          "character_id": 1025,
+          "speaker_name": "マンハッタンカフェ",
+          "text": "ふふっ……理想のエスプレッソ作り…… 私も、最後まで……お手伝いします。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "29": {
+      "frame_id": 29,
+      "background_id": 139,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 30,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "抽出時間はぴったりで……うん！ キレイなキャラメル色！　クレマもばっちり♪",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "30": {
+      "frame_id": 30,
+      "background_id": 139,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 31,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "サクラローレルは最後まで丁寧にコーヒーと 向き合う。何度も失敗しながら挑戦を続け、 技術を習得したことがうかがえる。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "31": {
+      "frame_id": 31,
+      "background_id": 139,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 32,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "はいっ、最高のエスプレッソです！ 召し上がれ、トレーナーさん♪",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "32": {
+      "frame_id": 32,
+      "background_id": 139,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 33,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "お味はどうですか……？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 33,
+              "loop_ends_at_frame": -1,
+              "text": "うん……100点！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "33": {
+      "frame_id": 33,
+      "background_id": 139,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 34,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "わあ、100点！　やったやった～♪",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "34": {
+      "frame_id": 34,
+      "background_id": 139,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 35,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "さてさて、私も飲んでみようっと！ いただきまーす！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "35": {
+      "frame_id": 35,
+      "background_id": 139,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 36,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "ん……うん！　おいしい！ でも――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "36": {
+      "frame_id": 36,
+      "background_id": 139,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 37,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "お父さんは口当たりのいい酸味が好きだから、 もうすこしまろやかな味がいいかな。 ――うん、頑張ろっ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "37": {
+      "frame_id": 37,
+      "background_id": 139,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 38,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "トレーナーさん、また次も 味見、お願いできますか？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 38,
+              "loop_ends_at_frame": -1,
+              "text": "もちろん！",
+              "flag_type": "",
+              "flag": ""
+            },
+            {
+              "next_frame": 41,
+              "loop_ends_at_frame": -1,
+              "text": "今のコーヒーの味も美味しくて好きだよ",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "38": {
+      "frame_id": 38,
+      "background_id": 139,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 39,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "任せてください！ トレーナーさんの期待を飛び越えてみせます！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "39": {
+      "frame_id": 39,
+      "background_id": 139,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 40,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "あっ、今度はエスプレッソに合うお菓子も 一緒に作ってみようかな？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "40": {
+      "frame_id": 40,
+      "background_id": 139,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "そっちの味見もお願いしますね、 トレーナーさん♪",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "41": {
+      "frame_id": 41,
+      "background_id": 139,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 42,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "これがトレーナーさんの好み……。 ふむふむ、覚えておきます。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "42": {
+      "frame_id": 42,
+      "background_id": 139,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 43,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "……ふふっ、トレーナーさんに 飲んでもらってよかったです！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "43": {
+      "frame_id": 43,
+      "background_id": 139,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "おいしいって言ってもらえて すごく自信がつきました♪",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

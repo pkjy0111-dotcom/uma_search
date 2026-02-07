@@ -1,0 +1,940 @@
+{
+  "story_id": "501042704",
+  "casts": [
+    0,
+    90001,
+    1042,
+    -1
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "シーキングザパールとのお出かけの帰り、 威勢のいい声に呼び止められた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 0,
+          "speaker_name": "商店街のおじさん",
+          "text": "嬢ちゃんたち、今夜は味噌汁にしないかい？ 板前100人をうならせた、 とっておきの味噌が入ったんだよ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 1042,
+          "speaker_name": "シーキングザパール",
+          "text": "濃厚な香り……！ 間違いなく極上のテイストじゃない！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 1042,
+          "speaker_name": "シーキングザパール",
+          "text": "けれど――ごめんなさい！ 今日はやめておくわ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 5,
+              "loop_ends_at_frame": -1,
+              "text": "えっ、いらないのか？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 5,
+              "loop_ends_at_frame": -1,
+              "text": "えっ、いらないの？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "いつもなら新しい味噌汁の可能性を求めて、 すぐ飛びつくシーキングザパール。 少し様子が変な気がする。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 1042,
+          "speaker_name": "シーキングザパール",
+          "text": "別に欲しいものがあるのよ。 お買い物、付き合ってもらえるかしら？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 32,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 1042,
+          "speaker_name": "シーキングザパール",
+          "text": "えーっと、まずは大根に白菜…… 油揚げも買っておこうかしら♪",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 32,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 1042,
+          "speaker_name": "シーキングザパール",
+          "text": "出汁はカツオと昆布……両方にしましょ！ っと、主役の味噌を忘れちゃダメね！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 9,
+              "loop_ends_at_frame": -1,
+              "text": "あれ、味噌はいらないんじゃ？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 32,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 1042,
+          "speaker_name": "シーキングザパール",
+          "text": "私が欲しかったのは他の味噌だったのよ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 32,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "シーキングザパールが手に取ったのは、 高級でもなんでもない、 ごく普通のご家庭用の味噌だった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 32,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 1042,
+          "speaker_name": "シーキングザパール",
+          "text": "さ、これで全部そろったわ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 11,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 1042,
+          "speaker_name": "シーキングザパール",
+          "text": "お待たせ、トレーナー。 さあ、召し上がれ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 11,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "シーキングザパールがかしこまっている。 どうやら並々ならぬ想いの味噌汁らしい。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 11,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "……だが、味に目立った特徴はなく、 一般的な家庭で飲まれている味噌汁に近い。 不思議なくらい……普通だ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 11,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 1042,
+          "speaker_name": "シーキングザパール",
+          "text": "フフッ。どうして、って顔してるわね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 34,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 1042,
+          "speaker_name": "シーキングザパール",
+          "text": "……わかったわ！　答えは食べ合わせよ！ 無理にドッキングさせる必要はなかったのね！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 101,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 1042,
+          "speaker_name": "シーキングザパール",
+          "text": "立ち止まったことで、世界がこんなに 広がるなんて！　貴方のストップのおかげよ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 11,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 19,
+          "character_id": 1042,
+          "speaker_name": "シーキングザパール",
+          "text": "今日の味噌汁意志表明ね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 11,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 20,
+          "character_id": 1042,
+          "speaker_name": "シーキングザパール",
+          "text": "――この味噌汁のような未来を、 これからも貴方と切り拓きたい。 そんな想いを込めたのよ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 20,
+              "loop_ends_at_frame": -1,
+              "text": "味噌汁のような未来？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "20": {
+      "frame_id": 20,
+      "background_id": 11,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 21,
+          "character_id": 1042,
+          "speaker_name": "シーキングザパール",
+          "text": "この普通の味噌汁は、未来そのものよ。 まっさらで、色んな可能性を秘めている。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "21": {
+      "frame_id": 21,
+      "background_id": 11,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 22,
+          "character_id": 1042,
+          "speaker_name": "シーキングザパール",
+          "text": "もっと美味しくする？　栄養価を高める？ 他にもできることがたくさんあるわ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "22": {
+      "frame_id": 22,
+      "background_id": 139,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 23,
+          "character_id": 1042,
+          "speaker_name": "シーキングザパール",
+          "text": "調理の手順はどうする？　道具は何を使う？ 何も決まっていないし、何でも決められる！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "23": {
+      "frame_id": 23,
+      "background_id": 139,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 24,
+          "character_id": 1042,
+          "speaker_name": "シーキングザパール",
+          "text": "未来も同じでしょ？ あらゆる選択が目の前に広がっているわ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "24": {
+      "frame_id": 24,
+      "background_id": 139,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 25,
+          "character_id": 1042,
+          "speaker_name": "シーキングザパール",
+          "text": "そんな可能性だらけの未来を、 これからも貴方と切り拓きたいのよ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "25": {
+      "frame_id": 25,
+      "background_id": 200,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 26,
+          "character_id": 1042,
+          "speaker_name": "シーキングザパール",
+          "text": "貴方と一緒なら、世界をひっくり返すような 偉業だって成し遂げられる！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "26": {
+      "frame_id": 26,
+      "background_id": 200,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 27,
+          "character_id": 1042,
+          "speaker_name": "シーキングザパール",
+          "text": "貴方と一緒なら、レースの歴史に名を刻んで 未来永劫に語られる伝説を作れる！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "27": {
+      "frame_id": 27,
+      "background_id": 11,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 28,
+          "character_id": 1042,
+          "speaker_name": "シーキングザパール",
+          "text": "新しい味噌汁の可能性に気づかせてくれた 貴方となら、なんだって成し遂げられるわ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 28,
+              "loop_ends_at_frame": -1,
+              "text": "ああ、2人ならできる気がする！",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 28,
+              "loop_ends_at_frame": -1,
+              "text": "うん、2人ならできる気がする！",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "28": {
+      "frame_id": 28,
+      "background_id": 11,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 29,
+          "character_id": 1042,
+          "speaker_name": "シーキングザパール",
+          "text": "――ねえ、トレーナー。教えて。 今の貴方は、どんな未来を思い描いているの？",
+          "flag_type": "",
+          "flag": "male_trainer",
+          "choices": [
+            {
+              "next_frame": 30,
+              "loop_ends_at_frame": -1,
+              "text": "挑戦し続ける未来だよ！",
+              "flag_type": "",
+              "flag": ""
+            },
+            {
+              "next_frame": 35,
+              "loop_ends_at_frame": -1,
+              "text": "ずっと笑っていられたらいいな、って",
+              "flag_type": "",
+              "flag": ""
+            },
+            {
+              "next_frame": 40,
+              "loop_ends_at_frame": -1,
+              "text": "君が隣にいることだけは確か……かな",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 40,
+              "loop_ends_at_frame": -1,
+              "text": "貴方が隣にいることだけは確か……かな",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "29": {
+      "frame_id": 29,
+      "background_id": 11,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 30,
+          "character_id": 1042,
+          "speaker_name": "シーキングザパール",
+          "text": "――ねえ、トレーナー。教えて。 今の貴方は、どんな未来を思い描いているの？",
+          "flag_type": "",
+          "flag": "female_trainer",
+          "choices": [
+            {
+              "next_frame": 30,
+              "loop_ends_at_frame": -1,
+              "text": "挑戦し続ける未来だよ！",
+              "flag_type": "",
+              "flag": ""
+            },
+            {
+              "next_frame": 35,
+              "loop_ends_at_frame": -1,
+              "text": "ずっと笑っていられたらいいな、って",
+              "flag_type": "",
+              "flag": ""
+            },
+            {
+              "next_frame": 40,
+              "loop_ends_at_frame": -1,
+              "text": "君が隣にいることだけは確か……かな",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 40,
+              "loop_ends_at_frame": -1,
+              "text": "貴方が隣にいることだけは確か……かな",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "30": {
+      "frame_id": 30,
+      "background_id": 11,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 31,
+          "character_id": 1042,
+          "speaker_name": "シーキングザパール",
+          "text": "フフッ、そうね。 私たちにゴールなんて必要ない。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "31": {
+      "frame_id": 31,
+      "background_id": 11,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 32,
+          "character_id": 1042,
+          "speaker_name": "シーキングザパール",
+          "text": "目標や夢を叶えた先にも、 可能性は広がっているものよ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "32": {
+      "frame_id": 32,
+      "background_id": 11,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 33,
+          "character_id": 1042,
+          "speaker_name": "シーキングザパール",
+          "text": "それを見ているだけなんて、 私たちにはできないわ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "33": {
+      "frame_id": 33,
+      "background_id": 11,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 34,
+          "character_id": 1042,
+          "speaker_name": "シーキングザパール",
+          "text": "どこまでも突き進みましょう！ 私と、貴方で！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "34": {
+      "frame_id": 34,
+      "background_id": 11,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "挑戦し続ける未来は、きっと平坦じゃない。 けれど、どんな道でも2人なら進んでいける。 それだけは確かだった！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "35": {
+      "frame_id": 35,
+      "background_id": 11,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 36,
+          "character_id": 1042,
+          "speaker_name": "シーキングザパール",
+          "text": "ほーっほっほっほっほ！ にぎやかで素敵な未来ね！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "36": {
+      "frame_id": 36,
+      "background_id": 11,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 37,
+          "character_id": 1042,
+          "speaker_name": "シーキングザパール",
+          "text": "笑いって、とてもエネルギッシュよね！ 可能性を引き寄せる力があるわ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "37": {
+      "frame_id": 37,
+      "background_id": 11,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 38,
+          "character_id": 1042,
+          "speaker_name": "シーキングザパール",
+          "text": "さあ、2人で笑い続けましょう！ 笑い声を世界に響かせて、 全ての可能性をこの手に収めるのよ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "38": {
+      "frame_id": 38,
+      "background_id": 11,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 39,
+          "character_id": 1042,
+          "speaker_name": "シーキングザパール",
+          "text": "ほーっほっほっほっほ！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 39,
+              "loop_ends_at_frame": -1,
+              "text": "はーっはっはっはっは！！",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 39,
+              "loop_ends_at_frame": -1,
+              "text": "ほーっほっほっほっほ！！",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "39": {
+      "frame_id": 39,
+      "background_id": 11,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "2人の笑い声を響かせてゆく。 この声が世界を席巻する日は、 必ずやってくるだろう！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "40": {
+      "frame_id": 40,
+      "background_id": 11,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 41,
+          "character_id": 1042,
+          "speaker_name": "シーキングザパール",
+          "text": "ソーグッド！　私も同じ気持ちだわ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "41": {
+      "frame_id": 41,
+      "background_id": 11,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 42,
+          "character_id": 1042,
+          "speaker_name": "シーキングザパール",
+          "text": "ねえ、そんな2人にどんなことが 起きるのか少し予想してみない？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "42": {
+      "frame_id": 42,
+      "background_id": 11,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 43,
+          "character_id": 1042,
+          "speaker_name": "シーキングザパール",
+          "text": "例えば……前人未到の100人立て ワールドレースで1着を獲るなんてどう？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "43": {
+      "frame_id": 43,
+      "background_id": 11,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 44,
+          "character_id": 1042,
+          "speaker_name": "シーキングザパール",
+          "text": "貴方と私で金字塔になるのよ！ ヒストリーのはじまりだわ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "44": {
+      "frame_id": 44,
+      "background_id": 11,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "2人の未来がどんどん彩られてゆき、 いつまでもアイディアが止まらない。 そうして日が暮れるまで語り続けるのだった！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

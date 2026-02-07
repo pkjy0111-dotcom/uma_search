@@ -1,0 +1,372 @@
+{
+  "story_id": "400000100",
+  "casts": [
+    90001,
+    9003,
+    -1
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "ある日のトレーニング中。 ふと視線を感じ、目をやると……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 74,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "視線の主は、見覚えのない人物だった。 ファンか見学者だろうと思ったのだが――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 74,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "トレーニングを終える頃になっても 依然として、彼女はこちらを見ていた。 ……何か話したいことがあるのだろうか？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 4,
+              "loop_ends_at_frame": -1,
+              "text": "……あの、どうかしましたか？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 74,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 9003,
+          "speaker_name": "？？？",
+          "text": "あ……申し訳ありません。 練習の邪魔をしてしまったでしょうか？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 5,
+              "loop_ends_at_frame": -1,
+              "text": "いえ、もう終わりましたから",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 74,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 9003,
+          "speaker_name": "？？？",
+          "text": "それはよかったです！ 実は、お話したいことがございまして。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 74,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 9003,
+          "speaker_name": "乙名史記者",
+          "text": "私、『月刊トゥインクル』の記者――\r 乙名史　悦子【おとなし　えつこ】 と申します。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 74,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 9003,
+          "speaker_name": "乙名史記者",
+          "text": "……トレーニングを拝見し、脱帽しました。\r ぜひ、お2人の活躍を記事で後押ししたい。 そのご相談をと、お待ちしていた次第です。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 74,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "礼儀正しく、誠実そうな人だ。\r 丁寧な記事で、<chrname>の ファンの支持を集めてくれるかもしれない。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 9,
+              "loop_ends_at_frame": -1,
+              "text": "こちらこそ、ぜひお願いします",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 74,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 9003,
+          "speaker_name": "乙名史記者",
+          "text": "ご快諾、感謝いたします。では早速…… 練習内容は、どんな展望を見据えてお決めに？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 10,
+              "loop_ends_at_frame": -1,
+              "text": "彼女が夢を掴めるように、熟考しています",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 74,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 9003,
+          "speaker_name": "乙名史記者",
+          "text": "……なるほど。 つまり、貴方のトレーナーとしての役割は――",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 11,
+              "loop_ends_at_frame": -1,
+              "text": "ウマ娘が夢を掴む手伝いをすることです！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 74,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 9003,
+          "speaker_name": "乙名史記者",
+          "text": "………………す。\r す……す、す…………。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 12,
+              "loop_ends_at_frame": -1,
+              "text": "す……？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 74,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 9003,
+          "speaker_name": "乙名史記者",
+          "text": "素晴らしいですっ！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 74,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 9003,
+          "speaker_name": "乙名史記者",
+          "text": "つまり担当ウマ娘に夢を掴ませるため、\r どんなこともやる覚悟がおありだと！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 74,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 9003,
+          "speaker_name": "乙名史記者",
+          "text": "トレーニングを頼まれたらいつでも付き合い、\r レースの後の疲労回復は名湯巡り、 水が飲みたいと言えば山まで汲みにも行くと！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 15,
+              "loop_ends_at_frame": -1,
+              "text": "（そんな話したっけ……！？）",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 74,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 9003,
+          "speaker_name": "乙名史記者",
+          "text": "ああ……トレーナーさんのお覚悟、\r とても……とても感服いたしましたぁ……。 必ず、心を熱くする記事にしてみせます……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 74,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "こうして、色んな意味で強力な助っ人と 知り合えたのだった……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

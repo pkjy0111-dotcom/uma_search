@@ -1,0 +1,397 @@
+{
+  "story_id": "501013713",
+  "casts": [
+    90001,
+    1013,
+    -1
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 1013,
+          "speaker_name": "メジロマックイーン",
+          "text": "まだまだ未熟ですわね……。 ケガをしてしまうだなんて……はあ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 1013,
+          "speaker_name": "メジロマックイーン",
+          "text": "トレーナーさんにも迷惑をおかけしてしまい、\r 申し訳ございませんでしたわ。",
+          "flag_type": "male_trainer",
+          "flag": "male_trainer",
+          "choices": [
+            {
+              "next_frame": 4,
+              "loop_ends_at_frame": -1,
+              "text": "今日は休んだ方が良さそうだな",
+              "flag_type": "",
+              "flag": ""
+            },
+            {
+              "next_frame": 10,
+              "loop_ends_at_frame": -1,
+              "text": "これからは周りに注意しないとな",
+              "flag_type": "chance_branch_root",
+              "flag": "chance_branch_root"
+            }
+          ]
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 1013,
+          "speaker_name": "メジロマックイーン",
+          "text": "トレーナーさんにも迷惑をおかけしてしまい、\r 申し訳ございませんでしたわ。",
+          "flag_type": "female_trainer",
+          "flag": "female_trainer",
+          "choices": [
+            {
+              "next_frame": 4,
+              "loop_ends_at_frame": -1,
+              "text": "今日は休んだ方が良さそうだね",
+              "flag_type": "",
+              "flag": ""
+            },
+            {
+              "next_frame": 10,
+              "loop_ends_at_frame": -1,
+              "text": "これからは周りに注意しないとね",
+              "flag_type": "chance_branch_root",
+              "flag": "chance_branch_root"
+            }
+          ]
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 1013,
+          "speaker_name": "メジロマックイーン",
+          "text": "ええっ！？　そ、そこまででは……！ 軽く手当てすれば十分です！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 1013,
+          "speaker_name": "メジロマックイーン",
+          "text": "もう……トレーニングにケガはつきもの。 この程度で心配していては、 心休まる時がありませんわよ？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 6,
+              "loop_ends_at_frame": -1,
+              "text": "俺の心は休まなくていいよ",
+              "flag_type": "male_trainer",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 6,
+              "loop_ends_at_frame": -1,
+              "text": "私の心は休まなくていいよ",
+              "flag_type": "female_trainer",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 1013,
+          "speaker_name": "メジロマックイーン",
+          "text": "……それでは私が困りますわ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 1013,
+          "speaker_name": "メジロマックイーン",
+          "text": "はぁ……心配してくださる 気持ちは充分に伝わりました。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 1013,
+          "speaker_name": "メジロマックイーン",
+          "text": "そこまで仰るのなら、\r 今日は休養に専念することといたします。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "手当てを終えた後、メジロマックイーンを 寮へ送り届けることにした。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 1013,
+          "speaker_name": "メジロマックイーン",
+          "text": "そうですわね……。集中するあまり、 周りが見えなくなってしまってはいけません。",
+          "flag_type": "chance_branch_leaf",
+          "flag": "chance_branch_leaf",
+          "choices": []
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 1013,
+          "speaker_name": "メジロマックイーン",
+          "text": "しかし……このような初歩的な部分で、 失態を犯してしまうとは……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 1013,
+          "speaker_name": "メジロマックイーン",
+          "text": "はぁ……改めて申し訳ない 気持ちになってきましたわ……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "手当てを終えた後、 その日は休養させることにした。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 1013,
+          "speaker_name": "メジロマックイーン",
+          "text": "そうですわね。集中するあまり、周りが 見えなくなってもいけません。とはいえ――",
+          "flag_type": "chance_branch_leaf",
+          "flag": "chance_branch_leaf",
+          "choices": []
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 1013,
+          "speaker_name": "メジロマックイーン",
+          "text": "集中していたということは、裏を返せば 効率的にトレーニングできたということ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 1013,
+          "speaker_name": "メジロマックイーン",
+          "text": "ならばこの集中力も、 育てていけば役立つことでしょう。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 1013,
+          "speaker_name": "メジロマックイーン",
+          "text": "さあ、集中が途切れないうちに、 トレーニングに戻るといたしましょうか。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "手当てを終えた後、メジロマックイーンの 希望でトレーニングを再開することにした。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

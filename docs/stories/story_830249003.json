@@ -1,0 +1,764 @@
+{
+  "story_id": "830249003",
+  "casts": [
+    1100,
+    90001,
+    1079,
+    1080,
+    1048,
+    1114,
+    -1
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 7,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 7,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "ある日廊下を歩いていると、 トランセンドが注意深そうに 辺りを見回していた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 2,
+              "loop_ends_at_frame": -1,
+              "text": "ど、どうしたの――",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 7,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 1080,
+          "speaker_name": "トランセンド",
+          "text": "シーッ、静かに。 ……ウチ、今狙われてるんよ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 3,
+              "loop_ends_at_frame": -1,
+              "text": "穏やかじゃないな……なんでそんなことに？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 3,
+              "loop_ends_at_frame": -1,
+              "text": "穏やかじゃないね……なんでそんなことに？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 7,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 1080,
+          "speaker_name": "トランセンド",
+          "text": "お？　それ聞いちゃう？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 7,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 1080,
+          "speaker_name": "トランセンド",
+          "text": "ま、理由の見当はついてるけどさ。 ウチのせいとはいえ、困ったもんだ～。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 7,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 1080,
+          "speaker_name": "トランセンド",
+          "text": "とにかく、誰に何を聞かれても ウチがどこ行ったか言わないでね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 7,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "そう言い残しトランセンドは 屋上の方へと立ち去っていった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 8,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 1048,
+          "speaker_name": "トーセンジョーダン",
+          "text": "ねーねー、ちょっと。 トランさん見てね？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 8,
+              "loop_ends_at_frame": -1,
+              "text": "いや、見てないけど……",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 8,
+              "loop_ends_at_frame": -1,
+              "text": "いいえ、見てないけど……",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 8,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 1048,
+          "speaker_name": "トーセンジョーダン",
+          "text": "マジかー、どこ行ったし。 しゃーない、見つけたら教えてな！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 11,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 1079,
+          "speaker_name": "フリオーソ",
+          "text": "休憩中にすみません。 トランさんを見ませんでしたか？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 10,
+              "loop_ends_at_frame": -1,
+              "text": "見てないけど……何か用があるのか？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 10,
+              "loop_ends_at_frame": -1,
+              "text": "見てないけど……何か用があるの？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 11,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 1079,
+          "speaker_name": "フリオーソ",
+          "text": "はい。彼女にはキッチリと 礼をしなければなりませんので。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 11,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 1114,
+          "speaker_name": "ブエナビスタ",
+          "text": "あ、フリオーソさん！　トランさん、 向こうにもいませんでした。 うーん、どこへ行ってしまったんでしょう？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 27,
+      "sub_background_id": 10,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 1100,
+          "speaker_name": "ワンダーアキュート",
+          "text": "ちょいとトレーナーさん、 トランさんを見かけなかったかね？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 13,
+              "loop_ends_at_frame": -1,
+              "text": "か、彼女と何かトラブルでもあったのか？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 13,
+              "loop_ends_at_frame": -1,
+              "text": "か、彼女と何かトラブルでもあったの？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 27,
+      "sub_background_id": 10,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 1100,
+          "speaker_name": "ワンダーアキュート",
+          "text": "トラブル？　違うよぉ～ あたしたちが追ってるわけは――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 16,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "読み通り、トランセンドは屋上にいた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 16,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 1080,
+          "speaker_name": "トランセンド",
+          "text": "あれ、トレーナーちゃん？ どうしたの？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 16,
+              "loop_ends_at_frame": -1,
+              "text": "ごめん、居場所教えちゃった",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 16,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 1080,
+          "speaker_name": "トランセンド",
+          "text": "ええー、マジかー。 ……もしかして、事情知っちゃった？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 16,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 1100,
+          "speaker_name": "ワンダーアキュート",
+          "text": "おぉ、見つけたよぉ～！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 16,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 19,
+          "character_id": 1079,
+          "speaker_name": "フリオーソ",
+          "text": "トランさん。今日という今日は―― 感謝を伝えさせていただきますよ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 16,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 20,
+          "character_id": 1080,
+          "speaker_name": "トランセンド",
+          "text": "……うんうん。それで？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "20": {
+      "frame_id": 20,
+      "background_id": 280,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 21,
+          "character_id": 1048,
+          "speaker_name": "トーセンジョーダン",
+          "text": "だってトランさん、 いっつも助けてくれんのに、 全然お礼受けとってくんないじゃん？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "21": {
+      "frame_id": 21,
+      "background_id": 280,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 22,
+          "character_id": 1114,
+          "speaker_name": "ブエナビスタ",
+          "text": "いつも言い訳して、すぐ逃げちゃいますし！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "22": {
+      "frame_id": 22,
+      "background_id": 280,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 23,
+          "character_id": 1100,
+          "speaker_name": "ワンダーアキュート",
+          "text": "だからトランさんにちゃんと お礼したいなぁって思ってねぇ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "23": {
+      "frame_id": 23,
+      "background_id": 280,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 24,
+          "character_id": 1079,
+          "speaker_name": "フリオーソ",
+          "text": "協力して、追いかけよう という話になったのです。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "24": {
+      "frame_id": 24,
+      "background_id": 16,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 25,
+          "character_id": 1080,
+          "speaker_name": "トランセンド",
+          "text": "……ふへへ、そっか。 お手数かけちゃったね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "25": {
+      "frame_id": 25,
+      "background_id": 16,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 26,
+          "character_id": 1080,
+          "speaker_name": "トランセンド",
+          "text": "（ホントみんないい子だね。 ウチも手助けのしがいがあるよ。でも――）",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "26": {
+      "frame_id": 26,
+      "background_id": 16,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 27,
+          "character_id": 1048,
+          "speaker_name": "トーセンジョーダン",
+          "text": "トランさんも見つけたことだし、 カフェテリア行くっしょ☆",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "27": {
+      "frame_id": 27,
+      "background_id": 16,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 28,
+          "character_id": 1114,
+          "speaker_name": "ブエナビスタ",
+          "text": "ささやかながらお茶会の用意を させていただきましたので、 ぜひお越しください。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "28": {
+      "frame_id": 28,
+      "background_id": 16,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 29,
+          "character_id": 1080,
+          "speaker_name": "トランセンド",
+          "text": "おやおや、そこまでしてもらって悪いねぇ。 そんじゃ、ご馳走になろうかね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "29": {
+      "frame_id": 29,
+      "background_id": 7,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 30,
+          "character_id": 1080,
+          "speaker_name": "トランセンド",
+          "text": "ふぅ……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 30,
+              "loop_ends_at_frame": -1,
+              "text": "お茶会は終わったの？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "30": {
+      "frame_id": 30,
+      "background_id": 7,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 31,
+          "character_id": 1080,
+          "speaker_name": "トランセンド",
+          "text": "まだ絶賛開催中だよ。美味しいお菓子や プレゼントまで用意してくれて、 本当に優しい子たちだよ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "31": {
+      "frame_id": 31,
+      "background_id": 7,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 32,
+          "character_id": 1080,
+          "speaker_name": "トランセンド",
+          "text": "でも、ウチは当然のことをしてるだけだから こんなに感謝されると戸惑っちゃうね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "32": {
+      "frame_id": 32,
+      "background_id": 7,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 33,
+          "character_id": 1080,
+          "speaker_name": "トランセンド",
+          "text": "感謝だとかお礼だとか、 情報屋には似合わないじゃん？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "33": {
+      "frame_id": 33,
+      "background_id": 7,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 34,
+          "character_id": 1080,
+          "speaker_name": "トランセンド",
+          "text": "ふふ、ホ～ント困った困った。 営業妨害だってば、ねえ？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "34": {
+      "frame_id": 34,
+      "background_id": 7,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 35,
+          "character_id": 1080,
+          "speaker_name": "トランセンド",
+          "text": "どしたの？　ニヤニヤしちゃって。 変なトレーナーちゃん。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "35": {
+      "frame_id": 35,
+      "background_id": 7,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 36,
+          "character_id": 1080,
+          "speaker_name": "トランセンド",
+          "text": "それじゃあそろそろ戻りますか。 一応主役ですからね♪",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "36": {
+      "frame_id": 36,
+      "background_id": 7,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "そう言って歩き出すトランセンドの 足取りは実に軽やかだった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

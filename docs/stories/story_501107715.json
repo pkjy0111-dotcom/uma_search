@@ -1,0 +1,429 @@
+{
+  "story_id": "501107715",
+  "casts": [
+    90001,
+    1042,
+    1107,
+    -1
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "タップダンスシチーのトレーニング後、 後片付けをしていると――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 1042,
+          "speaker_name": "シーキングザパール",
+          "text": "ハァハァ……もう1周！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 1107,
+          "speaker_name": "タップダンスシチー",
+          "text": "AHOY!　アンタも上がったらどうだ？ それ以上はオーバーワークだろう。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 1042,
+          "speaker_name": "シーキングザパール",
+          "text": "ノンノン！ パッションが尽きぬ限り、私は走り続けるわ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 1042,
+          "speaker_name": "シーキングザパール",
+          "text": "輝かしい未来のため、私を待つ世界のため、 私は努力を惜しまない――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 1042,
+          "speaker_name": "シーキングザパール",
+          "text": "貴方は、どう？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 1107,
+          "speaker_name": "タップダンスシチー",
+          "text": "っ！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 1107,
+          "speaker_name": "タップダンスシチー",
+          "text": "I'm in!　アタシにも叶えたい夢がある！ そのためならどんな苦労も惜しまないさ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 1107,
+          "speaker_name": "タップダンスシチー",
+          "text": "トレーナー、アタシも残って 自主トレしてから帰るよ。いいよな？",
+          "flag_type": "",
+          "flag": "male_trainer",
+          "choices": [
+            {
+              "next_frame": 11,
+              "loop_ends_at_frame": -1,
+              "text": "ああ、やれることをやり尽くそう！",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 11,
+              "loop_ends_at_frame": -1,
+              "text": "うん、やれることをやり尽くそう！",
+              "flag_type": "",
+              "flag": "female_trainer"
+            },
+            {
+              "next_frame": 14,
+              "loop_ends_at_frame": -1,
+              "text": "今は休むことがベストだ",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 14,
+              "loop_ends_at_frame": -1,
+              "text": "今は休むことがベストだよ",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 1107,
+          "speaker_name": "タップダンスシチー",
+          "text": "トレーナー、アタシも残って 自主トレしてから帰るよ。いいよな？",
+          "flag_type": "",
+          "flag": "female_trainer",
+          "choices": [
+            {
+              "next_frame": 11,
+              "loop_ends_at_frame": -1,
+              "text": "ああ、やれることをやり尽くそう！",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 11,
+              "loop_ends_at_frame": -1,
+              "text": "うん、やれることをやり尽くそう！",
+              "flag_type": "",
+              "flag": "female_trainer"
+            },
+            {
+              "next_frame": 14,
+              "loop_ends_at_frame": -1,
+              "text": "今は休むことがベストだ",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 14,
+              "loop_ends_at_frame": -1,
+              "text": "今は休むことがベストだよ",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 1042,
+          "speaker_name": "シーキングザパール",
+          "text": "Good!　共に走り出しましょう！ 目指せ栄光のフューチャーよ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 1107,
+          "speaker_name": "タップダンスシチー",
+          "text": "太陽は沈んでも、アタシたちは止まらない！ Here we go!!",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "タップダンスシチーは時間の許す限り、 自主トレーニングをするのだった！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "即効性はなくとも、長期的視点で タップダンスシチーの力になるメニューを 組んでいる。信じてほしいと訴えると――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 1107,
+          "speaker_name": "タップダンスシチー",
+          "text": "なるほどな……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 1107,
+          "speaker_name": "タップダンスシチー",
+          "text": "OK、乗った！　そこまで言うなら、 その策に賭けてみようじゃないか。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 1042,
+          "speaker_name": "シーキングザパール",
+          "text": "フフッ、厚い信頼ね。 それもまたグッドチョイスよ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 19,
+          "character_id": 1107,
+          "speaker_name": "タップダンスシチー",
+          "text": "アンタもほどほどにな。 ――さ、帰ろうかトレーナー。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "タップダンスシチーは無理せず 体を休めるのだった！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

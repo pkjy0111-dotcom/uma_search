@@ -1,0 +1,1052 @@
+{
+  "story_id": "041026001",
+  "casts": [
+    1026,
+    90435,
+    90001,
+    90420,
+    -1
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "ウマ娘のトレーナーとして\r トレセン学園での生活を始めてから、早数日。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 1026,
+          "speaker_name": "？？？",
+          "text": "エラー発生。目的の座標にて、該当物件なし。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "商店街を歩いていると――\r 1人のウマ娘が立ち尽くしている姿を見かけた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 1026,
+          "speaker_name": "？？？",
+          "text": "端末のGPS機能にも、エラー発生。\r バッドステータス、『万事休す』であると判断。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 5,
+              "loop_ends_at_frame": -1,
+              "text": "……どうしたんだ？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 5,
+              "loop_ends_at_frame": -1,
+              "text": "……どうしたの？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 1026,
+          "speaker_name": "ミホノブルボン",
+          "text": "……バッジからトレセン学園のトレーナーであることを確認。\r 初めまして、私の名前はミホノブルボンです。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 1026,
+          "speaker_name": "ミホノブルボン",
+          "text": "現在、バッドステータス『万事休す』が発生中。\r この近辺に新しくできたトレーニング用品店が見当たりません。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 1026,
+          "speaker_name": "ミホノブルボン",
+          "text": "商店街の方から、『この通りをだいたい100ｍ』と伺ったので\r 歩いてきたのですが、それらしき店舗が周辺に見つかりません。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 1026,
+          "speaker_name": "ミホノブルボン",
+          "text": "また、端末も急なエラーが発生し、地図アプリの展開が困難です。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "店の場所はわからなかったが、\r 代わりにアプリで調べることならできそうだ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 10,
+              "loop_ends_at_frame": -1,
+              "text": "調べようか",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 1026,
+          "speaker_name": "ミホノブルボン",
+          "text": "恐れ入ります。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "店の場所はすぐわかった。あと42ｍほど歩いたところにある\r ようだ。目を凝らしてみると、たしかにそのような店がある。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 12,
+              "loop_ends_at_frame": -1,
+              "text": "ここから、もう少し歩いたところにある",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 12,
+              "loop_ends_at_frame": -1,
+              "text": "ここから、もう少し歩いたところにあるよ",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 1026,
+          "speaker_name": "ミホノブルボン",
+          "text": "……すみません、『もう少し』とは？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 13,
+              "loop_ends_at_frame": -1,
+              "text": "え？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 1026,
+          "speaker_name": "ミホノブルボン",
+          "text": "つまり『もう少し』とは、数値化するとどれほどの距離でしょうか。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 14,
+              "loop_ends_at_frame": -1,
+              "text": "40ちょっとかな？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 1026,
+          "speaker_name": "ミホノブルボン",
+          "text": "……『40ちょっと』……？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 15,
+              "loop_ends_at_frame": -1,
+              "text": "……42m先です",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 1026,
+          "speaker_name": "ミホノブルボン",
+          "text": "認識完了。ありがとうございます。ここから42m先、ですね。\r 先ほどインプットした情報に42mの誤差があったと判明。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 1026,
+          "speaker_name": "ミホノブルボン",
+          "text": "想定外でしたが、そもそもこれは私のリサーチ不足。\r エラーログに記録し、再発防止に努めます。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 1026,
+          "speaker_name": "ミホノブルボン",
+          "text": "それでは、ありがとうございました。\r 大変、助かりました。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 19,
+          "character_id": 1026,
+          "speaker_name": "ミホノブルボン",
+          "text": "42m前進。オペレーション開始。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 19,
+              "loop_ends_at_frame": -1,
+              "text": "（不思議な子だなぁ……）",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 20,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "……念のため見守っていると、今度はきちんと目的地であろう\r 店の前で足を止め、無事入店していった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "20": {
+      "frame_id": 20,
+      "background_id": 74,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 21,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "そんな一風変わったウマ娘と出会った翌日のこと。\r スカウトしたいウマ娘を探すべく、模擬レースを観に来ていた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "21": {
+      "frame_id": 21,
+      "background_id": 74,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 22,
+          "character_id": 90435,
+          "speaker_name": "新人トレーナー",
+          "text": "このレース、ミホノブルボンがいるんすね。\r 入学前のレースでも結構いい成績残してませんでした？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "22": {
+      "frame_id": 22,
+      "background_id": 74,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 23,
+          "character_id": 90420,
+          "speaker_name": "中堅トレーナー",
+          "text": "サイボーグみたいな子よね？\r グラウンドで見たことがあるわ。でも、たしかもう――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "23": {
+      "frame_id": 23,
+      "background_id": 74,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 24,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "観客席は、同じようにスカウト目的で見学に来たトレーナーで\r 賑わっており、誰もが有望株を引き抜こうと目を凝らしていた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "24": {
+      "frame_id": 24,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 25,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "（ガコンッ）",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "25": {
+      "frame_id": 25,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 26,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "ゲートが開く音が響く。\r ジャージに身を包んだウマ娘たちが、一斉に飛び出した。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "26": {
+      "frame_id": 26,
+      "background_id": 3,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 27,
+          "character_id": 90435,
+          "speaker_name": "新人トレーナー",
+          "text": "先頭、随分飛ばしてますね！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "27": {
+      "frame_id": 27,
+      "background_id": 3,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 28,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "先頭のウマ娘――ミホノブルボンは、早々に抜け出し\r 先行集団からあっという間に距離を開いてみせた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "28": {
+      "frame_id": 28,
+      "background_id": 3,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 29,
+          "character_id": 1026,
+          "speaker_name": "ミホノブルボン",
+          "text": "はっ、はっ、はっ、はっ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "29": {
+      "frame_id": 29,
+      "background_id": 3,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 30,
+          "character_id": 90420,
+          "speaker_name": "中堅トレーナー",
+          "text": "噂通り、魅力的なスピードだわ。\r 短距離路線はとんでもない大型新人が現れたわね……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "30": {
+      "frame_id": 30,
+      "background_id": 3,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 31,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "誰もが圧倒される中、ミホノブルボンは\r 独走状態で最終直線を駆け抜け――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "31": {
+      "frame_id": 31,
+      "background_id": 3,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 32,
+          "character_id": 1026,
+          "speaker_name": "ミホノブルボン",
+          "text": "はぁっ、はぁっ、はぁっ――！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "32": {
+      "frame_id": 32,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 33,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "1度も影を踏ませず、悠々と1着をもぎ取ってみせた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 33,
+              "loop_ends_at_frame": -1,
+              "text": "（なんて才能だ……！）",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 33,
+              "loop_ends_at_frame": -1,
+              "text": "（なんて才能……！）",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "33": {
+      "frame_id": 33,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 34,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "先日街中で出会った彼女からは、想像もつかない力強いスピード。\r 才能あふれる走りに、完全に心を奪われてしまった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "34": {
+      "frame_id": 34,
+      "background_id": 74,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 35,
+          "character_id": 90435,
+          "speaker_name": "新人トレーナー",
+          "text": "すごい有望株っすね……！\r 他にとられる前にスカウトしなきゃ――",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 35,
+              "loop_ends_at_frame": -1,
+              "text": "（そうだ、俺も急いで――）",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 35,
+              "loop_ends_at_frame": -1,
+              "text": "（そうだ、私も急いで――）",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "35": {
+      "frame_id": 35,
+      "background_id": 74,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 36,
+          "character_id": 90420,
+          "speaker_name": "中堅トレーナー",
+          "text": "あー、ダメよ。\r もうあの子、トレーナーついちゃってるの……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 36,
+              "loop_ends_at_frame": -1,
+              "text": "えーっ！？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "36": {
+      "frame_id": 36,
+      "background_id": 70,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 37,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "ミホノブルボンに目をやると、確かに1人のトレーナーと\r 話をしている様子が見えた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 37,
+              "loop_ends_at_frame": -1,
+              "text": "（お、遅かった……！）",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "37": {
+      "frame_id": 37,
+      "background_id": 70,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 38,
+          "character_id": 90435,
+          "speaker_name": "新人トレーナー",
+          "text": "あの人、やり手のベテラントレーナーじゃないすか。\r あーあ、先越されちゃったなー。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "38": {
+      "frame_id": 38,
+      "background_id": 70,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 39,
+          "character_id": 90420,
+          "speaker_name": "中堅トレーナー",
+          "text": "バリバリの短距離路線で考えてるって、\r あのトレーナーさん、張り切ってたわよ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "39": {
+      "frame_id": 39,
+      "background_id": 70,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 40,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "すでにトレーナーがいるのなら諦めるほかない。\r 今後の活躍を陰ながら応援しようと心に決めた……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "40": {
+      "frame_id": 40,
+      "background_id": 9,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 41,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "その日の夜。\r 帰宅がてら、ぶらぶらと校内を散歩していると――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "41": {
+      "frame_id": 41,
+      "background_id": 3007,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 42,
+          "character_id": 1026,
+          "speaker_name": "ミホノブルボン",
+          "text": "はぁっ、はぁっ、はぁっ、はぁっ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 42,
+              "loop_ends_at_frame": -1,
+              "text": "（ミホノブルボン……！）",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "42": {
+      "frame_id": 42,
+      "background_id": 3007,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 43,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "自主トレーニング中らしきミホノブルボンを見かけた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "43": {
+      "frame_id": 43,
+      "background_id": 3007,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 44,
+          "character_id": 1026,
+          "speaker_name": "ミホノブルボン",
+          "text": "はぁっ、はぁっ、1800m通過、残り1200m。\r タイム2分04秒っ……。目標速度より大幅に低下……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "44": {
+      "frame_id": 44,
+      "background_id": 3007,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 45,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "タイムを計っているのだろうか。\r それにしても――",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 45,
+              "loop_ends_at_frame": -1,
+              "text": "（……3000m！？）",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "45": {
+      "frame_id": 45,
+      "background_id": 3007,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 46,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "通常、体が出来上がっていないデビュー前のウマ娘に、\r ここまで長い距離のトレーニングをさせることはない。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "46": {
+      "frame_id": 46,
+      "background_id": 3007,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 47,
+          "character_id": 1026,
+          "speaker_name": "ミホノブルボン",
+          "text": "……っ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "47": {
+      "frame_id": 47,
+      "background_id": 9,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 48,
+          "character_id": 1026,
+          "speaker_name": "ミホノブルボン",
+          "text": "はぁ、はぁ、はぁ……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "48": {
+      "frame_id": 48,
+      "background_id": 9,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 49,
+          "character_id": 1026,
+          "speaker_name": "ミホノブルボン",
+          "text": "…………。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 49,
+              "loop_ends_at_frame": -1,
+              "text": "！！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "49": {
+      "frame_id": 49,
+      "background_id": 37,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "突如倒れこんだミホノブルボンに、慌てて駆け寄った――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

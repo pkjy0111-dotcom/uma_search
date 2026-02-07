@@ -1,0 +1,1813 @@
+{
+  "story_id": "501095302",
+  "casts": [
+    0,
+    1024,
+    1095,
+    1130,
+    1100,
+    90001,
+    1044,
+    1054,
+    1080,
+    1051,
+    -1
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "新たな年を迎え、少し経ったある日のこと。 ビリーヴと商店街へ買い出しに来ていた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "今は、金物屋へ紙やすりを補充しに行った ビリーヴを待っているところだ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 3,
+              "loop_ends_at_frame": -1,
+              "text": "よくトレーナー室で使ってるよな、紙やすり",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 3,
+              "loop_ends_at_frame": -1,
+              "text": "よくトレーナー室で使ってるよね、紙やすり",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "すみません、お待たせしました。 紙やすり、なかなか探している 番手のものがなくて。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 4,
+              "loop_ends_at_frame": -1,
+              "text": "番手？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "目の粗さの基準になる番号のことです。 番号が若いほど、目は粗くなります。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "あと……買った時に 福引券をもらったんですが――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 0,
+          "speaker_name": "商店街の人",
+          "text": "さあさ、新春・大福引祭り開催中だよ～！ 特賞はなんと『温泉旅行券』！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 0,
+          "speaker_name": "商店街の人",
+          "text": "1等は『特上にんじんハンバーグ』 2等は『にんじん山盛り』 3等は『にんじん1本』！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 0,
+          "speaker_name": "商店街の人",
+          "text": "と……おや！　あんた去年1等を当ててった ウマ娘のお嬢ちゃんじゃないか！ どうだい、今年も運試し！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 9,
+              "loop_ends_at_frame": -1,
+              "text": "せっかくだし、やっておいでよ",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "あ……はい。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "ビリーヴが抽選器のレバーを手に取り、回す。 その結果は――",
+          "flag_type": "",
+          "flag": "chance_branch_root",
+          "choices": []
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 0,
+          "speaker_name": "商店街の人",
+          "text": "なんとっ！　おめでとうございまぁぁぁす！！ 特賞『温泉旅行券』、出ましたぁ～～～～！！",
+          "flag_type": "",
+          "flag": "chance_branch_leaf",
+          "choices": []
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "『<itemname>』を獲得した",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "……えっ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "……当たっちゃった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "じゃあ、トレーナーさん、どうぞ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 16,
+              "loop_ends_at_frame": -1,
+              "text": "いやいやいや！？……去年も言ったけど！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "いえ。こちらこそ去年言いましたが、 僕、旅行はそれほど。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 17,
+              "loop_ends_at_frame": -1,
+              "text": "うっ……いや、でも……！！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "……では『報酬』だと、どうですか？ あなたの仕事への対価です。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 18,
+              "loop_ends_at_frame": -1,
+              "text": "それは、給料をもらってるから……",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 19,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "それは学園からの報酬です。 これは、僕からの報酬です。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 20,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "仕事には、相応しい報酬があるべきです。 それは生活を続け、仕事を続けてゆくために 必要なものだから。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "20": {
+      "frame_id": 20,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 21,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "普段、僕から渡せるものはありません。 でも、今日のいまなら。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 21,
+              "loop_ends_at_frame": -1,
+              "text": "その理屈なら、君にも報酬があるべきだ！",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 21,
+              "loop_ends_at_frame": -1,
+              "text": "その理屈なら、貴方にも報酬があるべき！",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "21": {
+      "frame_id": 21,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 22,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "だって自分たちは『一緒に』仕事をしている。 なのに自分だけ報酬があるのはおかしい！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 22,
+              "loop_ends_at_frame": -1,
+              "text": "（ここは譲らない……！！）",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "22": {
+      "frame_id": 22,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 23,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "……………………。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "23": {
+      "frame_id": 23,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 24,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "（――あ、全然退かない……）",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "24": {
+      "frame_id": 24,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 25,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "……なるほど。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "25": {
+      "frame_id": 25,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 26,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "理屈は、わかりました。 ……納得します。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 26,
+              "loop_ends_at_frame": -1,
+              "text": "え！じゃあ……！！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "26": {
+      "frame_id": 26,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 27,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "この券は、僕が預かっておきます。 そして、仕事に区切りがついたら――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "27": {
+      "frame_id": 27,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 28,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "僕とあなたで、使いましょう。 ……あるべき報酬の姿として。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 28,
+              "loop_ends_at_frame": -1,
+              "text": "ああ。そうしよう！",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 28,
+              "loop_ends_at_frame": -1,
+              "text": "うん。そうしよう！",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "28": {
+      "frame_id": 28,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 29,
+          "character_id": 0,
+          "speaker_name": "商店街の人",
+          "text": "お、おお……なんだか、 変わったおふたりさんだなぁ……？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "29": {
+      "frame_id": 29,
+      "background_id": 17,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 30,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "……………………。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "30": {
+      "frame_id": 30,
+      "background_id": 17,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 31,
+          "character_id": 1130,
+          "speaker_name": "ラッキーライラック",
+          "text": "あら、ビリーヴさん！ なんや……ちょこっとご機嫌です？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "31": {
+      "frame_id": 31,
+      "background_id": 17,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 32,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "え？　ああ……どうでしょう。 ただ――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "32": {
+      "frame_id": 32,
+      "background_id": 17,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "……珍しく、粘り負けたな、と思って。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "33": {
+      "frame_id": 33,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 34,
+          "character_id": 0,
+          "speaker_name": "商店街の人",
+          "text": "おめでとうございます、1等賞～！ 賞品は『特上にんじんハンバーグ』です！",
+          "flag_type": "",
+          "flag": "chance_branch_leaf",
+          "choices": []
+        }
+      ]
+    },
+    "34": {
+      "frame_id": 34,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 35,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "『<itemname>』を獲得した",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "35": {
+      "frame_id": 35,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 36,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "ではトレーナーさん、どうぞ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 36,
+              "loop_ends_at_frame": -1,
+              "text": "いやいや！俺じゃ食べきれなさそうだし……",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 36,
+              "loop_ends_at_frame": -1,
+              "text": "いやいや！私じゃ食べきれなさそうだし……",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "36": {
+      "frame_id": 36,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 37,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "でも、僕もそこまで食べるほうじゃ――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "37": {
+      "frame_id": 37,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 38,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "……いや、そうか。 なら、僕じゃなくて…………。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "38": {
+      "frame_id": 38,
+      "background_id": 17,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 39,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "ということなので、差し上げます。 どうぞ、アキュートさん。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "39": {
+      "frame_id": 39,
+      "background_id": 17,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 40,
+          "character_id": 1100,
+          "speaker_name": "ワンダーアキュート",
+          "text": "あれまあ、立派なにんじんハンバーグだねぇ！ 嬉しいけれども……どうしてあたしに？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "40": {
+      "frame_id": 40,
+      "background_id": 17,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 41,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "大根のぬか漬けをよく分けていただくので。 そのお礼です。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "41": {
+      "frame_id": 41,
+      "background_id": 17,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 42,
+          "character_id": 1100,
+          "speaker_name": "ワンダーアキュート",
+          "text": "このぽりぽりさんかい？　ビリーヴちゃんは いっつも残さず食べてくれるわよねぇ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "42": {
+      "frame_id": 42,
+      "background_id": 17,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 43,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "それは……おいしいので。 ……とてもおいしいので。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "43": {
+      "frame_id": 43,
+      "background_id": 17,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 44,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "確かな技術の光る、ぬか漬けなのに…… ただでもらっているの、気になってたんです。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "44": {
+      "frame_id": 44,
+      "background_id": 17,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 45,
+          "character_id": 1080,
+          "speaker_name": "トランセンド",
+          "text": "おっ、な～んか微笑ましいことになってね？ やほー、アキュトラ部屋にようこそ、 ビリーヴちゃん。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "45": {
+      "frame_id": 45,
+      "background_id": 17,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 46,
+          "character_id": 1080,
+          "speaker_name": "トランセンド",
+          "text": "にんじんハンバーグね、ふむりふむり。 そんじゃ、ここはいっちょ――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "46": {
+      "frame_id": 46,
+      "background_id": 329,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 47,
+          "character_id": 1080,
+          "speaker_name": "トランセンド",
+          "text": "持ち寄りパーティーしちゃおうぜ～い！ いぇいいぇーい☆",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "47": {
+      "frame_id": 47,
+      "background_id": 329,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 48,
+          "character_id": 1080,
+          "speaker_name": "トランセンド",
+          "text": "ってことで、ウチが持ってきたのはコレ！！ 『途中で味が変わる、不思議ドリンク』～。 みんなで盛り上がっちゃおうぜい。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "48": {
+      "frame_id": 48,
+      "background_id": 329,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 49,
+          "character_id": 1100,
+          "speaker_name": "ワンダーアキュート",
+          "text": "トランさんはさすが、ハイカラね～！ どんな味か楽しみだよぉ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "49": {
+      "frame_id": 49,
+      "background_id": 329,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 50,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "僕からは……ええと。 『がんもどきの煮びたし』です。 ……箸休めにどうぞ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "50": {
+      "frame_id": 50,
+      "background_id": 329,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 51,
+          "character_id": 1100,
+          "speaker_name": "ワンダーアキュート",
+          "text": "あらあら、まあ～♪ お口がさっぱりしそうで、 これまた素敵だねぇ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "51": {
+      "frame_id": 51,
+      "background_id": 329,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "ということで、楽しいパーティーの時間を 過ごせたビリーヴなのだった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "52": {
+      "frame_id": 52,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 53,
+          "character_id": 0,
+          "speaker_name": "商店街の人",
+          "text": "2等賞～！！ 賞品は『にんじん山盛り』です！",
+          "flag_type": "",
+          "flag": "chance_branch_leaf",
+          "choices": []
+        }
+      ]
+    },
+    "53": {
+      "frame_id": 53,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 54,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "『<itemname>』を獲得した",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "54": {
+      "frame_id": 54,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 55,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "……本当にすごい量ですね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "55": {
+      "frame_id": 55,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 56,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "あの、トレーナーさん――",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 56,
+              "loop_ends_at_frame": -1,
+              "text": "1本だけ分けてもらえたら十分だよ……！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "56": {
+      "frame_id": 56,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 57,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "……まあ、ですよね。 だとしたら、後は……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "57": {
+      "frame_id": 57,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 58,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "（あ、そうだ、これだけあれば……）",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "58": {
+      "frame_id": 58,
+      "background_id": 139,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 59,
+          "character_id": 1054,
+          "speaker_name": "ビコーペガサス",
+          "text": "うひゃ～っ、すごいすごいすごい！！ にんじんでチョウチョなんて ホントに作れちゃうんだなー！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "59": {
+      "frame_id": 59,
+      "background_id": 139,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 60,
+          "character_id": 1051,
+          "speaker_name": "ニシノフラワー",
+          "text": "梅や菊のお花も、とってもきれいです……！ あの、もっと見ていても大丈夫ですか？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "60": {
+      "frame_id": 60,
+      "background_id": 139,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 61,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "……構いませんが。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "61": {
+      "frame_id": 61,
+      "background_id": 139,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 62,
+          "character_id": 1044,
+          "speaker_name": "スイープトウショウ",
+          "text": "ちょっとちょっと！ ここで魔法使ってる子がいるんですって～！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "62": {
+      "frame_id": 62,
+      "background_id": 139,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 63,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "いえ、ただの飾り切りですが……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "63": {
+      "frame_id": 63,
+      "background_id": 139,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 64,
+          "character_id": 1024,
+          "speaker_name": "マヤノトップガン",
+          "text": "なんかおもしろそーなことやってる～！！ マヤにも見せて、見せてっ♪",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "64": {
+      "frame_id": 64,
+      "background_id": 139,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 65,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "（どんどん増えるな……）",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "65": {
+      "frame_id": 65,
+      "background_id": 107,
+      "sub_background_id": 10,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 66,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "（おばあちゃんの飾り切りの技…… たくさんあるなら僕も練習しようって、 思っただけなんだけど……）",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "66": {
+      "frame_id": 66,
+      "background_id": 107,
+      "sub_background_id": 10,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 67,
+          "character_id": 0,
+          "speaker_name": "みんな",
+          "text": "『うわぁ～！！　すっごーい！！』",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "67": {
+      "frame_id": 67,
+      "background_id": 107,
+      "sub_background_id": 10,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 68,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "（……まあ、いいか）",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "68": {
+      "frame_id": 68,
+      "background_id": 107,
+      "sub_background_id": 10,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "（切った分は、まとめて煮て…… この子たちに、食べてもらおう）",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "69": {
+      "frame_id": 69,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 70,
+          "character_id": 0,
+          "speaker_name": "商店街の人",
+          "text": "3等賞～！ 賞品は『にんじん1本』です！",
+          "flag_type": "",
+          "flag": "chance_branch_leaf",
+          "choices": []
+        }
+      ]
+    },
+    "70": {
+      "frame_id": 70,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 71,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "『<itemname>』を獲得した",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "71": {
+      "frame_id": 71,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 72,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "はずれるよりはましだが、1本だけとは なんだかさみしいものだ……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "72": {
+      "frame_id": 72,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 73,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "と、思っていたのだが。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "73": {
+      "frame_id": 73,
+      "background_id": 33,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 74,
+          "character_id": 0,
+          "speaker_name": "謎の老人A",
+          "text": "あああっ、にんじん！　にんじんが1本！ あの、そちらいただけませんかのぅ……！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "74": {
+      "frame_id": 74,
+      "background_id": 33,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 75,
+          "character_id": 0,
+          "speaker_name": "謎の老人A",
+          "text": "どうしても！　どうしても今、 にんじん1本がなくては……！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "75": {
+      "frame_id": 75,
+      "background_id": 33,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 76,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "え……あ、はい、どうぞ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "76": {
+      "frame_id": 76,
+      "background_id": 33,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 77,
+          "character_id": 0,
+          "speaker_name": "謎の老人A",
+          "text": "ありがとうございますじゃあ～～！！ ええとお礼に……この石を！！ どうぞお納めくださいませ！　では～！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "77": {
+      "frame_id": 77,
+      "background_id": 33,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 78,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "あっ……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "78": {
+      "frame_id": 78,
+      "background_id": 33,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 79,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "……なんだったんでしょう。 あの方も……この石も。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 79,
+              "loop_ends_at_frame": -1,
+              "text": "なんだったんだろうな……って、ん？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 79,
+              "loop_ends_at_frame": -1,
+              "text": "なんだったんだろうね……って、ん？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "79": {
+      "frame_id": 79,
+      "background_id": 33,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 80,
+          "character_id": 0,
+          "speaker_name": "謎の老人B",
+          "text": "おおお～っ！？　そ、その石！　その赤さ！ まさにワシが探していたものっ！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "80": {
+      "frame_id": 80,
+      "background_id": 33,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 81,
+          "character_id": 0,
+          "speaker_name": "謎の老人B",
+          "text": "どうか交換していただけませぬか！？ この『小瓶』とぜひ！　ぜひに～っ！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "81": {
+      "frame_id": 81,
+      "background_id": 33,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 82,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "………………。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "82": {
+      "frame_id": 82,
+      "background_id": 33,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 83,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "そして、その後も。 次々と現れた老人たちによって、 『小瓶』は『日傘』に変わり――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "83": {
+      "frame_id": 83,
+      "background_id": 33,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 84,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "『日傘』は『花束』に変わり――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "84": {
+      "frame_id": 84,
+      "background_id": 33,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 85,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "『花束』が『コイン』に変わったところで、 ビリーヴがやや早口で言いだした。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "85": {
+      "frame_id": 85,
+      "background_id": 33,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 86,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "トレーナーさん。 ここでやめておきましょう。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "86": {
+      "frame_id": 86,
+      "background_id": 33,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "……そろそろ『屋敷』になりそうです。 寮から移り住むわけにはいかないので。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "87": {
+      "frame_id": 87,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 88,
+          "character_id": 0,
+          "speaker_name": "商店街の人",
+          "text": "残念、はずれ！ 参加賞は『ティッシュ』だよ～。",
+          "flag_type": "",
+          "flag": "chance_branch_leaf",
+          "choices": []
+        }
+      ]
+    },
+    "88": {
+      "frame_id": 88,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 89,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "『<itemname>』を獲得した",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "89": {
+      "frame_id": 89,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 90,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "あっ……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "90": {
+      "frame_id": 90,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 91,
+          "character_id": 1095,
+          "speaker_name": "ビリーヴ",
+          "text": "新年早々これは…… ちょっと、縁起が悪いな……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "91": {
+      "frame_id": 91,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "ややしょんぼりしてしまった ビリーヴなのだった……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

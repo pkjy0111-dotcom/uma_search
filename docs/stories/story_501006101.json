@@ -1,0 +1,656 @@
+{
+  "story_id": "501006101",
+  "casts": [
+    90001,
+    -1,
+    1006
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 1006,
+          "speaker_name": "オグリキャップ",
+          "text": "あけましておめでとう、トレーナー。\r 今年もよろしく頼む。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 2,
+              "loop_ends_at_frame": -1,
+              "text": "こちらこそ、よろしくな！",
+              "flag_type": "male_trainer",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 2,
+              "loop_ends_at_frame": -1,
+              "text": "こちらこそ、よろしくね！",
+              "flag_type": "female_trainer",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 1006,
+          "speaker_name": "オグリキャップ",
+          "text": "おお……元気だな。\r キミがいてくれるのが、心強いよ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 3,
+              "loop_ends_at_frame": -1,
+              "text": "今年の抱負は？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 1006,
+          "speaker_name": "オグリキャップ",
+          "text": "もちろん……\r 『有馬記念で勝つ』！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 1006,
+          "speaker_name": "オグリキャップ",
+          "text": "そこに合わせて成長していきたい。\r それで、最初のレースは？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "気が早いとは思いつつも、\r 自分も年末年始を使って 既に作戦を考えていた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "『有馬記念』は、ファンに強く望まれ\r 選び抜かれたウマ娘だけが走れるレース。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "つまり、これまで同様ファンを増やしつつ、\r 着実にＧⅠでの実績を積むことが求められる。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "そこで――",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 9,
+              "loop_ends_at_frame": -1,
+              "text": "得意な距離から始めてみないか？",
+              "flag_type": "male_trainer",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 9,
+              "loop_ends_at_frame": -1,
+              "text": "得意な距離から始めてみない？",
+              "flag_type": "female_trainer",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 1006,
+          "speaker_name": "オグリキャップ",
+          "text": "得意な距離か……。となると、\r 私が故郷でよく走っていたのは、短距離か――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 1006,
+          "speaker_name": "オグリキャップ",
+          "text": "――マイル。\r うん、マイルがいいな。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 1006,
+          "speaker_name": "オグリキャップ",
+          "text": "マイルなら私も自信がある。\r みんなにいい走りを見せられるだろう。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 12,
+              "loop_ends_at_frame": -1,
+              "text": "みんなにオグリの強さを見せつけよう",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 1006,
+          "speaker_name": "オグリキャップ",
+          "text": "ああ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "まずは得意な距離で勝負してから、\r オグリキャップの可能性を広げていく。 その方向性で話はまとまった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "次の目標レースは……\r 『ＮＨＫマイルカップ』だ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 1006,
+          "speaker_name": "オグリキャップ",
+          "text": "それじゃあ、トレーナー。\r 新年最初に、何をしようか。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 16,
+              "loop_ends_at_frame": -1,
+              "text": "ジムで鍛えよう！",
+              "flag_type": "",
+              "flag": ""
+            },
+            {
+              "next_frame": 20,
+              "loop_ends_at_frame": -1,
+              "text": "たくさん食べて健康な1年にしよう！",
+              "flag_type": "",
+              "flag": ""
+            },
+            {
+              "next_frame": 26,
+              "loop_ends_at_frame": -1,
+              "text": "得意なことを増やそう！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 1006,
+          "speaker_name": "オグリキャップ",
+          "text": "む……。\r 新年早々、ジムに行くのか？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 17,
+              "loop_ends_at_frame": -1,
+              "text": "パワフルに活躍できる年にするためだ！",
+              "flag_type": "male_trainer",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 17,
+              "loop_ends_at_frame": -1,
+              "text": "パワフルに活躍できる年にするためだよ！",
+              "flag_type": "female_trainer",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 1006,
+          "speaker_name": "オグリキャップ",
+          "text": "ふむ……願掛けも入っているのか？\r わかった、鍛えてこよう。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 19,
+          "character_id": 1006,
+          "speaker_name": "オグリキャップ",
+          "text": "その代わり、終わったらご飯も食べたい。\r ご飯も、パワフルの大事な力だからな。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "その後、オグリキャップと\r ジムに向かってしっかり鍛えることができた。 ……その分、食事の量も多くなったが。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "20": {
+      "frame_id": 20,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 21,
+          "character_id": 1006,
+          "speaker_name": "オグリキャップ",
+          "text": "……！\r いいのか……？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "21": {
+      "frame_id": 21,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 22,
+          "character_id": 1006,
+          "speaker_name": "オグリキャップ",
+          "text": "食べて……\r いいのか！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 22,
+              "loop_ends_at_frame": -1,
+              "text": "あ、ああ……",
+              "flag_type": "male_trainer",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 22,
+              "loop_ends_at_frame": -1,
+              "text": "う、うん……",
+              "flag_type": "female_trainer",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "22": {
+      "frame_id": 22,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 23,
+          "character_id": 1006,
+          "speaker_name": "オグリキャップ",
+          "text": "ありがとう……！\r 実は少し不安だったんだ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "23": {
+      "frame_id": 23,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 24,
+          "character_id": 1006,
+          "speaker_name": "オグリキャップ",
+          "text": "お正月は美味しいものがたくさんあるのに、\r 食べてはいけなかったらどうしようと……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "24": {
+      "frame_id": 24,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 25,
+          "character_id": 1006,
+          "speaker_name": "オグリキャップ",
+          "text": "だが、もう安心だな。\r よしトレーナー、お正月を食べつくそう！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "25": {
+      "frame_id": 25,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "その後のことは、\r あまり語りたくない……。 が、オグリキャップの健康には繋がった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "26": {
+      "frame_id": 26,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 27,
+          "character_id": 1006,
+          "speaker_name": "オグリキャップ",
+          "text": "得意なこと……か。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "27": {
+      "frame_id": 27,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 28,
+          "character_id": 1006,
+          "speaker_name": "オグリキャップ",
+          "text": "不器用な私でも、\r やれることが増えるのだろうか？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 28,
+              "loop_ends_at_frame": -1,
+              "text": "じっくり挑戦していこう",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "28": {
+      "frame_id": 28,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 29,
+          "character_id": 1006,
+          "speaker_name": "オグリキャップ",
+          "text": "……そうだな。\r 1年はまだ、始まったばかりだ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "29": {
+      "frame_id": 29,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "不器用ながらも挑戦する意思を見せた\r オグリキャップ。 きっと彼女の技術は向上していくだろう。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

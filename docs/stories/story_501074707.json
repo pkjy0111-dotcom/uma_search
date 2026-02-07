@@ -1,0 +1,522 @@
+{
+  "story_id": "501074707",
+  "casts": [
+    90001,
+    1074,
+    -1
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 39,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 39,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "この日は、メジロブライトの不調が\r 治るようお祈りするため、 神社にやって来ていたのだが……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 39,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 1074,
+          "speaker_name": "メジロブライト",
+          "text": "ふぅ～。\r 今日はよろしくお願いいたします。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 3,
+              "loop_ends_at_frame": -1,
+              "text": "じゃあ、手水で手を清めようか",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 39,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 1074,
+          "speaker_name": "メジロブライト",
+          "text": "お待ちを～。\r その前に、心を落ち着かせましょう。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 39,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 1074,
+          "speaker_name": "メジロブライト",
+          "text": "神さまと接するのですから、\r 心も清めませんと～。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 1074,
+          "speaker_name": "メジロブライト",
+          "text": "ではまずは右手で柄杓を持ち、\r 左手を清めましょうか～。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 1074,
+          "speaker_name": "メジロブライト",
+          "text": "次に清めた左手で、柄杓を持ち替えて――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 1074,
+          "speaker_name": "メジロブライト",
+          "text": "身も心も清めましたわね～。\r 次は、鳥居のところへ移動して――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "と、このようにとても丁寧に\r お詣りの手順をこなしてゆき……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 39,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 1074,
+          "speaker_name": "メジロブライト",
+          "text": "これでお詣りはおしまいですわ。\r お付き合いいただきありがとうございます～。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 10,
+              "loop_ends_at_frame": -1,
+              "text": "随分、しっかりとお詣りしたな",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 10,
+              "loop_ends_at_frame": -1,
+              "text": "随分、しっかりとお詣りしたね",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 39,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 1074,
+          "speaker_name": "メジロブライト",
+          "text": "はい～。この不調、\r なんとしても治していただきたいですもの。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 39,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 1074,
+          "speaker_name": "メジロブライト",
+          "text": "わたくしは、いずれ高みに至りますわ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 39,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 1074,
+          "speaker_name": "メジロブライト",
+          "text": "それも、ただ至ればいいというわけではなく。\r 優雅に、華麗に、凛々しくありながら。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 39,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 1074,
+          "speaker_name": "メジロブライト",
+          "text": "それが、わたくしの目指す、\r メジロのウマ娘ですので。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 39,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 1074,
+          "speaker_name": "メジロブライト",
+          "text": "小さな不調であれ、みっともない姿を\r お見せするわけには参りませんわ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 39,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "なるほど。メジロブライトらしい言い分だ。\r であれば、ぜひとも彼女の願いを 聞き届けてもらいたいものだが――",
+          "flag_type": "",
+          "flag": "chance_branch_root",
+          "choices": []
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 1074,
+          "speaker_name": "メジロブライト",
+          "text": "ぴょん、ぴょん、ぴょん♪",
+          "flag_type": "",
+          "flag": "chance_branch_leaf",
+          "choices": []
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 1074,
+          "speaker_name": "メジロブライト",
+          "text": "見てくださいまし～♪\r ずーんとしていたものが、なくなりましたわ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 18,
+              "loop_ends_at_frame": -1,
+              "text": "お祈りのおかげだな！",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 18,
+              "loop_ends_at_frame": -1,
+              "text": "お祈りのおかげだね！",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 19,
+          "character_id": 1074,
+          "speaker_name": "メジロブライト",
+          "text": "お礼を伝えに参らなければなりませんわね。\r トレーナーさまもぜひ、ご一緒に～。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 19,
+              "loop_ends_at_frame": -1,
+              "text": "もちろん！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "彼女の復調のお礼だ。\r しっかりと感謝を伝えなければ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "20": {
+      "frame_id": 20,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 21,
+          "character_id": 1074,
+          "speaker_name": "メジロブライト",
+          "text": "わわっ――",
+          "flag_type": "",
+          "flag": "chance_branch_leaf",
+          "choices": [
+            {
+              "next_frame": 21,
+              "loop_ends_at_frame": -1,
+              "text": "ブライト……！？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "21": {
+      "frame_id": 21,
+      "background_id": 39,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 22,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "突然、メジロブライトがふらつき倒れかけた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "22": {
+      "frame_id": 22,
+      "background_id": 39,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 23,
+          "character_id": 1074,
+          "speaker_name": "メジロブライト",
+          "text": "申し訳ありません～。\r 少々、立ち眩みを……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "23": {
+      "frame_id": 23,
+      "background_id": 39,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 24,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "どうやら長時間立ちっぱなしだったため、\r バランスを崩してしまったらしい。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 24,
+              "loop_ends_at_frame": -1,
+              "text": "今日はもう帰ろう",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "24": {
+      "frame_id": 24,
+      "background_id": 39,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 1074,
+          "speaker_name": "メジロブライト",
+          "text": "はい……。\r なかなか、すぐにとはいきませんわね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

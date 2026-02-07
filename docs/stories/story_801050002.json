@@ -1,0 +1,561 @@
+{
+  "story_id": "801050002",
+  "casts": [
+    90001,
+    1050,
+    1035,
+    -1
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 15,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 15,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "門限ギリギリの時間にもかかわらず\r ジムの明かりが点いたままになっていたので、 見にくると……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 15,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 1050,
+          "speaker_name": "ナリタタイシン",
+          "text": "っし、バーベル終了。\r 次はレッグプレス50回……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 3,
+              "loop_ends_at_frame": -1,
+              "text": "そろそろ門限だぞ",
+              "flag_type": "male_trainer",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 3,
+              "loop_ends_at_frame": -1,
+              "text": "そろそろ門限だよ",
+              "flag_type": "female_trainer",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 15,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 1050,
+          "speaker_name": "ナリタタイシン",
+          "text": "……だから何。\r 集中してんの、邪魔しないで。",
+          "flag_type": "male_trainer",
+          "flag": "male_trainer",
+          "choices": [
+            {
+              "next_frame": 5,
+              "loop_ends_at_frame": -1,
+              "text": "遅くならないようにな",
+              "flag_type": "male_trainer",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 5,
+              "loop_ends_at_frame": -1,
+              "text": "遅くならないようにね",
+              "flag_type": "female_trainer",
+              "flag": "female_trainer"
+            },
+            {
+              "next_frame": 15,
+              "loop_ends_at_frame": -1,
+              "text": "無理はよくない",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 15,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 1050,
+          "speaker_name": "ナリタタイシン",
+          "text": "……だから何。\r 集中してんの、邪魔しないで。",
+          "flag_type": "female_trainer",
+          "flag": "female_trainer",
+          "choices": [
+            {
+              "next_frame": 5,
+              "loop_ends_at_frame": -1,
+              "text": "遅くならないようにな",
+              "flag_type": "male_trainer",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 5,
+              "loop_ends_at_frame": -1,
+              "text": "遅くならないようにね",
+              "flag_type": "female_trainer",
+              "flag": "female_trainer"
+            },
+            {
+              "next_frame": 15,
+              "loop_ends_at_frame": -1,
+              "text": "無理はよくない",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 15,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 1050,
+          "speaker_name": "ナリタタイシン",
+          "text": "っるさいな。ほっといて。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 15,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 1035,
+          "speaker_name": "ウイニングチケット",
+          "text": "おーい！！　タイシーーーン！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 15,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 1050,
+          "speaker_name": "ナリタタイシン",
+          "text": "……げ。\r もっとうるさいヤツがきた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 15,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 1035,
+          "speaker_name": "ウイニングチケット",
+          "text": "早く帰って変顔じゃんけんやろうよ！\r 昼休みできなかったし！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 15,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 1050,
+          "speaker_name": "ナリタタイシン",
+          "text": "しつこい！\r いくら追っかけてきても、やらないっての！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 15,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 1035,
+          "speaker_name": "ウイニングチケット",
+          "text": "あ！　追いかけっこで勝てばいいの！？\r よーし、絶対捕まえちゃうもんね！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 15,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 1050,
+          "speaker_name": "ナリタタイシン",
+          "text": "はぁ！？　なに勝手に……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 15,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 1035,
+          "speaker_name": "ウイニングチケット",
+          "text": "いちについてー！　よーい！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 15,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 1050,
+          "speaker_name": "ナリタタイシン",
+          "text": "～～ああ、もうっ！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 15,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "ナリタタイシンは、恐るべきダッシュで\r ウイニングチケットを 引き離しにかかっていた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 15,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 1050,
+          "speaker_name": "ナリタタイシン",
+          "text": "舐めないでよ。\r 自己管理くらいしてるっての！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 15,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "ふと、トレーニング器具の下に\r 開きっぱなしのノートが目に入った。 ……緻密に計算された練習内容が書いてある。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 15,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 1050,
+          "speaker_name": "ナリタタイシン",
+          "text": "……ちょっと。\r 人のノート、勝手に見んな。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 18,
+              "loop_ends_at_frame": -1,
+              "text": "すごいな……！",
+              "flag_type": "male_trainer",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 18,
+              "loop_ends_at_frame": -1,
+              "text": "すごいね……！",
+              "flag_type": "female_trainer",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 15,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 19,
+          "character_id": 1050,
+          "speaker_name": "ナリタタイシン",
+          "text": "ふん……別に、こんだけやんなきゃ\r 勝てないってだけだし。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 15,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 20,
+          "character_id": 1050,
+          "speaker_name": "ナリタタイシン",
+          "text": "恵まれてない分、何も持ってない分、\r やってやってやりまくらなきゃ――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "20": {
+      "frame_id": 20,
+      "background_id": 15,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 21,
+          "character_id": 1035,
+          "speaker_name": "ウイニングチケット",
+          "text": "うわぁぁぁ～～～ん！　感動したぁぁ～～！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 21,
+              "loop_ends_at_frame": -1,
+              "text": "……！？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "21": {
+      "frame_id": 21,
+      "background_id": 15,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 22,
+          "character_id": 1050,
+          "speaker_name": "ナリタタイシン",
+          "text": "うわっ……またアンタか、チケット！\r 毎度毎度泣くなっての、やかましい！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "22": {
+      "frame_id": 22,
+      "background_id": 15,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 23,
+          "character_id": 1035,
+          "speaker_name": "ウイニングチケット",
+          "text": "むがっ、むがえにぎだんだげど……\r ギミのはなじがぎごえでぇ～……！！ えらい、えらいよタイシン～～～……！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "23": {
+      "frame_id": 23,
+      "background_id": 15,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 24,
+          "character_id": 1035,
+          "speaker_name": "ウイニングチケット",
+          "text": "でも……でもっ、無理しすぎてないか\r 心配だよぉぉぉぉぉ～～～！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "24": {
+      "frame_id": 24,
+      "background_id": 15,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 25,
+          "character_id": 1050,
+          "speaker_name": "ナリタタイシン",
+          "text": "あーあーあー……わかったよ、もう。\r これじゃ集中できるもんもできないっての。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "25": {
+      "frame_id": 25,
+      "background_id": 15,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 1050,
+          "speaker_name": "ナリタタイシン",
+          "text": "帰ればいいんでしょ、帰れば。\r ……ほら、泣いてないでアンタも行く！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

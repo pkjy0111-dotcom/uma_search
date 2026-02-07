@@ -1,0 +1,865 @@
+{
+  "story_id": "041030005",
+  "casts": [
+    90001,
+    -1,
+    1030
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "時間が空いたのでトレーニングの準備をしておこうと思い、\r 少し早めにコースへ向かうと……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "き、き、きりーつ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "んん、ぜんぜんだめ……。\r もう1回……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 4,
+              "loop_ends_at_frame": -1,
+              "text": "ライス、もう来てたのか",
+              "flag_type": "male_trainer",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 4,
+              "loop_ends_at_frame": -1,
+              "text": "ライス、もう来てたんだ",
+              "flag_type": "female_trainer",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "ひゃああ！？　おっ、おお、お兄さま……！？",
+          "flag_type": "male_trainer",
+          "flag": "male_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "ひゃああ！？　おっ、おお、お姉さま……！？",
+          "flag_type": "female_trainer",
+          "flag": "female_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "あのっ、ご、ごめんなさい。\r まだ来ないかなって思ってたから、ちょっと練習してて……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 7,
+              "loop_ends_at_frame": -1,
+              "text": "なんの練習？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "あぅ、その……号令の、練習。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "明日、日直当番なの。それで……はぁ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 9,
+              "loop_ends_at_frame": -1,
+              "text": "日直、イヤなのか？",
+              "flag_type": "male_trainer",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 9,
+              "loop_ends_at_frame": -1,
+              "text": "日直、イヤなの？",
+              "flag_type": "female_trainer",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "えっ……う、ううん！　そんなことないよ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "ライスはこんなだけど……ちょっとでもクラスの役に立てるなら、\r がんばりたいって、そう思ってるの。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "学級日誌もね、枠がいっぱいになるまでみんなのこと書くし……\r 黒板もたくさんジャンプして、上まで綺麗にしてるんだ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "でも、号令は……すっごくすっごく苦手で……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "大きな声って、出すの難しいし……。\r ライス、緊張するとすぐ声が変な感じになるから……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 14,
+              "loop_ends_at_frame": -1,
+              "text": "なら、俺も練習に協力するよ",
+              "flag_type": "male_trainer",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 14,
+              "loop_ends_at_frame": -1,
+              "text": "なら、私も練習に協力するよ",
+              "flag_type": "female_trainer",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "えっ、お兄さまが……？\r いいの……！？",
+          "flag_type": "male_trainer",
+          "flag": "male_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "えっ、お姉さまが……？\r いいの……！？",
+          "flag_type": "female_trainer",
+          "flag": "female_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 6,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "号令の練習をするため、ライスシャワーと空き教室へやってきた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 6,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "よしっ……じゃあ、やってみるね……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 6,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 19,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "き！　きき、きりぃーつ！　れ、れいっ！\r ちゃくしぇきっ……はぅ！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 19,
+              "loop_ends_at_frame": -1,
+              "text": "ど、どうした！？",
+              "flag_type": "male_trainer",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 19,
+              "loop_ends_at_frame": -1,
+              "text": "ど、どうしたの！？",
+              "flag_type": "female_trainer",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 6,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 20,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "ふわ……ご、ごぇんあしゃい。\r ひた、はんじゃったぁ～……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "20": {
+      "frame_id": 20,
+      "background_id": 6,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 21,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "うぅ……ぜんぜん上手くできなくて、ごめんなさい。\r せっかくお兄さまが協力してくれてるのに……。",
+          "flag_type": "male_trainer",
+          "flag": "male_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "21": {
+      "frame_id": 21,
+      "background_id": 6,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 22,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "うぅ……ぜんぜん上手くできなくて、ごめんなさい。\r せっかくお姉さまが協力してくれてるのに……。",
+          "flag_type": "female_trainer",
+          "flag": "female_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "22": {
+      "frame_id": 22,
+      "background_id": 6,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 23,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "ライス、ほんとにだめな子だ……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "23": {
+      "frame_id": 23,
+      "background_id": 6,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 24,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "でも……。…………。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 24,
+              "loop_ends_at_frame": -1,
+              "text": "諦めたくない？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "24": {
+      "frame_id": 24,
+      "background_id": 6,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 25,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "……っ！\r うん……うんっ。あきらめたくない……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "25": {
+      "frame_id": 25,
+      "background_id": 6,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 26,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "ライスは……だめな子だけど、\r だめな子のままじゃイヤだから……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "26": {
+      "frame_id": 26,
+      "background_id": 6,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 27,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "も……もう1回っ。\r やるから見てて、お兄さま！",
+          "flag_type": "male_trainer",
+          "flag": "male_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "27": {
+      "frame_id": 27,
+      "background_id": 6,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 28,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "も……もう1回っ。\r やるから見てて、お姉さま！",
+          "flag_type": "female_trainer",
+          "flag": "female_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "28": {
+      "frame_id": 28,
+      "background_id": 6,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 29,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "がんばるぞー……おー……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "29": {
+      "frame_id": 29,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 30,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "そして、翌日――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "30": {
+      "frame_id": 30,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 31,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "きりーつ！　礼！\r お兄さま、昨日はありがとうございましたっ！",
+          "flag_type": "male_trainer",
+          "flag": "male_trainer",
+          "choices": [
+            {
+              "next_frame": 32,
+              "loop_ends_at_frame": -1,
+              "text": "ちゃんと号令できたんだな！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "31": {
+      "frame_id": 31,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 32,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "きりーつ！　礼！\r お姉さま、昨日はありがとうございましたっ！",
+          "flag_type": "female_trainer",
+          "flag": "female_trainer",
+          "choices": [
+            {
+              "next_frame": 32,
+              "loop_ends_at_frame": -1,
+              "text": "ちゃんと号令できたんだな！",
+              "flag_type": "male_trainer",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 32,
+              "loop_ends_at_frame": -1,
+              "text": "ちゃんと号令できたんだね！",
+              "flag_type": "female_trainer",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "32": {
+      "frame_id": 32,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 33,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "うん！　……すごいね。お兄さまと一緒だと、\r ライスのだめなとこ、少しずつなくなっていくみたい。",
+          "flag_type": "male_trainer",
+          "flag": "male_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "33": {
+      "frame_id": 33,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 34,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "うん！　……すごいね。お姉さまと一緒だと、\r ライスのだめなとこ、少しずつなくなっていくみたい。",
+          "flag_type": "female_trainer",
+          "flag": "female_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "34": {
+      "frame_id": 34,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 35,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "ふふっ、えへへへ！\r なんだか、今日のトレーニングはいつもよりがんばれそう――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "35": {
+      "frame_id": 35,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 36,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "（ぽつ……）",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "36": {
+      "frame_id": 36,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 37,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "ひゃっ！？　つめた……な、なに？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "37": {
+      "frame_id": 37,
+      "background_id": 37,
+      "sub_background_id": 210,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 38,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "（ザァーーーーー！）",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "38": {
+      "frame_id": 38,
+      "background_id": 37,
+      "sub_background_id": 210,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 39,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "ふわあぁあ！？　うそ、あんなに晴れてたのに……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "39": {
+      "frame_id": 39,
+      "background_id": 1,
+      "sub_background_id": 210,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 40,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "うぅ……ライスのせいだ。\r こんなに不幸な雨、ライスのせいに決まってるよぉ……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "40": {
+      "frame_id": 40,
+      "background_id": 1,
+      "sub_background_id": 210,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 41,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "うぅぅぅ、ごめんなさ～～～～いぃ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "41": {
+      "frame_id": 41,
+      "background_id": 1,
+      "sub_background_id": 210,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "泣き出してしまったライスシャワーを、必死になだめたのだった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

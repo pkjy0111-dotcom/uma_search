@@ -1,0 +1,869 @@
+{
+  "story_id": "501115514",
+  "casts": [
+    90001,
+    90103,
+    90104,
+    1115,
+    -1
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "午後のトレーニングに向けて、準備を行う。 ……が、今日はいつもと事情が少し違う。 それというのも――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 296,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "今朝、オルフェーヴルの今日の予定を 確認していた時――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 296,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 1115,
+          "speaker_name": "オルフェーヴル",
+          "text": "午後は用があってな。 戻りはトレーニングの直前になるだろう。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 296,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 1115,
+          "speaker_name": "オルフェーヴル",
+          "text": "――ああ、そうだ。今日は臣下どももおらぬ。 考慮せよ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "――これは、かなり異例の事態だ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "何故なら、常にオルフェーヴルの側に控え、 身の周りの世話を担っている彼女たちは…… 当然、トレーニング時間でも同様だからだ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 70,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "通常、トレーニング器具やその他必要物品の 準備などは、ある程度ウマ娘本人が行うもの。 だが――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 70,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 90103,
+          "speaker_name": "オルフェの臣下A",
+          "text": "トレーナーさん、 蹄鉄の替えをお持ちしました。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 70,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 90104,
+          "speaker_name": "オルフェの臣下B",
+          "text": "このあとは坂路でしたよね。 私、その間に追加のドリンク作ってきますね！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 10,
+              "loop_ends_at_frame": -1,
+              "text": "いつも悪いな、負担になってないか？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 10,
+              "loop_ends_at_frame": -1,
+              "text": "いつもごめんね、負担になってない？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 70,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 90103,
+          "speaker_name": "オルフェの臣下A",
+          "text": "いえ、負担など！　我々の尽くしたいという 望みを、我が王にお許し頂いているのです！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 70,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 90103,
+          "speaker_name": "オルフェの臣下A",
+          "text": "私どもでスケジュールを照らし合わせ、 きちんと当番制にしておりますし。 ですからどうか、お手伝いさせてください。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 70,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "――このように、オルフェーヴルの場合は 臣下を名乗る生徒たちが常に2人以上随伴し、 率先して雑務を買って出てくれていた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 70,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "故にこそ、所用でオルフェーヴルの戻りが トレーニング直前になる日でも、それまでに 準備を整えておくことができていたのだ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "しかし、今日は違う。自分ひとりで すべての準備を担わなくてはならない……！ 一応早めに準備を始めた、のだが――",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 15,
+              "loop_ends_at_frame": -1,
+              "text": "こんな日に限ってサーキットトレーニング！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "ウマ娘用の超重量級タイヤ、バトルロープ、 メディシンボール等――ヒトの身には過ぎた 器具ばかりだが…………やるしかない！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "まずはタイヤからだ。 今日は5つ必要だが……1つずつなら、 やってやれないことは、ない、はず！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 17,
+              "loop_ends_at_frame": -1,
+              "text": "ふんぎぎぎぎぎ……！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 15,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "なんとかタイヤは運び終えた。 次はアンクルウエイトなどの 地味に重い器具類を借りていかなくては。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 19,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "……トレーニング開始時間まで、 もういくらもない。オルフェーヴルを 待たせることになっては事だ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 19,
+              "loop_ends_at_frame": -1,
+              "text": "（急がないと……――あっ！？）",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 20,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "（ガッ――ドサドサァ！）",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 20,
+              "loop_ends_at_frame": -1,
+              "text": "いっ……たく、ない？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "20": {
+      "frame_id": 20,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 21,
+          "character_id": 1115,
+          "speaker_name": "オルフェーヴル",
+          "text": "――何をしておる。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "21": {
+      "frame_id": 21,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 22,
+          "character_id": 1115,
+          "speaker_name": "オルフェーヴル",
+          "text": "私の行く手を阻むに飽き足らず、 手を煩わせるとは――",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 22,
+              "loop_ends_at_frame": -1,
+              "text": "すまない！ちょっとよろけて――",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 22,
+              "loop_ends_at_frame": -1,
+              "text": "ごめん！ちょっとよろけちゃって――",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "22": {
+      "frame_id": 22,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 23,
+          "character_id": 1115,
+          "speaker_name": "オルフェーヴル",
+          "text": "…………貴様、ひとりで支度しておったのか。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "23": {
+      "frame_id": 23,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 24,
+          "character_id": 1115,
+          "speaker_name": "オルフェーヴル",
+          "text": "今日は……サーキットトレーニングか？ ――ああ、臣下どもは不在だったな。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 24,
+              "loop_ends_at_frame": -1,
+              "text": "ごめん、まだ準備中で……！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "24": {
+      "frame_id": 24,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 25,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "今抱えているウエイトアクセサリのほかにも、 まだ用意できていない器具がある。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "25": {
+      "frame_id": 25,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 26,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "オルフェーヴルの大事なトレーニング時間を 削ってはいけない。急いで――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "26": {
+      "frame_id": 26,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 27,
+          "character_id": 1115,
+          "speaker_name": "オルフェーヴル",
+          "text": "――待て。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "27": {
+      "frame_id": 27,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 28,
+          "character_id": 1115,
+          "speaker_name": "オルフェーヴル",
+          "text": "……貴様、時折殊の外短慮だな。 身の丈に合わぬ仕事は控えよ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "28": {
+      "frame_id": 28,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 29,
+          "character_id": 1115,
+          "speaker_name": "オルフェーヴル",
+          "text": "他の者を頼るなり、メニューを調整するなり、 やりようはあろう。その程度考慮せよ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 29,
+              "loop_ends_at_frame": -1,
+              "text": "でも、それはちょっと忍びない……",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "29": {
+      "frame_id": 29,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 30,
+          "character_id": 1115,
+          "speaker_name": "オルフェーヴル",
+          "text": "くどい。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "30": {
+      "frame_id": 30,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 31,
+          "character_id": 1115,
+          "speaker_name": "オルフェーヴル",
+          "text": "――その身、無断で壊すことは許さぬ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "31": {
+      "frame_id": 31,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 32,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "これは……気遣って、くれたのだろうか？ 確かに、今日の準備は自分の力量を 物理的に超えた作業ではあった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "32": {
+      "frame_id": 32,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 33,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "スマートにこなせなかった自分を―― ヒトの身の脆弱さを、少々不甲斐なく 思うものの……彼女の気遣いには感謝だ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 33,
+              "loop_ends_at_frame": -1,
+              "text": "学園のスタッフの力を借りる",
+              "flag_type": "",
+              "flag": ""
+            },
+            {
+              "next_frame": 37,
+              "loop_ends_at_frame": -1,
+              "text": "トレーニングメニューの一部を変更する",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "33": {
+      "frame_id": 33,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 34,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "ここは、学園のスタッフに助力を乞おう。 自分の力量をよく見極め、適切に 人を頼ることも、仕事の上では重要だ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "34": {
+      "frame_id": 34,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 35,
+          "character_id": 1115,
+          "speaker_name": "オルフェーヴル",
+          "text": "……それでよい。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "35": {
+      "frame_id": 35,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 36,
+          "character_id": 1115,
+          "speaker_name": "オルフェーヴル",
+          "text": "貴様は頭脳労働の方が得手であろう。 肉体労働は他に振って対応せよ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "36": {
+      "frame_id": 36,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 1115,
+          "speaker_name": "オルフェーヴル",
+          "text": "――余計な仕事で能力を潰すなよ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "37": {
+      "frame_id": 37,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 38,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "ここは、トレーニングの一部を変更しよう。 準備できなかったバトルロープなどを 使うのは取りやめ、ジムの利用に切り替える。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 38,
+              "loop_ends_at_frame": -1,
+              "text": "後半はジムになるけど……いいかな？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "38": {
+      "frame_id": 38,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 39,
+          "character_id": 1115,
+          "speaker_name": "オルフェーヴル",
+          "text": "――ふ。よかろう。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "39": {
+      "frame_id": 39,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 40,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "オルフェーヴルは、機嫌よく頷いてくれた。 急な変更も受け入れてくれるあたり、 やはり彼女は度量が大きい。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "40": {
+      "frame_id": 40,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 41,
+          "character_id": 1115,
+          "speaker_name": "オルフェーヴル",
+          "text": "だが、此度の件は猛省することだ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "41": {
+      "frame_id": 41,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 1115,
+          "speaker_name": "オルフェーヴル",
+          "text": "王の所有物としてな。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

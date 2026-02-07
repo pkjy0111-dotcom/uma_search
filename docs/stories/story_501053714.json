@@ -1,0 +1,472 @@
+{
+  "story_id": "501053714",
+  "casts": [
+    90001,
+    1053,
+    -1
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "バンブーメモリーがケガをしてしまったので、 急いで保健室に連れて来た。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 1053,
+          "speaker_name": "バンブーメモリー",
+          "text": "……っ……ヤバいっス……。 まさか、こんな……こんな……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "さすがに落ち込んでいるようだ。 どんな慰めの言葉をかければいいか――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 1053,
+          "speaker_name": "バンブーメモリー",
+          "text": "こんっっっな熱い展開！　ヤバいっス！！！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 1053,
+          "speaker_name": "バンブーメモリー",
+          "text": "ケガという、激熱の逆境！！ それでも諦めず立ち上がるアタシたち……！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 1053,
+          "speaker_name": "バンブーメモリー",
+          "text": "試練は乗り越えるためにある！！ さっそく復帰に向け、ビシバシやるっスよ！！",
+          "flag_type": "",
+          "flag": "male_trainer",
+          "choices": [
+            {
+              "next_frame": 8,
+              "loop_ends_at_frame": -1,
+              "text": "ダメに決まってるだろ",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 8,
+              "loop_ends_at_frame": -1,
+              "text": "ダメに決まってるでしょ",
+              "flag_type": "",
+              "flag": "female_trainer"
+            },
+            {
+              "next_frame": 12,
+              "loop_ends_at_frame": -1,
+              "text": "よし、やるぞ！",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 12,
+              "loop_ends_at_frame": -1,
+              "text": "よし、やろう！",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 1053,
+          "speaker_name": "バンブーメモリー",
+          "text": "試練は乗り越えるためにある！！ さっそく復帰に向け、ビシバシやるっスよ！！",
+          "flag_type": "",
+          "flag": "female_trainer",
+          "choices": [
+            {
+              "next_frame": 8,
+              "loop_ends_at_frame": -1,
+              "text": "ダメに決まってるだろ",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 8,
+              "loop_ends_at_frame": -1,
+              "text": "ダメに決まってるでしょ",
+              "flag_type": "",
+              "flag": "female_trainer"
+            },
+            {
+              "next_frame": 12,
+              "loop_ends_at_frame": -1,
+              "text": "よし、やるぞ！",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 12,
+              "loop_ends_at_frame": -1,
+              "text": "よし、やろう！",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 1053,
+          "speaker_name": "バンブーメモリー",
+          "text": "ええっ！？　この流れで！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 1053,
+          "speaker_name": "バンブーメモリー",
+          "text": "父さんだって、若い頃ケガくらいじゃ 練習を休まなかったって言ってたっスよ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 10,
+              "loop_ends_at_frame": -1,
+              "text": "このレベルのケガなら休んだはず",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 1053,
+          "speaker_name": "バンブーメモリー",
+          "text": "ぐぬぬぬ……。アタシは今、 大ピンチってことっスか……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 1053,
+          "speaker_name": "バンブーメモリー",
+          "text": "わかりました……！　精神修行だと思って、 部屋でジッとしとくっス……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 1053,
+          "speaker_name": "バンブーメモリー",
+          "text": "うおおおっ！！　その言葉を待ってたっス！！ 一緒に最強を目指すっスよ！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "こうして、早々に復帰に向けた ウォーミングアップをすることになり――",
+          "flag_type": "",
+          "flag": "chance_branch_root",
+          "choices": []
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 1053,
+          "speaker_name": "バンブーメモリー",
+          "text": "――うぐっ！",
+          "flag_type": "",
+          "flag": "chance_branch_leaf",
+          "choices": []
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 1053,
+          "speaker_name": "バンブーメモリー",
+          "text": "……ヤバいっス、さっきより痛みが……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 1053,
+          "speaker_name": "バンブーメモリー",
+          "text": "でも、ますます燃えてきたっス……！ 次は別のウォーミングアップを――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 1053,
+          "speaker_name": "バンブーメモリー",
+          "text": "あいたァっ！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "バンブーメモリーの気持ちに体がついてこず、 大人しく休養することになってしまった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 20,
+          "character_id": 1053,
+          "speaker_name": "バンブーメモリー",
+          "text": "――へへっ。この程度の痛み、 ちょうどいいハンデっス。",
+          "flag_type": "",
+          "flag": "chance_branch_leaf",
+          "choices": []
+        }
+      ]
+    },
+    "20": {
+      "frame_id": 20,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 21,
+          "character_id": 1053,
+          "speaker_name": "バンブーメモリー",
+          "text": "トレーナーさんが信じてくれるなら、 アタシに不可能はないっスよ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "21": {
+      "frame_id": 21,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "バンブーメモリーは強い気持ちでケガを 乗り越え、復帰はかなり順調なものとなった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

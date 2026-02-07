@@ -1,0 +1,1064 @@
+{
+  "story_id": "041009006",
+  "casts": [
+    90001,
+    1009,
+    -1
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 29,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 29,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "休日、散歩がてら街を歩いていると――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 29,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "あ、ママ？　忙しいのに、ごめんなさい。\r その……来月のママのスケジュールなんだけど。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 29,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "うん、うん……あ、そうなんだ。\r ん……わかった、ありがとう！　それじゃあ、また！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 29,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "……よし！　滞在してるホテルもわかったし、これでバッチリね！\r あとはプレゼントを用意すれば……ふふっ♪",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 5,
+              "loop_ends_at_frame": -1,
+              "text": "お母さんと電話してたのか？",
+              "flag_type": "male_trainer",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 5,
+              "loop_ends_at_frame": -1,
+              "text": "お母さんと電話してたの？",
+              "flag_type": "female_trainer",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 29,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "ト、トレーナー！？　こんなところでなにを……って、\r もしかして、盗み聞きしてたわけ？　やめてよね、そういうこと！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 29,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "はぁ……来月はママの誕生日だから、送り先を確認してたの。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 29,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "サプライズってやつね。\r ママが驚いてくれるかはわからないけど。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 29,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "ママがもらって1番嬉しいもの……『さすがはスカーレット』って\r 言ってもらえるような、最高のプレゼントを考えなくちゃ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 9,
+              "loop_ends_at_frame": -1,
+              "text": "手伝ってもいいか？",
+              "flag_type": "male_trainer",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 9,
+              "loop_ends_at_frame": -1,
+              "text": "手伝ってもいい？",
+              "flag_type": "female_trainer",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 29,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "アンタが？\r ……まあ、荷物持ちくらいなら役には立ちそうね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 29,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "いいわ、付き合わせてあげる。\r ほら、さっさと行くわよ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 29,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "こうして、ダイワスカーレットの\r プレゼント選びに付き合うことになったのだが――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 29,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "プレゼント選びは難航していた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 29,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "ネックレス……むむっ。\r かわいいけど、ちょっとデザインがママ向きじゃないわ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 29,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "こっちの耳飾りもキレイだけど、キラキラしすぎね。\r ママが付けるならもっと品のある方が……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 29,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "いっそ、服なんてどうかしら。\r あれとか、今1番の人気ブランドで1番売れてる――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 29,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "……だけはあるわね。そこら中で見かけるデザインだわ。\r ママにはもっと、特別感のあるものじゃないと。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 17,
+              "loop_ends_at_frame": -1,
+              "text": "花束とかはどうだ？",
+              "flag_type": "male_trainer",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 17,
+              "loop_ends_at_frame": -1,
+              "text": "花束とかはどう？",
+              "flag_type": "female_trainer",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 29,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "悪くないけど……もっと特別なものをあげたいの。\r せっかくの誕生日だし、ママを思いっきり喜ばせてあげたい。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 29,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 19,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "そのためには、アタシじゃないと選べないような、\r 1番のプレゼントを探さないといけないのよ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 29,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 20,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "……この辺りは見つくしちゃったわね。\r 次、ショッピングモールに行きましょ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "20": {
+      "frame_id": 20,
+      "background_id": 32,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 21,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "うう～ん。種類は多いけど、どれもママに似合うかって\r 考えちゃうと、パッとしないわ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 21,
+              "loop_ends_at_frame": -1,
+              "text": "お母さんが大好きなんだな",
+              "flag_type": "male_trainer",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 21,
+              "loop_ends_at_frame": -1,
+              "text": "お母さんが大好きなんだね",
+              "flag_type": "female_trainer",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "21": {
+      "frame_id": 21,
+      "background_id": 32,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 22,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "あったりまえじゃない！\r だってママは、すっごいウマ娘なんだから！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "22": {
+      "frame_id": 22,
+      "background_id": 32,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 23,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "現役時代はレースで大活躍だったのはもちろん、\r 今も海外を飛び回ってたくさんお仕事をしてるの。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "23": {
+      "frame_id": 23,
+      "background_id": 32,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 24,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "デキるウマ娘って感じで、とにかく素敵なの！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 24,
+              "loop_ends_at_frame": -1,
+              "text": "君にとっての憧れなのか",
+              "flag_type": "male_trainer",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 24,
+              "loop_ends_at_frame": -1,
+              "text": "貴方にとっての憧れなんだね",
+              "flag_type": "female_trainer",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "24": {
+      "frame_id": 24,
+      "background_id": 32,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 25,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "ええ、そうよ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "25": {
+      "frame_id": 25,
+      "background_id": 32,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 26,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "……初めてレースで1番をとった時、ママは近くにいなかったけど、\r 留守電に一言『おめでとう』って入れてくれて。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "26": {
+      "frame_id": 26,
+      "background_id": 32,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 27,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "あの時は、本当に嬉しかったな……。\r 今もね、1番をとると必ずメッセージをくれるの。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "27": {
+      "frame_id": 27,
+      "background_id": 32,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 28,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "たった一言だけだけど……ママの言葉は、アタシの宝物よ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 28,
+              "loop_ends_at_frame": -1,
+              "text": "それが1番を目指すきっかけ？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "28": {
+      "frame_id": 28,
+      "background_id": 32,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 29,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "まあ、そんなところね。\r 今は『負けたくない』って思う、自分自身のためでもあるけど。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "29": {
+      "frame_id": 29,
+      "background_id": 32,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 30,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "とにかく、プレゼントも1番のものを選ばなくちゃ。\r 妥協は絶対にしないから！　ほら、次に行くわよ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "30": {
+      "frame_id": 30,
+      "background_id": 46,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 31,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "……う～ん、そろそろ思いつかなくなってきたわ。\r スイーツもアクセも、靴もダメ……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "31": {
+      "frame_id": 31,
+      "background_id": 46,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 32,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "ねえ、アンタなにかいい案はある？\r 参考までに聞いてあげる。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "32": {
+      "frame_id": 32,
+      "background_id": 46,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 33,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "ちなみに、普通じゃダメよ。このアタシにしかあげられないような、\r とっておきのプレゼントを考えなさい！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "33": {
+      "frame_id": 33,
+      "background_id": 46,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 34,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "とっておきで、1番嬉しいもの。\r ダイワスカーレットのお母さんが喜ぶものと言えば――そうだ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "34": {
+      "frame_id": 34,
+      "background_id": 46,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 35,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "なになに？　なにか思いついたの？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 35,
+              "loop_ends_at_frame": -1,
+              "text": "レースで1番になることだ！",
+              "flag_type": "male_trainer",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 35,
+              "loop_ends_at_frame": -1,
+              "text": "レースで1番になることだよ！",
+              "flag_type": "female_trainer",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "35": {
+      "frame_id": 35,
+      "background_id": 46,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 36,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "……レースで1番？　それをプレゼントに？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "36": {
+      "frame_id": 36,
+      "background_id": 46,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 37,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "ううん……まあ、悪くはないかも？\r ママ、1番とるといつも連絡くれるし……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "37": {
+      "frame_id": 37,
+      "background_id": 46,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 38,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "ママのための1番……1番をとって、インタビューの時に\r ママに『お誕生日おめでとう』って言ったら……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 38,
+              "loop_ends_at_frame": -1,
+              "text": "最高の誕生日になるぞ！",
+              "flag_type": "male_trainer",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 38,
+              "loop_ends_at_frame": -1,
+              "text": "最高の誕生日になるよ！",
+              "flag_type": "female_trainer",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "38": {
+      "frame_id": 38,
+      "background_id": 46,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 39,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "そ、そうよね！\r 誕生日当日、とはいかないかも知れないけど……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "39": {
+      "frame_id": 39,
+      "background_id": 46,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 40,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "他の誰にもあげられない、特別なプレゼント。\r アタシの1番をママに……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "40": {
+      "frame_id": 40,
+      "background_id": 46,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 41,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "アンタにしては、いいトコついたわね。\r 褒めてあげてもいいわ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "41": {
+      "frame_id": 41,
+      "background_id": 46,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 42,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "……よしっ！　決めた！　絶対に次のレースで1番をとる！\r アンタも嬉しいでしょ？　アタシが勝てば！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 42,
+              "loop_ends_at_frame": -1,
+              "text": "もちろん！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "42": {
+      "frame_id": 42,
+      "background_id": 46,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 43,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "なら、モタモタしてられないわ！　さっそくトレーニングよ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "43": {
+      "frame_id": 43,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 44,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "はっ、はっ、はっ……ふぅ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "44": {
+      "frame_id": 44,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 45,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "少し飛ばしすぎたかしら。汗が目に……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "45": {
+      "frame_id": 45,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 46,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "……ううん、でもまだまだ！　もっともっと頑張らないと！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 46,
+              "loop_ends_at_frame": -1,
+              "text": "お母さん、きっと喜ぶぞ",
+              "flag_type": "male_trainer",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 46,
+              "loop_ends_at_frame": -1,
+              "text": "お母さん、きっと喜ぶよ",
+              "flag_type": "female_trainer",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "46": {
+      "frame_id": 46,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 47,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "ええ……そう思うと気力が湧いてくるわ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "47": {
+      "frame_id": 47,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 48,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "ふふっ、インタビューでママに送る言葉、\r 今からちゃんと考えておかなきゃ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "48": {
+      "frame_id": 48,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 49,
+          "character_id": 1009,
+          "speaker_name": "ダイワスカーレット",
+          "text": "さあ続けるわよ、トレーナー！\r アタシは絶対に1番をとる……アンタも気合い入れてよね！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "49": {
+      "frame_id": 49,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 50,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "――後日。\r ダイワスカーレットは、見事レースで“1番”を手に入れた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "50": {
+      "frame_id": 50,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "母親から電話をもらったダイワスカーレットは、\r 小さな子どものような表情で、嬉しそうに笑っていた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

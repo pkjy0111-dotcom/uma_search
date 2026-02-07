@@ -1,0 +1,956 @@
+{
+  "story_id": "501026510",
+  "casts": [
+    90001,
+    1026,
+    90435,
+    -1
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "ある日、\r トレーニングが終わろうかという頃――",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 2,
+              "loop_ends_at_frame": -1,
+              "text": "（猛烈にお腹が痛い……！）",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "トレーニングが終わるまで\r 我慢できると思っていたが、 そうも言っていられなくなってきた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 3,
+              "loop_ends_at_frame": -1,
+              "text": "ほどほどにクールダウンしたらあがってくれ",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 3,
+              "loop_ends_at_frame": -1,
+              "text": "ほどほどにクールダウンしたらあがってね",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 1026,
+          "speaker_name": "ミホノブルボン",
+          "text": "わかりました、マスター。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "しっかりとした返事を受け、\r 安心してトイレへ急いだ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 9,
+      "sub_background_id": 140,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "1時間後。無事腹痛も治り、忘れ物を\r 思い出したためグラウンドへ戻ってくると――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 9,
+      "sub_background_id": 140,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 1026,
+          "speaker_name": "ミホノブルボン",
+          "text": "マスター。お疲れ様です。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 9,
+      "sub_background_id": 140,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "ミホノブルボンが、\r まだクールダウンを行っていた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 8,
+              "loop_ends_at_frame": -1,
+              "text": "まだやってたのか！？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 8,
+              "loop_ends_at_frame": -1,
+              "text": "まだやってたの！？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 9,
+      "sub_background_id": 140,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 1026,
+          "speaker_name": "ミホノブルボン",
+          "text": "はい、『ほどほど』の心拍数に戻るまで\r クールダウンを行っています。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 9,
+              "loop_ends_at_frame": -1,
+              "text": "……どういうことだ？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 9,
+              "loop_ends_at_frame": -1,
+              "text": "……どういうこと？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 9,
+      "sub_background_id": 140,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 1026,
+          "speaker_name": "ミホノブルボン",
+          "text": "『ほどほど』とは『過度でない、\r ちょうど良い程度』という意味の名詞です。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 9,
+      "sub_background_id": 140,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 1026,
+          "speaker_name": "ミホノブルボン",
+          "text": "よって、『過度でない、丁度良い程度』、\r いわゆる『安静時』の心拍数になるまで――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 9,
+      "sub_background_id": 140,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 1026,
+          "speaker_name": "ミホノブルボン",
+          "text": "クールダウンメニューである\r ジョグとウォーキングを行っています。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 9,
+      "sub_background_id": 140,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "……まず、運動時に『安静時』の心拍数に\r 戻るわけがない。だが――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 9,
+      "sub_background_id": 140,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 1026,
+          "speaker_name": "ミホノブルボン",
+          "text": "心拍数、『安静時』より40高いことを確認。\r クールダウンを続行。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 9,
+      "sub_background_id": 140,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "なおも歩こうとするミホノブルボンを止め、\r 次からは具体的な指示を出そうと肝に銘じた、 その数日後――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 15,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "トレーニングが終わろうかという頃、\r 今度は秋川理事長からメールが届いた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 15,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "『トレーナー陣ッ！　求む、緊急集合ッ！』",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 15,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "ミホノブルボンの前回の失敗が気になるが、\r 秋川理事長が集合と言えばただちに集合だ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 18,
+              "loop_ends_at_frame": -1,
+              "text": "（きちんと数字で示せば大丈夫だ……！）",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 18,
+              "loop_ends_at_frame": -1,
+              "text": "（きちんと数字を示せば大丈夫……！）",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 15,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 19,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "軽めのメニューを、具体的な数字を載せて\r 伝え、ジムを後にした。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 15,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 20,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "翌朝、トレーニングのため機材を\r チェックしに、ジムへ行くと――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "20": {
+      "frame_id": 20,
+      "background_id": 15,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 21,
+          "character_id": 1026,
+          "speaker_name": "ミホノブルボン",
+          "text": "おはようございます、マスター。あと\r 4分2秒でトレーニングは終了します。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 21,
+              "loop_ends_at_frame": -1,
+              "text": "なんでまだやってるんだ！？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 21,
+              "loop_ends_at_frame": -1,
+              "text": "なんでまだやってるの！？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "21": {
+      "frame_id": 21,
+      "background_id": 15,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 22,
+          "character_id": 1026,
+          "speaker_name": "ミホノブルボン",
+          "text": "昨夜、途中で機材が壊れました。\r ひと晩修理を試みましたが私のナレッジに 機材の修理メソッドはなく――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "22": {
+      "frame_id": 22,
+      "background_id": 15,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 23,
+          "character_id": 1026,
+          "speaker_name": "ミホノブルボン",
+          "text": "本日朝8時、用務員の方に依頼し修理を行い、\r ようやく先ほど再開できました。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 23,
+              "loop_ends_at_frame": -1,
+              "text": "……！！！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "23": {
+      "frame_id": 23,
+      "background_id": 15,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 24,
+          "character_id": 1026,
+          "speaker_name": "ミホノブルボン",
+          "text": "マスター？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "24": {
+      "frame_id": 24,
+      "background_id": 15,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 25,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "卒倒しそうになるのを堪え、\r 『そういう時は、帰ってしまっていい』 そうハッキリ伝えて、寮へ送り返した。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 25,
+              "loop_ends_at_frame": -1,
+              "text": "（次は絶対に繰り返さない……！）",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "25": {
+      "frame_id": 25,
+      "background_id": 15,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 26,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "そう胸に誓った、さらに数日後――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "26": {
+      "frame_id": 26,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 27,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "トレーニングが終わろうかという頃、\r なんと鳥が激突し、トレーナー室の 窓ガラスが割れたとの連絡が入った……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "27": {
+      "frame_id": 27,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 28,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "前回及び、前々回の失敗が気になるが――\r ケガ人が出る前に片づけなければいけない。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 28,
+              "loop_ends_at_frame": -1,
+              "text": "（今日こそ失敗しないぞ……！）",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 28,
+              "loop_ends_at_frame": -1,
+              "text": "（今日こそ失敗しない……！）",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "28": {
+      "frame_id": 28,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 29,
+          "character_id": 1026,
+          "speaker_name": "ミホノブルボン",
+          "text": "マスター、どうかしましたか。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "29": {
+      "frame_id": 29,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 30,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "そう尋ねるミホノブルボンに、かいつまんで\r 説明し、残りのトレーニングの指示を出した。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 30,
+              "loop_ends_at_frame": -1,
+              "text": "外周ランニング2周！",
+              "flag_type": "",
+              "flag": ""
+            },
+            {
+              "next_frame": 37,
+              "loop_ends_at_frame": -1,
+              "text": "筋トレメニュー1周！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "30": {
+      "frame_id": 30,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 31,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "終わったら、15分クールダウンして\r 帰宅してほしい、そう付け加えると――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "31": {
+      "frame_id": 31,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 32,
+          "character_id": 1026,
+          "speaker_name": "ミホノブルボン",
+          "text": "命令を受理。\r ただちに外周へ向かいます。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "32": {
+      "frame_id": 32,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 33,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "ミホノブルボンは校門へ向かっていった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 33,
+              "loop_ends_at_frame": -1,
+              "text": "（少しだけ、見守ってから……）",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "33": {
+      "frame_id": 33,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 34,
+          "character_id": 1026,
+          "speaker_name": "ミホノブルボン",
+          "text": "――外周ランニング2周、完了。\r クールダウンへ移行します。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "34": {
+      "frame_id": 34,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 35,
+          "character_id": 1026,
+          "speaker_name": "ミホノブルボン",
+          "text": "――15分経過。帰宅フェーズへ移行。\r お疲れ様でした。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "35": {
+      "frame_id": 35,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 36,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "ミホノブルボンは過不足なく\r オーダーをこなしてきちんと帰宅した！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 36,
+              "loop_ends_at_frame": -1,
+              "text": "よし……っ！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "36": {
+      "frame_id": 36,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "トレーナー室は床一面にガラスが\r 散っていたが、気分はどこか晴れやかだった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "37": {
+      "frame_id": 37,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 38,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "鍛える箇所への負荷を意識して\r 行ってほしい、そう付け加えると――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "38": {
+      "frame_id": 38,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 39,
+          "character_id": 1026,
+          "speaker_name": "ミホノブルボン",
+          "text": "命令を受理。\r ただちに筋肉トレーニングを開始します。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "39": {
+      "frame_id": 39,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 40,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "『今回は成功しますように！』そう願いつつ、\r トレーナー室へと急いでいると―― 顔見知りのトレーナーから声をかけられた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "40": {
+      "frame_id": 40,
+      "background_id": 7,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 41,
+          "character_id": 90435,
+          "speaker_name": "新人トレーナー",
+          "text": "あの、ミホノブルボン、さっきありったけの\r タイヤ体に括りつけてたけど……大丈夫？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 41,
+              "loop_ends_at_frame": -1,
+              "text": "！？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "41": {
+      "frame_id": 41,
+      "background_id": 7,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 42,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "急いで引き返すと――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "42": {
+      "frame_id": 42,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 43,
+          "character_id": 1026,
+          "speaker_name": "ミホノブルボン",
+          "text": "腹直筋に、十分な負荷を確認。\r 筋トレメニュー1『腹筋』続行。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "43": {
+      "frame_id": 43,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "大量のタイヤを腰に括ったミホノブルボンが、\r 真剣な表情で腹筋をしていたのだった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

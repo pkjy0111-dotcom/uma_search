@@ -1,0 +1,940 @@
+{
+  "story_id": "501034704",
+  "casts": [
+    90001,
+    1034,
+    -1,
+    90215
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 28,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 28,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "イナリワンと、近くの町まで 出かけている最中のこと――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 28,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "おう、そろそろ小腹が空かねえかい？ なんか入れてやんなきゃあな。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 33,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "……そういや、前におんなじことが あったなあ。ほら、稲荷寿司を食った時よ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 28,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "またうまいもんでも買ってよ、 眺めのいい場所見つくろって 乙な時間を過ごすってなあどうだい？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 5,
+              "loop_ends_at_frame": -1,
+              "text": "いいけど、この辺りには詳しいのか？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 5,
+              "loop_ends_at_frame": -1,
+              "text": "いいけど、この辺りには詳しいの？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 28,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "いんや、知らねえさ。だが心配はいらねえよ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 28,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "ま、ついてきな。 うまいもんにありつけるってのは保証するぜ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "店を探して街を歩いていたとき、 イナリワンは1軒の古めかしい 団子屋の前で立ち止まった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 8,
+              "loop_ends_at_frame": -1,
+              "text": "ここがいいのか？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 8,
+              "loop_ends_at_frame": -1,
+              "text": "ここがいいの？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "まあな。この辺は古い店ばかりだけどよ。 ここは軒先まで掃除が行き届いてやがる。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "それによ、『みたらし団子』って でっかく看板に掲げてんのも気に入った。 手前の作るもんに自信がある証拠だからな！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "さすがの目利きぶり…… 太鼓判を押したイナリワンを信じ、 団子を購入した。そして――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 111,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "おう、いい眺めじゃねえか！ 知らねえ町の景色ってのも、乙なもんだ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 111,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "そんじゃ、この辺で団子広げるとすっかね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 111,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 90215,
+          "speaker_name": "小さな男の子",
+          "text": "ひっく……ひっく……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 111,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "ん？　どうしたんでい坊主？ めそめそしやがって。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 111,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 90215,
+          "speaker_name": "小さな男の子",
+          "text": "たんけんしてたら、 家わかんなくなっちゃった…… ボク、ひっこしてきたばっかりで……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 111,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "ったく、気をしっかり持ちな。 めそめそしてちゃあ、 余計気持ちも落ち込むってもんだ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 111,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 90215,
+          "speaker_name": "小さな男の子",
+          "text": "…………。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 111,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 19,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "なんでい、腹まで空いてんのかい。 そうかそうか、そりゃ心細くなんのも 道理ってもんだなあ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 111,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 20,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "――よしよし。ちょうどうまい団子 持ってっからよ。こいつを食いな。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "20": {
+      "frame_id": 20,
+      "background_id": 111,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 21,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "どうでい。腹いっぱいになったら ちったあ元気も出てきたろう？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "21": {
+      "frame_id": 21,
+      "background_id": 111,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 22,
+          "character_id": 90215,
+          "speaker_name": "小さな男の子",
+          "text": "うん……ありがとう、お姉ちゃん。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "22": {
+      "frame_id": 22,
+      "background_id": 111,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 23,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "お、泣き止んだな。大したもんだ！ そしたら次は家に帰る番だ。 お前さん、住所はわかるかい？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "23": {
+      "frame_id": 23,
+      "background_id": 111,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 24,
+          "character_id": 90215,
+          "speaker_name": "小さな男の子",
+          "text": "うん……かいたメモ、持ってる。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "24": {
+      "frame_id": 24,
+      "background_id": 111,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 25,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "お前さんの親御さんは気が利くねえ！ そうとくりゃ、あとはイナリ様の脚で ぎゅーんと送り届けてやるだけよ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "25": {
+      "frame_id": 25,
+      "background_id": 111,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 26,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "じゃトレーナーさんよ。 あたしはこいつを親元に届けてくるから、 ちょいと待っててくんな。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "26": {
+      "frame_id": 26,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 27,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "――そう言って、イナリワンは男の子を おんぶすると、駆けていった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "27": {
+      "frame_id": 27,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 28,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "団子をあげて、家まで送り届けるイナリワン。 そんな彼女をただ待っているのも なんだと思い――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "28": {
+      "frame_id": 28,
+      "background_id": 111,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 29,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "さあてと、待たせたな！ ばっちり送り届けてきたぜ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 29,
+              "loop_ends_at_frame": -1,
+              "text": "……お腹空いてないか？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 29,
+              "loop_ends_at_frame": -1,
+              "text": "……お腹空いてない？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "29": {
+      "frame_id": 29,
+      "background_id": 111,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 30,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "なーに言ってんだい。 よせやい、心配することねえや。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "30": {
+      "frame_id": 30,
+      "background_id": 111,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 31,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "あの坊主の笑顔だけで、 あたしゃ腹いっぱいってなもん――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "31": {
+      "frame_id": 31,
+      "background_id": 111,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 32,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "……ありゃりゃ。しまらねえな。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 32,
+              "loop_ends_at_frame": -1,
+              "text": "じゃあ、これを",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "32": {
+      "frame_id": 32,
+      "background_id": 111,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 33,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "……ん！？　こいつは あの店の団子じゃねえか！？ まさかお前さん、買い直してきたのかい？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 33,
+              "loop_ends_at_frame": -1,
+              "text": "ただ待っているのもなんだったので",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "33": {
+      "frame_id": 33,
+      "background_id": 111,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 34,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "つっても、こっから団子屋までは 結構な距離だったろうが？ 軽く言ってやがるけどよ……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "34": {
+      "frame_id": 34,
+      "background_id": 111,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 35,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "……へっ。涼しい顔で無理しやがって。 お前さんも、だいぶ粋になってきやがったな。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 35,
+              "loop_ends_at_frame": -1,
+              "text": "アネゴのおかげです！",
+              "flag_type": "",
+              "flag": ""
+            },
+            {
+              "next_frame": 39,
+              "loop_ends_at_frame": -1,
+              "text": "乙なひとときを過ごそう",
+              "flag_type": "",
+              "flag": ""
+            },
+            {
+              "next_frame": 42,
+              "loop_ends_at_frame": -1,
+              "text": "てやんでい、屁のカッパでい！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "35": {
+      "frame_id": 35,
+      "background_id": 111,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 36,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "てやんでい！　よせやい、こそばゆい！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "36": {
+      "frame_id": 36,
+      "background_id": 111,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 37,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "……まあしかしよ。お前さんが いい相棒になったってえのは よくわかったぜい。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "37": {
+      "frame_id": 37,
+      "background_id": 111,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 38,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "へへへ。ったくよ！ いつの間にか背中が頼もしくなりやがって！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "38": {
+      "frame_id": 38,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "そう言って、イナリワンは からかうように背中を ばんばんと叩いたのだった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "39": {
+      "frame_id": 39,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 40,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "そうだなあ。へへ、うまいもんを 食わせるって約束だったもんな。 手前のおかげで破っちまうところだった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "40": {
+      "frame_id": 40,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 41,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "坊主の笑顔、そしてトレーナーさんの 人情味と。こいつは一等うまい団子に なるに決まってらあな！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "41": {
+      "frame_id": 41,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "そうして、イナリワンと団子を食べながら、 乙な思い出を作ったのだった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "42": {
+      "frame_id": 42,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 43,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "おうおう、威勢がいいじゃねえか！ 感心だがよ、さて……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "43": {
+      "frame_id": 43,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 44,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "そう言うと、イナリワンはいきなり ふくらはぎをつんつん突いてきた！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "44": {
+      "frame_id": 44,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 45,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "へっ、ぷるぷるしてやがるじゃねえか。 ほれほれ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "45": {
+      "frame_id": 45,
+      "background_id": 111,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 46,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "へへへ。ま、とにかくよ。疲れてるようだし、 甘いもんでひと休みといこうじゃねえか。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "46": {
+      "frame_id": 46,
+      "background_id": 111,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "今日はご苦労さん。お互いになっ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

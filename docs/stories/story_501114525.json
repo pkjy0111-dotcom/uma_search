@@ -1,0 +1,1216 @@
+{
+  "story_id": "501114525",
+  "casts": [
+    0,
+    90001,
+    92180,
+    90103,
+    1114,
+    -1
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "――今日はブエナビスタと 出かける約束をしていた。 向かった先は……。",
+          "flag_type": "",
+          "flag": "chance_branch_root",
+          "choices": []
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 316,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 1114,
+          "speaker_name": "ブエナビスタ",
+          "text": "わぁっ、とっても賑やか！",
+          "flag_type": "",
+          "flag": "chance_branch_leaf",
+          "choices": []
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 316,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 1114,
+          "speaker_name": "ブエナビスタ",
+          "text": "この前の約束、叶えてくれてありがとう。 今日は、思い切り遊ぼうね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 316,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "先日、『プライベートな時間が減った』 ということに気がついた。 それで少し遠い遊園地に来てみたのだが……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 5,
+              "loop_ends_at_frame": -1,
+              "text": "（ここなら丸一日……ん？）",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 316,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 0,
+          "speaker_name": "通行人たち",
+          "text": "――ねぇ、あれブエナちゃんじゃない？ ――パパ見て！　ぶえなびすたー！ ――ファンですっ！　写真いいですか！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 316,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "ブエナビスタはあっという間に ファンたちに取り囲まれてしまった！ 状況が落ち着くまでに、数十分を要した……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 317,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 1114,
+          "speaker_name": "ブエナビスタ",
+          "text": "すごいね……！ こんなに応援してくれる人がいるなんて……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 317,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 1114,
+          "speaker_name": "ブエナビスタ",
+          "text": "あっ……でも、待たせちゃってごめんね？ せっかくプライベートな時間をって 用意してくれたのに。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 317,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 1114,
+          "speaker_name": "ブエナビスタ",
+          "text": "それに……あんまり急に人が集まると、 通行の邪魔になるかも……？ ちょっと危ない……よね？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 317,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "少し困った様子のブエナビスタ。 しかし、さきほどグッズ売り場で いいものを見つけていた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 11,
+              "loop_ends_at_frame": -1,
+              "text": "よかったら、これを……！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 317,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 1114,
+          "speaker_name": "ブエナビスタ",
+          "text": "えっ、これって……！ …………。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 317,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 1114,
+          "speaker_name": "ブエナビスタ",
+          "text": "なにかと思ったら……くすっ……！ 懐かしいな。 昔もやったよね、『変装作戦』。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 13,
+              "loop_ends_at_frame": -1,
+              "text": "あぁ、そんなこともあったな――",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 13,
+              "loop_ends_at_frame": -1,
+              "text": "あぁ、そんなこともあったね――",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "幼い頃も、近所を歩いていたら 今と同じような状況になって 困ったことがあった――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 1114,
+          "speaker_name": "幼いブエナ",
+          "text": "あはははっ！　みんなっ、ばいばーい！ ふふふ……みんな、にこにこ……！ でも……ふううぅ～～～……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 15,
+              "loop_ends_at_frame": -1,
+              "text": "ブエナ……少し疲れちゃった？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 1114,
+          "speaker_name": "幼いブエナ",
+          "text": "うん……ぶぅちゃん、たのしかったけど、 あっちも、こっちも……目がぐるぐる……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 16,
+              "loop_ends_at_frame": -1,
+              "text": "そうだ……よし、変装しよう！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 30,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 1114,
+          "speaker_name": "幼いブエナ",
+          "text": "へんそー？　しってる……！ ひみつになるやつ……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 17,
+              "loop_ends_at_frame": -1,
+              "text": "そう！ふたりだけにしかわからなくする",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 178,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 1114,
+          "speaker_name": "幼いブエナ",
+          "text": "すごいね……！ じゃあ、じゃあ……えーと。 せかいに……ふたりだけっ！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 18,
+              "loop_ends_at_frame": -1,
+              "text": "『世界』って……！あはは、でもそう！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 178,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 19,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "そして、おもちゃの眼鏡やお面や耳カバーを ごてごてつけて歩いたのだが、逆に目立って もっと話しかけられてしまい……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 317,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 20,
+          "character_id": 1114,
+          "speaker_name": "ブエナビスタ",
+          "text": "――ふふふふっ！ 大失敗しちゃったんだよね。 私、わんわん泣いちゃって……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "20": {
+      "frame_id": 20,
+      "background_id": 317,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 21,
+          "character_id": 1114,
+          "speaker_name": "ブエナビスタ",
+          "text": "でも、これなら大丈夫そうだね。 もうあの頃とは違うもの。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "21": {
+      "frame_id": 21,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 22,
+          "character_id": 1114,
+          "speaker_name": "ブエナビスタ",
+          "text": "ふふっ、 『今日は世界にふたりだけ』……ね？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "22": {
+      "frame_id": 22,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "作戦は成功し、 このあとは誰にも見つからなかった。 穏やかな時を過ごせたのだった……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "23": {
+      "frame_id": 23,
+      "background_id": 274,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 24,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "景色のいいレストランに行くため、 バスを乗り継いでいた……。 しかし……！",
+          "flag_type": "",
+          "flag": "chance_branch_leaf",
+          "choices": []
+        }
+      ]
+    },
+    "24": {
+      "frame_id": 24,
+      "background_id": 274,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 25,
+          "character_id": 1114,
+          "speaker_name": "ブエナビスタ",
+          "text": "『ロードレース大会のため、運休』……？ え……！　そんなお知らせあった？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 25,
+              "loop_ends_at_frame": -1,
+              "text": "いや、ネットにはそんな情報は……",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "25": {
+      "frame_id": 25,
+      "background_id": 274,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 26,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "どうやら告知はこの張り紙だけらしい。 この場所ではタクシーも拾えなそうだ。 どうしたものか、と思っていると……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "26": {
+      "frame_id": 26,
+      "background_id": 274,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 27,
+          "character_id": 1114,
+          "speaker_name": "ブエナビスタ",
+          "text": "よし、歩いていこうか？ トレーナーさんさえよければ、だけど。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 27,
+              "loop_ends_at_frame": -1,
+              "text": "もちろん大丈夫……！でも、ごめん",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "27": {
+      "frame_id": 27,
+      "background_id": 274,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 28,
+          "character_id": 1114,
+          "speaker_name": "ブエナビスタ",
+          "text": "え？　謝ることじゃないよ。 仕方ないことだもの。 ほら、行こう――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "28": {
+      "frame_id": 28,
+      "background_id": 274,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 29,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "彼女は嫌な顔ひとつせず、歩きだした。 そうだ……彼女はいつも、 こういう大変な時にこそ、微笑む――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "29": {
+      "frame_id": 29,
+      "background_id": 369,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 30,
+          "character_id": 92180,
+          "speaker_name": "ブエナの母親",
+          "text": "明日の筆記試験、落ち着いていくのよ……！ トレセン学園は実技試験がメインだけど、 油断できないんだから……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 30,
+              "loop_ends_at_frame": -1,
+              "text": "わわわ、忘れ物しないようにね……！？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "30": {
+      "frame_id": 30,
+      "background_id": 369,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 31,
+          "character_id": 1114,
+          "speaker_name": "ブエナビスタ",
+          "text": "二人とも、心配してくれてありがとう。 何度も確認したから大丈夫だよ。 みんなの応援もあるし、不安はないの。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "31": {
+      "frame_id": 31,
+      "background_id": 369,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 32,
+          "character_id": 1114,
+          "speaker_name": "ブエナビスタ",
+          "text": "……私、やるよ！ ここまで来たら、自分を信じるだけだから。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 32,
+              "loop_ends_at_frame": -1,
+              "text": "ブエナ……！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "32": {
+      "frame_id": 32,
+      "background_id": 3,
+      "sub_background_id": 5110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 33,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "周りが慌てふためくなか落ち着いていた彼女。 眠れないなんてこともなく、早起きし…… そして、見事に合格を勝ち取った！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 33,
+              "loop_ends_at_frame": -1,
+              "text": "前にも言ったように、君は芯が強いよな",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 33,
+              "loop_ends_at_frame": -1,
+              "text": "前にも言ったように、貴方は芯が強いよね",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "33": {
+      "frame_id": 33,
+      "background_id": 274,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 34,
+          "character_id": 1114,
+          "speaker_name": "ブエナビスタ",
+          "text": "ふふっ……急に、どうしたの？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 34,
+              "loop_ends_at_frame": -1,
+              "text": "歩いてたら、ふと思い出して",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "34": {
+      "frame_id": 34,
+      "background_id": 274,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 35,
+          "character_id": 1114,
+          "speaker_name": "ブエナビスタ",
+          "text": "そっか……でも、わかるかも。 こうやって、なにもない静かな道を 歩いていると、いろいろ思い出すよね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "35": {
+      "frame_id": 35,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "それから、思い出を話しながら歩いた。 大変そうに見えた坂道は案外楽しく、 景色のいい場所へと続いていた……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "36": {
+      "frame_id": 36,
+      "background_id": 175,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 37,
+          "character_id": 1114,
+          "speaker_name": "ブエナビスタ",
+          "text": "――わぁ……！ 近所にこんな場所があったなんて……。",
+          "flag_type": "",
+          "flag": "chance_branch_leaf",
+          "choices": []
+        }
+      ]
+    },
+    "37": {
+      "frame_id": 37,
+      "background_id": 175,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 38,
+          "character_id": 1114,
+          "speaker_name": "ブエナビスタ",
+          "text": "………………綺麗。 どの花も、生き生きしてて…… なんだか微笑んでくれてるみたい。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "38": {
+      "frame_id": 38,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 39,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "すっかり感動した様子の彼女を見て、 この前のことを思い出す。 やはり彼女は、心が綺麗なのだと思う。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 39,
+              "loop_ends_at_frame": -1,
+              "text": "前に、君の長所の話をしたの覚えてる？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 39,
+              "loop_ends_at_frame": -1,
+              "text": "前に、貴方の長所の話をしたの覚えてる？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "39": {
+      "frame_id": 39,
+      "background_id": 175,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 40,
+          "character_id": 1114,
+          "speaker_name": "ブエナビスタ",
+          "text": "うん？　課題の相談乗ってもらったよね。 もう提出は済んだけど…… まさか、ずっと心配してくれてたの？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 40,
+              "loop_ends_at_frame": -1,
+              "text": "いや、急に思い出しちゃって",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "40": {
+      "frame_id": 40,
+      "background_id": 175,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 41,
+          "character_id": 1114,
+          "speaker_name": "ブエナビスタ",
+          "text": "ふふ、あの時は結局言ってくれなかったよね。 実はちょっぴり気になってたんだ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 41,
+              "loop_ends_at_frame": -1,
+              "text": "君は……本当に心が綺麗だよな",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 41,
+              "loop_ends_at_frame": -1,
+              "text": "貴方は……本当に心が綺麗だよね",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "41": {
+      "frame_id": 41,
+      "background_id": 175,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 42,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "そう思わされた瞬間は、 今見た姿だけじゃない。 たとえば、自分が学園に赴いてすぐのこと――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "42": {
+      "frame_id": 42,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 43,
+          "character_id": 0,
+          "speaker_name": "ウマ娘たち",
+          "text": "――ちょっと、早くコース空けてよ！ ――なによ、私だってレース近いんだから！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "43": {
+      "frame_id": 43,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 44,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "厳しい環境のせいか、ピリピリしている ウマ娘も珍しくはなかった。ゆえに、 離れていたブエナビスタが心配になった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 44,
+              "loop_ends_at_frame": -1,
+              "text": "（この空気に呑まれてないといいけど……）",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "44": {
+      "frame_id": 44,
+      "background_id": 70,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 45,
+          "character_id": 1114,
+          "speaker_name": "ブエナビスタ",
+          "text": "――今日の模擬レース、全力で頑張ります。 みなさん、よろしくお願いいたします！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "45": {
+      "frame_id": 45,
+      "background_id": 70,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 46,
+          "character_id": 90103,
+          "speaker_name": "ウマ娘A",
+          "text": "はん、出たな1番人気。 ぜってー吠え面かかせてやらぁ。 お前が来る前は私が注目株だったんだ……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 46,
+              "loop_ends_at_frame": -1,
+              "text": "（ブエナ……大丈夫かな？）",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "46": {
+      "frame_id": 46,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 47,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "そしてゲートが開いた。 ブエナビスタは…… 惜しくも敗れてしまった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "47": {
+      "frame_id": 47,
+      "background_id": 70,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 48,
+          "character_id": 90103,
+          "speaker_name": "ウマ娘A",
+          "text": "はっ、どうだっ！ お前のキラキラなんか、大したこと――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "48": {
+      "frame_id": 48,
+      "background_id": 70,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 49,
+          "character_id": 1114,
+          "speaker_name": "ブエナビスタ",
+          "text": "すごい……！　完敗です。 どうしたらそんなに速くなれるんですか？ あの……よければ、いろいろ聞かせて下さい。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "49": {
+      "frame_id": 49,
+      "background_id": 70,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 50,
+          "character_id": 1114,
+          "speaker_name": "ブエナビスタ",
+          "text": "あっ……急にごめんなさい。 つい興奮しすぎてしまって……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "50": {
+      "frame_id": 50,
+      "background_id": 70,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 51,
+          "character_id": 90103,
+          "speaker_name": "ウマ娘A",
+          "text": "なっ……！？　なんだよお前！ 悔しくねーのかよ……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "51": {
+      "frame_id": 51,
+      "background_id": 70,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 52,
+          "character_id": 1114,
+          "speaker_name": "ブエナビスタ",
+          "text": "もちろん、悔しいです……。 でも、それ以上に見習いたくて。 あんまり素晴らしい走りだったから……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 52,
+              "loop_ends_at_frame": -1,
+              "text": "（あぁ、変わってないなぁ……）",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "52": {
+      "frame_id": 52,
+      "background_id": 175,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 53,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "――そう思って、安堵した。 彼女は、決して汚れない。 昔からこういう姿を見るたび思っていた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 53,
+              "loop_ends_at_frame": -1,
+              "text": "君は本当に、純真で、眩しい",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 53,
+              "loop_ends_at_frame": -1,
+              "text": "貴方は本当に、純真で、眩しい",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "53": {
+      "frame_id": 53,
+      "background_id": 175,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 54,
+          "character_id": 1114,
+          "speaker_name": "ブエナビスタ",
+          "text": "っ…………！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "54": {
+      "frame_id": 54,
+      "background_id": 175,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 55,
+          "character_id": 1114,
+          "speaker_name": "ブエナビスタ",
+          "text": "トレーナーさん………。 私のこと、そんなふうに思ってたんだ。 ちょっと、ビックリ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "55": {
+      "frame_id": 55,
+      "background_id": 175,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 1114,
+          "speaker_name": "ブエナビスタ",
+          "text": "ありがとう。 なんだか、その……えへへ……。 今日はちょっと、暑いのかも……？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

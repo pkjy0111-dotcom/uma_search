@@ -1,0 +1,865 @@
+{
+  "story_id": "501011802",
+  "casts": [
+    0,
+    90001,
+    1011,
+    1020,
+    -1
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 7,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 7,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "ある放課後のこと、校舎を歩いていると――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 7,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 1011,
+          "speaker_name": "グラスワンダー",
+          "text": "まあ……またしても勝利。 すごいですね、セイちゃん。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 6,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 0,
+          "speaker_name": "負けたウマ娘",
+          "text": "うーん、悔しい～っ！\r 連勝無敗、途切れさせたかったのに～。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 6,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 1020,
+          "speaker_name": "セイウンスカイ",
+          "text": "はっはっは～、次は誰が相手かなー？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 5,
+              "loop_ends_at_frame": -1,
+              "text": "連勝、無敗？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 6,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 1011,
+          "speaker_name": "グラスワンダー",
+          "text": "あ、トレーナーさん。セイちゃん、 カードゲームで負けなしなんですよ～。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 6,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 1011,
+          "speaker_name": "グラスワンダー",
+          "text": "心理戦も交えた、見ごたえのある戦いに\r 私も思わず見入ってしまうほどで。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 7,
+              "loop_ends_at_frame": -1,
+              "text": "へぇ、面白そうだな",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 7,
+              "loop_ends_at_frame": -1,
+              "text": "へぇ、面白そうだね",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 6,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 1020,
+          "speaker_name": "セイウンスカイ",
+          "text": "お、じゃあ次のお相手をお願いしようかな？ 夕飯までの暇つぶしに～。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 6,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "秒殺されてしまった……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 9,
+              "loop_ends_at_frame": -1,
+              "text": "く、悔しい……",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 6,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 1020,
+          "speaker_name": "セイウンスカイ",
+          "text": "にひひ、再戦しちゃいます？ セイちゃんはウェルカムですよ～。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 10,
+              "loop_ends_at_frame": -1,
+              "text": "……再戦する！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 6,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 1011,
+          "speaker_name": "グラスワンダー",
+          "text": "でしたら、私がサポート致します。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 6,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 1011,
+          "speaker_name": "グラスワンダー",
+          "text": "セイちゃんが連勝するところを見ていて、\r 戦い方の癖もわかってきましたし。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 6,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 1011,
+          "speaker_name": "グラスワンダー",
+          "text": "私が触れたことのあるゲームでも、 サポート役は勝利の呼び水でしたので。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 6,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 1020,
+          "speaker_name": "セイウンスカイ",
+          "text": "2対1、いいね～。 骨のある戦いができそうだし。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 6,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 1011,
+          "speaker_name": "グラスワンダー",
+          "text": "では、いざ尋常に勝負。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 107,
+      "sub_background_id": 10,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 1011,
+          "speaker_name": "グラスワンダー",
+          "text": "トレーナーさん、 まずはその手札で斬り込んで相手の様子を――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 107,
+      "sub_background_id": 10,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 1020,
+          "speaker_name": "セイウンスカイ",
+          "text": "ほいほーい。 そのまま斬り込んで来ると思ってましたとも♪",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 107,
+      "sub_background_id": 10,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 1011,
+          "speaker_name": "グラスワンダー",
+          "text": "！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 6,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 19,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "初戦よりも奮闘はできたが、 あと一歩のところで負けてしまった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 19,
+              "loop_ends_at_frame": -1,
+              "text": "完敗です！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 6,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 20,
+          "character_id": 1020,
+          "speaker_name": "セイウンスカイ",
+          "text": "いやー、こっちもヒヤッとしたよ～。 2人とも、やるねぇ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "20": {
+      "frame_id": 20,
+      "background_id": 6,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 21,
+          "character_id": 1020,
+          "speaker_name": "セイウンスカイ",
+          "text": "さて、時間も潰せたし 私はそろそろ夕食に――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "21": {
+      "frame_id": 21,
+      "background_id": 6,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 22,
+          "character_id": 1011,
+          "speaker_name": "グラスワンダー",
+          "text": "………………。 …………もう1戦、お願いします～。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "22": {
+      "frame_id": 22,
+      "background_id": 6,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 23,
+          "character_id": 1020,
+          "speaker_name": "セイウンスカイ",
+          "text": "へ？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 23,
+              "loop_ends_at_frame": -1,
+              "text": "え？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "23": {
+      "frame_id": 23,
+      "background_id": 6,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 24,
+          "character_id": 1011,
+          "speaker_name": "グラスワンダー",
+          "text": "夕食までに、1戦するくらいの 時間はありますよ？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "24": {
+      "frame_id": 24,
+      "background_id": 6,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 25,
+          "character_id": 1011,
+          "speaker_name": "グラスワンダー",
+          "text": "さあ、さっそく始めましょう。 気を抜いている暇はありませんよ～。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "25": {
+      "frame_id": 25,
+      "background_id": 6,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 26,
+          "character_id": 1011,
+          "speaker_name": "グラスワンダー",
+          "text": "いい手札が来ましたね。 ではそれで早速、相手を揺さぶりましょう。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 26,
+              "loop_ends_at_frame": -1,
+              "text": "は、はい",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "26": {
+      "frame_id": 26,
+      "background_id": 6,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 27,
+          "character_id": 1020,
+          "speaker_name": "セイウンスカイ",
+          "text": "え、今そのカード出しちゃうの？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "27": {
+      "frame_id": 27,
+      "background_id": 6,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 28,
+          "character_id": 1011,
+          "speaker_name": "グラスワンダー",
+          "text": "ええ。 だって――追撃の手、ありませんよね？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "28": {
+      "frame_id": 28,
+      "background_id": 6,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 29,
+          "character_id": 1020,
+          "speaker_name": "セイウンスカイ",
+          "text": "あっ……！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "29": {
+      "frame_id": 29,
+      "background_id": 6,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 30,
+          "character_id": 1011,
+          "speaker_name": "グラスワンダー",
+          "text": "相手に防御策はなし。画策カードで罠を発動。 動きを封じ、隙を与えず攻めましょう。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "30": {
+      "frame_id": 30,
+      "background_id": 6,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 31,
+          "character_id": 1011,
+          "speaker_name": "グラスワンダー",
+          "text": "さあトレーナーさん、臆さずに どんどんカードを出してください～。",
+          "flag_type": "",
+          "flag": "male_trainer",
+          "choices": [
+            {
+              "next_frame": 32,
+              "loop_ends_at_frame": -1,
+              "text": "さすが、最高のサポートだ",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 32,
+              "loop_ends_at_frame": -1,
+              "text": "さすが、最高のサポートだね",
+              "flag_type": "",
+              "flag": "female_trainer"
+            },
+            {
+              "next_frame": 36,
+              "loop_ends_at_frame": -1,
+              "text": "サポートというか、攻撃のような……",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "31": {
+      "frame_id": 31,
+      "background_id": 6,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 32,
+          "character_id": 1011,
+          "speaker_name": "グラスワンダー",
+          "text": "さあトレーナーさん、臆さずに\r どんどんカードを出してください～。",
+          "flag_type": "",
+          "flag": "female_trainer",
+          "choices": [
+            {
+              "next_frame": 32,
+              "loop_ends_at_frame": -1,
+              "text": "さすが、最高のサポートだ",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 32,
+              "loop_ends_at_frame": -1,
+              "text": "さすが、最高のサポートだね",
+              "flag_type": "",
+              "flag": "female_trainer"
+            },
+            {
+              "next_frame": 36,
+              "loop_ends_at_frame": -1,
+              "text": "サポートというか、攻撃のような……",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "32": {
+      "frame_id": 32,
+      "background_id": 6,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 33,
+          "character_id": 1011,
+          "speaker_name": "グラスワンダー",
+          "text": "そう言っていただけて、光栄です。 引き続き、私なりのサポートで支えますね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "33": {
+      "frame_id": 33,
+      "background_id": 6,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 34,
+          "character_id": 1011,
+          "speaker_name": "グラスワンダー",
+          "text": "ハッピーエンドを目指して♪",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "34": {
+      "frame_id": 34,
+      "background_id": 6,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 35,
+          "character_id": 1020,
+          "speaker_name": "セイウンスカイ",
+          "text": "あはは～……完全に、藪蛇だったかー……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "35": {
+      "frame_id": 35,
+      "background_id": 6,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "その後も2人で息を合わせた攻防を繰り出し、 見事勝利を収めたのだった！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "36": {
+      "frame_id": 36,
+      "background_id": 6,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 37,
+          "character_id": 1011,
+          "speaker_name": "グラスワンダー",
+          "text": "まあ、サポートですよ？ 言うなれば参謀ですね～。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "37": {
+      "frame_id": 37,
+      "background_id": 6,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 38,
+          "character_id": 1011,
+          "speaker_name": "グラスワンダー",
+          "text": "さあ、お相手の次の手はありません。\r このままいけば、ずっと私たちのターンです。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "38": {
+      "frame_id": 38,
+      "background_id": 6,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 39,
+          "character_id": 1020,
+          "speaker_name": "セイウンスカイ",
+          "text": "げげっ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "39": {
+      "frame_id": 39,
+      "background_id": 6,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 40,
+          "character_id": 1011,
+          "speaker_name": "グラスワンダー",
+          "text": "ドンドン攻撃を仕掛け、畳みかけましょう。 手を休めずに♪",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 40,
+              "loop_ends_at_frame": -1,
+              "text": "りょ、了解です！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "40": {
+      "frame_id": 40,
+      "background_id": 6,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "その後もガンガンと攻撃を繰り返し、 見事勝利を収めたのだった……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

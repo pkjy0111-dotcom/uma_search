@@ -1,0 +1,1983 @@
+{
+  "story_id": "400006023",
+  "casts": [
+    90240,
+    1025,
+    9001,
+    9002,
+    1067,
+    1070,
+    1007,
+    90415,
+    90001,
+    9043,
+    1014,
+    90103,
+    90104,
+    1049,
+    -1
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 121,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 121,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "この日は1日かけて、病院で <chrname>の精密検査を行った。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 121,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "その結果、特にケガなどは見つからず。 帰国後、歩調が乱れていたのは 疲労が原因だったらしい。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 208,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "……！　<username>トレーナー！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 208,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "病院の待合室に向かうと、 見慣れた人物が駆け込んできた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 208,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "佐岳メイには今日検査を受けると 連絡していた。病院を出た後に、 電話で報告するつもりだったが……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 6,
+              "loop_ends_at_frame": -1,
+              "text": "わざわざ来てくださったんですか？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 208,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "……あ、ああ。 直接、聞きたくて。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 208,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "どうだった、<chrname>は？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 91,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "お疲れ様です、佐岳さん。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 91,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "ご指示通り、各ウマ娘の診察状況を リスト化しております。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 91,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "……ありがとう。すまない。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 70,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "――帰国後、 走りに違和感が出たウマ娘は5名。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 19,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "そのうち、保健室に通い、 病院でも検査したウマ娘は3名。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 24,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "ほか、トレーニングでは問題がなかったが 前走から調子を落としたウマ娘が6名……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 91,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "現時点では、<chrname>含め、 全員復調しつつある……が。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 91,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "…………。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 91,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "完璧にフォロー不足じゃないか。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 91,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "過去の経験上、こうなる可能性を 読めたのは私だ。……防げたのは私だ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 91,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 19,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "冷静でいなければならない状況で リスクを回避させられなかったのが ――……私だ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 119,
+      "sub_background_id": 410,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 20,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "…………。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "20": {
+      "frame_id": 20,
+      "background_id": 119,
+      "sub_background_id": 410,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 21,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "（ヴー、ヴー）",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "21": {
+      "frame_id": 21,
+      "background_id": 119,
+      "sub_background_id": 410,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 22,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "……やよい、からか。 ははっ。まさかあの件が伝わったか？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "22": {
+      "frame_id": 22,
+      "background_id": 137,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 23,
+          "character_id": 90240,
+          "speaker_name": "URA理事",
+          "text": "佐岳くん。来年もトレセン学園の海外遠征に 注力するということでいいかい？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "23": {
+      "frame_id": 23,
+      "background_id": 137,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 24,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "あ。――……ええっと。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "24": {
+      "frame_id": 24,
+      "background_id": 137,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 25,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "……少し、時間を頂いても よろしいでしょうか。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "25": {
+      "frame_id": 25,
+      "background_id": 119,
+      "sub_background_id": 410,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 26,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "（ヴー、ヴー）",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "26": {
+      "frame_id": 26,
+      "background_id": 119,
+      "sub_background_id": 410,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 27,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "……来年こそ、走れなくなったウマ娘が 出たらどうする。……私のせいで。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "27": {
+      "frame_id": 27,
+      "background_id": 119,
+      "sub_background_id": 410,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 28,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "……話さないと。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "28": {
+      "frame_id": 28,
+      "background_id": 33,
+      "sub_background_id": 410,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 29,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "…………。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 29,
+              "loop_ends_at_frame": -1,
+              "text": "あれ？佐岳さん？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "29": {
+      "frame_id": 29,
+      "background_id": 33,
+      "sub_background_id": 410,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 30,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "それは、隣町での用事を済ませた 帰り道でのことだった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "30": {
+      "frame_id": 30,
+      "background_id": 33,
+      "sub_background_id": 410,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 31,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "……！ <username>トレーナー……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "31": {
+      "frame_id": 31,
+      "background_id": 33,
+      "sub_background_id": 410,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 32,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "<chrname>は？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 32,
+              "loop_ends_at_frame": -1,
+              "text": "学園です。佐岳さんも学園に戻りますよね？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "32": {
+      "frame_id": 32,
+      "background_id": 33,
+      "sub_background_id": 410,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 33,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "……あ、ああ。 そうだな…………。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "33": {
+      "frame_id": 33,
+      "background_id": 33,
+      "sub_background_id": 410,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 34,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "………………。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 34,
+              "loop_ends_at_frame": -1,
+              "text": "佐岳さん？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "34": {
+      "frame_id": 34,
+      "background_id": 33,
+      "sub_background_id": 410,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 35,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "……<username>トレーナー。 すまなかった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 35,
+              "loop_ends_at_frame": -1,
+              "text": "えっ？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "35": {
+      "frame_id": 35,
+      "background_id": 33,
+      "sub_background_id": 410,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 36,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "どうか、謝らせてくれ。 私は君たちの大切なウマ娘を預かりながら、 不調に陥らせた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 36,
+              "loop_ends_at_frame": -1,
+              "text": "そんなことは……",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "36": {
+      "frame_id": 36,
+      "background_id": 33,
+      "sub_background_id": 410,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 37,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "……君だって焦っただろう。 帰国後、<chrname>が 突然走れなくなっていたあの日は。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "37": {
+      "frame_id": 37,
+      "background_id": 33,
+      "sub_background_id": 410,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 38,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "私は――君たちに無理を強いていた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "38": {
+      "frame_id": 38,
+      "background_id": 33,
+      "sub_background_id": 410,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 39,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "海外挑戦では多くのストレスが降りかかる。 長時間のフライト、慣れない土地、 アウェーならではの緊張感。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "39": {
+      "frame_id": 39,
+      "background_id": 33,
+      "sub_background_id": 410,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 40,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "そしてタフさが求められるあの芝で走るなら、 万全の状態に体を整えることが 何よりも重要だったというのに。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "40": {
+      "frame_id": 40,
+      "background_id": 33,
+      "sub_background_id": 410,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 41,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "私はそれよりも、 君たちを追い込むことを優先してしまった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "41": {
+      "frame_id": 41,
+      "background_id": 245,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 42,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "史上初の勝利への期待に目がくらんで、 浮かれて。責任者なのに。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "42": {
+      "frame_id": 42,
+      "background_id": 33,
+      "sub_background_id": 410,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 43,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "君たちの未来よりも、 私の夢を優先してしまった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "43": {
+      "frame_id": 43,
+      "background_id": 33,
+      "sub_background_id": 410,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 44,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "……私のエゴを押し付けて、 君たちを危険に追いやった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "44": {
+      "frame_id": 44,
+      "background_id": 33,
+      "sub_background_id": 410,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 45,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "今ですら自分の感情を優先している。 こんな愚痴を吐き出されても 君が困るだけなのに。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "45": {
+      "frame_id": 45,
+      "background_id": 33,
+      "sub_background_id": 410,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 46,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "…………私は元から 責任者には向いていなかったのかもな。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "46": {
+      "frame_id": 46,
+      "background_id": 33,
+      "sub_background_id": 410,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 47,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "いっそいないほうが――",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 47,
+              "loop_ends_at_frame": -1,
+              "text": "もしかしてやめるつもりですか？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "47": {
+      "frame_id": 47,
+      "background_id": 33,
+      "sub_background_id": 410,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 48,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "…………。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "48": {
+      "frame_id": 48,
+      "background_id": 33,
+      "sub_background_id": 410,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 49,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "……怖いんだ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "49": {
+      "frame_id": 49,
+      "background_id": 33,
+      "sub_background_id": 410,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 50,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "……君たちの瞳からも、 夢が、消えてほしくない。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "50": {
+      "frame_id": 50,
+      "background_id": 33,
+      "sub_background_id": 410,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 51,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "いつからか君たちは 自主的に合同トレーニングを するようになっただろう？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "51": {
+      "frame_id": 51,
+      "background_id": 74,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 52,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "私はそれを見た時に心底幸せに 感じたんだ。なんて素敵なチームだろうと。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "52": {
+      "frame_id": 52,
+      "background_id": 33,
+      "sub_background_id": 410,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 53,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "――君たちはもう 君たちだけで夢を見られるのに。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "53": {
+      "frame_id": 53,
+      "background_id": 33,
+      "sub_background_id": 410,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 54,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "……こんな手が崩していいものじゃない。 私はもう、余計な過去の遺物で――",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 54,
+              "loop_ends_at_frame": -1,
+              "text": "……それは目を背けているだけです",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "54": {
+      "frame_id": 54,
+      "background_id": 33,
+      "sub_background_id": 410,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 55,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "……っ、ちがう。 そんな逃げみたいな。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 55,
+              "loop_ends_at_frame": -1,
+              "text": "じゃあ俺たちを真っすぐ見てください！",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 55,
+              "loop_ends_at_frame": -1,
+              "text": "じゃあ私たちを真っすぐ見てください！",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "55": {
+      "frame_id": 55,
+      "background_id": 37,
+      "sub_background_id": 410,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 56,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "佐岳メイの手を握り、そのまま駆け出す。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "56": {
+      "frame_id": 56,
+      "background_id": 37,
+      "sub_background_id": 410,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 57,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "へっ……？ <username>トレーナー……！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "57": {
+      "frame_id": 57,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 58,
+          "character_id": 1067,
+          "speaker_name": "サトノダイヤモンド",
+          "text": "はぁ……っ、はぁ……っ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "58": {
+      "frame_id": 58,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 59,
+          "character_id": 1007,
+          "speaker_name": "ゴールドシップ",
+          "text": "もう1本、行くか？ サトノ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "59": {
+      "frame_id": 59,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 60,
+          "character_id": 1067,
+          "speaker_name": "サトノダイヤモンド",
+          "text": "……行きます。 行けます！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "60": {
+      "frame_id": 60,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 61,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "カフェ。補強用のネイル、 ジョーダンから借りてきたぜ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "61": {
+      "frame_id": 61,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 62,
+          "character_id": 1025,
+          "speaker_name": "マンハッタンカフェ",
+          "text": "！　……ありがとうございます。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "62": {
+      "frame_id": 62,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 63,
+          "character_id": 90415,
+          "speaker_name": "ベテラントレーナー",
+          "text": "体幹トレーニングを始めるぞー。 希望者はこっちのフロアに来てくれー。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "63": {
+      "frame_id": 63,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 64,
+          "character_id": 1014,
+          "speaker_name": "エルコンドルパサー",
+          "text": "ブエノ！　シリウス先輩！ どっちが長い時間プランクできるか 勝負しましょう！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "64": {
+      "frame_id": 64,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 65,
+          "character_id": 1070,
+          "speaker_name": "シリウスシンボリ",
+          "text": "断る。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "65": {
+      "frame_id": 65,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 66,
+          "character_id": 1014,
+          "speaker_name": "エルコンドルパサー",
+          "text": "負けるからデスか？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "66": {
+      "frame_id": 66,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 67,
+          "character_id": 1070,
+          "speaker_name": "シリウスシンボリ",
+          "text": "は？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "67": {
+      "frame_id": 67,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 68,
+          "character_id": 90103,
+          "speaker_name": "ウマ娘A",
+          "text": "ちょ！ ちょいちょい、お2人とも～！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "68": {
+      "frame_id": 68,
+      "background_id": 74,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 69,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "これは……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "69": {
+      "frame_id": 69,
+      "background_id": 74,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 70,
+          "character_id": 90104,
+          "speaker_name": "ウマ娘B",
+          "text": "あっ、佐岳さん！　お疲れ様でーす！ アタシたちのトレーニング、 見に来てくれたんですかーっ！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 70,
+              "loop_ends_at_frame": -1,
+              "text": "……呼ばれていますよ、佐岳さん",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "70": {
+      "frame_id": 70,
+      "background_id": 74,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 71,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "71": {
+      "frame_id": 71,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 72,
+          "character_id": 1025,
+          "speaker_name": "マンハッタンカフェ",
+          "text": "……！　佐岳さん……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "72": {
+      "frame_id": 72,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 73,
+          "character_id": 1025,
+          "speaker_name": "マンハッタンカフェ",
+          "text": "……来年の『凱旋門賞』でも、 よろしくお願いしますね……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "73": {
+      "frame_id": 73,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 74,
+          "character_id": 1014,
+          "speaker_name": "エルコンドルパサー",
+          "text": "アタシも！　アタシも！ 代表入り間違いなしなので、 よろしくデース！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "74": {
+      "frame_id": 74,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 75,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "き、君たち……。 けれど、私は――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "75": {
+      "frame_id": 75,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 76,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "君たちの未来よりも、 『凱旋門賞』での勝利を優先して、 負荷をかけるようなヤツで……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "76": {
+      "frame_id": 76,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 77,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "だからそれなりの勝負ができたんだろ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "77": {
+      "frame_id": 77,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 78,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "みんな知ってたさ。アンタがどんだけ 『凱旋門賞』に入れ込んでるか。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "78": {
+      "frame_id": 78,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 79,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "承知のうえで、アンタと勝ちたくて このプロジェクトに乗ったんだ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "79": {
+      "frame_id": 79,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 80,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "……そして次、勝てると思ったから、 今も私らはここにいる。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "80": {
+      "frame_id": 80,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 81,
+          "character_id": 1067,
+          "speaker_name": "サトノダイヤモンド",
+          "text": "私もです！ 帰国後に調子が落ちた瞬間があったのは 認めます。けれどそれは自分の弱さの証。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "81": {
+      "frame_id": 81,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 82,
+          "character_id": 1067,
+          "speaker_name": "サトノダイヤモンド",
+          "text": "だから来年はそうならないよう、 今から準備するんですっ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "82": {
+      "frame_id": 82,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 83,
+          "character_id": 1067,
+          "speaker_name": "サトノダイヤモンド",
+          "text": "それこそが継続的にプロジェクトを 続けていく意味だとも思うので。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "83": {
+      "frame_id": 83,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 84,
+          "character_id": 1025,
+          "speaker_name": "マンハッタンカフェ",
+          "text": "……佐岳さん。アナタは言いました。 このプロジェクトは『世界一を夢見た ウマ娘全員の背中を押せるはずなんだ』と。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "84": {
+      "frame_id": 84,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 85,
+          "character_id": 1025,
+          "speaker_name": "マンハッタンカフェ",
+          "text": "私は……夢を見ています。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "85": {
+      "frame_id": 85,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 86,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 86,
+              "loop_ends_at_frame": -1,
+              "text": "貴方は俺たちに教えてくれました",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 86,
+              "loop_ends_at_frame": -1,
+              "text": "貴方は私たちに教えてくれました",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "86": {
+      "frame_id": 86,
+      "background_id": 400006004,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 87,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "彼女は伝えてくれた。 周りの優秀さに卑屈になり、 諦めかけていた自分に。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 87,
+              "loop_ends_at_frame": -1,
+              "text": "『諦めない者だけが、挑むことができる』",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "87": {
+      "frame_id": 87,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 88,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "――その時に渡された想いを 今度は彼女に渡してみよう。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 88,
+              "loop_ends_at_frame": -1,
+              "text": "挑みませんか？俺たちと世界一のロマンに",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 88,
+              "loop_ends_at_frame": -1,
+              "text": "挑みませんか？私たちと世界一のロマンに",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "88": {
+      "frame_id": 88,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 89,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "………………っ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "89": {
+      "frame_id": 89,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 90,
+          "character_id": 1070,
+          "speaker_name": "シリウスシンボリ",
+          "text": "……メイ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "90": {
+      "frame_id": 90,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 91,
+          "character_id": 1070,
+          "speaker_name": "シリウスシンボリ",
+          "text": "このプロジェクトを作ったのは シンボリでもメジロでもない。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "91": {
+      "frame_id": 91,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 92,
+          "character_id": 1070,
+          "speaker_name": "シリウスシンボリ",
+          "text": "アンタが責任者の プロジェクトに参加したんだ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "92": {
+      "frame_id": 92,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 93,
+          "character_id": 1070,
+          "speaker_name": "シリウスシンボリ",
+          "text": "アンタがリーダーだったから、 今年の『凱旋門賞』があって、今があった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "93": {
+      "frame_id": 93,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 94,
+          "character_id": 1070,
+          "speaker_name": "シリウスシンボリ",
+          "text": "ならこの先の未来を作れるのだって、 アンタとだ。……違うか。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "94": {
+      "frame_id": 94,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 95,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "……私だから、作れる未来を作れってか。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "95": {
+      "frame_id": 95,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 96,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "……ははっ。 そこまで言ってくれるのかよ……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "96": {
+      "frame_id": 96,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 97,
+          "character_id": 9002,
+          "speaker_name": "秋川理事長",
+          "text": "……むむっ！　メイ！ ここにいたのか！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "97": {
+      "frame_id": 97,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 98,
+          "character_id": 9002,
+          "speaker_name": "秋川理事長",
+          "text": "来年！　予定する『代表交流戦』の 海外参加者の話があったというのに！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "98": {
+      "frame_id": 98,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 99,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "すまない。やよい。 そうだよな……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "99": {
+      "frame_id": 99,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 100,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "……みんな、来年の話をしよう。 これからの話をさせてくれ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "100": {
+      "frame_id": 100,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 101,
+          "character_id": 9043,
+          "speaker_name": "佐岳メイ",
+          "text": "私は来年も――君たちと世界を目指したい。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "101": {
+      "frame_id": 101,
+      "background_id": 9,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "――それは『プロジェクトL'Arc』にいる 全員と同じ願いだった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,900 @@
+{
+  "story_id": "501081703",
+  "casts": [
+    0,
+    90001,
+    1081,
+    90715,
+    -1
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 28,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 28,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "お出かけの帰り道。エスポワールシチーの スマホに着信が入った。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 28,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 1081,
+          "speaker_name": "エスポワールシチー",
+          "text": "――ん。例のヤツ、入ったか。 わーった。取りに行く。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 28,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 1081,
+          "speaker_name": "エスポワールシチー",
+          "text": "トレーナー。 あーし、ちょっと寄り道すっから。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 4,
+              "loop_ends_at_frame": -1,
+              "text": "どこに行くんだ？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 4,
+              "loop_ends_at_frame": -1,
+              "text": "どこに行くの？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 28,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 1081,
+          "speaker_name": "エスポワールシチー",
+          "text": "あーしの馴染みの店。 来たきゃ勝手にすりゃいいけど…… 途中でビビっても知らねーかんな。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 214,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "エスポワールシチーのあとに続くと、彼女は どんどん薄暗く寂れた道へと入っていく。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 214,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 1081,
+          "speaker_name": "エスポワールシチー",
+          "text": "この裏手な。狭いし、ちょいスリルあっけど 近道なんだよ。あーしの“馴染み”にはな。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 214,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 0,
+          "speaker_name": "カラス",
+          "text": "オ゛ア゛ア゛ァ～～！　オ゛ア゛ア゛ァ～～！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 8,
+              "loop_ends_at_frame": -1,
+              "text": "なんだか不気味だなぁ",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 214,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 1081,
+          "speaker_name": "エスポワールシチー",
+          "text": "こ……こんくらいでビビッてんじゃねーよ。 オラ、とっとと行くぞ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 209,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 1081,
+          "speaker_name": "エスポワールシチー",
+          "text": "ここ、人があんまいねーだろ？ 散歩がてら歩くにはもってこいなんだよ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 10,
+              "loop_ends_at_frame": -1,
+              "text": "（静かすぎて、ちょっと落ち着かないかも）",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 209,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 0,
+          "speaker_name": "大型犬",
+          "text": "ヴァウ、ヴァウッ！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 209,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "見ると、猛犬注意のステッカーが 貼られた家から、大型犬が吠えている。 今にも飛び掛かってきそうだ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 12,
+              "loop_ends_at_frame": -1,
+              "text": "うわっ！怖っ……",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 209,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 1081,
+          "speaker_name": "エスポワールシチー",
+          "text": "……すぅーー……。 ………………。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 209,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 1081,
+          "speaker_name": "エスポワールシチー",
+          "text": "……ビ、ビビってんじゃ、ねーし……。 ほら、繋がれてんだろーが……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 209,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 1081,
+          "speaker_name": "エスポワールシチー",
+          "text": "こんなん……吠えるだけで なにもできゃしねーよ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 209,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 0,
+          "speaker_name": "大型犬",
+          "text": "グルルルルゥ……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 16,
+              "loop_ends_at_frame": -1,
+              "text": "今日は何だか頼もしいな",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 16,
+              "loop_ends_at_frame": -1,
+              "text": "今日は何だか頼もしいね",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 209,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 1081,
+          "speaker_name": "エスポワールシチー",
+          "text": "フ、フン……慣れてっからな。 この道、あーしの庭みてぇなモンだし。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 209,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 1081,
+          "speaker_name": "エスポワールシチー",
+          "text": "ま……ビビってんだったら、 あーしからはぐれんじゃねーぞ？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 209,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 19,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "その後も、エスポワールシチーの あとに続いて、薄暗く細い路地を抜ける。 そうして辿り着いた先は――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 20,
+          "character_id": 1081,
+          "speaker_name": "エスポワールシチー",
+          "text": "おう。ここだ、ここ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 20,
+              "loop_ends_at_frame": -1,
+              "text": "馴染みの店って……駄菓子屋？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "20": {
+      "frame_id": 20,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 21,
+          "character_id": 1081,
+          "speaker_name": "エスポワールシチー",
+          "text": "そーだよ。 なんだ？　文句あっか？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "21": {
+      "frame_id": 21,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 22,
+          "character_id": 90715,
+          "speaker_name": "駄菓子屋の店主",
+          "text": "あっ！　来た来た、エスポちゃん。 あんたの分、ちゃ～んとキープしてあるよ。 ホラ、棒つきキャンディの詰め合わせパック。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "22": {
+      "frame_id": 22,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 23,
+          "character_id": 1081,
+          "speaker_name": "エスポワールシチー",
+          "text": "おう。 ちょうど切らしてたから、助かるぜ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "23": {
+      "frame_id": 23,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 24,
+          "character_id": 90715,
+          "speaker_name": "駄菓子屋の店主",
+          "text": "ふふっ、いつも御贔屓に♪　……あっ！ この前みたいな口の中がパチパチするやつは 外してるから、安心していいわよ～？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "24": {
+      "frame_id": 24,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 25,
+          "character_id": 1081,
+          "speaker_name": "エスポワールシチー",
+          "text": "チッ……。 よけーなこと言ってんじゃねーし……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "25": {
+      "frame_id": 25,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 26,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "駄菓子屋の中には、肩の力が抜けるような 穏やかな空気が流れていた。あの裏道の 緊張感が、まるで嘘みたいに思えるほどに。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "26": {
+      "frame_id": 26,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 27,
+          "character_id": 90715,
+          "speaker_name": "駄菓子屋の店主",
+          "text": "そうそう、新作のくじ付き菓子も仕入れたの。 エスポちゃん、こーゆーの好きでしょ。 よかったらやってかない？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "27": {
+      "frame_id": 27,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 28,
+          "character_id": 1081,
+          "speaker_name": "エスポワールシチー",
+          "text": "あ～～……今度にしとく。 今日はさっさと帰りてーし。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "28": {
+      "frame_id": 28,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 29,
+          "character_id": 1081,
+          "speaker_name": "エスポワールシチー",
+          "text": "うるせーのが繋がれてる間に通っときゃ、 コイツもビビらねーしな。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "29": {
+      "frame_id": 29,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 30,
+          "character_id": 90715,
+          "speaker_name": "駄菓子屋の店主",
+          "text": "あら、また見回ってくれたの？ じゃあ、トレーナーさんも ずいぶん怖かったでしょう？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "30": {
+      "frame_id": 30,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 31,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "その言葉で、静かな路地に 突然響いた大型犬の吠え声を思い出す。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 31,
+              "loop_ends_at_frame": -1,
+              "text": "もしかして、あの大型犬ですか？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "31": {
+      "frame_id": 31,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 32,
+          "character_id": 90715,
+          "speaker_name": "駄菓子屋の店主",
+          "text": "そうそう。大きくておっかないわんちゃん。 私も前に、あのわんちゃんに吠えられてねぇ。 びっくりして転んじゃったことがあって。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "32": {
+      "frame_id": 32,
+      "background_id": 30,
+      "sub_background_id": 131,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 33,
+          "character_id": 1081,
+          "speaker_name": "エスポワールシチー",
+          "text": "ンなモンがいるのかよ。 マジで面倒クセーな。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "33": {
+      "frame_id": 33,
+      "background_id": 30,
+      "sub_background_id": 131,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 34,
+          "character_id": 1081,
+          "speaker_name": "エスポワールシチー",
+          "text": "チッ。あの辺通ったら『静かにしとけ』って かましとくかぁ？　……ったく。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "34": {
+      "frame_id": 34,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 35,
+          "character_id": 90715,
+          "speaker_name": "駄菓子屋の店主",
+          "text": "あれからエスポちゃん、ちゃんと 繋がれてるか見てから来てくれるのよ。 わざわざ遠回りまでしてねぇ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "35": {
+      "frame_id": 35,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 36,
+          "character_id": 90715,
+          "speaker_name": "駄菓子屋の店主",
+          "text": "おかげでエスポちゃんの来た日は、 安心して歩けるのよ。 ありがとね、エスポちゃん。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "36": {
+      "frame_id": 36,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 37,
+          "character_id": 1081,
+          "speaker_name": "エスポワールシチー",
+          "text": "バッ……！！　……ンなことしてねーし！ あの道が気に入ってるから使ってるだけだし！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "37": {
+      "frame_id": 37,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 38,
+          "character_id": 1081,
+          "speaker_name": "エスポワールシチー",
+          "text": "あーしは、そこのトレーナーみたく あんな犬にビビったりしねーだけだから！",
+          "flag_type": "",
+          "flag": "male_trainer",
+          "choices": [
+            {
+              "next_frame": 39,
+              "loop_ends_at_frame": -1,
+              "text": "人助けをして偉いな、エスポ！",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 39,
+              "loop_ends_at_frame": -1,
+              "text": "人助けをして偉いね、エスポ！",
+              "flag_type": "",
+              "flag": "female_trainer"
+            },
+            {
+              "next_frame": 41,
+              "loop_ends_at_frame": -1,
+              "text": "それならもう一度、あの道を通って帰ろう",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "38": {
+      "frame_id": 38,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 39,
+          "character_id": 1081,
+          "speaker_name": "エスポワールシチー",
+          "text": "あーしは、そこのトレーナーみたく あんな犬にビビったりしねーだけだから！",
+          "flag_type": "",
+          "flag": "female_trainer",
+          "choices": [
+            {
+              "next_frame": 39,
+              "loop_ends_at_frame": -1,
+              "text": "人助けをして偉いな、エスポ！",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 39,
+              "loop_ends_at_frame": -1,
+              "text": "人助けをして偉いね、エスポ！",
+              "flag_type": "",
+              "flag": "female_trainer"
+            },
+            {
+              "next_frame": 41,
+              "loop_ends_at_frame": -1,
+              "text": "それならもう一度、あの道を通って帰ろう",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "39": {
+      "frame_id": 39,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 40,
+          "character_id": 1081,
+          "speaker_name": "エスポワールシチー",
+          "text": "だーかーらー！ そーゆうのじゃねぇって言ってんだろ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "40": {
+      "frame_id": 40,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 1081,
+          "speaker_name": "エスポワールシチー",
+          "text": "こ、これ以上、ヘンなこと言いやがったら ぶっ飛ばすかんな！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "41": {
+      "frame_id": 41,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 42,
+          "character_id": 1081,
+          "speaker_name": "エスポワールシチー",
+          "text": "お、おう。お前が気に入ったなら、 もう一回くらい通ってやってもいいけど？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "42": {
+      "frame_id": 42,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 1081,
+          "speaker_name": "エスポワールシチー",
+          "text": "……まぁ、ちっと様子も気になるし。 いちおー見といてやっか。あの犬。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

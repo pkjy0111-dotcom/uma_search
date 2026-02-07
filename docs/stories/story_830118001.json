@@ -1,0 +1,864 @@
+{
+  "story_id": "830118001",
+  "casts": [
+    90001,
+    1083,
+    -1,
+    1022
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "休日。コースにて、自主トレに励んでいる シンボリクリスエスと ファインモーションの姿を見かけた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 1083,
+          "speaker_name": "シンボリクリスエス",
+          "text": "――そろそろ、上がる。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 1022,
+          "speaker_name": "ファインモーション",
+          "text": "あれっ、もう？　珍しいね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 1083,
+          "speaker_name": "シンボリクリスエス",
+          "text": "――本来――休養日だ。 なまらない程度に――留める。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 27,
+      "sub_background_id": 10,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "その後しばらくして、図書室で レース関係の資料を閲覧していると――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 27,
+      "sub_background_id": 10,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 1083,
+          "speaker_name": "シンボリクリスエス",
+          "text": "――……。 ――すまない――その本……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 27,
+      "sub_background_id": 10,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 1083,
+          "speaker_name": "シンボリクリスエス",
+          "text": "――終わったら――見せてもらえるか。 ――研究に、使う。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 8,
+              "loop_ends_at_frame": -1,
+              "text": "いいけど、休みの日もレース研究か？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 8,
+              "loop_ends_at_frame": -1,
+              "text": "いいけど、休みの日もレース研究？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 27,
+      "sub_background_id": 10,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 1083,
+          "speaker_name": "シンボリクリスエス",
+          "text": "――責務だ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 9,
+              "loop_ends_at_frame": -1,
+              "text": "えっ？責務……？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 27,
+      "sub_background_id": 10,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 1083,
+          "speaker_name": "シンボリクリスエス",
+          "text": "――……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 27,
+      "sub_background_id": 10,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 1022,
+          "speaker_name": "ファインモーション",
+          "text": "休みの日は、最新資料のインプット。 クリスエスの習慣なんだよね♪",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 27,
+      "sub_background_id": 10,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 1083,
+          "speaker_name": "シンボリクリスエス",
+          "text": "――情報も、常識も――常に変化する。 研究は――重要だ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 27,
+      "sub_background_id": 10,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 1022,
+          "speaker_name": "ファインモーション",
+          "text": "ふふ、クリスエスはいつも責務優先だね。 お休みの日もやっぱり変わらないんだ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 27,
+      "sub_background_id": 10,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 1083,
+          "speaker_name": "シンボリクリスエス",
+          "text": "――……理解しただろう、ファイン。 私の休日に同行しても――愉快では――ない。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 27,
+      "sub_background_id": 10,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 1022,
+          "speaker_name": "ファインモーション",
+          "text": "そうかしら？　とっても勉強になるし、 そもそもこうして過ごすだけでも楽しいのに！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 27,
+      "sub_background_id": 10,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 1083,
+          "speaker_name": "シンボリクリスエス",
+          "text": "――……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 107,
+      "sub_background_id": 10,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "休日までもストイックなシンボリクリスエス。 その後も自分のデータや、有力ウマ娘の 映像を研究するなどしていたのだが――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 27,
+      "sub_background_id": 10,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 1083,
+          "speaker_name": "シンボリクリスエス",
+          "text": "…………。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 27,
+      "sub_background_id": 10,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 19,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "……唐突に、シンボリクリスエスは 文字通り“停止”してしまった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 19,
+              "loop_ends_at_frame": -1,
+              "text": "ど、どうしたんだ？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 19,
+              "loop_ends_at_frame": -1,
+              "text": "ど、どうしたの？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 27,
+      "sub_background_id": 10,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 20,
+          "character_id": 1083,
+          "speaker_name": "シンボリクリスエス",
+          "text": "――今日のroutineは――完了した。 ――休養に移行する。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 20,
+              "loop_ends_at_frame": -1,
+              "text": "……それで停止を？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "20": {
+      "frame_id": 20,
+      "background_id": 27,
+      "sub_background_id": 10,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 21,
+          "character_id": 1083,
+          "speaker_name": "シンボリクリスエス",
+          "text": "――任務の遂行に――…… 無関係なactionは――必要ない。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "21": {
+      "frame_id": 21,
+      "background_id": 27,
+      "sub_background_id": 10,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 22,
+          "character_id": 1022,
+          "speaker_name": "ファインモーション",
+          "text": "……そうかな？　ひょっとしたら、 他にもやるべきことはあるかもしれないよ？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "22": {
+      "frame_id": 22,
+      "background_id": 27,
+      "sub_background_id": 10,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 23,
+          "character_id": 1083,
+          "speaker_name": "シンボリクリスエス",
+          "text": "？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "23": {
+      "frame_id": 23,
+      "background_id": 27,
+      "sub_background_id": 10,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 24,
+          "character_id": 1022,
+          "speaker_name": "ファインモーション",
+          "text": "ほら。私もクリスエスも留学生でしょう？ 限られた時間、この国にお世話になって、 学ばせてもらう立場。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "24": {
+      "frame_id": 24,
+      "background_id": 27,
+      "sub_background_id": 10,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 25,
+          "character_id": 1022,
+          "speaker_name": "ファインモーション",
+          "text": "レースのことだけじゃなくて…… 日本の文化に触れたりするのも、 大事な役目の1つではないかしら！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "25": {
+      "frame_id": 25,
+      "background_id": 27,
+      "sub_background_id": 10,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 26,
+          "character_id": 1083,
+          "speaker_name": "シンボリクリスエス",
+          "text": "――……一理ある。 だが――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "26": {
+      "frame_id": 26,
+      "background_id": 27,
+      "sub_background_id": 10,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 27,
+          "character_id": 1083,
+          "speaker_name": "シンボリクリスエス",
+          "text": "例えば――何をすればいい？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 27,
+              "loop_ends_at_frame": -1,
+              "text": "日本の食文化に触れよう",
+              "flag_type": "",
+              "flag": ""
+            },
+            {
+              "next_frame": 36,
+              "loop_ends_at_frame": -1,
+              "text": "……日本の名所を巡る、とか？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "27": {
+      "frame_id": 27,
+      "background_id": 27,
+      "sub_background_id": 10,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 28,
+          "character_id": 1022,
+          "speaker_name": "ファインモーション",
+          "text": "それなら断然、大衆食の代表、ラーメンだね！ 今ちょうど、カフェテリアで期間限定 新作あっさり塩ラーメンを出しているの♪",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "28": {
+      "frame_id": 28,
+      "background_id": 11,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 29,
+          "character_id": 1022,
+          "speaker_name": "ファインモーション",
+          "text": "さぁ、まずはスープからひと口！ レンゲでどうぞ♪",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "29": {
+      "frame_id": 29,
+      "background_id": 11,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 30,
+          "character_id": 1083,
+          "speaker_name": "シンボリクリスエス",
+          "text": "――濃いものは…… 得意ではない――のだが――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "30": {
+      "frame_id": 30,
+      "background_id": 107,
+      "sub_background_id": 10,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 31,
+          "character_id": 1083,
+          "speaker_name": "シンボリクリスエス",
+          "text": "――！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "31": {
+      "frame_id": 31,
+      "background_id": 11,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 32,
+          "character_id": 1083,
+          "speaker_name": "シンボリクリスエス",
+          "text": "これは――よい水を使っているな―― 軟水――湧き水か――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "32": {
+      "frame_id": 32,
+      "background_id": 11,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 33,
+          "character_id": 1022,
+          "speaker_name": "ファインモーション",
+          "text": "まぁっ、わかる！？ 麺とスープ、両方の水に 特にこだわったラーメンなんだって！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "33": {
+      "frame_id": 33,
+      "background_id": 11,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 34,
+          "character_id": 1083,
+          "speaker_name": "シンボリクリスエス",
+          "text": "――なるほど。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "34": {
+      "frame_id": 34,
+      "background_id": 11,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 35,
+          "character_id": 1083,
+          "speaker_name": "シンボリクリスエス",
+          "text": "これは――美味い、な。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "35": {
+      "frame_id": 35,
+      "background_id": 11,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "シンボリクリスエスはささやかながら 日本の文化に触れ、いつもとは ひと味違う休日を過ごせたようだった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "36": {
+      "frame_id": 36,
+      "background_id": 11,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 37,
+          "character_id": 1083,
+          "speaker_name": "シンボリクリスエス",
+          "text": "――時間がない。 門限までに――寮に戻らねば。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "37": {
+      "frame_id": 37,
+      "background_id": 11,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 38,
+          "character_id": 1022,
+          "speaker_name": "ファインモーション",
+          "text": "それなら大丈夫！ 今、ヘリをチャーターするから！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "38": {
+      "frame_id": 38,
+      "background_id": 11,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 39,
+          "character_id": 1083,
+          "speaker_name": "シンボリクリスエス",
+          "text": "――なに？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "39": {
+      "frame_id": 39,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 40,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "そしてそのままヘリに乗せられ…… いきなり、景勝地巡りの旅に 出発することになってしまった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "40": {
+      "frame_id": 40,
+      "background_id": 4,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 41,
+          "character_id": 1083,
+          "speaker_name": "シンボリクリスエス",
+          "text": "ずいぶんと――無茶をする。 門限には――間に合ったが。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "41": {
+      "frame_id": 41,
+      "background_id": 4,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 42,
+          "character_id": 1022,
+          "speaker_name": "ファインモーション",
+          "text": "でも、海に山に温泉まで、 たっくさん一緒に回れたでしょう？ ふふっ、楽しかったな～♪",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "42": {
+      "frame_id": 42,
+      "background_id": 4,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 43,
+          "character_id": 1083,
+          "speaker_name": "シンボリクリスエス",
+          "text": "――……そうか。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "43": {
+      "frame_id": 43,
+      "background_id": 4,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 1083,
+          "speaker_name": "シンボリクリスエス",
+          "text": "よい――休日だった。 ――……ありがとう。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

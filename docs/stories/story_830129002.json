@@ -1,0 +1,884 @@
+{
+  "story_id": "830129002",
+  "casts": [
+    0,
+    1067,
+    1068,
+    90001,
+    1011,
+    90776,
+    -1,
+    90911
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "休日――公園を通りかかると、 『身体能力強化！　忍者体験アクティビティ』 なるものが開催されているのを見かけた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 2,
+              "loop_ends_at_frame": -1,
+              "text": "（トレーニングの参考になるかな……）",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 1068,
+          "speaker_name": "キタサンブラック",
+          "text": "え！　手裏剣って棒状のもあるんだ！ どうやって投げるんだろう……？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 1067,
+          "speaker_name": "サトノダイヤモンド",
+          "text": "うーん、ダーツのように投げるとか……？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 1011,
+          "speaker_name": "グラスワンダー",
+          "text": "ああ、これは指で持つのではなく、 中指に添わせるように手に乗せて――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 1011,
+          "speaker_name": "グラスワンダー",
+          "text": "手首のスナップは使わず、肘から―― 手の上を滑らせて打ち出すようにするんです。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 6,
+              "loop_ends_at_frame": -1,
+              "text": "詳しいんだな",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 6,
+              "loop_ends_at_frame": -1,
+              "text": "詳しいんだね",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 1011,
+          "speaker_name": "グラスワンダー",
+          "text": "あら……ふふっ、こんにちは。 小さい頃、日本文化好きの父と一緒に、 忍術についても調べておりましたもので。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 1068,
+          "speaker_name": "キタサンブラック",
+          "text": "わあっ、そうだったんですね！　すごいなぁ、 お茶とかだけでなく、忍術まで詳しいなんて！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 1068,
+          "speaker_name": "キタサンブラック",
+          "text": "よーしっ、じゃああたしたち、グラスさんに 教わったとおりにやってみますね！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 1067,
+          "speaker_name": "サトノダイヤモンド",
+          "text": "わぁっ！　また当たりました！ ふふ、グラスさんの教えのおかげで、 かなりコツが掴めてきた気がします♪",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 1068,
+          "speaker_name": "キタサンブラック",
+          "text": "むむ……っ、あたしだって負けないよ！ やぁっ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "グラスワンダーの助言を受けた2人は、 互いに競り合いながら、 みるみる命中率を上げてきていた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 12,
+              "loop_ends_at_frame": -1,
+              "text": "（最高記録は10本連続みたいだけど――）",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 1068,
+          "speaker_name": "キタサンブラック",
+          "text": "8本目――っ！ あぁっ、外れちゃった……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 1067,
+          "speaker_name": "サトノダイヤモンド",
+          "text": "こっちの8本目が決まれば 私の勝ちだね、キタちゃん♪ このまま記録更新まで――っ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 14,
+              "loop_ends_at_frame": -1,
+              "text": "あっ――惜しい、外れかぁ",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 1011,
+          "speaker_name": "グラスワンダー",
+          "text": "ですが、短時間でここまで 上達するなんて、素晴らしいですよ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 1067,
+          "speaker_name": "サトノダイヤモンド",
+          "text": "……えへへ。キタちゃんには負けないぞって 思うと、すごく集中できちゃいまして。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 1068,
+          "speaker_name": "キタサンブラック",
+          "text": "あたしもです！　上達できたのは きっとそのおかげだね、ダイヤちゃん！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 1011,
+          "speaker_name": "グラスワンダー",
+          "text": "（……ふふ。私も幼い頃は、こんなふうに 妹と競り合ったものでしたね――）",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 175,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 19,
+          "character_id": 90911,
+          "speaker_name": "グラスの父親",
+          "text": "『よぉし、今日は棒手裏剣の練習をするぞっ！ ニンニン！』",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 175,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 20,
+          "character_id": 0,
+          "speaker_name": "幼い姉妹",
+          "text": "『ニンニーン！』",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "20": {
+      "frame_id": 20,
+      "background_id": 175,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 21,
+          "character_id": 90776,
+          "speaker_name": "グラスの妹",
+          "text": "『あたし、おねーちゃんよりじょーずだよ！ 見てて――たあっ！』",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "21": {
+      "frame_id": 21,
+      "background_id": 175,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 22,
+          "character_id": 1011,
+          "speaker_name": "幼いグラス",
+          "text": "『次は私の番だね――はあっ！ ふふ、真ん中に命中♪』",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "22": {
+      "frame_id": 22,
+      "background_id": 175,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 23,
+          "character_id": 90911,
+          "speaker_name": "グラスの父親",
+          "text": "『はははっ！　2人とも、 あんまりムキにならないようにな。』",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "23": {
+      "frame_id": 23,
+      "background_id": 175,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 24,
+          "character_id": 90776,
+          "speaker_name": "グラスの妹",
+          "text": "『やだ！　あたしのほーがうまくなりたいの！ おねーちゃんはライバルだもんっ！』",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "24": {
+      "frame_id": 24,
+      "background_id": 175,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 25,
+          "character_id": 1011,
+          "speaker_name": "幼いグラス",
+          "text": "『あら。そう簡単にはいかないんだから！』",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "25": {
+      "frame_id": 25,
+      "background_id": 175,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 26,
+          "character_id": 1011,
+          "speaker_name": "グラスワンダー",
+          "text": "（そう。あの時は、負けないぞなんて…… お互い夢中に――……）",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "26": {
+      "frame_id": 26,
+      "background_id": 17,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 27,
+          "character_id": 90776,
+          "speaker_name": "グラスの妹",
+          "text": "『ふふん！　この調子でどんどん強くなって お姉ちゃんなんか追い抜いちゃうから！』",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "27": {
+      "frame_id": 27,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 28,
+          "character_id": 1011,
+          "speaker_name": "グラスワンダー",
+          "text": "…………。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "28": {
+      "frame_id": 28,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 29,
+          "character_id": 1068,
+          "speaker_name": "キタサンブラック",
+          "text": "あ！　あたしたちばっかりすみません。 次はお2人どうぞ！　新記録、出ちゃうかも！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "29": {
+      "frame_id": 29,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 30,
+          "character_id": 1011,
+          "speaker_name": "グラスワンダー",
+          "text": "――あら、どうでしょう～。私はあくまでも、 昔少し遊んでいただけですので～。",
+          "flag_type": "",
+          "flag": "male_trainer",
+          "choices": [
+            {
+              "next_frame": 31,
+              "loop_ends_at_frame": -1,
+              "text": "グラスワンダーの腕前、気になるな",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 31,
+              "loop_ends_at_frame": -1,
+              "text": "グラスワンダーの腕前、気になる",
+              "flag_type": "",
+              "flag": "female_trainer"
+            },
+            {
+              "next_frame": 37,
+              "loop_ends_at_frame": -1,
+              "text": "俺、やってみようかな？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 37,
+              "loop_ends_at_frame": -1,
+              "text": "私、やってみようかな？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "30": {
+      "frame_id": 30,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 31,
+          "character_id": 1011,
+          "speaker_name": "グラスワンダー",
+          "text": "――あら、どうでしょう～。私はあくまでも、 昔少し遊んでいただけですので～。",
+          "flag_type": "",
+          "flag": "female_trainer",
+          "choices": [
+            {
+              "next_frame": 31,
+              "loop_ends_at_frame": -1,
+              "text": "グラスワンダーの腕前、気になるな",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 31,
+              "loop_ends_at_frame": -1,
+              "text": "グラスワンダーの腕前、気になる",
+              "flag_type": "",
+              "flag": "female_trainer"
+            },
+            {
+              "next_frame": 37,
+              "loop_ends_at_frame": -1,
+              "text": "俺、やってみようかな？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 37,
+              "loop_ends_at_frame": -1,
+              "text": "私、やってみようかな？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "31": {
+      "frame_id": 31,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 32,
+          "character_id": 1011,
+          "speaker_name": "グラスワンダー",
+          "text": "ふふ、大したことはありませんが…… せっかくですし、挑戦してみましょうか。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "32": {
+      "frame_id": 32,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 33,
+          "character_id": 1011,
+          "speaker_name": "グラスワンダー",
+          "text": "ふっ……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "33": {
+      "frame_id": 33,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 34,
+          "character_id": 1067,
+          "speaker_name": "サトノダイヤモンド",
+          "text": "わぁっ、命中……！！ すごいですっ、10本連続！ 最高記録とおんなじです！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "34": {
+      "frame_id": 34,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 35,
+          "character_id": 1011,
+          "speaker_name": "グラスワンダー",
+          "text": "小さい頃の真似事の延長でしたが…… ふふ、恐縮です～。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "35": {
+      "frame_id": 35,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 36,
+          "character_id": 1011,
+          "speaker_name": "グラスワンダー",
+          "text": "……雑念が消えた分、 集中できたのかもしれませんねぇ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 36,
+              "loop_ends_at_frame": -1,
+              "text": "え？何か言った？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "36": {
+      "frame_id": 36,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 1011,
+          "speaker_name": "グラスワンダー",
+          "text": "いえ。次はトレーナーさんの番ですね。 目指せ新記録、です♪",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "37": {
+      "frame_id": 37,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 38,
+          "character_id": 1011,
+          "speaker_name": "グラスワンダー",
+          "text": "どうぞ、どうぞ。 頑張ってください、トレーナーさん。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "38": {
+      "frame_id": 38,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 39,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "（ヒュッ――コテンッ、コロコロ……）",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 39,
+              "loop_ends_at_frame": -1,
+              "text": "そ、そもそも的に届かない……！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "39": {
+      "frame_id": 39,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 40,
+          "character_id": 1011,
+          "speaker_name": "グラスワンダー",
+          "text": "肘の動きを意識するとよいかと～。 手を打ち出す時のスピードも重要ですよ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "40": {
+      "frame_id": 40,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 41,
+          "character_id": 1068,
+          "speaker_name": "キタサンブラック",
+          "text": "でも惜しいですよ、トレーナーさん！ もうちょっと、ファイトです～！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "41": {
+      "frame_id": 41,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "己の体を理想どおりに操るとは、 これほど難しいものなのか……改めて、 彼女たちのすごさを思い知ったのだった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

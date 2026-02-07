@@ -1,0 +1,1938 @@
+{
+  "story_id": "501092101",
+  "casts": [
+    90720,
+    90721,
+    90019,
+    1092,
+    90731,
+    90732,
+    93997,
+    90001,
+    90103,
+    -1
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "新年。ダンツフレームが、商店街主催の 新春駅伝大会に参加することになった！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 267,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "あくまでレクリエーションとしての 駅伝大会とのことだが…… せっかくなので、応援に駆けつけていた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 267,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "えっと……あけましておめでとうございます！ トレセン学園から来ました、 ダンツフレームです！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 267,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "友だちに誘われて、楽しそうだったので、 参加しちゃいました。よろしくお願いします！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 267,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 93997,
+          "speaker_name": "チームメンバー",
+          "text": "よろしくお願いします～！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 274,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "この駅伝は、一般人男女に、 トレセン学園内外のウマ娘が入り交じった 8名1チームで走るという特殊なルール。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 274,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "なお、組み分けはくじ引きで、 チームメイトはなんと、 当日初めて顔を合わせることになる。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 267,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 90731,
+          "speaker_name": "チームリーダー",
+          "text": "これで、Dチームは全員だね！ とりあえずグラウンドへ移動しましょうか！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 267,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 93997,
+          "speaker_name": "チームメンバー",
+          "text": "はーい！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 10,
+              "loop_ends_at_frame": -1,
+              "text": "頑張れよ、ダンツ！",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 10,
+              "loop_ends_at_frame": -1,
+              "text": "頑張ってね、ダンツ！",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 267,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "えへへ。ありがとうございます。 今日は、優勝できるよう頑張りますね！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 95,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "ざっとパンフレットを見たところ、 前半はアップダウンの激しい区間が多く、 特に4区は長い上り坂がある。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 95,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "逆に5区から7区は、比較的フラットで短い。 前半やアンカーはトレセン学園生やウマ娘、 他は一般人で固まりそうな気配がする。が――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 264,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 90731,
+          "speaker_name": "チームリーダー",
+          "text": "時間もないしちゃっと区間決めちゃおう！ ここが走りたいって子、いる？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 264,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "あっ、それじゃあわたし、走り慣れてますし、 誰もいなければ4区、いきましょうか？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 264,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 90732,
+          "speaker_name": "チームメンバーA",
+          "text": "ま、待って！　ダンツフレームちゃんが 適任なのはわかってるんだけど！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 264,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 90732,
+          "speaker_name": "チームメンバーA",
+          "text": "その……うちの陸上部のライバルと、 約束しちゃったの。4区で戦おうって！ だから、わたしが走ってもいい？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 264,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 90720,
+          "speaker_name": "チームメンバーB",
+          "text": "そ、それでいったら僕、アンカーやっても いいですか！？　今日その、 入院中のおばあちゃんが見に来てて……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 264,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 19,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "（そっか。 今日はみんな、勝ちたいっていうより、 チャレンジしたいってかんじなのかな）",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 264,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 20,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "そういうことならもちろんです！ 応援してますねっ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "20": {
+      "frame_id": 20,
+      "background_id": 264,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 21,
+          "character_id": 90731,
+          "speaker_name": "チームリーダー",
+          "text": "……せっかくの機会だものね、 今回はみんなの走りたい区間を優先します！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "21": {
+      "frame_id": 21,
+      "background_id": 264,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 22,
+          "character_id": 90731,
+          "speaker_name": "チームリーダー",
+          "text": "あと残っているのは5区だね！ それで……まだ決まっていないのは――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "22": {
+      "frame_id": 22,
+      "background_id": 264,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 23,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "あ、わたしです！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "23": {
+      "frame_id": 23,
+      "background_id": 264,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 24,
+          "character_id": 90731,
+          "speaker_name": "チームリーダー",
+          "text": "えっ、ダンツちゃんが5区！？ フラットで短い感じの、結構簡単な道だけど。 その……いいの？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "24": {
+      "frame_id": 24,
+      "background_id": 264,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 25,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "もちろんです！　みなさんの意気込み、 わたしにサポートさせてください！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "25": {
+      "frame_id": 25,
+      "background_id": 264,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 26,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "と、結局あまった枠を担当することになった。 ……そうして迎えた、本番。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "26": {
+      "frame_id": 26,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 27,
+          "character_id": 90019,
+          "speaker_name": "イベント実況",
+          "text": "さぁ、Dチーム！ 先頭集団とかなり差がついています、 ここでダンツフレームにタスキを渡した！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "27": {
+      "frame_id": 27,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 28,
+          "character_id": 90732,
+          "speaker_name": "チームメンバーA",
+          "text": "はぁ、はぁ、はぁ……！ ご、ごめーん……っ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "28": {
+      "frame_id": 28,
+      "background_id": 37,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 29,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "ううんっ、まかせて！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "29": {
+      "frame_id": 29,
+      "background_id": 37,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 30,
+          "character_id": 90019,
+          "speaker_name": "イベント実況",
+          "text": "さすが、現役ウマ娘！ スピードが桁違いだぁ～！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "30": {
+      "frame_id": 30,
+      "background_id": 37,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 31,
+          "character_id": 93997,
+          "speaker_name": "チームメンバー",
+          "text": "がんばれ、ダンツちゃーん！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "31": {
+      "frame_id": 31,
+      "background_id": 37,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 32,
+          "character_id": 90019,
+          "speaker_name": "イベント実況",
+          "text": "ダンツフレームは、見事に絶望的だった差を 縮め、先頭集団の姿が見えるところまで 巻き上げた！　しかし――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "32": {
+      "frame_id": 32,
+      "background_id": 274,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 33,
+          "character_id": 90721,
+          "speaker_name": "チームメンバーC",
+          "text": "よっしゃ、ダンツちゃんありがとう！ 行くぜ～！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "33": {
+      "frame_id": 33,
+      "background_id": 274,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 34,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "はぁ、ふぅ……っ！ はい、ファイトです！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "34": {
+      "frame_id": 34,
+      "background_id": 274,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 35,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "（本当は、先頭集団まで追いつきたかったな。 アンカーはどこもウマ娘みたいだから……）",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "35": {
+      "frame_id": 35,
+      "background_id": 274,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 36,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "……うぅん。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "36": {
+      "frame_id": 36,
+      "background_id": 274,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 37,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "そして、結果は――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "37": {
+      "frame_id": 37,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 38,
+          "character_id": 90019,
+          "speaker_name": "イベント実況",
+          "text": "Dチーム大きく離されて―― 今、最後にゴールしました！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "38": {
+      "frame_id": 38,
+      "background_id": 267,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 39,
+          "character_id": 90720,
+          "speaker_name": "チームメンバーB",
+          "text": "くぅっ！！　す、すみません、 僕がアンカーやりたがっちゃったから……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "39": {
+      "frame_id": 39,
+      "background_id": 267,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 40,
+          "character_id": 90732,
+          "speaker_name": "チームメンバーA",
+          "text": "っていうか、わたしの4区が！　やっぱり ダンツちゃんにやってもらえばよかった……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "40": {
+      "frame_id": 40,
+      "background_id": 267,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 41,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "……ぁ……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "41": {
+      "frame_id": 41,
+      "background_id": 267,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 42,
+          "character_id": 90731,
+          "speaker_name": "チームリーダー",
+          "text": "でもみんないい顔してたよ！ 結果だけがすべてじゃないし、ね……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "42": {
+      "frame_id": 42,
+      "background_id": 267,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 43,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "……――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "43": {
+      "frame_id": 43,
+      "background_id": 66,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 44,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "……今日は、応援ありがとうございました！ 勝てなくってすみません～。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 44,
+              "loop_ends_at_frame": -1,
+              "text": "いやいや、よく頑張っていたよ",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "44": {
+      "frame_id": 44,
+      "background_id": 66,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 45,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "……はい。えへへ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 45,
+              "loop_ends_at_frame": -1,
+              "text": "大丈夫か？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 45,
+              "loop_ends_at_frame": -1,
+              "text": "大丈夫？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "45": {
+      "frame_id": 45,
+      "background_id": 66,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 46,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "へ？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 46,
+              "loop_ends_at_frame": -1,
+              "text": "すごくへこんでいるから",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "46": {
+      "frame_id": 46,
+      "background_id": 66,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 47,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "わぁ、すみません！ 暗い顔していました？　やだなぁ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "47": {
+      "frame_id": 47,
+      "background_id": 66,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 48,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "えっとその…… やっぱり駅伝、残念だったなーって。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 48,
+              "loop_ends_at_frame": -1,
+              "text": "そうか……",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 48,
+              "loop_ends_at_frame": -1,
+              "text": "そっか……",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "48": {
+      "frame_id": 48,
+      "background_id": 66,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 49,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "本来ならば、今日はこの後トレーニングの 予定だったが、気落ちしたままでは 身も入らないだろう。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 49,
+              "loop_ends_at_frame": -1,
+              "text": "よし、少し気晴らしに行こう！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "49": {
+      "frame_id": 49,
+      "background_id": 66,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 50,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "え、……え！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "50": {
+      "frame_id": 50,
+      "background_id": 66,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 51,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "というわけで――",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 51,
+              "loop_ends_at_frame": -1,
+              "text": "カフェでお茶をする",
+              "flag_type": "",
+              "flag": ""
+            },
+            {
+              "next_frame": 58,
+              "loop_ends_at_frame": -1,
+              "text": "ゲームセンターで遊ぶ",
+              "flag_type": "",
+              "flag": ""
+            },
+            {
+              "next_frame": 68,
+              "loop_ends_at_frame": -1,
+              "text": "神社へ行く",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "51": {
+      "frame_id": 51,
+      "background_id": 218,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 52,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "もぐ……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "52": {
+      "frame_id": 52,
+      "background_id": 218,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 53,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "……！？　んっ、これ！　これ！ このケーキすっごい美味しいですよ！ 半分いりませんか！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 53,
+              "loop_ends_at_frame": -1,
+              "text": "いやいや、美味しいなら全部食べなよ",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "53": {
+      "frame_id": 53,
+      "background_id": 218,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 54,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "でも、お正月限定みたいですし……！ あ、もしかして苦手ですか？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 54,
+              "loop_ends_at_frame": -1,
+              "text": "そういうわけじゃないけど――",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "54": {
+      "frame_id": 54,
+      "background_id": 218,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 55,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "……あ、そっか。半分こって 大人の方はあんまりやらない……ですよね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "55": {
+      "frame_id": 55,
+      "background_id": 218,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 56,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "ごめんなさい。つい、その…… トレーナーさんにも食べてほしくて。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 56,
+              "loop_ends_at_frame": -1,
+              "text": "……ごめん、やっぱり少しもらおうかな？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "56": {
+      "frame_id": 56,
+      "background_id": 218,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 57,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "57": {
+      "frame_id": 57,
+      "background_id": 28,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 81,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "今日はありがとうございました！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "58": {
+      "frame_id": 58,
+      "background_id": 28,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 59,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "あ、ゲームセンターといえば…… わたしやってみたいやつがあるんです！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "59": {
+      "frame_id": 59,
+      "background_id": 36,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 60,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "『それじゃあいくよ！ まずはあけおめポーズ！』",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "60": {
+      "frame_id": 60,
+      "background_id": 36,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 61,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "えい！ ほらほらトレーナーさん、『あけおめ～！』",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "61": {
+      "frame_id": 61,
+      "background_id": 36,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 62,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "ふふっ。ウマスタで見たんですよ～。 お正月限定モードがあるらしくって、 詳しくは知らないんですけど――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "62": {
+      "frame_id": 62,
+      "background_id": 36,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 63,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "『福袋買ったよ～！　ポーズ♪』",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "63": {
+      "frame_id": 63,
+      "background_id": 36,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 64,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "こんなのもあるんだ……！ あはは、面白いですね！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "64": {
+      "frame_id": 64,
+      "background_id": 36,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 65,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "『最後に、ほっぺをくっつけて～！ おもち～！』",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "65": {
+      "frame_id": 65,
+      "background_id": 36,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 66,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "え！？　ほ、ほっぺ！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "66": {
+      "frame_id": 66,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 67,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "ほっぺ～！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "67": {
+      "frame_id": 67,
+      "background_id": 28,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 81,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "今日はありがとうございました！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "68": {
+      "frame_id": 68,
+      "background_id": 28,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 69,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "わ……いいんですか！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "69": {
+      "frame_id": 69,
+      "background_id": 39,
+      "sub_background_id": 9111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 70,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "わぁ、すごい人！　お正月ですね～！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "70": {
+      "frame_id": 70,
+      "background_id": 39,
+      "sub_background_id": 9111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 71,
+          "character_id": 90103,
+          "speaker_name": "ダンツのクラスメイト",
+          "text": "あ、ダンツ！　いいところに～！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "71": {
+      "frame_id": 71,
+      "background_id": 39,
+      "sub_background_id": 9111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 72,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "！　わ、ビックリした。 あけましておめでとう……？　どうしたの？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "72": {
+      "frame_id": 72,
+      "background_id": 39,
+      "sub_background_id": 9111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 73,
+          "character_id": 90103,
+          "speaker_name": "ダンツのクラスメイト",
+          "text": "あけおめあけおめ！　あのさ、悪いんだけど ちょっとだけ、手伝ってもらえない？ 今、超色々あって猫の手も借りたくって……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "73": {
+      "frame_id": 73,
+      "background_id": 39,
+      "sub_background_id": 9111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 74,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "ええ！？ ひ、ひとりで！？　それは大変だね……！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "74": {
+      "frame_id": 74,
+      "background_id": 39,
+      "sub_background_id": 9111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 75,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "あ……。……でも、本当にごめん。 今トレーナーさんと遊びに来てたとこなの。 だから――",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 75,
+              "loop_ends_at_frame": -1,
+              "text": "ふたりで手伝おうか？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "75": {
+      "frame_id": 75,
+      "background_id": 39,
+      "sub_background_id": 9111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 76,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "というわけで――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "76": {
+      "frame_id": 76,
+      "background_id": 95,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 77,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "あけましておめでとうございます！ ――『家内安全』のお守りですね。 はい、こちらでお伺いいたします。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "77": {
+      "frame_id": 77,
+      "background_id": 95,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 78,
+          "character_id": 90720,
+          "speaker_name": "参拝客",
+          "text": "すみません、お焚き上げにきたのですが。 ……今、忙しいですかね？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "78": {
+      "frame_id": 78,
+      "background_id": 95,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 79,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "あ……ようこそお参りくださいました。 少しだけお待ちいただけますと――",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 79,
+              "loop_ends_at_frame": -1,
+              "text": "ご案内します。どうぞ",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "79": {
+      "frame_id": 79,
+      "background_id": 95,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 80,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "（……！　トレーナーさん、 ありがとうございます！）",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "80": {
+      "frame_id": 80,
+      "background_id": 28,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 81,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "今日はありがとうございました！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "81": {
+      "frame_id": 81,
+      "background_id": 28,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 82,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "明るい気持ちで帰れそうです。 ……トレーナーさんのおかげですね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 82,
+              "loop_ends_at_frame": -1,
+              "text": "いえいえ",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "82": {
+      "frame_id": 82,
+      "background_id": 28,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 83,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "…………。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 83,
+              "loop_ends_at_frame": -1,
+              "text": "？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "83": {
+      "frame_id": 83,
+      "background_id": 28,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 84,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "……あの。ヘコんでいた理由、 本当は駅伝に負けたからじゃ、ないんです。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "84": {
+      "frame_id": 84,
+      "background_id": 28,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 85,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "……あ、負けたからではあるんですけど、 その、厳密には、そうじゃないっていうか、 そのぅ――",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 85,
+              "loop_ends_at_frame": -1,
+              "text": "うん",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "85": {
+      "frame_id": 85,
+      "background_id": 28,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 86,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "……。走順を決める時、わたし本当は、 4区かアンカーがいいなって思ってたんです。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "86": {
+      "frame_id": 86,
+      "background_id": 28,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 87,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "そのほうが勝てると思った、ので。 でも、結局すぐに引いて譲っちゃって。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "87": {
+      "frame_id": 87,
+      "background_id": 28,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 88,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "……もし、あそこで希望を出していたら、 もし勝てなかったとしても、 みんなの後悔は少なかったのかなって。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "88": {
+      "frame_id": 88,
+      "background_id": 28,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 89,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "申し訳なくって。 わたしが……変に空気読んだせいで。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "89": {
+      "frame_id": 89,
+      "background_id": 28,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 90,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "みんなの走りたいって気持ちには、 優しくできたのかもしれないけど――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "90": {
+      "frame_id": 90,
+      "background_id": 28,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 91,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "勝ちたいって気持ちを、 台無しにしちゃったんだなって。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 91,
+              "loop_ends_at_frame": -1,
+              "text": "（……そうか）",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 91,
+              "loop_ends_at_frame": -1,
+              "text": "（……そっか）",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "91": {
+      "frame_id": 91,
+      "background_id": 28,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 92,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "昨年末、ダンツフレームの意見を控える 癖について、感じた不安を思い出す。 確信が持てず指摘にまでは至らなかったが――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "92": {
+      "frame_id": 92,
+      "background_id": 28,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 93,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "今日の様子を見るとやはり……むしろ、 乗り越えなければならないものだった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "93": {
+      "frame_id": 93,
+      "background_id": 28,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 94,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "……すみません！ もう、終わったことなのに。 困っちゃいますよね、こんな話。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 94,
+              "loop_ends_at_frame": -1,
+              "text": "いや、……それについて明日ちゃんと話そう",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "94": {
+      "frame_id": 94,
+      "background_id": 28,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 95,
+          "character_id": 1092,
+          "speaker_name": "ダンツフレーム",
+          "text": "え？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 95,
+              "loop_ends_at_frame": -1,
+              "text": "俺も、君に伝えなきゃいけないことがある",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 95,
+              "loop_ends_at_frame": -1,
+              "text": "私も、貴方に伝えなきゃいけないことがある",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "95": {
+      "frame_id": 95,
+      "background_id": 28,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "そんな約束とともに、 新たな年を迎えたのだった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

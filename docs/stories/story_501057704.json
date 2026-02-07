@@ -1,0 +1,1042 @@
+{
+  "story_id": "501057704",
+  "casts": [
+    1057,
+    90857,
+    1004,
+    90001,
+    -1
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 35,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 35,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "商業施設内にある映画館の前を 通りかかると、マルゼンスキーに出会った。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 35,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 1057,
+          "speaker_name": "ミスターシービー",
+          "text": "やぁ、マルゼン。これから映画？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 35,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 1004,
+          "speaker_name": "マルゼンスキー",
+          "text": "ええ。今とってもトレンディな ラブストーリーを観るの♪",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 35,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 1004,
+          "speaker_name": "マルゼンスキー",
+          "text": "平凡な男の子と名家の令嬢が恋に落ちて 駆け落ちする、ってお話なんだって。 やっぱし王道はいいわよねぇ♪",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 35,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 1057,
+          "speaker_name": "ミスターシービー",
+          "text": "へぇ。……駆け落ち、か。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 6,
+              "loop_ends_at_frame": -1,
+              "text": "興味あるのか？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 6,
+              "loop_ends_at_frame": -1,
+              "text": "興味あるの？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 35,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 1057,
+          "speaker_name": "ミスターシービー",
+          "text": "――うん。ちょっとね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 35,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "意外なほどに興味を示した ミスターシービー。そこで、 3人で観ていくことになり――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 1004,
+          "speaker_name": "マルゼンスキー",
+          "text": "ん～～……♪　素敵なお話だったわね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 1057,
+          "speaker_name": "ミスターシービー",
+          "text": "うん！　面白かった！ うちの親にも、今度勧めてみようかな。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 10,
+              "loop_ends_at_frame": -1,
+              "text": "映画のギフトカードを贈ってみたら？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 1057,
+          "speaker_name": "ミスターシービー",
+          "text": "あ、いいね！ それ、今回のお土産ってことにしようかな。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 1004,
+          "speaker_name": "マルゼンスキー",
+          "text": "ふふ……しがらみ全てを捨てて、愛を選ぶ。 やっぱし憧れるシチュよね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 1004,
+          "speaker_name": "マルゼンスキー",
+          "text": "……でも、ちょっち考えちゃうわ。 あの2人、あの後幸せになれたと思う？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 1057,
+          "speaker_name": "ミスターシービー",
+          "text": "幸せでしょ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 14,
+              "loop_ends_at_frame": -1,
+              "text": "即答！？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 1057,
+          "speaker_name": "ミスターシービー",
+          "text": "1番身近に、幸せになった人たちが いるからね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 1057,
+          "speaker_name": "ミスターシービー",
+          "text": "――うちの両親、駆け落ち結婚だから。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 1004,
+          "speaker_name": "マルゼンスキー",
+          "text": "うふふ、素敵なお話よね♪ 今でもアツアツなんでしょう？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 1004,
+          "speaker_name": "マルゼンスキー",
+          "text": "だけど……誰もが同じストーリーを 歩めるわけではないのよね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 63,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 19,
+          "character_id": 1004,
+          "speaker_name": "マルゼンスキー",
+          "text": "駆け落ちした瞬間はきっと、 どのカップルも幸せなのよ。だけど――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 63,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 20,
+          "character_id": 1004,
+          "speaker_name": "マルゼンスキー",
+          "text": "情熱は、いずれ冷めちゃうから。 お金のこととか、お互いのこととか。 現実的なことも見えてきちゃって――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "20": {
+      "frame_id": 20,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 21,
+          "character_id": 1004,
+          "speaker_name": "マルゼンスキー",
+          "text": "――ああ！　めんごめんご！ 素敵なお話観た後なのに、 シビアな話は、ちょ～っち野暮よね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "21": {
+      "frame_id": 21,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 22,
+          "character_id": 1057,
+          "speaker_name": "ミスターシービー",
+          "text": "あはは。でも、 苦労があるのはやっぱり当然だと思うよ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "22": {
+      "frame_id": 22,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 23,
+          "character_id": 1004,
+          "speaker_name": "マルゼンスキー",
+          "text": "……ご両親も、山あり谷ありのストーリーを、 ずっと乗り越えてきたのかしら？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "23": {
+      "frame_id": 23,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 24,
+          "character_id": 1057,
+          "speaker_name": "ミスターシービー",
+          "text": "うん。――1度ね、聞いてみたんだ。 お母さんと、2人きりになった時。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "24": {
+      "frame_id": 24,
+      "background_id": 111,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 25,
+          "character_id": 1057,
+          "speaker_name": "ミスターシービー",
+          "text": "ねえ、お母さん。 お父さんと一緒に駆け落ちして―― 辛いと思ったことは、あった？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "25": {
+      "frame_id": 25,
+      "background_id": 111,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 26,
+          "character_id": 90857,
+          "speaker_name": "シービーの母親",
+          "text": "あはは、それはもちろんよ。 お母さんもお父さんも、苦労の連続。 実家とも縁が切れちゃってたし。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "26": {
+      "frame_id": 26,
+      "background_id": 111,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 27,
+          "character_id": 1057,
+          "speaker_name": "ミスターシービー",
+          "text": "…………。 じゃあ、後悔したことは？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "27": {
+      "frame_id": 27,
+      "background_id": 111,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 28,
+          "character_id": 90857,
+          "speaker_name": "シービーの母親",
+          "text": "……それはない、かな。本当の意味で、 自由に選んだ道だったから。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "28": {
+      "frame_id": 28,
+      "background_id": 111,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 29,
+          "character_id": 1057,
+          "speaker_name": "ミスターシービー",
+          "text": "本当の意味で？　それってどういうこと？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "29": {
+      "frame_id": 29,
+      "background_id": 111,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 30,
+          "character_id": 90857,
+          "speaker_name": "シービーの母親",
+          "text": "何にも縛られず、妥協せずに。 自分の心が、1番に望んでいたことを選んだ ――ってこと。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "30": {
+      "frame_id": 30,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 31,
+          "character_id": 1004,
+          "speaker_name": "マルゼンスキー",
+          "text": "――そこまで、自分が望む答えを 突き詰められるかどうかなのかもね。 後悔するか、しないかって。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "31": {
+      "frame_id": 31,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 32,
+          "character_id": 1057,
+          "speaker_name": "ミスターシービー",
+          "text": "幸せでいられるかどうか、もね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 32,
+              "loop_ends_at_frame": -1,
+              "text": "……じゃあ。君は今、幸せか？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 32,
+              "loop_ends_at_frame": -1,
+              "text": "……じゃあ。貴方は今、幸せ？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "32": {
+      "frame_id": 32,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 33,
+          "character_id": 1057,
+          "speaker_name": "ミスターシービー",
+          "text": "あはは！　もちろん！ 幸せに決まってるじゃない。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "33": {
+      "frame_id": 33,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 34,
+          "character_id": 1057,
+          "speaker_name": "ミスターシービー",
+          "text": "走ることを選んだのも。学園に来たのも。 キミをトレーナーに選んだのも。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "34": {
+      "frame_id": 34,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 35,
+          "character_id": 1057,
+          "speaker_name": "ミスターシービー",
+          "text": "全部アタシが望んだこと。 心のまま、迷わず選んできたんだからさ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "35": {
+      "frame_id": 35,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 36,
+          "character_id": 1057,
+          "speaker_name": "ミスターシービー",
+          "text": "本当の自由をずっと貫いてきたんだ。 後悔なんてあるわけないよ。",
+          "flag_type": "",
+          "flag": "male_trainer",
+          "choices": [
+            {
+              "next_frame": 37,
+              "loop_ends_at_frame": -1,
+              "text": "これからも自由であり続けたいな",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 37,
+              "loop_ends_at_frame": -1,
+              "text": "これからも自由であり続けたいね",
+              "flag_type": "",
+              "flag": "female_trainer"
+            },
+            {
+              "next_frame": 41,
+              "loop_ends_at_frame": -1,
+              "text": "常に自分の心に従えるか、ってことか",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 41,
+              "loop_ends_at_frame": -1,
+              "text": "常に自分の心に従えるか、ってことかな",
+              "flag_type": "",
+              "flag": "female_trainer"
+            },
+            {
+              "next_frame": 46,
+              "loop_ends_at_frame": -1,
+              "text": "両親のお話、もっと聞きたいな",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "36": {
+      "frame_id": 36,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 37,
+          "character_id": 1057,
+          "speaker_name": "ミスターシービー",
+          "text": "本当の自由をずっと貫いてきたんだ。 後悔なんてあるわけないよ。",
+          "flag_type": "",
+          "flag": "female_trainer",
+          "choices": [
+            {
+              "next_frame": 37,
+              "loop_ends_at_frame": -1,
+              "text": "これからも自由であり続けたいな",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 37,
+              "loop_ends_at_frame": -1,
+              "text": "これからも自由であり続けたいね",
+              "flag_type": "",
+              "flag": "female_trainer"
+            },
+            {
+              "next_frame": 41,
+              "loop_ends_at_frame": -1,
+              "text": "常に自分の心に従えるか、ってことか",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 41,
+              "loop_ends_at_frame": -1,
+              "text": "常に自分の心に従えるか、ってことかな",
+              "flag_type": "",
+              "flag": "female_trainer"
+            },
+            {
+              "next_frame": 46,
+              "loop_ends_at_frame": -1,
+              "text": "両親のお話、もっと聞きたいな",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "37": {
+      "frame_id": 37,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 38,
+          "character_id": 1057,
+          "speaker_name": "ミスターシービー",
+          "text": "そうだね。でも、しばらくは心配ないかな。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "38": {
+      "frame_id": 38,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 39,
+          "character_id": 1057,
+          "speaker_name": "ミスターシービー",
+          "text": "もっともっと走り続けたいって、 アタシの心が望んでるから。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 39,
+              "loop_ends_at_frame": -1,
+              "text": "俺の心は、支え続けたい、と望んでるよ",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 39,
+              "loop_ends_at_frame": -1,
+              "text": "私の心は、支え続けたい、と望んでるよ",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "39": {
+      "frame_id": 39,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 40,
+          "character_id": 1057,
+          "speaker_name": "ミスターシービー",
+          "text": "あはは！　それなら最高だね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "40": {
+      "frame_id": 40,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 1057,
+          "speaker_name": "ミスターシービー",
+          "text": "自由を突き詰めて、その先になにがあるか。 ――2人で確かめに行ってみようか。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "41": {
+      "frame_id": 41,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 42,
+          "character_id": 1004,
+          "speaker_name": "マルゼンスキー",
+          "text": "う～ん。ちょっち難しいわね。 自分の心とか、自分の本当の望みとかって、 ときどき自分でもわかんなくなっちゃうから。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "42": {
+      "frame_id": 42,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 43,
+          "character_id": 1057,
+          "speaker_name": "ミスターシービー",
+          "text": "そう？　アタシは、 今この瞬間もハッキリしてるけど。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 43,
+              "loop_ends_at_frame": -1,
+              "text": "じゃあ、今は何がしたいんだ？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 43,
+              "loop_ends_at_frame": -1,
+              "text": "じゃあ、今は何がしたいの？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "43": {
+      "frame_id": 43,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 44,
+          "character_id": 1057,
+          "speaker_name": "ミスターシービー",
+          "text": "3人でもっとお喋りしたり、遊びたい、だね。 いいかな？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "44": {
+      "frame_id": 44,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 45,
+          "character_id": 1004,
+          "speaker_name": "マルゼンスキー",
+          "text": "あはは！　モチのロン♪ バッチコーイよ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "45": {
+      "frame_id": 45,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "そして。映画の感想などを語り合いながら、 3人で散策や食事を楽しんだ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "46": {
+      "frame_id": 46,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 47,
+          "character_id": 1004,
+          "speaker_name": "マルゼンスキー",
+          "text": "あ！　あたしも聞きたいわ、それ！ シービーちゃん、いい？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "47": {
+      "frame_id": 47,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 48,
+          "character_id": 1057,
+          "speaker_name": "ミスターシービー",
+          "text": "うん、もちろん！ たっぷり聞かせてあげる。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "48": {
+      "frame_id": 48,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 1057,
+          "speaker_name": "ミスターシービー",
+          "text": "自由を選び――なにが起きても、 幸せであり続けたヒトたちの話。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>스토리 - 우마무스메</title>
+    <style>
+        * { box-sizing: border-box; }
+        body { 
+            font-family: -apple-system, BlinkMacSystemFont, 'Malgun Gothic', sans-serif; 
+            max-width: 700px; 
+            margin: 0 auto; 
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        
+        .back-btn {
+            display: inline-block;
+            margin-bottom: 15px;
+            padding: 10px 18px;
+            background: #666;
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            transition: background 0.2s;
+        }
+        .back-btn:hover { background: #444; }
+        
+        .story-header {
+            background: linear-gradient(135deg, #4a90d9, #357abd);
+            color: white;
+            padding: 20px;
+            border-radius: 12px;
+            margin-bottom: 20px;
+        }
+        .story-header h2 { margin: 0 0 12px 0; }
+        .story-meta { font-size: 14px; opacity: 0.9; }
+        .story-meta div { margin: 4px 0; }
+        .story-source {
+            margin-top: 10px;
+            padding: 10px;
+            background: rgba(255,255,255,0.15);
+            border-radius: 8px;
+        }
+        .subtype-badge {
+            display: inline-block;
+            padding: 4px 10px;
+            background: rgba(255,255,255,0.25);
+            border-radius: 12px;
+            font-size: 12px;
+            margin-left: 10px;
+        }
+        
+        .dialogue {
+            margin: 12px 0;
+            padding: 16px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.08);
+        }
+        .speaker {
+            font-weight: bold;
+            color: #4a90d9;
+            margin-bottom: 10px;
+            font-size: 15px;
+        }
+        .text { line-height: 1.7; color: #333; }
+        
+        .choices {
+            margin-top: 12px;
+            padding: 12px;
+            background: #fff8e1;
+            border-radius: 8px;
+            border-left: 4px solid #ffc107;
+        }
+        .choices-title {
+            font-size: 12px;
+            color: #f57c00;
+            margin-bottom: 10px;
+            font-weight: bold;
+        }
+        .choice-block {
+            margin: 10px 0;
+            padding: 12px;
+            background: #fffde7;
+            border-radius: 8px;
+            border: 1px solid #ffe082;
+        }
+        .choice-text {
+            font-weight: bold;
+            color: #f57c00;
+            padding-bottom: 8px;
+            border-bottom: 1px dashed #ffe082;
+            margin-bottom: 10px;
+        }
+        .choice-label {
+            font-size: 11px;
+            color: #888;
+            margin-left: 8px;
+        }
+        .branch-dialogue {
+            margin: 8px 0;
+            padding: 10px;
+            background: white;
+            border-radius: 6px;
+        }
+        .branch-speaker {
+            font-weight: bold;
+            color: #ff8f00;
+            margin-bottom: 6px;
+            font-size: 13px;
+        }
+        .branch-text { line-height: 1.6; font-size: 14px; }
+        
+        .loading {
+            text-align: center;
+            padding: 60px;
+            color: #888;
+            font-size: 18px;
+        }
+        .error {
+            text-align: center;
+            padding: 60px;
+            color: #d32f2f;
+        }
+    </style>
+</head>
+<body>
+    <a class="back-btn" href="javascript:history.back()">← 뒤로가기</a>
+    <a class="back-btn" href="index.html" style="margin-left:8px">🏠 홈</a>
+    
+    <div id="content">
+        <div class="loading">스토리 로딩 중...</div>
+    </div>
+
+    <script>
+        const TYPE_LABELS = {
+            character: '캐릭터 스토리', career: '육성 스토리', event: '이벤트 스토리',
+            card: '카드 스토리', main: '메인 스토리', lobby: '로비 스토리', other: '기타'
+        };
+        const SUBTYPE_LABELS = { main: '메인', career: '커리어', random: '랜덤', outfit: '의상' };
+        
+        let charMap = {};
+        let storyMap = {};
+        
+        async function init() {
+            const params = new URLSearchParams(location.search);
+            const storyId = params.get('id');
+            
+            if (!storyId) {
+                showError('스토리 ID가 없습니다');
+                return;
+            }
+            
+            try {
+                // 메타데이터 로드
+                const [charResp, mapResp] = await Promise.all([
+                    fetch('char_map.json'),
+                    fetch('story_map.json')
+                ]);
+                charMap = await charResp.json();
+                storyMap = await mapResp.json();
+                
+                // 스토리 로드
+                const storyResp = await fetch(`stories/story_${storyId}.json`);
+                if (!storyResp.ok) throw new Error('스토리를 찾을 수 없습니다');
+                const story = await storyResp.json();
+                
+                renderStory(storyId, story);
+            } catch (e) {
+                showError(e.message);
+            }
+        }
+        
+        function showError(msg) {
+            document.getElementById('content').innerHTML = `<div class="error">❌ ${msg}</div>`;
+        }
+        
+        function renderStory(storyId, story) {
+            const info = storyMap[storyId] || {};
+            const casts = (story.casts || [])
+                .filter(c => c > 0)
+                .map(c => charMap[c] || `ID:${c}`);
+            
+            const name = info.name || `스토리 ${storyId}`;
+            const type = info.type || 'other';
+            const subtype = info.subtype || '';
+            const source = info.source || '';
+            
+            document.title = `${name} - 우마무스메`;
+            
+            let html = `
+                <div class="story-header">
+                    <h2>${name}${subtype ? `<span class="subtype-badge">${SUBTYPE_LABELS[subtype]}</span>` : ''}</h2>
+                    <div class="story-meta">
+                        <div>타입: ${TYPE_LABELS[type] || type}</div>
+                        <div>등장: ${casts.length ? casts.join(', ') : '없음'}</div>
+                    </div>
+                    ${source ? `<div class="story-source">📁 ${source}</div>` : ''}
+                </div>
+            `;
+            
+            const frames = story.frames || {};
+            const skipFrames = new Set();
+            
+            // 분기 대사 추출 함수
+            function getBranchDialogues(startFrame, allBranchStarts) {
+                const dialogues = [];
+                let current = startFrame;
+                const visited = new Set();
+                
+                while (current != null && current !== -1) {
+                    if (visited.has(current)) break;
+                    visited.add(current);
+                    if (current !== startFrame && allBranchStarts.has(current)) break;
+                    
+                    const frame = frames[String(current)];
+                    if (!frame) break;
+                    
+                    let nextFrame = null;
+                    for (const d of (frame.dialogue || [])) {
+                        const speaker = d.speaker_name || '';
+                        const text = (d.text || '').replace(/\\r/g, '<br>');
+                        nextFrame = d.next_frame;
+                        
+                        if (text) {
+                            dialogues.push({ speaker, text });
+                            skipFrames.add(current);
+                        }
+                    }
+                    
+                    // 합류점 체크
+                    let incomingCount = 0;
+                    for (const fk in frames) {
+                        for (const fd of (frames[fk].dialogue || [])) {
+                            if (fd.next_frame === nextFrame) incomingCount++;
+                        }
+                    }
+                    if (incomingCount > 1 && dialogues.length > 0) break;
+                    
+                    current = nextFrame;
+                }
+                return dialogues;
+            }
+            
+            // 프레임 순서대로 렌더링
+            const sortedKeys = Object.keys(frames).sort((a, b) => parseInt(a) - parseInt(b));
+            
+            for (const frameKey of sortedKeys) {
+                const frameNum = parseInt(frameKey);
+                if (skipFrames.has(frameNum)) continue;
+                
+                const frame = frames[frameKey];
+                for (const d of (frame.dialogue || [])) {
+                    const speaker = d.speaker_name || '';
+                    const text = (d.text || '').replace(/\\r/g, '<br>');
+                    const choices = d.choices || [];
+                    
+                    if (!text && !choices.length) continue;
+                    
+                    html += '<div class="dialogue">';
+                    
+                    if (speaker) {
+                        html += `<div class="speaker">【${speaker}】</div>`;
+                    }
+                    if (text) {
+                        html += `<div class="text">${text}</div>`;
+                    }
+                    
+                    if (choices.length) {
+                        const flags = choices.map(c => c.flag_type || '');
+                        const nextFrames = choices.map(c => c.next_frame).filter(f => f != null);
+                        const nextSet = new Set(nextFrames);
+                        
+                        const isGenderOnly = flags.every(f => ['male_trainer', 'female_trainer', ''].includes(f)) && nextSet.size <= 1;
+                        
+                        html += '<div class="choices">';
+                        html += `<div class="choices-title">▼ 선택지${isGenderOnly ? '' : ' (분기)'}</div>`;
+                        
+                        const allBranchStarts = new Set(nextFrames);
+                        
+                        for (const choice of choices) {
+                            const choiceText = choice.text || '';
+                            const nextFrame = choice.next_frame;
+                            const flag = choice.flag_type || '';
+                            
+                            if (!choiceText) continue;
+                            
+                            let label = '';
+                            if (flag === 'male_trainer') label = '(남성 트레이너)';
+                            else if (flag === 'female_trainer') label = '(여성 트레이너)';
+                            
+                            html += '<div class="choice-block">';
+                            html += `<div class="choice-text">${isGenderOnly ? '' : '➤ '}${choiceText}<span class="choice-label">${label}</span></div>`;
+                            
+                            if (!isGenderOnly && nextFrame != null) {
+                                const branchDialogues = getBranchDialogues(nextFrame, allBranchStarts);
+                                for (const bd of branchDialogues) {
+                                    html += '<div class="branch-dialogue">';
+                                    if (bd.speaker) html += `<div class="branch-speaker">【${bd.speaker}】</div>`;
+                                    html += `<div class="branch-text">${bd.text}</div>`;
+                                    html += '</div>';
+                                }
+                            }
+                            html += '</div>';
+                        }
+                        html += '</div>';
+                    }
+                    
+                    html += '</div>';
+                }
+            }
+            
+            document.getElementById('content').innerHTML = html;
+        }
+        
+        init();
+    </script>
+</body>
+</html>

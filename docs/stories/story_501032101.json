@@ -1,0 +1,939 @@
+{
+  "story_id": "501032101",
+  "casts": [
+    1032,
+    90001,
+    -1
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "新年。相変わらず、他のウマ娘に比べ\r レースに対して低い熱量だと理解しつつも――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "あくまで今年の目標は『クラシック三冠』を\r 掲げることにした。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "彼女にやる気がないわけではないことは、\r わかっていたし――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "なにより、さらなる速さを求めるのなら、\r レースを使わない手はない。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 5,
+              "loop_ends_at_frame": -1,
+              "text": "（レースではきっと、もっと成長できる！）",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "ということで、そろそろレースに集中したく、\r いわゆる『目標の見える化』を狙い、 書初めをしてみたのだが――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 1032,
+          "speaker_name": "アグネスタキオン",
+          "text": "あけましておめでとう、トレーナー君！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 1032,
+          "speaker_name": "アグネスタキオン",
+          "text": "新年早々ミーティングなんて、\r 君は相変わらずだな……と。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "彼女は、机に置かれた書初めに気づいた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 1032,
+          "speaker_name": "アグネスタキオン",
+          "text": "なんだいこれ。『クラシック三冠』って。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 10,
+              "loop_ends_at_frame": -1,
+              "text": "俺と君の、今年の目標だよ",
+              "flag_type": "male_trainer",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 10,
+              "loop_ends_at_frame": -1,
+              "text": "私と貴方の、今年の目標だよ",
+              "flag_type": "female_trainer",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 1032,
+          "speaker_name": "アグネスタキオン",
+          "text": "ああ、確かに私は君からそう聞いた！\r 前向きに検討もしている！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 1032,
+          "speaker_name": "アグネスタキオン",
+          "text": "しかし、実際に出られる保証があるわけでは\r ない。これは以前から言っているはずだが。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 12,
+              "loop_ends_at_frame": -1,
+              "text": "（彼女の意思は尊重したい。でも……）",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "本当に出走を目指すなら、そろそろ本腰を\r 入れなければ。そんな時期になりつつあった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 13,
+              "loop_ends_at_frame": -1,
+              "text": "（説得しないと……！）",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 1032,
+          "speaker_name": "アグネスタキオン",
+          "text": "ふぅン。『クラシックという場を存分に\r 利用しないのはもったいない』、ねぇ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 1032,
+          "speaker_name": "アグネスタキオン",
+          "text": "言いたいことはわかるさ。強豪相手との\r レースは、さらなる速さを手に入れる いいトリガーになり得る。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 1032,
+          "speaker_name": "アグネスタキオン",
+          "text": "だが、以前、\r いやついさっきも君に話した通り、私は――",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 16,
+              "loop_ends_at_frame": -1,
+              "text": "最高のデータ収集の場にもなる！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 1032,
+          "speaker_name": "アグネスタキオン",
+          "text": "……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 1032,
+          "speaker_name": "アグネスタキオン",
+          "text": "……クク！　君もまぁ、しつこいな！\r 何が何でも出させたいのだね！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 19,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "そう笑うと彼女は、\r しばらく顎に手をやった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 20,
+          "character_id": 1032,
+          "speaker_name": "アグネスタキオン",
+          "text": "……まぁ、そうだな。わかったよ。\r 『皐月賞』くらいは予定に入れておこうか。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 20,
+              "loop_ends_at_frame": -1,
+              "text": "本当に！？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "20": {
+      "frame_id": 20,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 21,
+          "character_id": 1032,
+          "speaker_name": "アグネスタキオン",
+          "text": "親愛なるモル……トレーナー君の願いだ！\r 何度も無下にするのも胸が痛むものさ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "21": {
+      "frame_id": 21,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 22,
+          "character_id": 1032,
+          "speaker_name": "アグネスタキオン",
+          "text": "それに何より、データ収集ができるのは\r 魅力的だからね！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "22": {
+      "frame_id": 22,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 23,
+          "character_id": 1032,
+          "speaker_name": "アグネスタキオン",
+          "text": "そうだ。せっかくだから今日は、\r 『弥生賞』及び『皐月賞』に向けて 何か対策を練ってみるかい？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 23,
+              "loop_ends_at_frame": -1,
+              "text": "（珍しく研究以外のことに乗り気だ……！）",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "23": {
+      "frame_id": 23,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 24,
+          "character_id": 1032,
+          "speaker_name": "アグネスタキオン",
+          "text": "そんなに驚いた顔をするのはよしたまえ。\r 私だっていろいろあるんだ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "24": {
+      "frame_id": 24,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 25,
+          "character_id": 1032,
+          "speaker_name": "アグネスタキオン",
+          "text": "実験用のラットにも、餌くらい入れるだろう？\r そういうことさ。それで、どうする？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 25,
+              "loop_ends_at_frame": -1,
+              "text": "戦略を練ろう！",
+              "flag_type": "",
+              "flag": ""
+            },
+            {
+              "next_frame": 33,
+              "loop_ends_at_frame": -1,
+              "text": "まずはお餅でも食べよう！",
+              "flag_type": "",
+              "flag": ""
+            },
+            {
+              "next_frame": 40,
+              "loop_ends_at_frame": -1,
+              "text": "初詣で願掛けだ！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "25": {
+      "frame_id": 25,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 26,
+          "character_id": 1032,
+          "speaker_name": "アグネスタキオン",
+          "text": "クク、戦略会議か！　そうこなくちゃね！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "26": {
+      "frame_id": 26,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 27,
+          "character_id": 1032,
+          "speaker_name": "アグネスタキオン",
+          "text": "まずは今年『弥生賞』を狙っていそうな\r ウマ娘を洗い出してみようか。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "27": {
+      "frame_id": 27,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 28,
+          "character_id": 1032,
+          "speaker_name": "アグネスタキオン",
+          "text": "特性、性格、得意不得意が分かったら\r ＶＲに落として、彼女たちと模擬戦をしよう！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "28": {
+      "frame_id": 28,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 29,
+          "character_id": 1032,
+          "speaker_name": "アグネスタキオン",
+          "text": "イメージトレーニングはあらゆる物事の\r 成功に有意性がある。 なんなら、模擬戦じゃなくていい。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "29": {
+      "frame_id": 29,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 30,
+          "character_id": 1032,
+          "speaker_name": "アグネスタキオン",
+          "text": "例えば50m走でも、ハードル走でもいい、\r ……待てよ、なんなら彼女たちのキメラを――",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 30,
+              "loop_ends_at_frame": -1,
+              "text": "キメラ！？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "30": {
+      "frame_id": 30,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 31,
+          "character_id": 1032,
+          "speaker_name": "アグネスタキオン",
+          "text": "五体を……いや、むしろ五臓六腑まで\r バラバラで設定した時、 一体どんな肉体が誕生するんだ！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "31": {
+      "frame_id": 31,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 32,
+          "character_id": 1032,
+          "speaker_name": "アグネスタキオン",
+          "text": "ウーン！　興奮してきた！　研究室へ走るぞ！\r 今日は特別に君を助手に認定しよう！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "32": {
+      "frame_id": 32,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "その日は、倫理感を失いそうな彼女の監視に\r 終始した……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "33": {
+      "frame_id": 33,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 34,
+          "character_id": 1032,
+          "speaker_name": "アグネスタキオン",
+          "text": "ふぅーン？\r 一緒に正月気分でも味わおうって？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "34": {
+      "frame_id": 34,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 35,
+          "character_id": 1032,
+          "speaker_name": "アグネスタキオン",
+          "text": "いいのかい。私がその気になるのは\r 珍しいんだろう？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 35,
+              "loop_ends_at_frame": -1,
+              "text": "せっかくだから！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "35": {
+      "frame_id": 35,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 36,
+          "character_id": 1032,
+          "speaker_name": "アグネスタキオン",
+          "text": "まぁ……たまにはいいか。それにあれには\r 糖質が多く含まれる。脳やトレーニングの エネルギー源にはもってこいだ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "36": {
+      "frame_id": 36,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 37,
+          "character_id": 1032,
+          "speaker_name": "アグネスタキオン",
+          "text": "いや待てよ、ならばブドウ糖でよくないか？\r わざわざあんなに飲み込みにくいものから 摂取する必要がどこに？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "37": {
+      "frame_id": 37,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 38,
+          "character_id": 1032,
+          "speaker_name": "アグネスタキオン",
+          "text": "うん、決めた。モルモット君、その辺の店で\r ブドウ糖のタブレットを買ってきてくれ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "38": {
+      "frame_id": 38,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 39,
+          "character_id": 1032,
+          "speaker_name": "アグネスタキオン",
+          "text": "あっ、ついでに葉酸と鉄分も頼むよ！\r それに、エタノールも。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "39": {
+      "frame_id": 39,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "ということで、新年早々、なぜか\r お使いに駆り出されたのだった……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "40": {
+      "frame_id": 40,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 41,
+          "character_id": 1032,
+          "speaker_name": "アグネスタキオン",
+          "text": "願掛け、ねぇ。\r 正直あまり経験がないな。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "41": {
+      "frame_id": 41,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 42,
+          "character_id": 1032,
+          "speaker_name": "アグネスタキオン",
+          "text": "いや、面白い風習だとは思うよ。\r とどのつまり、感情の再確認だろう。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "42": {
+      "frame_id": 42,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 43,
+          "character_id": 1032,
+          "speaker_name": "アグネスタキオン",
+          "text": "いや……待てよ、君にプラシーボ効果が\r 出たら、間近で観察できるな……？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "43": {
+      "frame_id": 43,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 44,
+          "character_id": 1032,
+          "speaker_name": "アグネスタキオン",
+          "text": "うん！　いいじゃないか、初詣！\r すぐ行こう、張り切って行こう！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "44": {
+      "frame_id": 44,
+      "background_id": 1,
+      "sub_background_id": 9110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 45,
+          "character_id": 1032,
+          "speaker_name": "アグネスタキオン",
+          "text": "ついでにおみくじも引いてみてくれ！\r 可能なら大凶か大吉を！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "45": {
+      "frame_id": 45,
+      "background_id": 39,
+      "sub_background_id": 9111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "その後、訪れた境内にて、願いごとの内容を\r しつこく聞かれたのだった……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

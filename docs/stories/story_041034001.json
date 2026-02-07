@@ -1,0 +1,1214 @@
+{
+  "story_id": "041034001",
+  "casts": [
+    90500,
+    90021,
+    9001,
+    1034,
+    90001,
+    90710,
+    90103,
+    -1
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 95,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 95,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "新人トレーナーとしてトレセン学園での生活を始めてからしばらく。\r いまだ担当ウマ娘はおらず、スカウトもできずにいた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 95,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "もちろんどの子も素晴らしいとは思っているのだが、いざ\r 声をかけるとなると、なんとなくためらってしまう……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 11,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "――であれば、1つご提案なのですが……\r 中でダメなら、『外』に行かれてみてはいかがでしょう？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 4,
+              "loop_ends_at_frame": -1,
+              "text": "外、ですか？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 11,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "はい♪　ご存じの通り、ウマ娘たちのレースは\r 何もトゥインクル・シリーズだけというわけではありません！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 11,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "日本各地に点在するレース場では、独自にシリーズが\r 開催され、地方の学園に通う子たちがしのぎを削っています。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 11,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "時には、そんな子たちの中から才能を見出し、ここトレセン学園に\r 転入という形で担当契約をされるトレーナーさんもいるんですよ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 7,
+              "loop_ends_at_frame": -1,
+              "text": "なるほど……！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "ということで、さっそく大井レースへの出走を目指す子たちが\r 集うという、大井での選抜レースを観に向かったのだが――",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 8,
+              "loop_ends_at_frame": -1,
+              "text": "ここは……どこだ……！？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 8,
+              "loop_ends_at_frame": -1,
+              "text": "ここ……どこ……！？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "慣れない場所に来たせいか思いっきり道に迷ってしまい、\r 挙げ句の果てには――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 90500,
+          "speaker_name": "風格のある猫",
+          "text": "ブゥニャアアアゴ！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 10,
+              "loop_ends_at_frame": -1,
+              "text": "うわぁあああ！？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "突如襲いかかってきた、やたらと立派な体格の猫と\r 終わりなき追いかけっこをする羽目になった！　そして……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "（グゥウウウウ……）",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 12,
+              "loop_ends_at_frame": -1,
+              "text": "（お……お腹、空いた……）",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 1034,
+          "speaker_name": "？？？",
+          "text": "あっはっはっはっは！！　おうおうおう、どした？\r ずいぶんひだるそうじゃあねえか！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 90500,
+          "speaker_name": "風格のある猫",
+          "text": "ブニャァァ～～～！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 1034,
+          "speaker_name": "いなせなウマ娘",
+          "text": "うおっと。なんでい、ここらの親分猫じゃあねえか。\r ……ははあ、さては縄張りに踏み入られたかい？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 1034,
+          "speaker_name": "いなせなウマ娘",
+          "text": "まあまあ、ここらじゃ見ねえ顔のお方がしたことさ。\r どれ、こいつで手打ちにしてくんな！　……よーしよしよしよし！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "いなせなウマ娘に撫で回されると、あれほど凶暴だった猫が\r あっという間に大人しくなった！　見事というほかない手業だ……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 90500,
+          "speaker_name": "風格のある猫",
+          "text": "フニャアァァン♪",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 19,
+          "character_id": 1034,
+          "speaker_name": "いなせなウマ娘",
+          "text": "おうっ、またな～！　……っと。お前さん、ここらは初めてかい？\r 親分猫サマに追い回されたうえ、迷子の迷子で腹ペコってか。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 20,
+          "character_id": 1034,
+          "speaker_name": "いなせなウマ娘",
+          "text": "そんならあたしについてきな！\r うめえソバ屋まで案内するぜ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 20,
+              "loop_ends_at_frame": -1,
+              "text": "会ったばかりなのに、いいのか……？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 20,
+              "loop_ends_at_frame": -1,
+              "text": "会ったばかりなのに、いいの……？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "20": {
+      "frame_id": 20,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 21,
+          "character_id": 1034,
+          "speaker_name": "いなせなウマ娘",
+          "text": "てやんでい！　ここで放っとくような無粋な真似、\r できるかってんだ。いいから黙ってついてきな！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "21": {
+      "frame_id": 21,
+      "background_id": 191,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 22,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "こうして案内された先のアーケード街で、いなせなウマ娘は\r ずいぶん慣れた足取りで立ち食いソバ屋まで連れて行ってくれた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "22": {
+      "frame_id": 22,
+      "background_id": 191,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 23,
+          "character_id": 90710,
+          "speaker_name": "ソバ屋のおばちゃん",
+          "text": "まあまあまあまあ、イナリちゃんじゃないの！\r おあげさん食べてかないかい？　たーんとあるよ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "23": {
+      "frame_id": 23,
+      "background_id": 191,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 24,
+          "character_id": 1034,
+          "speaker_name": "いなせなウマ娘",
+          "text": "おっと、こいつはありがてえ！　が、おばちゃん、\r ソバも1杯頼むぜ。客を連れてきたんだ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "24": {
+      "frame_id": 24,
+      "background_id": 191,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 25,
+          "character_id": 90710,
+          "speaker_name": "ソバ屋のおばちゃん",
+          "text": "あらま、いらっしゃいませ！　うっふっふっ、\r イナリちゃんのご案内ならめいっぱいサービスしないとねぇ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "25": {
+      "frame_id": 25,
+      "background_id": 191,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 26,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "ということで、いただいたソバには『サービス』で海老天が\r なんと2本ものっていた。おかげですっかり満腹だ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 26,
+              "loop_ends_at_frame": -1,
+              "text": "本当にありがとう……！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "26": {
+      "frame_id": 26,
+      "background_id": 191,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 27,
+          "character_id": 1034,
+          "speaker_name": "いなせなウマ娘",
+          "text": "ほっぺた落っこっちまったろう！　ここらじゃ1番のソバ屋だぜ。\r ……そんで？　お前さん、そもそもどこに行こうとしてたんでい。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "27": {
+      "frame_id": 27,
+      "background_id": 191,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 28,
+          "character_id": 1034,
+          "speaker_name": "いなせなウマ娘",
+          "text": "こうなりゃ乗りかかった船だ！　ここらはあたしの庭さ、\r どこでも案内してやらあ。それ、言ってみな！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 28,
+              "loop_ends_at_frame": -1,
+              "text": "実は『大井レース場』に行きたくて……",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "28": {
+      "frame_id": 28,
+      "background_id": 191,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 29,
+          "character_id": 1034,
+          "speaker_name": "いなせなウマ娘",
+          "text": "んん？　なんだってえ？\r ……あっはっはっはっはっは！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "29": {
+      "frame_id": 29,
+      "background_id": 191,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 30,
+          "character_id": 1034,
+          "speaker_name": "いなせなウマ娘",
+          "text": "なんでい、あたしもそこに行くとこさ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "30": {
+      "frame_id": 30,
+      "background_id": 114,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 31,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "こうして、どうにかこうにか大井レース場まで辿り着き、\r そこでの選抜レース観戦に参加できたのだが――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "31": {
+      "frame_id": 31,
+      "background_id": 114,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 32,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "（ウォオオオオッ！）",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "32": {
+      "frame_id": 32,
+      "background_id": 1,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 33,
+          "character_id": 1034,
+          "speaker_name": "いなせなウマ娘",
+          "text": "だぁああああらぁああああっ！！\r どいたどいたどいたぁあああああ！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 33,
+              "loop_ends_at_frame": -1,
+              "text": "って、今日会った子！？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "33": {
+      "frame_id": 33,
+      "background_id": 1,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 34,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "まさか選抜レースの出走者だったとは！\r いや、それよりも……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "34": {
+      "frame_id": 34,
+      "background_id": 2,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 35,
+          "character_id": 90021,
+          "speaker_name": "実況",
+          "text": "いよいよ最後の直線！　さあ、ここで土煙を力強く巻き上げながら\r 飛び出しましたのはイナリワン、イナリワンです！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "35": {
+      "frame_id": 35,
+      "background_id": 2,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 36,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "こいつで……終いだっ！\r おらぁああああああああ！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "36": {
+      "frame_id": 36,
+      "background_id": 2,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 37,
+          "character_id": 90021,
+          "speaker_name": "実況",
+          "text": "イナリワン先頭！　イナリワン先頭！　2バ身、3バ身と\r 後続を突き放す！！　さあイナリワン、イナリワンだ！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "37": {
+      "frame_id": 37,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 38,
+          "character_id": 90021,
+          "speaker_name": "実況",
+          "text": "ゴールインッ！　イナリワン、大井選抜レースを4バ身差で圧勝っ！\r 小柄な体躯に溢れるパワー、見事な走りでした！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 38,
+              "loop_ends_at_frame": -1,
+              "text": "……っ、はぁ……！！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "38": {
+      "frame_id": 38,
+      "background_id": 114,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 39,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "思わず漏れた吐息は、呼吸を忘れ見入っていた証でもあった。\r ……それほど、たったいま目にした走りに魅せられていた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "39": {
+      "frame_id": 39,
+      "background_id": 114,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 40,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "心臓が大きく脈打つ。大地を揺るがすかのような力強い走り。\r 火花がごとく燃え盛る闘争心。砂地でさえ光って見えたスピード。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "40": {
+      "frame_id": 40,
+      "background_id": 114,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 41,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "間違いなく芝コースでも――トゥインクル・シリーズでも通用する。\r 彼女しかいない……彼女しかいない！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 41,
+              "loop_ends_at_frame": -1,
+              "text": "あの子を――スカウトしたい！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "41": {
+      "frame_id": 41,
+      "background_id": 114,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 42,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "いや、すまねえ。\r お前さんの気持ちは嬉しいが、その話は受けられねえな。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "42": {
+      "frame_id": 42,
+      "background_id": 114,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 43,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "が、いなせなウマ娘――イナリワンは、自分の話を\r 最後まで黙って聞いてくれたのちに、きっぱりとそう答えた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 43,
+              "loop_ends_at_frame": -1,
+              "text": "……理由を、聞いてもいいか？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 43,
+              "loop_ends_at_frame": -1,
+              "text": "……理由を、聞いてもいい？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "43": {
+      "frame_id": 43,
+      "background_id": 114,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 44,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "見ての通り、あたしは下町生まれ下町育ち！\r よちよち歩きの頃から、町のみーんなと家族みてえに育ったんだ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "44": {
+      "frame_id": 44,
+      "background_id": 114,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 45,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "走り方も同じさ。ずうっと面倒見て、育ててくれた親方がいる。\r その人は、この大井のチームであたしを待ってくれてんだ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "45": {
+      "frame_id": 45,
+      "background_id": 114,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 46,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "おまけに――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "46": {
+      "frame_id": 46,
+      "background_id": 114,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 47,
+          "character_id": 90103,
+          "speaker_name": "紫シュシュのウマ娘",
+          "text": "――あっ、いたいたイナリの姐さんっ！　おめでとうございますー！ 自分は……またスタミナ切れしちゃって、5着でしたが……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "47": {
+      "frame_id": 47,
+      "background_id": 114,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 48,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "なんでい、しけた顔しやがって！　一生懸命走った結果だろがい。\r それに、親方んとこから所属の話は来たんだろ？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "48": {
+      "frame_id": 48,
+      "background_id": 114,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 49,
+          "character_id": 90103,
+          "speaker_name": "紫シュシュのウマ娘",
+          "text": "はいっ！　ちっちゃい頃からずっと憧れだったイナリの姐さんと、\r 同じチーム……！　嬉しいです！　よろしくお願いしますっ！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "49": {
+      "frame_id": 49,
+      "background_id": 114,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 50,
+          "character_id": 90103,
+          "speaker_name": "紫シュシュのウマ娘",
+          "text": "あ、お話しのとこすみませんでした！　失礼しますっ！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "50": {
+      "frame_id": 50,
+      "background_id": 114,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 51,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "おうっ、また後でな！！\r …………っと。ま、こんな感じでな。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "51": {
+      "frame_id": 51,
+      "background_id": 114,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 52,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "こちとら江戸っ子でい。世話んなった親方のことも、 可愛い子分のことも、裏切れねえのさ。……わりいな！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 52,
+              "loop_ends_at_frame": -1,
+              "text": "いや、いいんだ……事情はわかったから",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 52,
+              "loop_ends_at_frame": -1,
+              "text": "いや、いいよ……事情はわかったから",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "52": {
+      "frame_id": 52,
+      "background_id": 114,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 53,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "……おいおい、そうしょぼくれた顔すんない！\r お前さん、このあたしに声をかけるたあ見る目があるぜ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "53": {
+      "frame_id": 53,
+      "background_id": 114,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 54,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "その目利きっぷりなら、トレセン学園でもいい子が見つかるさ。\r とんでもねえ名門なんだろ？　だったら――",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 54,
+              "loop_ends_at_frame": -1,
+              "text": "学園の中でもさんざん探したんだ。でも――",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "54": {
+      "frame_id": 54,
+      "background_id": 114,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 55,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "でも、……なんでい？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 55,
+              "loop_ends_at_frame": -1,
+              "text": "それでも、君しかいないって思ったんだ",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 55,
+              "loop_ends_at_frame": -1,
+              "text": "それでも、貴方しかいないって思ったんだ",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "55": {
+      "frame_id": 55,
+      "background_id": 114,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 56,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "…………！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "56": {
+      "frame_id": 56,
+      "background_id": 114,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 57,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "あ、いや……そ、そうかい。\r えーーーっと………………。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "57": {
+      "frame_id": 57,
+      "background_id": 114,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 1034,
+          "speaker_name": "イナリワン",
+          "text": "……道は、もう覚えたかい？　親分猫には取っ捕まるんじゃねえぜ。\r そんじゃ……その、気をつけて帰んなよ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

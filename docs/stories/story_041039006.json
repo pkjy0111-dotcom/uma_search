@@ -1,0 +1,1242 @@
+{
+  "story_id": "041039006",
+  "casts": [
+    90150,
+    1039,
+    90001,
+    90170,
+    90171,
+    -1
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 28,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 28,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "休日。落ち込み気味のカワカミプリンセスを励ますため、\r 1人である“下見”をしに街に出てきたのだが――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 28,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 1039,
+          "speaker_name": "カワカミプリンセス",
+          "text": "はあぁぁ～～～～……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 28,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "――まさに、そのカワカミプリンセスの、\r 雪崩のような物凄いため息が聞こえた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 1039,
+          "speaker_name": "カワカミプリンセス",
+          "text": "……あ、あらっ！？　トレーナーさんっ！？\r どうしてここにっ！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 5,
+              "loop_ends_at_frame": -1,
+              "text": "……随分しょげてるみたいだな",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 5,
+              "loop_ends_at_frame": -1,
+              "text": "……随分しょげてるみたいだね",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 1039,
+          "speaker_name": "カワカミプリンセス",
+          "text": "だ、だって、だって……！　くやし～んですわ～！！\r 何が悔しいって、あの意地悪な方の言動……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 1039,
+          "speaker_name": "カワカミプリンセス",
+          "text": "そっくりだったんですの！　プリファイに出てくる……\r ダークウマ娘側のリーダー、『ダークプリンセス』に！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 1039,
+          "speaker_name": "カワカミプリンセス",
+          "text": "そんな方に負けるなんて～……！　もうバッドエンドですわ！\r 鬱エンドですわ！　姫からホタテのヒモに格下げですわ～……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "カワカミプリンセスのショックは予想以上に大きいようだ。\r となれば――今すぐ“あの場所”に行った方がいいかもしれない。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 9,
+              "loop_ends_at_frame": -1,
+              "text": "……連れて行きたい場所があるんだ",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 1039,
+          "speaker_name": "カワカミプリンセス",
+          "text": "へっ？　どこへ、ですの？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 10,
+              "loop_ends_at_frame": -1,
+              "text": "それは行ってみてのお楽しみだ",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 10,
+              "loop_ends_at_frame": -1,
+              "text": "それは行ってみてのお楽しみだね",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 31,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 1039,
+          "speaker_name": "カワカミプリンセス",
+          "text": "……？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 35,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 1039,
+          "speaker_name": "カワカミプリンセス",
+          "text": "どぉわぁ～～～～！！？？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 35,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 1039,
+          "speaker_name": "カワカミプリンセス",
+          "text": "と、トレーナーさん……！　このパネル……！\r 無印プリファイ劇場版じゃありませんのっ！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 35,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 1039,
+          "speaker_name": "カワカミプリンセス",
+          "text": "ど、どうして……！？　何年も前に公開された映画なのに？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 14,
+              "loop_ends_at_frame": -1,
+              "text": "再上映している映画館を見つけてな",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 14,
+              "loop_ends_at_frame": -1,
+              "text": "再上映している映画館を見つけてね",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 35,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 1039,
+          "speaker_name": "カワカミプリンセス",
+          "text": "と、ということは……今からプリファイ、観られるんですの？\r それも、スクリーンで？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 15,
+              "loop_ends_at_frame": -1,
+              "text": "もちろん！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 35,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 1039,
+          "speaker_name": "カワカミプリンセス",
+          "text": "……よっしゃああああああ！！　ですわーーーーっ！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 35,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 1039,
+          "speaker_name": "カワカミプリンセス",
+          "text": "最高ですわ、トレーナーさんっ！\r 早速シアターへゴーゴーですわ～！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 35,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "……どうやら、元気を取り戻してくれたようだ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 29,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 19,
+          "character_id": 1039,
+          "speaker_name": "カワカミプリンセス",
+          "text": "ん～っ……！　感無量ですわ～……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 19,
+              "loop_ends_at_frame": -1,
+              "text": "喜んでくれてよかった",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 29,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 20,
+          "character_id": 1039,
+          "speaker_name": "カワカミプリンセス",
+          "text": "最っ高でしたわ！　やっぱり無印プリファイ劇場版は不朽の名作！\r テンションが上がりすぎて、肘かけを破壊するところでしたわ～！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "20": {
+      "frame_id": 20,
+      "background_id": 29,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 21,
+          "character_id": 1039,
+          "speaker_name": "カワカミプリンセス",
+          "text": "ああ――10億もの暗黒ウマ娘軍団に囲まれた姫が、\r 王子様の放つ光を目印に衛星軌道を駆け抜けるシーンとか～……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "21": {
+      "frame_id": 21,
+      "background_id": 29,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 22,
+          "character_id": 1039,
+          "speaker_name": "カワカミプリンセス",
+          "text": "月面のコース上でブラックホールと融合した暗黒星雲大帝を\r 王子様と一緒に浄化するシーンとか！　何度見ても感動ですわ～！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "22": {
+      "frame_id": 22,
+      "background_id": 29,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 23,
+          "character_id": 1039,
+          "speaker_name": "カワカミプリンセス",
+          "text": "は～、本当に面白かったですわ……本当に……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "23": {
+      "frame_id": 23,
+      "background_id": 29,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 24,
+          "character_id": 1039,
+          "speaker_name": "カワカミプリンセス",
+          "text": "…………。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 24,
+              "loop_ends_at_frame": -1,
+              "text": "どうした？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 24,
+              "loop_ends_at_frame": -1,
+              "text": "どうしたの？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "24": {
+      "frame_id": 24,
+      "background_id": 29,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 25,
+          "character_id": 1039,
+          "speaker_name": "カワカミプリンセス",
+          "text": "……やっぱり、本当のプリンセスなら、あんな風に、\r 王子様とすっごい奇跡を起こせなきゃダメですわね……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "25": {
+      "frame_id": 25,
+      "background_id": 29,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 26,
+          "character_id": 1039,
+          "speaker_name": "カワカミプリンセス",
+          "text": "なのに私ときたら、あっさりダークプリンセス……\r みたいな方に敗れてしまって……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "26": {
+      "frame_id": 26,
+      "background_id": 29,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 27,
+          "character_id": 1039,
+          "speaker_name": "カワカミプリンセス",
+          "text": "これじゃあ、やっぱり姫の資格なし……。\r 街のならず者Aでおしまいですわ……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 27,
+              "loop_ends_at_frame": -1,
+              "text": "……1つ、思い出してほしいシーンがある",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 27,
+              "loop_ends_at_frame": -1,
+              "text": "……1つ、思い出してほしいシーンがあるの",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "27": {
+      "frame_id": 27,
+      "background_id": 29,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 28,
+          "character_id": 1039,
+          "speaker_name": "カワカミプリンセス",
+          "text": "へっ？　どのシーン……ですの？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 28,
+              "loop_ends_at_frame": -1,
+              "text": "クライマックス直前のシーン",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "28": {
+      "frame_id": 28,
+      "background_id": 29,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 29,
+          "character_id": 1039,
+          "speaker_name": "カワカミプリンセス",
+          "text": "と、いいますと……姫とトレーナーさんが、\r いよいよ地球の命運をかけたレースに臨むところ……ですの？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "29": {
+      "frame_id": 29,
+      "background_id": 29,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 30,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "……そう。あれは絶望的な状況の中、最終決戦に赴く姫と\r トレーナーが、最後に会話を交わすシーン――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "30": {
+      "frame_id": 30,
+      "background_id": 113,
+      "sub_background_id": 410,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 31,
+          "character_id": 90150,
+          "speaker_name": "プリファイ",
+          "text": "――もう、終わりなのでしょうか……！\r 私たちじゃ、地球を救えないの……！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "31": {
+      "frame_id": 31,
+      "background_id": 113,
+      "sub_background_id": 410,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 32,
+          "character_id": 90170,
+          "speaker_name": "伝説のトレーナー",
+          "text": "――いや。僕たちにはまだ……走るべきレースが残っている！",
+          "flag_type": "",
+          "flag": "male_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "32": {
+      "frame_id": 32,
+      "background_id": 113,
+      "sub_background_id": 410,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 33,
+          "character_id": 90171,
+          "speaker_name": "伝説のトレーナー",
+          "text": "――いや。私たちにはまだ……走るべきレースが残っている！",
+          "flag_type": "",
+          "flag": "female_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "33": {
+      "frame_id": 33,
+      "background_id": 113,
+      "sub_background_id": 410,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 34,
+          "character_id": 90170,
+          "speaker_name": "伝説のトレーナー",
+          "text": "……いいかい、姫。僕たちはもう知っているはずだ。ただ2人で\r がむしゃらに頑張るだけでは、奇跡は起こせない……しかし！",
+          "flag_type": "",
+          "flag": "male_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "34": {
+      "frame_id": 34,
+      "background_id": 113,
+      "sub_background_id": 410,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 35,
+          "character_id": 90171,
+          "speaker_name": "伝説のトレーナー",
+          "text": "……いいかい、姫。私たちはもう知っているはずだよ。ただ2人で\r がむしゃらに頑張るだけでは、奇跡は起こせない……だけど！",
+          "flag_type": "",
+          "flag": "female_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "35": {
+      "frame_id": 35,
+      "background_id": 113,
+      "sub_background_id": 410,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 36,
+          "character_id": 90150,
+          "speaker_name": "プリファイ",
+          "text": "…………。互いの、強いところも、弱いところも……！\r 受け入れて、補い合う時……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "36": {
+      "frame_id": 36,
+      "background_id": 113,
+      "sub_background_id": 410,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 37,
+          "character_id": 90170,
+          "speaker_name": "伝説のトレーナー",
+          "text": "そう、実力を遥かに超えた力が出せる……。\r それが、それこそが――本当の奇跡だ！",
+          "flag_type": "",
+          "flag": "male_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "37": {
+      "frame_id": 37,
+      "background_id": 113,
+      "sub_background_id": 410,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 38,
+          "character_id": 90171,
+          "speaker_name": "伝説のトレーナー",
+          "text": "そう、実力を遥かに超えた力が出せる……。\r それが、それこそが――本当の奇跡さ！",
+          "flag_type": "",
+          "flag": "female_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "38": {
+      "frame_id": 38,
+      "background_id": 29,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 39,
+          "character_id": 1039,
+          "speaker_name": "カワカミプリンセス",
+          "text": "（『だから行こう！　僕たちを待つ、レースへ！』……。\r う～ん！　劇中屈指の名シーンですわね！）",
+          "flag_type": "",
+          "flag": "male_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "39": {
+      "frame_id": 39,
+      "background_id": 29,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 40,
+          "character_id": 1039,
+          "speaker_name": "カワカミプリンセス",
+          "text": "（『だから行こう！　私たちを待つ、レースへ！』……。\r う～ん！　劇中屈指の名シーンですわね！）",
+          "flag_type": "",
+          "flag": "female_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "40": {
+      "frame_id": 40,
+      "background_id": 29,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 41,
+          "character_id": 1039,
+          "speaker_name": "カワカミプリンセス",
+          "text": "（……って、お、お待ちくださいまし！\r あの時の私は……！？）",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "41": {
+      "frame_id": 41,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 42,
+          "character_id": 1039,
+          "speaker_name": "カワカミプリンセス",
+          "text": "んもう、ご心配無用ですわ！\r 策なんて必要ありませんっ！　だって――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "42": {
+      "frame_id": 42,
+      "background_id": 9,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 43,
+          "character_id": 1039,
+          "speaker_name": "カワカミプリンセス",
+          "text": "私と貴方の、無敵の“絆”パワーがあるんですからっ！\r 信じて、待っててくださいまし！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "43": {
+      "frame_id": 43,
+      "background_id": 29,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 44,
+          "character_id": 1039,
+          "speaker_name": "カワカミプリンセス",
+          "text": "あ゛～～～～っ！？！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 44,
+              "loop_ends_at_frame": -1,
+              "text": "だ、大丈夫か！？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 44,
+              "loop_ends_at_frame": -1,
+              "text": "だ、大丈夫！？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "44": {
+      "frame_id": 44,
+      "background_id": 29,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 45,
+          "character_id": 1039,
+          "speaker_name": "カワカミプリンセス",
+          "text": "わ、私……完全にがむしゃら能天気でしたわ……！\r 何も考えず、頑張ったら奇跡は起きるって……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "45": {
+      "frame_id": 45,
+      "background_id": 29,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 46,
+          "character_id": 1039,
+          "speaker_name": "カワカミプリンセス",
+          "text": "プリファイ劇場版は何回も、何十回も観てるのに……！\r こんな大切なことを忘れていたなんて……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "46": {
+      "frame_id": 46,
+      "background_id": 29,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 47,
+          "character_id": 1039,
+          "speaker_name": "カワカミプリンセス",
+          "text": "うう～……！　恥ずかしくて、今すぐ地面をぶち破って、\r できた穴に引きこもりたい気分ですわ……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 47,
+              "loop_ends_at_frame": -1,
+              "text": "大丈夫！俺たちはこれからだ！",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 47,
+              "loop_ends_at_frame": -1,
+              "text": "大丈夫！私たちはこれからだよ！",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "47": {
+      "frame_id": 47,
+      "background_id": 29,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 48,
+          "character_id": 1039,
+          "speaker_name": "カワカミプリンセス",
+          "text": "えっ……？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "48": {
+      "frame_id": 48,
+      "background_id": 29,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 49,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "まだ自分たちは出会ったばかり。つまり……\r プリファイで言うと、6話ぐらい。序盤も序盤でしかないはずだ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "49": {
+      "frame_id": 49,
+      "background_id": 29,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 50,
+          "character_id": 1039,
+          "speaker_name": "カワカミプリンセス",
+          "text": "……たっ、確かに！　おっしゃる通りですわ！\r プリンセスだって、最初から完璧なお姫様じゃなかった……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "50": {
+      "frame_id": 50,
+      "background_id": 29,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 51,
+          "character_id": 1039,
+          "speaker_name": "カワカミプリンセス",
+          "text": "トレーニングが嫌になって、バタフライで無人島に家出したり……\r 職人さんが作ってくれた大切なダンベルを握り潰しちゃったり！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "51": {
+      "frame_id": 51,
+      "background_id": 29,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 52,
+          "character_id": 1039,
+          "speaker_name": "カワカミプリンセス",
+          "text": "でも、そのたびに王子様と話し合って、わかり合って……\r 49話かけて、少しずつ成長していったんですわ……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 52,
+              "loop_ends_at_frame": -1,
+              "text": "俺たちも、そうしていかないか？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 52,
+              "loop_ends_at_frame": -1,
+              "text": "私たちも、そうしていかない？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "52": {
+      "frame_id": 52,
+      "background_id": 29,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 53,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "――自分も駆け出しで、“伝説のトレーナー”にはほど遠い。\r だが、カワカミプリンセスとともに成長していければ――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "53": {
+      "frame_id": 53,
+      "background_id": 29,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 54,
+          "character_id": 1039,
+          "speaker_name": "カワカミプリンセス",
+          "text": "……わかりましたわっ！　ぜひっ！\r 一緒に、お姫様街道を進んでいきましょう！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "54": {
+      "frame_id": 54,
+      "background_id": 29,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 55,
+          "character_id": 1039,
+          "speaker_name": "カワカミプリンセス",
+          "text": "私……もっと知りたいですわ！\r トレーナーさんのこと――私の、王子様のこと！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "55": {
+      "frame_id": 55,
+      "background_id": 29,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 56,
+          "character_id": 1039,
+          "speaker_name": "カワカミプリンセス",
+          "text": "だって、まだ知らないことだらけですもの！\r 好きなお洋服も、ラーメンのトッピングも、筋トレ器具もっ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 56,
+              "loop_ends_at_frame": -1,
+              "text": "君のことも教えてほしいな",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 56,
+              "loop_ends_at_frame": -1,
+              "text": "貴方のことも教えてほしいな",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "56": {
+      "frame_id": 56,
+      "background_id": 29,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 57,
+          "character_id": 1039,
+          "speaker_name": "カワカミプリンセス",
+          "text": "もっちろんですわ！　なんでも話しちゃいますわよ！\r 子どもの頃のことから、お父様お母様のことまで！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "57": {
+      "frame_id": 57,
+      "background_id": 29,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 58,
+          "character_id": 1039,
+          "speaker_name": "カワカミプリンセス",
+          "text": "そして……姫と王子様の、本当の“絆”パワーを\r ゲットして！　レース場で炸裂させるんですわ！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "58": {
+      "frame_id": 58,
+      "background_id": 29,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 1039,
+          "speaker_name": "カワカミプリンセス",
+          "text": "はーっ、やる気元気マシマシですのっ！！\r カワカミプリンセスッ！！　復活ですわ～～～～！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

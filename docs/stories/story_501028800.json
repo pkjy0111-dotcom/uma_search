@@ -1,0 +1,948 @@
+{
+  "story_id": "501028800",
+  "casts": [
+    0,
+    1028,
+    1037,
+    1005,
+    90001,
+    1048,
+    -1,
+    1055
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "生徒主導のハロウィンイベントの開催が 迫ったある日。ヒシアケボノが悩みながら 雑誌の手作りお菓子特集を読んでいた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 1028,
+          "speaker_name": "ヒシアケボノ",
+          "text": "おばけマカロンにかぼちゃパイ……。 うう～～ん、どれもおいしそうだけど。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 3,
+              "loop_ends_at_frame": -1,
+              "text": "どうしたんだ？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 3,
+              "loop_ends_at_frame": -1,
+              "text": "どうしたの？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 1028,
+          "speaker_name": "ヒシアケボノ",
+          "text": "あのね、今度のハロウィンイベントで お菓子を用意する役をお願いされたんだ～！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 1028,
+          "speaker_name": "ヒシアケボノ",
+          "text": "でね、せっかくだからハロウィン感 い～っぱいのお菓子にしたいんだけど～――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 4,
+      "sub_background_id": 7111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 1028,
+          "speaker_name": "ヒシアケボノ",
+          "text": "ハロウィンってみんな仮装とかして、 びっくりとか、ワクワクとか 楽しい～～♪　でいっぱいでしょ？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 4,
+      "sub_background_id": 7111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 1028,
+          "speaker_name": "ヒシアケボノ",
+          "text": "だからあたしのお菓子も、 おいしいだけじゃなくしたいっていうか！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 1028,
+          "speaker_name": "ヒシアケボノ",
+          "text": "だから悩んじゃって～。 ハロウィンっぽく、びっくりできる “楽しい”お菓子ってなんだろう？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "普通に作っても喜ばれるだろうに、 よりみんなの“楽しい”を 求めるのがいかにも彼女らしい。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 9,
+              "loop_ends_at_frame": -1,
+              "text": "それなら外にアイディア探しに出ない？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 1028,
+          "speaker_name": "ヒシアケボノ",
+          "text": "え？　外？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 10,
+              "loop_ends_at_frame": -1,
+              "text": "街中、ハロウィンの飾りでいっぱいだから",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 1028,
+          "speaker_name": "ヒシアケボノ",
+          "text": "そっか～！　ハロウィンの飾りとか 見てたら、ボーノなヒントが見つかるかも？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 1028,
+          "speaker_name": "ヒシアケボノ",
+          "text": "うんっ、行こう行こう☆ なんだかワクワクしてきたよ～！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 29,
+      "sub_background_id": 7111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 1028,
+          "speaker_name": "ヒシアケボノ",
+          "text": "わ～、ハロウィンハロウィン♪ どこもかしこもカボチャとおばけだらけだ～！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 13,
+              "loop_ends_at_frame": -1,
+              "text": "さて、どこから見ていこうか？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 29,
+      "sub_background_id": 7111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 1028,
+          "speaker_name": "ヒシアケボノ",
+          "text": "ん～……やっぱり、 お菓子屋さんが気になるかもっ。 どんなボーノがあるかな～って♪",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 218,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 1028,
+          "speaker_name": "ヒシアケボノ",
+          "text": "わぁ～♪　このかぼちゃケーキ、 おばけの顔だ～～♡",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 218,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 1028,
+          "speaker_name": "ヒシアケボノ",
+          "text": "でもでも、これだけカワイイと なんだか食べるのがもったいないよねぇ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 16,
+              "loop_ends_at_frame": -1,
+              "text": "確かに。切り分けるの少しためらうかも",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 218,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 1028,
+          "speaker_name": "ヒシアケボノ",
+          "text": "カワイイのもいいけど……やっぱり、 見たら『わぁ～食べたいっ』ってなるのが ボーノだよね♪",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 17,
+              "loop_ends_at_frame": -1,
+              "text": "他に参考になりそうなのはあるかな？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 218,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 1028,
+          "speaker_name": "ヒシアケボノ",
+          "text": "んーっと、黒猫クッキーに、 ひとだまキャンディに～……きゃっ！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 18,
+              "loop_ends_at_frame": -1,
+              "text": "どうしたんだ、アケボノ？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 18,
+              "loop_ends_at_frame": -1,
+              "text": "どうしたの、アケボノ？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 218,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 19,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "彼女の視線の先を見ると、アーモンドを 爪に見立てた、干からびた指のような クッキーが置かれていた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 19,
+              "loop_ends_at_frame": -1,
+              "text": "これ、『魔女の指』っていうのか",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 19,
+              "loop_ends_at_frame": -1,
+              "text": "これ、『魔女の指』っていうんだ",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 218,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 20,
+          "character_id": 1028,
+          "speaker_name": "ヒシアケボノ",
+          "text": "海外だとハロウィンの定番だね～！ あると思わなくてびっくりしちゃった！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 20,
+              "loop_ends_at_frame": -1,
+              "text": "こういうの、お菓子とわかれば面白いよな",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 20,
+              "loop_ends_at_frame": -1,
+              "text": "こういうの、お菓子とわかれば面白いよね",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "20": {
+      "frame_id": 20,
+      "background_id": 218,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 21,
+          "character_id": 1028,
+          "speaker_name": "ヒシアケボノ",
+          "text": "だね。でもでも、ちょっぴりこわくて 食べるのドキドキしちゃうかも～。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 21,
+              "loop_ends_at_frame": -1,
+              "text": "驚きはあるけど、楽しいとはちょっと違う？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "21": {
+      "frame_id": 21,
+      "background_id": 218,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 22,
+          "character_id": 1028,
+          "speaker_name": "ヒシアケボノ",
+          "text": "そうだね。ハロウィンだし、きゃ～こわ～い！ ってなるのもいいけど……あたしなら、 もっとワクワクさせてあげたいな！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "22": {
+      "frame_id": 22,
+      "background_id": 218,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 23,
+          "character_id": 1028,
+          "speaker_name": "ヒシアケボノ",
+          "text": "……うん。そっか！ ハロウィンに、あたしが作るなら――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "23": {
+      "frame_id": 23,
+      "background_id": 11,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 24,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "こうして迎えたハロウィン当日。 カフェテリアでは、ヒシアケボノの 特製スイーツがふるまわれていた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "24": {
+      "frame_id": 24,
+      "background_id": 11,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 25,
+          "character_id": 1028,
+          "speaker_name": "ヒシアケボノ",
+          "text": "みんな～！　ハロウィンの特製スイーツ、 たーんと召しあがれっ☆",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "25": {
+      "frame_id": 25,
+      "background_id": 11,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 26,
+          "character_id": 1048,
+          "speaker_name": "トーセンジョーダン",
+          "text": "おっ！　焼きそば、ハンバーガーにカレー ――って、スイーツなくね！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "26": {
+      "frame_id": 26,
+      "background_id": 11,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 27,
+          "character_id": 1028,
+          "speaker_name": "ヒシアケボノ",
+          "text": "どうかな～？　どうでしょう～♪ ふふっ、その料理、食べてみたらわかるかも？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "27": {
+      "frame_id": 27,
+      "background_id": 11,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 28,
+          "character_id": 1048,
+          "speaker_name": "トーセンジョーダン",
+          "text": "はっ？？　味覚、バグった！？ これ、ココアの味すんだけど……！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "28": {
+      "frame_id": 28,
+      "background_id": 11,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 29,
+          "character_id": 1055,
+          "speaker_name": "マーベラスサンデー",
+          "text": "ん～～♪　お肉の見た目で、お味はチョコ！？ びっくり変身、マーベラース☆★☆",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "29": {
+      "frame_id": 29,
+      "background_id": 11,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 30,
+          "character_id": 1028,
+          "speaker_name": "ヒシアケボノ",
+          "text": "えへへっ♪　見た目はご飯だけど、 ちゃ～んとスイーツなんだよ～。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "30": {
+      "frame_id": 30,
+      "background_id": 11,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 31,
+          "character_id": 1037,
+          "speaker_name": "エイシンフラッシュ",
+          "text": "Erstaunlich! このように精度の高い細工、 大変なお手間だったかと推察します。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "31": {
+      "frame_id": 31,
+      "background_id": 11,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 32,
+          "character_id": 1005,
+          "speaker_name": "フジキセキ",
+          "text": "ひと口食べると、予想外の美味しい衝撃……。 ハロウィンらしい、 素敵なイリュージョンだね♪",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "32": {
+      "frame_id": 32,
+      "background_id": 11,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 33,
+          "character_id": 0,
+          "speaker_name": "ウマ娘たち",
+          "text": "――なにこれ！？　本当にスイーツなの！？ ――ちょ、これプリン味！？　ウソ～！？ ――次どれ食べる！？　全部いきた～い！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "33": {
+      "frame_id": 33,
+      "background_id": 11,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 34,
+          "character_id": 1028,
+          "speaker_name": "ヒシアケボノ",
+          "text": "ふふっ♪ ボーノなイタズラスイーツ、大成功っ☆",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 34,
+              "loop_ends_at_frame": -1,
+              "text": "“楽しい”びっくりにできたな！",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 34,
+              "loop_ends_at_frame": -1,
+              "text": "“楽しい”びっくりにできたね！",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "34": {
+      "frame_id": 34,
+      "background_id": 11,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 35,
+          "character_id": 1028,
+          "speaker_name": "ヒシアケボノ",
+          "text": "うんっ！　みんなが笑ってくれて、 あたしもポカポカだなぁ～♪",
+          "flag_type": "",
+          "flag": "chance_branch_root",
+          "choices": []
+        }
+      ]
+    },
+    "35": {
+      "frame_id": 35,
+      "background_id": 11,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 36,
+          "character_id": 1048,
+          "speaker_name": "トーセンジョーダン",
+          "text": "ねーアケボノちゃん！ これ、ウマスタにあげていい？ ウケるしダチにも見せたくて！",
+          "flag_type": "",
+          "flag": "chance_branch_leaf",
+          "choices": []
+        }
+      ]
+    },
+    "36": {
+      "frame_id": 36,
+      "background_id": 11,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 37,
+          "character_id": 1028,
+          "speaker_name": "ヒシアケボノ",
+          "text": "わあ～～、ありがとう！ 全然、あげちゃっていいよ～♪",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "37": {
+      "frame_id": 37,
+      "background_id": 11,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 38,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "こうしてヒシアケボノのスイーツは 大好評に終わった。そして、後日――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "38": {
+      "frame_id": 38,
+      "background_id": 90,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 39,
+          "character_id": 1028,
+          "speaker_name": "ヒシアケボノ",
+          "text": "じゃじゃーんっ☆　今日作るのは……これっ！ 焼きそばに見えるココアスポンジ～♪",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "39": {
+      "frame_id": 39,
+      "background_id": 90,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 40,
+          "character_id": 1028,
+          "speaker_name": "ヒシアケボノ",
+          "text": "一緒に作って、だれかを 『えっ！？』ってさせちゃお～♪",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "40": {
+      "frame_id": 40,
+      "background_id": 90,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "彼女のお菓子はSNSで有名になり、 作り方動画を作成することになったのだった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "41": {
+      "frame_id": 41,
+      "background_id": 90,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 42,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "――と、楽しいハロウィンイベントと なっていたのだが……。",
+          "flag_type": "",
+          "flag": "chance_branch_leaf",
+          "choices": []
+        }
+      ]
+    },
+    "42": {
+      "frame_id": 42,
+      "background_id": 90,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 43,
+          "character_id": 1055,
+          "speaker_name": "マーベラスサンデー",
+          "text": "ね～ね～、アケボノ？ お料理、なくなっちゃいそう……。 これって、ノーベラスかも？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "43": {
+      "frame_id": 43,
+      "background_id": 90,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 44,
+          "character_id": 1028,
+          "speaker_name": "ヒシアケボノ",
+          "text": "わわわ、大変っ！ 急いで作り足してこないと～～！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "44": {
+      "frame_id": 44,
+      "background_id": 107,
+      "sub_background_id": 10,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "慌てて駆け出すヒシアケボノなのだった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

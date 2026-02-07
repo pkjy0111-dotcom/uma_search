@@ -1,0 +1,1201 @@
+{
+  "story_id": "041076006",
+  "casts": [
+    90001,
+    90235,
+    1076,
+    -1
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 3,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 3,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "休日――どこかへ出かけようかと外へ出てみると、 サクラローレルの姿を見かけた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 3,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "『おはようヴィクトリ～♪ 今日も花マル　元気いっぱい　ごあいさつ～♪』",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 3,
+              "loop_ends_at_frame": -1,
+              "text": "楽しそうだな、どこか出かけるのか？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 3,
+              "loop_ends_at_frame": -1,
+              "text": "楽しそうだね、どこかにお出かけ？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 3,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "トレーナーさん！　こんにちは！ 今日はずっと気になってた場所に行こうかなって。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 3,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "……あ、そうだ！　もしよかったら、 トレーナーさんもご一緒にどうですか？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 127,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "サクラローレルのことをもっと理解したくて、 一緒についてきてみると――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 127,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "キレイな教会でしょう？　ここの建築様式、 フランスの要素も多く取り入れられてるんですよ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 127,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "ネットで調べてたら見つけちゃって！ ぜひ、直接見たいなって思ってたんですっ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 127,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "サクラローレルは、フランスに強い憧れと夢を持っている。 この教会もそのひとつということだろうか。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 9,
+              "loop_ends_at_frame": -1,
+              "text": "どんなところがフランス式なんだ？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 9,
+              "loop_ends_at_frame": -1,
+              "text": "どんなところがフランス式なの？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 127,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "！　……ふふふっ♪　よくぞ聞いてくださいました！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 127,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "まずは、このステンドグラスです！ ゴシック様式っていう建築様式の特徴なんですよ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 127,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "天井を高く、窓を大きくして、光がたくさん差し込むように―― そういう意図で発展した文化なんです。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 12,
+              "loop_ends_at_frame": -1,
+              "text": "へぇ～！他には？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 127,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "外にはガーゴイルちゃんもいます！　雨どいの役目を持ってる、 ちょっと変わった装飾なんです♪　それに――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 127,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "実はここ、両親が結婚式を挙げた教会に 少し似ているんです。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 127,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "うち、部屋の壁に思い出の写真を飾ってて……その中に、 お母さんたちがウェディング・アイルを歩く写真もあるんです。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 127,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "それを見る度に、なんだかすごくあったかい気持ちになって――",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 16,
+              "loop_ends_at_frame": -1,
+              "text": "そっか。それで直接見たかったんだな",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 16,
+              "loop_ends_at_frame": -1,
+              "text": "そっか。それで直接見たかったんだね",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 127,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "はい！ この祭壇も……うん、やっぱり似てる。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 127,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "……――そうだ！　ね、トレーナーさん。 ちょっと一緒に歩きません？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 18,
+              "loop_ends_at_frame": -1,
+              "text": "えっ？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 19,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "言うが早いか、サクラローレルはするりと腕を絡め、赤絨毯を 歩き始める。まるで、結婚式のラストを再現するように。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 20,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "知ってますか？　ラストで新郎新婦が一緒に歩くのは、 これからの『未来』を共に歩むことを象徴しているんですよ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "20": {
+      "frame_id": 20,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 21,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "今は、離れて暮らしてますけど――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "21": {
+      "frame_id": 21,
+      "background_id": 126,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 22,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "Je ne pense qu'a toi chaque jour! 愛しい宝物、今日も貴方に夢中だよ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 22,
+              "loop_ends_at_frame": -1,
+              "text": "！？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "22": {
+      "frame_id": 22,
+      "background_id": 126,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 23,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "お父さんが、お母さんに会う時の口癖です♪ 素敵でしょう？　心はいつも共にあるよって、伝えてるみたいで。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "23": {
+      "frame_id": 23,
+      "background_id": 126,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 24,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "どんなに離れてても、お互いを想い合って、信頼し合ってる…… 私の、自慢の両親です！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "24": {
+      "frame_id": 24,
+      "background_id": 126,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 25,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "嬉しそうに笑う彼女を微笑ましく思う。 とはいえ、さっきのような言動は……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 25,
+              "loop_ends_at_frame": -1,
+              "text": "こういうのは、誰にでもやったらダメだよ",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "25": {
+      "frame_id": 25,
+      "background_id": 126,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 26,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "あ……ふふ、ごめんなさい。 ちゃんと気をつけますっ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "26": {
+      "frame_id": 26,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 27,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "ここ、私のお気に入りのカフェなんです！　ここのフランス料理、 トレーナーさんにもぜひ味わってほしいなって。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 27,
+              "loop_ends_at_frame": -1,
+              "text": "ありがとう、楽しみだ！",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 27,
+              "loop_ends_at_frame": -1,
+              "text": "ありがとう、楽しみ！",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "27": {
+      "frame_id": 27,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 28,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "とは言ったものの……メニューもしっかり フランス仕様になっていて、正直ちんぷんかんぷんだ……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "28": {
+      "frame_id": 28,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 29,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "今日はどれ食べようかなぁ。 ブルギニョンヌにしようかな？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "29": {
+      "frame_id": 29,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 30,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "トレーナーさんはどれに――……おおっ、珍味系ですか！ その辺はフランス特有のものばかりですよ。お目が高いですね～！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 30,
+              "loop_ends_at_frame": -1,
+              "text": "あ、ああ！",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 30,
+              "loop_ends_at_frame": -1,
+              "text": "う、うん！",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "30": {
+      "frame_id": 30,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 31,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "珍味系と指摘されて一瞬怯んだが、むしろそれこそフランス料理の 醍醐味な気がする。何事も挑戦だ、頼んでみることにした！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "31": {
+      "frame_id": 31,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 32,
+          "character_id": 90235,
+          "speaker_name": "カフェ店員",
+          "text": "お待たせいたしました～。こちらアンドゥイエットと、 ロックフォールのサラダでございます。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "32": {
+      "frame_id": 32,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 33,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "想像以上にすごい珍味が来た……！　独特な見た目のソーセージ、 青カビチーズ……見慣れない食材を前に、思わず固まってしまう。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "33": {
+      "frame_id": 33,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 34,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "わ～おいしそう！　いただきまーす！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 34,
+              "loop_ends_at_frame": -1,
+              "text": "い、いただきま――……！？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "34": {
+      "frame_id": 34,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 35,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "料理を口に含んだ瞬間、ものすごい刺激臭がした！ これは……すごく……独特だ……！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "35": {
+      "frame_id": 35,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 36,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "……トレーナーさん？　大丈夫ですか？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 36,
+              "loop_ends_at_frame": -1,
+              "text": "ぐ……だ、大丈夫じゃない、かも……",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "36": {
+      "frame_id": 36,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 37,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "わっ、大変！　そっか、初挑戦だったなら刺激的すぎましたね！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "37": {
+      "frame_id": 37,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 38,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "でもでも、大丈夫ですっ！　実は―― この癖のあるアンドゥイエットが、おいしくなる魔法があるんです！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 38,
+              "loop_ends_at_frame": -1,
+              "text": "えっ、なんだろう……何かかけるとか？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "38": {
+      "frame_id": 38,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 39,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "花丸！　大正解です！　マスタードソースをつけて食べると、 匂いも軽減されてぱくぱくっといけちゃいますよ♪",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "39": {
+      "frame_id": 39,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 40,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "言われたとおりに試してみると――確かに、マスタードの香りが うまく刺激臭を紛らわせてくれる……癖は強いが、おいしい！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "40": {
+      "frame_id": 40,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 41,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "お次はサラダの解説で～す！ まずはその紫の葉っぱ、食べてみてください。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 41,
+              "loop_ends_at_frame": -1,
+              "text": "ああ！……にが！",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 41,
+              "loop_ends_at_frame": -1,
+              "text": "うん！……にが！",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "41": {
+      "frame_id": 41,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 42,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "あははっ、でしょう～！ その苦～いお口で付属のドレッシングを舐めると～？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 42,
+              "loop_ends_at_frame": -1,
+              "text": "おいしい！！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "42": {
+      "frame_id": 42,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 43,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "そうそう！　ここのドレッシング――ヴィネグレットって 言うんですけど、トレビスの葉との相性が最強で！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "43": {
+      "frame_id": 43,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 44,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "上にのってるブルーチーズは、ロックフォール。塩味が強くて サラダとよく合うので、ぱくっといっちゃってください♪",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "44": {
+      "frame_id": 44,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 45,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "サクラローレルの楽しい解説に従って食べると、どれも味わい深い。 彼女がフランス料理に傾倒する理由がわかってきた気がする。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 45,
+              "loop_ends_at_frame": -1,
+              "text": "フランス料理って、魔法みたいだな",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 45,
+              "loop_ends_at_frame": -1,
+              "text": "フランス料理って、魔法みたいだね",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "45": {
+      "frame_id": 45,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 46,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "――！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "46": {
+      "frame_id": 46,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 47,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "……そうなんです。どんな食材も、食べにくいものも、 工夫しておいしく食べようっていう、気持ちが詰まってて――",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 47,
+              "loop_ends_at_frame": -1,
+              "text": "君が食べてるものも、そういう感じ？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 47,
+              "loop_ends_at_frame": -1,
+              "text": "貴方が食べてるものも、そういう感じ？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "47": {
+      "frame_id": 47,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 48,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "あ、はい！　これは『ブフ・ア・ラ・ブルギニョンヌ』と言って、 硬い牛ほほ肉を、赤ワインで煮込んで柔らかくするんですよ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "48": {
+      "frame_id": 48,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 49,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "とてもおいしそうだ。次にここへ来た時はそれを頼んでみようと、 忘れないうちにメモを取っておく。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "49": {
+      "frame_id": 49,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 50,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "――……ふふ。似てる、なぁ……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 50,
+              "loop_ends_at_frame": -1,
+              "text": "……？何か言った？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "50": {
+      "frame_id": 50,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 51,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "――いえ、なーんにも♪",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "51": {
+      "frame_id": 51,
+      "background_id": 68,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 52,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "そろそろデザートを選びませんか？ おすすめがあるんです♪",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "52": {
+      "frame_id": 52,
+      "background_id": 4,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 53,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "今日はありがとうございました！ フランスツアー、お楽しみいただけました？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 53,
+              "loop_ends_at_frame": -1,
+              "text": "とっても！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "53": {
+      "frame_id": 53,
+      "background_id": 4,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 54,
+          "character_id": 1076,
+          "speaker_name": "サクラローレル",
+          "text": "ふふふ、よかったです！ またご一緒しましょうね、次もとっておきをご案内するので♪",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "54": {
+      "frame_id": 54,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "今日1日でサクラローレルのことをたくさん知れて…… ますます、この子の力になりたいと感じたのだった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

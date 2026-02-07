@@ -1,0 +1,879 @@
+{
+  "story_id": "501030524",
+  "casts": [
+    1030,
+    90700,
+    90001,
+    90710,
+    -1
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 115,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 115,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "三女神像の噴水の前で\r ライスシャワーが佇んでいる。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 2,
+              "loop_ends_at_frame": -1,
+              "text": "どうしたんだ？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 2,
+              "loop_ends_at_frame": -1,
+              "text": "どうしたの？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 115,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "あ、お兄さま……！",
+          "flag_type": "",
+          "flag": "male_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 115,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "あ、お姉さま……！",
+          "flag_type": "",
+          "flag": "female_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 115,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "三女神さまの噴水にコインを捧げて\r お祈りすると願いが叶うっていうから――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 115,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "ライス、みんなのことを幸せにできる子に\r なりたいですってお願いしようかと思って。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 115,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "こういうのって……\r どのくらい捧げればいいのかな……？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 7,
+              "loop_ends_at_frame": -1,
+              "text": "1コインに気持ちを込めよう",
+              "flag_type": "",
+              "flag": ""
+            },
+            {
+              "next_frame": 14,
+              "loop_ends_at_frame": -1,
+              "text": "ほどほどがちょうどいいかも？",
+              "flag_type": "",
+              "flag": ""
+            },
+            {
+              "next_frame": 23,
+              "loop_ends_at_frame": -1,
+              "text": "たくさん入れよう！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 115,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "うん……！\r ライスの気持ち、ぎゅーって込めてみる……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "三女神さま……ライスの願いごと、\r 叶えてください……っ！",
+          "flag_type": "",
+          "flag": "chance_branch_root",
+          "choices": []
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 1,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "お兄さま聞いてっ……！\r ライス、今日は誰も不幸にしなかったよ……！",
+          "flag_type": "",
+          "flag": "male_trainer+chance_branch_leaf",
+          "choices": []
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 1,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "お姉さま聞いてっ……！\r ライス、今日は誰も不幸にしなかったよ……！",
+          "flag_type": "",
+          "flag": "female_trainer+chance_branch_leaf",
+          "choices": []
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 1,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "とっても平和で、\r ライスもみんなも幸せな日だった……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 12,
+              "loop_ends_at_frame": -1,
+              "text": "ライスの祈りが届いたんだよ",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 1,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "だといいな……。\r お願い……ちょっとだけ叶ったかも。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 53,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 32,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "あの……三女神さまの噴水が\r 止まっているみたいなんですが……。",
+          "flag_type": "",
+          "flag": "chance_branch_leaf",
+          "choices": []
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 53,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "うん……！\r ライスの気持ち、ぎゅーって込めてみる……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "三女神さま……ライスの願いごと、\r 叶えてください……っ！",
+          "flag_type": "",
+          "flag": "chance_branch_root",
+          "choices": []
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 99,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "わわっ……！\r ライスのアイス、あたりだ……！",
+          "flag_type": "",
+          "flag": "chance_branch_leaf",
+          "choices": [
+            {
+              "next_frame": 17,
+              "loop_ends_at_frame": -1,
+              "text": "おめでとう！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 99,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "あの、お兄さま……あたりのぶんのアイス、\r お兄さまがもらってくれないかな……？",
+          "flag_type": "",
+          "flag": "male_trainer",
+          "choices": [
+            {
+              "next_frame": 19,
+              "loop_ends_at_frame": -1,
+              "text": "いいのか？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 19,
+              "loop_ends_at_frame": -1,
+              "text": "いいの？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 99,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 19,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "あの、お姉さま……あたりのぶんのアイス、\r お姉さまがもらってくれないかな……？",
+          "flag_type": "",
+          "flag": "female_trainer",
+          "choices": [
+            {
+              "next_frame": 19,
+              "loop_ends_at_frame": -1,
+              "text": "いいのか？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 19,
+              "loop_ends_at_frame": -1,
+              "text": "いいの？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 99,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 20,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "うん……。ライスのラッキーで\r お兄さまが幸せになれたら……うれしいの。",
+          "flag_type": "",
+          "flag": "male_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "20": {
+      "frame_id": 20,
+      "background_id": 99,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 21,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "うん……。ライスのラッキーで\r お姉さまが幸せになれたら……うれしいの。",
+          "flag_type": "",
+          "flag": "female_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "21": {
+      "frame_id": 21,
+      "background_id": 99,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "えへへ……。\r 願いごと、叶っちゃった……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "22": {
+      "frame_id": 22,
+      "background_id": 53,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 32,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "あの……三女神さまの噴水が\r 止まっているみたいなんですが……。",
+          "flag_type": "",
+          "flag": "chance_branch_leaf",
+          "choices": []
+        }
+      ]
+    },
+    "23": {
+      "frame_id": 23,
+      "background_id": 53,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 24,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "うん……！\r ライスの気持ち、ぎゅーって込めてみる……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "24": {
+      "frame_id": 24,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 25,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "三女神さま……ライスの願いごと、\r 叶えてください……っ！",
+          "flag_type": "",
+          "flag": "chance_branch_root",
+          "choices": []
+        }
+      ]
+    },
+    "25": {
+      "frame_id": 25,
+      "background_id": 28,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 26,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "ごめんなさい、ごめんなさい……！\r ライスがぶつかったせいで、ご迷惑を――",
+          "flag_type": "",
+          "flag": "chance_branch_leaf",
+          "choices": []
+        }
+      ]
+    },
+    "26": {
+      "frame_id": 26,
+      "background_id": 28,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 27,
+          "character_id": 90710,
+          "speaker_name": "おばさんA",
+          "text": "何を言うんだい、むしろ助かったよ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "27": {
+      "frame_id": 27,
+      "background_id": 28,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 28,
+          "character_id": 90710,
+          "speaker_name": "おばさんA",
+          "text": "お嬢ちゃんとぶつかってなければ、\r 突っ込んできた車にはねられるところだった。 ……ありがとう！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "28": {
+      "frame_id": 28,
+      "background_id": 28,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 29,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "えっ……？\r ライスの、おかげ……？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 29,
+              "loop_ends_at_frame": -1,
+              "text": "よかったな、ライス！",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 29,
+              "loop_ends_at_frame": -1,
+              "text": "よかったね、ライス！",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "29": {
+      "frame_id": 29,
+      "background_id": 28,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 30,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "うん……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "30": {
+      "frame_id": 30,
+      "background_id": 28,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "三女神さま……ライスのお願い\r 叶えてくれて、ありがとう……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "31": {
+      "frame_id": 31,
+      "background_id": 53,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 32,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "あの……三女神さまの噴水が\r 止まっているみたいなんですが……。",
+          "flag_type": "",
+          "flag": "chance_branch_leaf",
+          "choices": []
+        }
+      ]
+    },
+    "32": {
+      "frame_id": 32,
+      "background_id": 53,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 33,
+          "character_id": 90700,
+          "speaker_name": "用務員",
+          "text": "ああ。排水口がコインで詰まってしまってね。\r そろそろ掃除時とは思っていたけど、最近は 願いごとをする学生さんが多かったのかな？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "33": {
+      "frame_id": 33,
+      "background_id": 53,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 34,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "そんな……。\r ライスがコイン入れちゃったせいで……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 34,
+              "loop_ends_at_frame": -1,
+              "text": "そうと決まったわけじゃないよ",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "34": {
+      "frame_id": 34,
+      "background_id": 53,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 35,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "ううん！　こういうの、毎回ライスが\r 原因だから……今回もきっとそうだよ……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "35": {
+      "frame_id": 35,
+      "background_id": 53,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 36,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "よ、用務員さん……！\r おわびにライスもお掃除手伝います……っ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 36,
+              "loop_ends_at_frame": -1,
+              "text": "俺も手伝うよ！",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 36,
+              "loop_ends_at_frame": -1,
+              "text": "私も手伝うよ！",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "36": {
+      "frame_id": 36,
+      "background_id": 53,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 37,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "お兄さま……ありがとう！",
+          "flag_type": "",
+          "flag": "male_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "37": {
+      "frame_id": 37,
+      "background_id": 53,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 38,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "お姉さま……ありがとう！",
+          "flag_type": "",
+          "flag": "female_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "38": {
+      "frame_id": 38,
+      "background_id": 115,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 39,
+          "character_id": 90700,
+          "speaker_name": "用務員",
+          "text": "ありがとう、お2人さん！\r おかげさまで予定より早く終わったよ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 39,
+              "loop_ends_at_frame": -1,
+              "text": "ライス、お疲れ様",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "39": {
+      "frame_id": 39,
+      "background_id": 115,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 40,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "そんな……もともとは\r ライスが迷惑かけちゃったせいだから……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "40": {
+      "frame_id": 40,
+      "background_id": 115,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "けど……\r また噴水が綺麗になってよかった……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

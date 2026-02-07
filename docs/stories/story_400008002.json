@@ -1,0 +1,958 @@
+{
+  "story_id": "400008002",
+  "casts": [
+    9001,
+    90001,
+    -1
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "お疲れ様です。現在、希望される方に 『大豊食祭』の 詳しい説明を行っているところなのですが――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "<username>さん、 説明は必要ですか？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 3,
+              "loop_ends_at_frame": -1,
+              "text": "説明を聞く",
+              "flag_type": "",
+              "flag": ""
+            },
+            {
+              "next_frame": 48,
+              "loop_ends_at_frame": -1,
+              "text": "説明を聞かない",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "それでは、何をご説明いたしましょう？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "『大豊食祭』の 育成について聞いておきたいことといえば――",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 5,
+              "loop_ends_at_frame": -1,
+              "text": "お料理チャレンジについて",
+              "flag_type": "",
+              "flag": ""
+            },
+            {
+              "next_frame": 16,
+              "loop_ends_at_frame": -1,
+              "text": "野菜の収穫について",
+              "flag_type": "",
+              "flag": ""
+            },
+            {
+              "next_frame": 28,
+              "loop_ends_at_frame": -1,
+              "text": "料理について",
+              "flag_type": "",
+              "flag": ""
+            },
+            {
+              "next_frame": 38,
+              "loop_ends_at_frame": -1,
+              "text": "畑について",
+              "flag_type": "",
+              "flag": ""
+            },
+            {
+              "next_frame": 44,
+              "loop_ends_at_frame": -1,
+              "text": "もう大丈夫です",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "『お料理チャレンジ』についてですね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "『お料理チャレンジ』とは、 食への理解を深めるため、 様々なお料理へチャレンジするイベントです。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "育てた野菜で料理を作り、 みんなで味見する『試食会』が、 計4回にわたり開かれることになります。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "それぞれの試食会までに獲得した 『お料理Pt』に応じて、『試食会』での ウマ娘たちの満足度も変化します。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "大満足してもらえれば、みんなの料理への 意欲も高まり、作った料理の効果も変化！ ウマ娘たちも大きく成長することができます！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "食材となる野菜・料理への理解を深め―― よりよい料理で、ウマ娘が強く健康に 育っていけるよう、がんばりましょう♪",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "そして……シニア級12月後半には、 最後のお料理チャレンジ『大豊食祭』が開催！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "これまで培った食の知識がフル活用される 大イベント……ぜひ、参加者のみなさんに 自慢の料理をふるまってあげてください！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "また、今回みなさんには、 トゥインクル・シリーズに参加しながら、 お料理チャレンジにも参加していただきます。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "育成の状況次第では、お料理チャレンジの 開催期間中でも育成終了となりますので、 くれぐれもご注意くださいね！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "『お料理チャレンジ』についての 説明は以上となります。 ほかに聞きたいことはありますか？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "『野菜の収穫』についてですね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "今回は、5種類の野菜を収穫し、 トレーニングに役立つ料理を作りながら、 育成目標達成を目指していくことになります。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 19,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "全種類の野菜が4ターンごとに 収穫されますが、その収穫数は 各野菜のLvによって変化します。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 20,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "野菜のLvを上げるために 必要な『畑Pt』は、 収穫と同時に獲得することができます。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "20": {
+      "frame_id": 20,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 21,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "そして――各トレーニングを行うことで、 各種野菜の『お手入れスタンプ』を 獲得できます！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "21": {
+      "frame_id": 21,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 22,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "お手入れスタンプを獲得した野菜は、 通常より多く収穫することができるんです。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "22": {
+      "frame_id": 22,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 23,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "ちなみに『お休み』『お出かけ』 『保健室』『レース』を行っても、 お手入れスタンプは獲得できます。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "23": {
+      "frame_id": 23,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 24,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "ただし……トレーニング以外で獲得できる お手入れスタンプの種類は毎回異なるので、 しっかり確認してくださいね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "24": {
+      "frame_id": 24,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 25,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "さらに、友情トレーニングなどの条件を 満たすと――お手入れスタンプは、 『全力お手入れスタンプ』に変化！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "25": {
+      "frame_id": 25,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 26,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "全力お手入れスタンプの数が多いほど 収穫数も増えていくんです！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "26": {
+      "frame_id": 26,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 27,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "効率的に野菜を収穫し、より多くの料理を 作れば、トレーニングの効果もアップ！ ぜひ、がんばってみてください！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "27": {
+      "frame_id": 27,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "『野菜の収穫』についての説明は 以上となります。 ほかに聞きたいことはありますか？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "28": {
+      "frame_id": 28,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 29,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "『料理』についてですね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "29": {
+      "frame_id": 29,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 30,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "レシピに必要な野菜を消費することで、 『料理』を作ることができます。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "30": {
+      "frame_id": 30,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 31,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "料理を作るたびに、『試食会』での満足度に 影響する『お料理Pt』を獲得できますよ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "31": {
+      "frame_id": 31,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 32,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "それだけではなく、料理を食べることで、 様々な効果が獲得できます！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "32": {
+      "frame_id": 32,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 33,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "例えば、トレーニングやレースで 得られる基礎能力やスキルPtの向上、 体力の回復、などなどですね♪",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "33": {
+      "frame_id": 33,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 34,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "また……料理は、 ときどき『大成功』することがあります。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "34": {
+      "frame_id": 34,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 35,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "『大成功』した料理からは、 普段の料理で得られる効果とは別に、 様々な追加効果も獲得できるんです！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "35": {
+      "frame_id": 35,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 36,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "さらに、『試食会』を経るごとに 料理で得られる効果も増大したり、 新しい料理も作れるようになっていきます。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "36": {
+      "frame_id": 36,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 37,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "どんどん料理の経験を重ねていき、 トレーニングに活用していきましょう！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "37": {
+      "frame_id": 37,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "『料理』についての説明は 以上となります。 ほかに聞きたいことはありますか？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "38": {
+      "frame_id": 38,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 39,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "『畑』についてですね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "39": {
+      "frame_id": 39,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 40,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "畑では、野菜Lvを上げることで、 各野菜の収穫数を増やしたり、 料理の効果を高めたりすることができます。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "40": {
+      "frame_id": 40,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 41,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "野菜Lvを上げるには、 収穫の際に獲得できる『畑Pt』が必要です。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "41": {
+      "frame_id": 41,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 42,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "野菜Lvが高くなるほど、 必要な『畑Pt』も増えていきますので、 ご注意ください。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "42": {
+      "frame_id": 42,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 43,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "また、野菜Lvには上限がありますが…… 『試食会』でみなさんを満足させることで、 より上のレベルを目指せるようになります！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "43": {
+      "frame_id": 43,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "『畑』についての説明は 以上となります。 ほかに聞きたいことはありますか？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "44": {
+      "frame_id": 44,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "本当に大丈夫ですか？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 45,
+              "loop_ends_at_frame": -1,
+              "text": "はい",
+              "flag_type": "",
+              "flag": ""
+            },
+            {
+              "next_frame": 4,
+              "loop_ends_at_frame": -1,
+              "text": "いいえ",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "45": {
+      "frame_id": 45,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 46,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "わかりました♪　念のためお伝えしますと 簡単にまとめたものがこちらにあります。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "46": {
+      "frame_id": 46,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 47,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "今の説明は、左上の『iボタン』を押せば いつでも見ることができますよ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "47": {
+      "frame_id": 47,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "それでは、がんばってください。 陰ながら応援しています。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "48": {
+      "frame_id": 48,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "わかりました。それでは、がんばって くださいね！　陰ながら応援しています。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

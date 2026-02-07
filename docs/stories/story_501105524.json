@@ -1,0 +1,1303 @@
+{
+  "story_id": "501105524",
+  "casts": [
+    1105,
+    90001,
+    -1
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 1,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 1,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "新しいトレーニング計画を練っていたら、 すっかり行き詰まってしまった……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 2,
+              "loop_ends_at_frame": -1,
+              "text": "うーん……う～～ん……",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 1,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 1105,
+          "speaker_name": "ネオユニヴァース",
+          "text": "…………“COTT”の、霧散を“観測”。 “エントロピー”は、常に増大する……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 1,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 1105,
+          "speaker_name": "ネオユニヴァース",
+          "text": "……トレーナー、ネオユニヴァースと 『星を見る』をしない？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 4,
+              "loop_ends_at_frame": -1,
+              "text": "えっ？星を……？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 1,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 1105,
+          "speaker_name": "ネオユニヴァース",
+          "text": "そう……『天体観測』、だよ。 今しか視認できない“ビジョン”が 存在する……たくさん。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 1,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "なんて、ストレートな誘いだろう。 普段は彼女の言葉の真意を探ってばかりだが、 すぐにわかったことが嬉しかった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 6,
+              "loop_ends_at_frame": -1,
+              "text": "行こう！今すぐ！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 1,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 1105,
+          "speaker_name": "ネオユニヴァース",
+          "text": "スフィーラ―― 座標まで……“ワームホール”を経由。 3、2、1……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 7,
+              "loop_ends_at_frame": -1,
+              "text": "――！？",
+              "flag_type": "",
+              "flag": "chance_branch_root"
+            }
+          ]
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 119,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 1105,
+          "speaker_name": "ネオユニヴァース",
+          "text": "――“SbS”を『離脱』……。 環境、時刻、バイタル、“オールグリーン”。 目標地点に『到着』……だよ。",
+          "flag_type": "",
+          "flag": "chance_branch_leaf",
+          "choices": [
+            {
+              "next_frame": 8,
+              "loop_ends_at_frame": -1,
+              "text": "――あれ、ここは……？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 119,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "……？　移動した覚えはあるのに、 道中の記憶がぼんやりとしかなかった。 だが、手荷物は傍らにちゃんとある。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 9,
+              "loop_ends_at_frame": -1,
+              "text": "（疲れてるのかな？まあいいか）",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 119,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 1105,
+          "speaker_name": "ネオユニヴァース",
+          "text": "トレーナー。上を見て――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 37,
+      "sub_background_id": 530,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 1105,
+          "speaker_name": "ネオユニヴァース",
+          "text": "春の星が、“観測”可能。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 11,
+              "loop_ends_at_frame": -1,
+              "text": "わあ……！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 37,
+      "sub_background_id": 530,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 1105,
+          "speaker_name": "ネオユニヴァース",
+          "text": "“ハッブル”ではない。けど……、 そのぶん……大型の星座が、“MUTX”。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 178,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 1105,
+          "speaker_name": "ネオユニヴァース",
+          "text": "……『春の大曲線』が、“観測”できるね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 13,
+              "loop_ends_at_frame": -1,
+              "text": "大曲線ってあれか？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 13,
+              "loop_ends_at_frame": -1,
+              "text": "大曲線ってあれ？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 178,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 1105,
+          "speaker_name": "ネオユニヴァース",
+          "text": "アファーマティブ。 『ダイナミック』な“軌道”が……特徴。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 14,
+              "loop_ends_at_frame": -1,
+              "text": "なんだかレース場のカーブみたい",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 178,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 1105,
+          "speaker_name": "ネオユニヴァース",
+          "text": "“グリーゼ”な見方……その受容は“Q”。 でも――そう言われると、そう見える……ね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 178,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 39,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "星には詳しくないが、 彼女の解説は難解ながらも面白かった。 それに、星空はとても綺麗だ……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 39,
+              "loop_ends_at_frame": -1,
+              "text": "ずっと見ていたいなぁ……",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 61,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 1105,
+          "speaker_name": "ネオユニヴァース",
+          "text": "――“SbS”を『離脱』……。 環境、時刻、バイタル、“オールグリーン”。 目標地点に『到着』……だよ。",
+          "flag_type": "",
+          "flag": "chance_branch_leaf",
+          "choices": [
+            {
+              "next_frame": 17,
+              "loop_ends_at_frame": -1,
+              "text": "――あれ、ここは……？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 61,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "……？　移動した覚えはあるのに、 道中の記憶がぼんやりとしかなかった。 だが、手荷物は傍らにちゃんとある。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 18,
+              "loop_ends_at_frame": -1,
+              "text": "（疲れてるのかな？まあいいか）",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 61,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 19,
+          "character_id": 1105,
+          "speaker_name": "ネオユニヴァース",
+          "text": "トレーナー。上を見て――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 37,
+      "sub_background_id": 530,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 20,
+          "character_id": 1105,
+          "speaker_name": "ネオユニヴァース",
+          "text": "『天の川』が、よく“観測”できるよ。 地球の座標が……『位置』が、いいから。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 20,
+              "loop_ends_at_frame": -1,
+              "text": "位置？……って、宇宙での？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "20": {
+      "frame_id": 20,
+      "background_id": 178,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 21,
+          "character_id": 1105,
+          "speaker_name": "ネオユニヴァース",
+          "text": "アファーマティブ……。 この日時……北半球は……、 地軸の傾き、惑星のルート……共に“JST”",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "21": {
+      "frame_id": 21,
+      "background_id": 178,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 22,
+          "character_id": 1105,
+          "speaker_name": "ネオユニヴァース",
+          "text": "だから――ネオユニヴァースたちは 銀河の中心と……『見つめ合って』いるんだ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 22,
+              "loop_ends_at_frame": -1,
+              "text": "銀河の中でも、位置は大事なんだな……",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 22,
+              "loop_ends_at_frame": -1,
+              "text": "銀河の中でも、位置は大事なんだね……",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "22": {
+      "frame_id": 22,
+      "background_id": 178,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 39,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "星には詳しくないが、 彼女の解説は難解ながらも面白かった。 それに、星空はとても綺麗だ……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 39,
+              "loop_ends_at_frame": -1,
+              "text": "ずっと見ていたいなぁ……",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "23": {
+      "frame_id": 23,
+      "background_id": 60,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 24,
+          "character_id": 1105,
+          "speaker_name": "ネオユニヴァース",
+          "text": "――“SbS”を『離脱』……。 環境、時刻、バイタル、“オールグリーン”。 目標地点に『到着』……だよ。",
+          "flag_type": "",
+          "flag": "chance_branch_leaf",
+          "choices": [
+            {
+              "next_frame": 24,
+              "loop_ends_at_frame": -1,
+              "text": "――あれ、ここは……？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "24": {
+      "frame_id": 24,
+      "background_id": 60,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 25,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "……？　移動した覚えはあるのに、 道中の記憶がぼんやりとしかなかった。 だが、手荷物は傍らにちゃんとある。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 25,
+              "loop_ends_at_frame": -1,
+              "text": "（疲れてるのかな？まあいいか）",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "25": {
+      "frame_id": 25,
+      "background_id": 60,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 26,
+          "character_id": 1105,
+          "speaker_name": "ネオユニヴァース",
+          "text": "トレーナー。上を見て――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "26": {
+      "frame_id": 26,
+      "background_id": 37,
+      "sub_background_id": 530,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 27,
+          "character_id": 1105,
+          "speaker_name": "ネオユニヴァース",
+          "text": "秋は、月が……“BRGT”。 座標の変化、潮の満ち引き。 引力と斥力は……なにより“プリミティブ”。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 27,
+              "loop_ends_at_frame": -1,
+              "text": "えーと……なるほど……？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "27": {
+      "frame_id": 27,
+      "background_id": 178,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 28,
+          "character_id": 1105,
+          "speaker_name": "ネオユニヴァース",
+          "text": "引き合い、弾き合うこと…… すべての“FFTI”……だよね？ だから、宇宙も、原子のスピンも……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "28": {
+      "frame_id": 28,
+      "background_id": 178,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 29,
+          "character_id": 1105,
+          "speaker_name": "ネオユニヴァース",
+          "text": "この作用がなければ……発生しなかった。 『スピード』の概念も、なかった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 29,
+              "loop_ends_at_frame": -1,
+              "text": "スピード……か……",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "29": {
+      "frame_id": 29,
+      "background_id": 178,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 39,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "星には詳しくないが、 彼女の解説は難解ながらも面白かった。 それに、星空はとても綺麗だ……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 39,
+              "loop_ends_at_frame": -1,
+              "text": "ずっと見ていたいなぁ……",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "30": {
+      "frame_id": 30,
+      "background_id": 111,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 31,
+          "character_id": 1105,
+          "speaker_name": "ネオユニヴァース",
+          "text": "――“SbS”を『離脱』……。 環境、時刻、バイタル、“オールグリーン”。 目標地点に『到着』……だよ。",
+          "flag_type": "",
+          "flag": "chance_branch_leaf",
+          "choices": [
+            {
+              "next_frame": 31,
+              "loop_ends_at_frame": -1,
+              "text": "――あれ、ここは……？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "31": {
+      "frame_id": 31,
+      "background_id": 111,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 32,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "……？　移動した覚えはあるのに、 道中の記憶がぼんやりとしかなかった。 だが、手荷物は傍らにちゃんとある。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 32,
+              "loop_ends_at_frame": -1,
+              "text": "（疲れてるのかな？まあいいか）",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "32": {
+      "frame_id": 32,
+      "background_id": 111,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 33,
+          "character_id": 1105,
+          "speaker_name": "ネオユニヴァース",
+          "text": "トレーナー。上を見て――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "33": {
+      "frame_id": 33,
+      "background_id": 37,
+      "sub_background_id": 530,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 34,
+          "character_id": 1105,
+          "speaker_name": "ネオユニヴァース",
+          "text": "“Ori”……。 『オリオン座』……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 34,
+              "loop_ends_at_frame": -1,
+              "text": "オリオン座なら、聞いたことがある",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "34": {
+      "frame_id": 34,
+      "background_id": 178,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 35,
+          "character_id": 1105,
+          "speaker_name": "ネオユニヴァース",
+          "text": "トン、トン……下降……。 ツーツーツー……下降。 トン、トン……あの7点を“コネクト”。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "35": {
+      "frame_id": 35,
+      "background_id": 178,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 36,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "彼女の指差す星を線で結ぶと、 四角形の中に、明るい3つ星が並んだ。 とても見つけやすい星座だった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "36": {
+      "frame_id": 36,
+      "background_id": 178,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 37,
+          "character_id": 1105,
+          "speaker_name": "ネオユニヴァース",
+          "text": "“Ori”は、判りやすい…… “ABD”……“観測”……できる。 ネオユニヴァースとは、反対に……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 37,
+              "loop_ends_at_frame": -1,
+              "text": "でも判りにくい星だって、輝いてる",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "37": {
+      "frame_id": 37,
+      "background_id": 178,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 38,
+          "character_id": 1105,
+          "speaker_name": "ネオユニヴァース",
+          "text": "…………アファーマティブ。 うん、恒星はみんな、発光している。 音もなく、“STDA”に……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "38": {
+      "frame_id": 38,
+      "background_id": 178,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 39,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "星には詳しくないが、 彼女の解説は難解ながらも面白かった。 それに、星空はとても綺麗だ……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 39,
+              "loop_ends_at_frame": -1,
+              "text": "ずっと見ていたいなぁ……",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "39": {
+      "frame_id": 39,
+      "background_id": 178,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 40,
+          "character_id": 1105,
+          "speaker_name": "ネオユニヴァース",
+          "text": "――ネガティブ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 40,
+              "loop_ends_at_frame": -1,
+              "text": "えっ……？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "40": {
+      "frame_id": 40,
+      "background_id": 178,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 41,
+          "character_id": 1105,
+          "speaker_name": "ネオユニヴァース",
+          "text": "トレーナーの “WORR”『質量』は、すでに低下した。 “チャンドラセカール限界”は、越えない。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "41": {
+      "frame_id": 41,
+      "background_id": 178,
+      "sub_background_id": 1,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 42,
+          "character_id": 1105,
+          "speaker_name": "ネオユニヴァース",
+          "text": "ブラックホール化の可能性はなくなったはず。 “THRF”……『もう終わり』、だよ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "42": {
+      "frame_id": 42,
+      "background_id": 3,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 43,
+          "character_id": 1105,
+          "speaker_name": "ネオユニヴァース",
+          "text": "今日は……このへんで。 『お開き』に、しよう。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 43,
+              "loop_ends_at_frame": -1,
+              "text": "あ、あぁ、うん……！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "43": {
+      "frame_id": 43,
+      "background_id": 3,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 44,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "突然の解散……。彼女は頭のいい子だ。 解説を聞くしかできない自分と星を見るのは 少しつまらなかったのかもしれない。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "44": {
+      "frame_id": 44,
+      "background_id": 3,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 45,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "ふがいないような、さみしいような……。 ともかく、彼女を寮まで送ろ――",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 45,
+              "loop_ends_at_frame": -1,
+              "text": "って、待って待って……！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "45": {
+      "frame_id": 45,
+      "background_id": 3,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 46,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "振り返ると、もう彼女は消えていた。 『ガシャン』という奇妙な音を残して。 ……なにやらポケットが温かい……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 46,
+              "loop_ends_at_frame": -1,
+              "text": "あれ？これは、ゆず茶……？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "46": {
+      "frame_id": 46,
+      "background_id": 3,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 47,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "温かいミニペットボトルが いつの間にかポケットに入っていた。 握りしめると、冷えた指先がじんとした。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "47": {
+      "frame_id": 47,
+      "background_id": 3,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 48,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "……今さらながら、疲労感に気づく。 そも仕事で行き詰まっていたところだった。 早めの解散は正解だった気がする。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 48,
+              "loop_ends_at_frame": -1,
+              "text": "そっか、もしかして……",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "48": {
+      "frame_id": 48,
+      "background_id": 7,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 49,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "翌日。ネオユニヴァースに会うと いつも通りに挨拶をしてくれた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "49": {
+      "frame_id": 49,
+      "background_id": 7,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 50,
+          "character_id": 1105,
+          "speaker_name": "ネオユニヴァース",
+          "text": "『おはよう』……トレーナー。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 50,
+              "loop_ends_at_frame": -1,
+              "text": "昨日は気分転換させてくれてありがとう",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "50": {
+      "frame_id": 50,
+      "background_id": 7,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 51,
+          "character_id": 1105,
+          "speaker_name": "ネオユニヴァース",
+          "text": "『ありがとう』……は、 ネオユニヴァースに、言っているの？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 51,
+              "loop_ends_at_frame": -1,
+              "text": "もちろん！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "51": {
+      "frame_id": 51,
+      "background_id": 7,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 52,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "彼女は……星を見たかったのではなく、 自分を気分転換に連れ出してくれたのだ。 早めの解散も、温かいドリンクも、みな……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 52,
+              "loop_ends_at_frame": -1,
+              "text": "いろいろ気遣ってくれたよな",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 52,
+              "loop_ends_at_frame": -1,
+              "text": "いろいろ気遣ってくれたよね",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "52": {
+      "frame_id": 52,
+      "background_id": 7,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 53,
+          "character_id": 1105,
+          "speaker_name": "ネオユニヴァース",
+          "text": "……“シンチレーション”。 昨日の事象と、ネオユニヴァースの意志は、 『外界』からは……統合不可能だと思ってた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "53": {
+      "frame_id": 53,
+      "background_id": 7,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 54,
+          "character_id": 1105,
+          "speaker_name": "ネオユニヴァース",
+          "text": "……スフィーラ……スフィーラ。 これも、“コネクト”……かな……？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "54": {
+      "frame_id": 54,
+      "background_id": 7,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 55,
+          "character_id": 1105,
+          "speaker_name": "ネオユニヴァース",
+          "text": "なんだか……『ほわほわする』……よ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "55": {
+      "frame_id": 55,
+      "background_id": 7,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "不器用な彼女の、 温かな思いやりを感じた一幕だった……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

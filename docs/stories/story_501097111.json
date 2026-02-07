@@ -1,0 +1,1932 @@
+{
+  "story_id": "501097111",
+  "casts": [
+    0,
+    1097,
+    9001,
+    1105,
+    90001,
+    90103,
+    90104,
+    1118,
+    -1
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 121,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 121,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "スティルインラブとの最初の3年間が終わり、 自身の不調とじっくり向き合うことになった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 121,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "検査入院は長期にわたった。仕事から離れ、 ゆっくりできたことが幸いしてか…… 体は徐々に以前の状態に戻っていった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 121,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "――不調の原因は、結局わからないまま。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 122,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "そして入院中、スティルインラブからの 連絡は一度もなかった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 5,
+              "loop_ends_at_frame": -1,
+              "text": "（連絡もないなんて何かあったのか……？）",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 5,
+              "loop_ends_at_frame": -1,
+              "text": "（連絡もないなんて何かあったのかな……）",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 3,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "彼女のことが気になり、 退院した足ですぐ、学園へと向かった。 すると――",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 6,
+              "loop_ends_at_frame": -1,
+              "text": "君は……",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 6,
+              "loop_ends_at_frame": -1,
+              "text": "貴方は……",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 3,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 1105,
+          "speaker_name": "ネオユニヴァース",
+          "text": "この“軌道”の、終着点。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 3,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 1105,
+          "speaker_name": "ネオユニヴァース",
+          "text": "スティルインラブは、“LOS”。 もう……『いない』よ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 91,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "――はい。スティルインラブさんから、 しばらく前に退学届の提出がありました。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 9,
+              "loop_ends_at_frame": -1,
+              "text": "た、退学……！？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 91,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "は、はい……トレセン学園としては、 もちろん引き留めるつもりだったのですが――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 91,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "まるで煙のように、 いなくなってしまわれて……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 11,
+              "loop_ends_at_frame": -1,
+              "text": "そんな……",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 91,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "……やはり、トレーナーさんも ご存じではなかったのですね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 91,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "まだ退学届は受理されていません。 あなたからも話を聞く必要があると 思いましたので。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 91,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 9001,
+          "speaker_name": "駿川たづな",
+          "text": "しかし、このまま戻ってこないとなれば――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 7,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "スティルインラブが、消えてしまった。 その事実に、打ちのめされる…… 混乱したまま、廊下へ出ると――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 7,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 1105,
+          "speaker_name": "ネオユニヴァース",
+          "text": "――はい。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 16,
+              "loop_ends_at_frame": -1,
+              "text": "えっ！？な……何？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 7,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 1105,
+          "speaker_name": "ネオユニヴァース",
+          "text": "“FLPT”……集めたよ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 7,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 1105,
+          "speaker_name": "ネオユニヴァース",
+          "text": "ネオユニヴァースも…… スティルインラブの『しあわせ』を、 祈ってる。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 7,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 19,
+          "character_id": 1105,
+          "speaker_name": "ネオユニヴァース",
+          "text": "繋ぎ合わせて。 スティルインラブの“心”を。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 20,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "ネオユニヴァースからもらった袋には、 バラバラに破り捨てられた手紙の欠片が 入っていた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "20": {
+      "frame_id": 20,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 21,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "彼女を見つけるヒントがあるかもしれない。 そう思い、必死に繋ぎ合わせると――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "21": {
+      "frame_id": 21,
+      "background_id": 224,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 22,
+          "character_id": 1097,
+          "speaker_name": "スティルインラブ",
+          "text": "拝啓　優しい貴方へ",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "22": {
+      "frame_id": 22,
+      "background_id": 224,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 23,
+          "character_id": 1097,
+          "speaker_name": "スティルインラブ",
+          "text": "このような手紙をお送りすること、 お許しくださいませ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "23": {
+      "frame_id": 23,
+      "background_id": 224,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 24,
+          "character_id": 1097,
+          "speaker_name": "スティルインラブ",
+          "text": "……ずっと、 “ひとり”ぼっちでした。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "24": {
+      "frame_id": 24,
+      "background_id": 224,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 25,
+          "character_id": 1097,
+          "speaker_name": "スティルインラブ",
+          "text": "だって、私は…… ご存じの通りの、娘ですから。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "25": {
+      "frame_id": 25,
+      "background_id": 224,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 26,
+          "character_id": 1097,
+          "speaker_name": "スティルインラブ",
+          "text": "けれど、貴方が…… 私を、見つけてくれた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "26": {
+      "frame_id": 26,
+      "background_id": 224,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 27,
+          "character_id": 1097,
+          "speaker_name": "スティルインラブ",
+          "text": "そのせいで、貴方を苦しめました。 謝っても許されるとは思いません。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "27": {
+      "frame_id": 27,
+      "background_id": 224,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 28,
+          "character_id": 1097,
+          "speaker_name": "スティルインラブ",
+          "text": "ですがこれだけは信じてください。 私はいつも、貴方の幸福ばかりを 願っていました。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "28": {
+      "frame_id": 28,
+      "background_id": 224,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 29,
+          "character_id": 1097,
+          "speaker_name": "スティルインラブ",
+          "text": "ありがとうございました。 どうか、いつまでもお元気で。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "29": {
+      "frame_id": 29,
+      "background_id": 224,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 30,
+          "character_id": 1097,
+          "speaker_name": "スティルインラブ",
+          "text": "私は、いつまでも",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "30": {
+      "frame_id": 30,
+      "background_id": 2,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 31,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "――手紙を握りしめて、走り出していた。 いても立ってもいられなかった。 早く、彼女を見つけてあげたかった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 31,
+              "loop_ends_at_frame": -1,
+              "text": "なあ、君たち……！",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 31,
+              "loop_ends_at_frame": -1,
+              "text": "ねえ、貴方たち……！",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "31": {
+      "frame_id": 31,
+      "background_id": 2,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 32,
+          "character_id": 90103,
+          "speaker_name": "ウマ娘A",
+          "text": "わっ！ な、なんですか……？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 32,
+              "loop_ends_at_frame": -1,
+              "text": "スティルを見なかった！？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "32": {
+      "frame_id": 32,
+      "background_id": 2,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 33,
+          "character_id": 90103,
+          "speaker_name": "ウマ娘A",
+          "text": "……スティル？ って――誰ですか？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 33,
+              "loop_ends_at_frame": -1,
+              "text": "……え？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "33": {
+      "frame_id": 33,
+      "background_id": 2,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 34,
+          "character_id": 90104,
+          "speaker_name": "ウマ娘B",
+          "text": "そんな子いたっけ……？ うーん……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 34,
+              "loop_ends_at_frame": -1,
+              "text": "ほら、2人目のトリプルティアラの！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "34": {
+      "frame_id": 34,
+      "background_id": 2,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 35,
+          "character_id": 90103,
+          "speaker_name": "ウマ娘A",
+          "text": "…………それ、誰でしたっけ。 うーん、思い出せないな……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "35": {
+      "frame_id": 35,
+      "background_id": 2,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 36,
+          "character_id": 90104,
+          "speaker_name": "ウマ娘B",
+          "text": "ねえ、それよりさ！ 次にデビューするティアラ路線の子たち、 激アツみたいで――",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 36,
+              "loop_ends_at_frame": -1,
+              "text": "（そんな、嘘だ……どうして――）",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "36": {
+      "frame_id": 36,
+      "background_id": 2,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 37,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "目の前が暗くなる。彼女は確かに、 目立たない子だった。だが、決して 忘れ去られるはずがない……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 37,
+              "loop_ends_at_frame": -1,
+              "text": "（まさか本当に、この世界から消え――）",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "37": {
+      "frame_id": 37,
+      "background_id": 2,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 38,
+          "character_id": 1118,
+          "speaker_name": "アドマイヤグルーヴ",
+          "text": "スティルインラブさん。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "38": {
+      "frame_id": 38,
+      "background_id": 2,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 39,
+          "character_id": 90103,
+          "speaker_name": "ウマ娘A",
+          "text": "え？ あ、アルヴさん……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "39": {
+      "frame_id": 39,
+      "background_id": 2,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 40,
+          "character_id": 1118,
+          "speaker_name": "アドマイヤグルーヴ",
+          "text": "2人目のトリプルティアラウマ娘は、 スティルインラブよ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "40": {
+      "frame_id": 40,
+      "background_id": 2,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 41,
+          "character_id": 1118,
+          "speaker_name": "アドマイヤグルーヴ",
+          "text": "……みんなどうして、 あのひとを忘れられるの。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 41,
+              "loop_ends_at_frame": -1,
+              "text": "アルヴ……！スティルが……！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "41": {
+      "frame_id": 41,
+      "background_id": 2,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 42,
+          "character_id": 1118,
+          "speaker_name": "アドマイヤグルーヴ",
+          "text": "わかってます。 でも、あのひとがどこにいるかは知りません。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "42": {
+      "frame_id": 42,
+      "background_id": 2,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 43,
+          "character_id": 1118,
+          "speaker_name": "アドマイヤグルーヴ",
+          "text": "……早く、見つけてあげたら。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 43,
+              "loop_ends_at_frame": -1,
+              "text": "……でももしかしたら、もうどこにも――",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "43": {
+      "frame_id": 43,
+      "background_id": 2,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 44,
+          "character_id": 1118,
+          "speaker_name": "アドマイヤグルーヴ",
+          "text": "いるわよ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "44": {
+      "frame_id": 44,
+      "background_id": 2,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 45,
+          "character_id": 1118,
+          "speaker_name": "アドマイヤグルーヴ",
+          "text": "……います。 あのひとは、絶対にどこかにいる。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "45": {
+      "frame_id": 45,
+      "background_id": 2,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 46,
+          "character_id": 1118,
+          "speaker_name": "アドマイヤグルーヴ",
+          "text": "そして――貴方を待っている。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 46,
+              "loop_ends_at_frame": -1,
+              "text": "……！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "46": {
+      "frame_id": 46,
+      "background_id": 2,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 47,
+          "character_id": 1118,
+          "speaker_name": "アドマイヤグルーヴ",
+          "text": "……あのひとに伝えてください。 早くしないと、 もう私に追いつけないわよって。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "47": {
+      "frame_id": 47,
+      "background_id": 3,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 48,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "アドマイヤグルーヴの言うとおりだ。 自分が今、諦めてしまったら…… きっと彼女とはもう二度と、会えない。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 48,
+              "loop_ends_at_frame": -1,
+              "text": "でも、どこへ行けば――",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "48": {
+      "frame_id": 48,
+      "background_id": 3,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 49,
+          "character_id": 0,
+          "speaker_name": "子どものウマ娘",
+          "text": "ねえ、おにいさん。",
+          "flag_type": "",
+          "flag": "male_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "49": {
+      "frame_id": 49,
+      "background_id": 3,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 50,
+          "character_id": 0,
+          "speaker_name": "子どものウマ娘",
+          "text": "ねえ、おねえさん。",
+          "flag_type": "",
+          "flag": "female_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "50": {
+      "frame_id": 50,
+      "background_id": 3,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 51,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "その時、声をかけてきたのは…… スティルインラブのぬいぐるみを持った、 ひとりの子どものウマ娘だった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "51": {
+      "frame_id": 51,
+      "background_id": 3,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 52,
+          "character_id": 0,
+          "speaker_name": "子どものウマ娘",
+          "text": "スティルちゃんは、どこにいるの？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "52": {
+      "frame_id": 52,
+      "background_id": 3,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 53,
+          "character_id": 0,
+          "speaker_name": "子どものウマ娘",
+          "text": "おともだちがね、そんなのいないっていうの。 わたしだけなの。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "53": {
+      "frame_id": 53,
+      "background_id": 3,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 54,
+          "character_id": 0,
+          "speaker_name": "子どものウマ娘",
+          "text": "あいたい……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 54,
+              "loop_ends_at_frame": -1,
+              "text": "……大丈夫だよ",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "54": {
+      "frame_id": 54,
+      "background_id": 3,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 55,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "子どもの頭を優しく撫でながら、決意する。 彼女がこのまま、消えていいわけがない。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "55": {
+      "frame_id": 55,
+      "background_id": 174,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 56,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "何より――もう一度、 スティルインラブに会いたい。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 56,
+              "loop_ends_at_frame": -1,
+              "text": "必ず……見つけてみせる",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "56": {
+      "frame_id": 56,
+      "background_id": 95,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 57,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "それから、どれほどの時が経っただろう。 彼女に会うと決意してから、時間感覚は 徐々に曖昧になり――また眠れなくなった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "57": {
+      "frame_id": 57,
+      "background_id": 95,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 58,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "……もうわかっていた。 彼女に近づこうとすればするほど、 自分は人間としての形を、喪っていくのだと。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 58,
+              "loop_ends_at_frame": -1,
+              "text": "それでもいい。迎えに行かなくちゃ……",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "58": {
+      "frame_id": 58,
+      "background_id": 95,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 59,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "来る日も、来る日も。 来る日も来る日も来る日も来る日も来る日も 来る日も来る日も来る日も歩き続けた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "59": {
+      "frame_id": 59,
+      "background_id": 358,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 60,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "そして――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "60": {
+      "frame_id": 60,
+      "background_id": 358,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 61,
+          "character_id": 1097,
+          "speaker_name": "スティルインラブ",
+          "text": "…………。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 61,
+              "loop_ends_at_frame": -1,
+              "text": "スティル……",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "61": {
+      "frame_id": 61,
+      "background_id": 358,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 62,
+          "character_id": 1097,
+          "speaker_name": "スティルインラブ",
+          "text": "……っ！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "62": {
+      "frame_id": 62,
+      "background_id": 358,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 63,
+          "character_id": 1097,
+          "speaker_name": "スティルインラブ",
+          "text": "トレーナーさん……！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 63,
+              "loop_ends_at_frame": -1,
+              "text": "ごめん、今回は……時間がかかっちゃった",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "63": {
+      "frame_id": 63,
+      "background_id": 358,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 64,
+          "character_id": 1097,
+          "speaker_name": "スティルインラブ",
+          "text": "……っ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 64,
+              "loop_ends_at_frame": -1,
+              "text": "帰ろう、スティル……一緒に",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "64": {
+      "frame_id": 64,
+      "background_id": 358,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 65,
+          "character_id": 1097,
+          "speaker_name": "スティルインラブ",
+          "text": "……っ！ それは……できません……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "65": {
+      "frame_id": 65,
+      "background_id": 358,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 66,
+          "character_id": 1097,
+          "speaker_name": "スティルインラブ",
+          "text": "今度こそ…… 貴方は、無事ではすまない。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "66": {
+      "frame_id": 66,
+      "background_id": 358,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 67,
+          "character_id": 1097,
+          "speaker_name": "スティルインラブ",
+          "text": "きっと、感じたのでしょう？ さらなる変容を……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "67": {
+      "frame_id": 67,
+      "background_id": 358,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 68,
+          "character_id": 1097,
+          "speaker_name": "スティルインラブ",
+          "text": "ゆっくりと、交わっていった血は…… 離れたことで薄らいだ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "68": {
+      "frame_id": 68,
+      "background_id": 358,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 69,
+          "character_id": 1097,
+          "speaker_name": "スティルインラブ",
+          "text": "そこに、もう一度注いでしまえば―― 遥かに濃い血に耐えられず、器は……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "69": {
+      "frame_id": 69,
+      "background_id": 358,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 70,
+          "character_id": 1097,
+          "speaker_name": "スティルインラブ",
+          "text": "砕け散る。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "70": {
+      "frame_id": 70,
+      "background_id": 358,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 71,
+          "character_id": 1097,
+          "speaker_name": "スティルインラブ",
+          "text": "それに……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "71": {
+      "frame_id": 71,
+      "background_id": 358,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 72,
+          "character_id": 1097,
+          "speaker_name": "スティルインラブ",
+          "text": "私は、もう…… ワタシじゃない。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "72": {
+      "frame_id": 72,
+      "background_id": 358,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 73,
+          "character_id": 1097,
+          "speaker_name": "スティルインラブ",
+          "text": "帰れません。 もう……そちらには……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 73,
+              "loop_ends_at_frame": -1,
+              "text": "なら、俺がここにいる",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 73,
+              "loop_ends_at_frame": -1,
+              "text": "なら、私がここにいる",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "73": {
+      "frame_id": 73,
+      "background_id": 358,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 74,
+          "character_id": 1097,
+          "speaker_name": "スティルインラブ",
+          "text": "……っ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "74": {
+      "frame_id": 74,
+      "background_id": 358,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 75,
+          "character_id": 1097,
+          "speaker_name": "スティルインラブ",
+          "text": "あ……貴方は…… なんで……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "75": {
+      "frame_id": 75,
+      "background_id": 358,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 76,
+          "character_id": 1097,
+          "speaker_name": "スティルインラブ",
+          "text": "なんで、そこまで……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 76,
+              "loop_ends_at_frame": -1,
+              "text": "言っただろう、守るって",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 76,
+              "loop_ends_at_frame": -1,
+              "text": "言ったでしょう、守るって",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "76": {
+      "frame_id": 76,
+      "background_id": 1,
+      "sub_background_id": 1110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 77,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "『――何かあれば、今度こそ必ず守るから』",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "77": {
+      "frame_id": 77,
+      "background_id": 358,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 78,
+          "character_id": 1097,
+          "speaker_name": "スティルインラブ",
+          "text": "――――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "78": {
+      "frame_id": 78,
+      "background_id": 358,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 79,
+          "character_id": 1097,
+          "speaker_name": "スティルインラブ",
+          "text": "ただ…… それだけの、ために……？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 79,
+              "loop_ends_at_frame": -1,
+              "text": "それに、俺が……ただ、会いたかったんだ",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 79,
+              "loop_ends_at_frame": -1,
+              "text": "それに、私が……ただ、会いたかったんだ",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "79": {
+      "frame_id": 79,
+      "background_id": 358,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 80,
+          "character_id": 1097,
+          "speaker_name": "スティルインラブ",
+          "text": "トレーナーさん……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "80": {
+      "frame_id": 80,
+      "background_id": 358,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 81,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "スティルインラブに、手を差し伸べる。 彼女をもう、ひとりにはしない。 今でも……――",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 81,
+              "loop_ends_at_frame": -1,
+              "text": "――想いは変わらずここにある",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "81": {
+      "frame_id": 81,
+      "background_id": 358,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 82,
+          "character_id": 1097,
+          "speaker_name": "スティルインラブ",
+          "text": "……っ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "82": {
+      "frame_id": 82,
+      "background_id": 358,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 83,
+          "character_id": 1097,
+          "speaker_name": "スティルインラブ",
+          "text": "……ずるい。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "83": {
+      "frame_id": 83,
+      "background_id": 358,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 84,
+          "character_id": 1097,
+          "speaker_name": "スティルインラブ",
+          "text": "ずるい……ずるい……っ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "84": {
+      "frame_id": 84,
+      "background_id": 358,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 85,
+          "character_id": 1097,
+          "speaker_name": "スティルインラブ",
+          "text": "私だって…… 貴方を、守りたかった……っ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "85": {
+      "frame_id": 85,
+      "background_id": 358,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 86,
+          "character_id": 1097,
+          "speaker_name": "スティルインラブ",
+          "text": "貴方に…… 幸せでいてほしかった……っっ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "86": {
+      "frame_id": 86,
+      "background_id": 358,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 87,
+          "character_id": 1097,
+          "speaker_name": "スティルインラブ",
+          "text": "……でも。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "87": {
+      "frame_id": 87,
+      "background_id": 358,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 88,
+          "character_id": 1097,
+          "speaker_name": "スティルインラブ",
+          "text": "本当は……。 ずっと……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "88": {
+      "frame_id": 88,
+      "background_id": 358,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 89,
+          "character_id": 1097,
+          "speaker_name": "スティルインラブ",
+          "text": "ずっと……待ってました。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "89": {
+      "frame_id": 89,
+      "background_id": 358,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 90,
+          "character_id": 1097,
+          "speaker_name": "スティルインラブ",
+          "text": "貴方と……会えるのを。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "90": {
+      "frame_id": 90,
+      "background_id": 358,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 91,
+          "character_id": 1097,
+          "speaker_name": "スティルインラブ",
+          "text": "貴方のお傍に、いられるのを……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "91": {
+      "frame_id": 91,
+      "background_id": 358,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 92,
+          "character_id": 1097,
+          "speaker_name": "スティルインラブ",
+          "text": "……私も。 私も……想いは、ずっと変わっていません。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "92": {
+      "frame_id": 92,
+      "background_id": 358,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 1097,
+          "speaker_name": "スティルインラブ",
+          "text": "今でも――愛してる。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

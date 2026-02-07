@@ -1,0 +1,1408 @@
+{
+  "story_id": "501023511",
+  "casts": [
+    90720,
+    1005,
+    90001,
+    1044,
+    1055,
+    -1,
+    1023
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 37,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 37,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "ある日のトレーニング後。\r 門限も近くなってきたので、ビワハヤヒデを 寮の前まで送っていったところ――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 4,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 1005,
+          "speaker_name": "フジキセキ",
+          "text": "おかえり、ハヤヒデ！\r こんな時間に帰ってくるなんて珍しいね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 4,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 1023,
+          "speaker_name": "ビワハヤヒデ",
+          "text": "ついトレーニングに熱が入ってしまって――\r 君は寮長の仕事か。遅くまで大変だな……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 4,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 1005,
+          "speaker_name": "フジキセキ",
+          "text": "そんなことないよ。こうして頑張ってきた\r ポニーちゃんたちを出迎えるのは楽しいしね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 4,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 1005,
+          "speaker_name": "フジキセキ",
+          "text": "――そうだ、来る途中で\r スイープとマーベラスを見なかったかい？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 6,
+              "loop_ends_at_frame": -1,
+              "text": "まだ帰ってきていないのか？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 6,
+              "loop_ends_at_frame": -1,
+              "text": "まだ帰ってきていないの？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 4,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 1005,
+          "speaker_name": "フジキセキ",
+          "text": "スマホに連絡を入れても返事がなくてさ。\r 寮の中でも年少の子だから、心配でね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 4,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 1023,
+          "speaker_name": "ビワハヤヒデ",
+          "text": "急いで探した方がよさそうだな……。\r 私も手伝おう！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 8,
+              "loop_ends_at_frame": -1,
+              "text": "俺も手伝うよ！",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 8,
+              "loop_ends_at_frame": -1,
+              "text": "私も手伝うよ！",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 4,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 1005,
+          "speaker_name": "フジキセキ",
+          "text": "ありがとう、2人とも……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 4,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 1005,
+          "speaker_name": "フジキセキ",
+          "text": "じゃあ二手に分かれようか。\r ハヤヒデたちは2人で探してくれ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 4,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 1023,
+          "speaker_name": "ビワハヤヒデ",
+          "text": "わかった。\r 行き先の手掛かりになりそうな情報はあるか？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 4,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 1005,
+          "speaker_name": "フジキセキ",
+          "text": "マーベラスは『マーベラス探し☆』、\r スイープは『魔術の材料探し』に 出かけたらしいけど――",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 12,
+              "loop_ends_at_frame": -1,
+              "text": "行き先が絞れそうなスイープを探そう",
+              "flag_type": "",
+              "flag": ""
+            },
+            {
+              "next_frame": 41,
+              "loop_ends_at_frame": -1,
+              "text": "探す場所が多そうなマーベラスを探そう",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 4,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 1023,
+          "speaker_name": "ビワハヤヒデ",
+          "text": "魔術の材料になりそうなものといえば、\r 候補は限られるしな。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 4,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 1023,
+          "speaker_name": "ビワハヤヒデ",
+          "text": "早めに彼女を見つけて、\r フジ君と合流しよう。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 4,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "行き違いになった時のことを考え、\r 『帰ったら寮長の携帯に連絡するように』と 寮のドアに張り紙を残し、探索を開始した。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 51,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 1044,
+          "speaker_name": "スイープトウショウ",
+          "text": "ダメね……これじゃない。\r でも、あっちは色が違うし……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 51,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 1023,
+          "speaker_name": "ビワハヤヒデ",
+          "text": "見つけたぞ、スイープ君！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 51,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 1044,
+          "speaker_name": "スイープトウショウ",
+          "text": "ひゃああぁぁっ！？　な、なんで\r ハヤヒデさんたちがアタシの採取場に！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 51,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 19,
+          "character_id": 1023,
+          "speaker_name": "ビワハヤヒデ",
+          "text": "フジ君に頼まれて君を探していたんだ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 19,
+              "loop_ends_at_frame": -1,
+              "text": "もうすぐ門限だし帰ろう",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 51,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 20,
+          "character_id": 1044,
+          "speaker_name": "スイープトウショウ",
+          "text": "うそっ！\r もうそんな時間！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "20": {
+      "frame_id": 20,
+      "background_id": 51,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 21,
+          "character_id": 1044,
+          "speaker_name": "スイープトウショウ",
+          "text": "で、でもイヤ！　材料の薬草を見つけるまで、\r ぜーったい帰らないんだからっ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 21,
+              "loop_ends_at_frame": -1,
+              "text": "（どうしたものかな……）",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "21": {
+      "frame_id": 21,
+      "background_id": 51,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 22,
+          "character_id": 1023,
+          "speaker_name": "ビワハヤヒデ",
+          "text": "……何か事情があるんだろう？\r 私たちに話してはくれないか。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "22": {
+      "frame_id": 22,
+      "background_id": 51,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 23,
+          "character_id": 1023,
+          "speaker_name": "ビワハヤヒデ",
+          "text": "スイーピーは理由もなく、\r 決まりを破る魔法少女じゃないはずだ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "23": {
+      "frame_id": 23,
+      "background_id": 51,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 24,
+          "character_id": 1044,
+          "speaker_name": "スイープトウショウ",
+          "text": "…………うっ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "24": {
+      "frame_id": 24,
+      "background_id": 51,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 25,
+          "character_id": 1044,
+          "speaker_name": "スイープトウショウ",
+          "text": "うぐぐぐぐ……そうよ。\r 昨日、グランマが熱を出して――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "25": {
+      "frame_id": 25,
+      "background_id": 51,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 26,
+          "character_id": 1044,
+          "speaker_name": "スイープトウショウ",
+          "text": "今日になっても熱が下がらないの。\r だから、魔法で元気になってもらいたくて。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "26": {
+      "frame_id": 26,
+      "background_id": 51,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 27,
+          "character_id": 1023,
+          "speaker_name": "ビワハヤヒデ",
+          "text": "だが、門限を過ぎても君が戻らないと、\r フジ君や寮の皆が心配する。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "27": {
+      "frame_id": 27,
+      "background_id": 51,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 28,
+          "character_id": 1023,
+          "speaker_name": "ビワハヤヒデ",
+          "text": "グランマにも連絡がいくかもしれない。\r それは君の望むところではないだろう？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "28": {
+      "frame_id": 28,
+      "background_id": 51,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 29,
+          "character_id": 1044,
+          "speaker_name": "スイープトウショウ",
+          "text": "あ、当たり前よっ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "29": {
+      "frame_id": 29,
+      "background_id": 51,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 30,
+          "character_id": 1023,
+          "speaker_name": "ビワハヤヒデ",
+          "text": "ならば私たちにも\r 薬草探しを協力させてもらえないか？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "30": {
+      "frame_id": 30,
+      "background_id": 51,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 31,
+          "character_id": 1023,
+          "speaker_name": "ビワハヤヒデ",
+          "text": "君からもらった情報を分析して、\r 候補を絞れば、すぐに見つかるはずだ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 31,
+              "loop_ends_at_frame": -1,
+              "text": "早く見つけてみんなで門限を守ろう！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "31": {
+      "frame_id": 31,
+      "background_id": 51,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 32,
+          "character_id": 1044,
+          "speaker_name": "スイープトウショウ",
+          "text": "……わ、わかったわよ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "32": {
+      "frame_id": 32,
+      "background_id": 37,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 33,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "そして――\r ビワハヤヒデのおかげで、思ったよりも早く 目当ての植物を見つけ出すことができた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "33": {
+      "frame_id": 33,
+      "background_id": 4,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 34,
+          "character_id": 1005,
+          "speaker_name": "フジキセキ",
+          "text": "スイープもマーベラスも、\r 無事に見つかってよかったよ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "34": {
+      "frame_id": 34,
+      "background_id": 4,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 35,
+          "character_id": 1044,
+          "speaker_name": "スイープトウショウ",
+          "text": "そ、その、今日のところは助かったわ。\r ……それじゃ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "35": {
+      "frame_id": 35,
+      "background_id": 4,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 36,
+          "character_id": 1005,
+          "speaker_name": "フジキセキ",
+          "text": "おや、彼女があんなにしおらしくなるなんて、\r どんな魔法を使ったんだい？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "36": {
+      "frame_id": 36,
+      "background_id": 4,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 37,
+          "character_id": 1023,
+          "speaker_name": "ビワハヤヒデ",
+          "text": "何も。\r ただ、おせっかいを焼いただけだよ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "37": {
+      "frame_id": 37,
+      "background_id": 4,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 38,
+          "character_id": 1023,
+          "speaker_name": "ビワハヤヒデ",
+          "text": "……小さい頃の妹とかぶって見えて、\r なんだか放っておけなくてな。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "38": {
+      "frame_id": 38,
+      "background_id": 4,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 39,
+          "character_id": 1005,
+          "speaker_name": "フジキセキ",
+          "text": "なるほどね。その『おせっかい』に、\r 私も寮のみんなも助けられているよ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "39": {
+      "frame_id": 39,
+      "background_id": 4,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 40,
+          "character_id": 1005,
+          "speaker_name": "フジキセキ",
+          "text": "今日だってそうだ。\r 改めて礼を言うよ、ハヤヒデ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "40": {
+      "frame_id": 40,
+      "background_id": 4,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "フジキセキからの言葉が意外だったのか、\r ビワハヤヒデは 少しだけ照れくさそうにしていた。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "41": {
+      "frame_id": 41,
+      "background_id": 4,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 42,
+          "character_id": 1023,
+          "speaker_name": "ビワハヤヒデ",
+          "text": "ああ。\r それは頭数の多いこちらが担当すべきだろう。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "42": {
+      "frame_id": 42,
+      "background_id": 4,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 43,
+          "character_id": 1023,
+          "speaker_name": "ビワハヤヒデ",
+          "text": "まずは敷地の中でマーベラスという単語に\r 紐づきそうな場所を洗い出すとするか。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 43,
+              "loop_ends_at_frame": -1,
+              "text": "わかった！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "43": {
+      "frame_id": 43,
+      "background_id": 4,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 44,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "行き違いになった時のことを考え、\r 『帰ったら寮長の携帯に連絡するように』と 寮のドアに張り紙を残し、探索を開始した。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "44": {
+      "frame_id": 44,
+      "background_id": 10,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 45,
+          "character_id": 1023,
+          "speaker_name": "ビワハヤヒデ",
+          "text": "ステージにはいないか……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "45": {
+      "frame_id": 45,
+      "background_id": 2,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 46,
+          "character_id": 1023,
+          "speaker_name": "ビワハヤヒデ",
+          "text": "三女神像の前にもいない……。\r となれば屋内か？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "46": {
+      "frame_id": 46,
+      "background_id": 7,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 47,
+          "character_id": 1023,
+          "speaker_name": "ビワハヤヒデ",
+          "text": "校舎の中でマーベラスな場所か……\r 音楽室あたりだろうか？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "47": {
+      "frame_id": 47,
+      "background_id": 7,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 48,
+          "character_id": 1023,
+          "speaker_name": "ビワハヤヒデ",
+          "text": "しかし誰もいない今、\r 感銘を受けようもないはず――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "48": {
+      "frame_id": 48,
+      "background_id": 7,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 49,
+          "character_id": 1055,
+          "speaker_name": "マーベラスサンデー",
+          "text": "赤くてキレイなマーベラース☆\r とってもキラキラマーベラーース★",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "49": {
+      "frame_id": 49,
+      "background_id": 7,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 50,
+          "character_id": 1023,
+          "speaker_name": "ビワハヤヒデ",
+          "text": "マーベラス君……！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "50": {
+      "frame_id": 50,
+      "background_id": 7,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 51,
+          "character_id": 1055,
+          "speaker_name": "マーベラスサンデー",
+          "text": "あれれ、ハヤヒデだーっ！\r こんなとこでどうしたの～っ☆",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "51": {
+      "frame_id": 51,
+      "background_id": 7,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 52,
+          "character_id": 1023,
+          "speaker_name": "ビワハヤヒデ",
+          "text": "はぁ……。\r それはこちらの台詞だ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "52": {
+      "frame_id": 52,
+      "background_id": 7,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 53,
+          "character_id": 1023,
+          "speaker_name": "ビワハヤヒデ",
+          "text": "『マーベラス探し』と聞いたが、\r 一体、何をしていたんだ？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "53": {
+      "frame_id": 53,
+      "background_id": 7,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 54,
+          "character_id": 1055,
+          "speaker_name": "マーベラスサンデー",
+          "text": "うーんとね、夜の校舎を走ってると、\r 赤い光が追いかけてくるっていう マーベラスなウワサがあるんだけど――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "54": {
+      "frame_id": 54,
+      "background_id": 7,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 55,
+          "character_id": 1055,
+          "speaker_name": "マーベラスサンデー",
+          "text": "走ってみたら、ホントに赤い光が\r 追いかけてきたから楽しくなっちゃった～☆",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 55,
+              "loop_ends_at_frame": -1,
+              "text": "……もしかして幽霊？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "55": {
+      "frame_id": 55,
+      "background_id": 7,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 56,
+          "character_id": 1023,
+          "speaker_name": "ビワハヤヒデ",
+          "text": "ゆ、ゆゆゆ幽霊なんて非論理的なもの、\r この世に存在するはずがないだろうっ！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "56": {
+      "frame_id": 56,
+      "background_id": 7,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 57,
+          "character_id": 1023,
+          "speaker_name": "ビワハヤヒデ",
+          "text": "万が一にも存在したとしたら、\r どうやって対処すればいいのか――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "57": {
+      "frame_id": 57,
+      "background_id": 107,
+      "sub_background_id": 30,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 58,
+          "character_id": 90720,
+          "speaker_name": "？？？",
+          "text": "おーい……おーい……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "58": {
+      "frame_id": 58,
+      "background_id": 107,
+      "sub_background_id": 30,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 59,
+          "character_id": 1055,
+          "speaker_name": "マーベラスサンデー",
+          "text": "おおっ！\r 赤い光だ～☆",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "59": {
+      "frame_id": 59,
+      "background_id": 7,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 60,
+          "character_id": 1023,
+          "speaker_name": "ビワハヤヒデ",
+          "text": "ぎゃあああああっ！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "60": {
+      "frame_id": 60,
+      "background_id": 7,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 61,
+          "character_id": 1055,
+          "speaker_name": "マーベラスサンデー",
+          "text": "わ～☆\r ハヤヒデ、すっごいスピード～★",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 61,
+              "loop_ends_at_frame": -1,
+              "text": "っていうか赤い光の正体って……",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "61": {
+      "frame_id": 61,
+      "background_id": 7,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 62,
+          "character_id": 90720,
+          "speaker_name": "警備員",
+          "text": "ごめんごめん、\r 怖がらせちゃったみたいだね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "62": {
+      "frame_id": 62,
+      "background_id": 7,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 63,
+          "character_id": 90720,
+          "speaker_name": "警備員",
+          "text": "君らも、\r そろそろ門限だから早く帰りなよ～？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "63": {
+      "frame_id": 63,
+      "background_id": 4,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 64,
+          "character_id": 1023,
+          "speaker_name": "ビワハヤヒデ",
+          "text": "すまなかったな、2人とも……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "64": {
+      "frame_id": 64,
+      "background_id": 4,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 65,
+          "character_id": 1023,
+          "speaker_name": "ビワハヤヒデ",
+          "text": "気が動転していたとはいえ、\r 1人で逃げるという愚行を犯してしまった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 65,
+              "loop_ends_at_frame": -1,
+              "text": "いや、気にしないで",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "65": {
+      "frame_id": 65,
+      "background_id": 4,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 66,
+          "character_id": 1005,
+          "speaker_name": "フジキセキ",
+          "text": "そうそう。結果的に\r マーベラスもスイープも無事帰ってきたしさ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "66": {
+      "frame_id": 66,
+      "background_id": 4,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 67,
+          "character_id": 1005,
+          "speaker_name": "フジキセキ",
+          "text": "……しかし幽霊が苦手なんて\r かわいらしい弱点があったんだね、ハヤヒデ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "67": {
+      "frame_id": 67,
+      "background_id": 4,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 68,
+          "character_id": 1023,
+          "speaker_name": "ビワハヤヒデ",
+          "text": "くっ……！\r 仕方がないだろう！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "68": {
+      "frame_id": 68,
+      "background_id": 4,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 69,
+          "character_id": 1023,
+          "speaker_name": "ビワハヤヒデ",
+          "text": "生態も不明、過去の事例も当てにならない！\r これでは対処のしようもないじゃないか！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 69,
+              "loop_ends_at_frame": -1,
+              "text": "今回は警備員さんだったから大丈夫だ！",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 69,
+              "loop_ends_at_frame": -1,
+              "text": "今回は警備員さんだったから大丈夫だよ！",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "69": {
+      "frame_id": 69,
+      "background_id": 4,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 70,
+          "character_id": 1023,
+          "speaker_name": "ビワハヤヒデ",
+          "text": "そ、そうだな……。\r おかげで今日は安眠できそうだよ……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "70": {
+      "frame_id": 70,
+      "background_id": 37,
+      "sub_background_id": 130,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "そう言ってため息をつくビワハヤヒデは、\r 心の底から安堵しているようだった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

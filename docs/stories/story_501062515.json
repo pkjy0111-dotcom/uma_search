@@ -1,0 +1,959 @@
+{
+  "story_id": "501062515",
+  "casts": [
+    1060,
+    1062,
+    90001,
+    -1,
+    90207
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "休日の昼。お腹を空かせながら、 食事処はないかと商店街を歩いていると――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 30,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 90207,
+          "speaker_name": "中華屋の店主",
+          "text": "終わりだぁ～！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 1062,
+          "speaker_name": "マチカネタンホイザ",
+          "text": "いやいや、だいじょ―― ってあれっ？　トレーナー？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 4,
+              "loop_ends_at_frame": -1,
+              "text": "……何やってるんだ？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 4,
+              "loop_ends_at_frame": -1,
+              "text": "……何やってるの？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 1062,
+          "speaker_name": "マチカネタンホイザ",
+          "text": "それが……なんでも最近、近所にお店が 次々できちゃったらしくて。 このままだと店をたたむしかって……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 90207,
+          "speaker_name": "中華屋の店主",
+          "text": "もうこんな古臭い店じゃダメなんだ……。 若者の胃袋を掴めるような、 トレンディな店じゃねぇと……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 1062,
+          "speaker_name": "マチカネタンホイザ",
+          "text": "…………い～え！ まだまだ終わりじゃありませんよ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 1062,
+          "speaker_name": "マチカネタンホイザ",
+          "text": "なぜならば……食堂の娘の誇りにかけ！ 緊急臨時看板娘＋敏腕コンサル、 おマチちゃんがこの店を立て直すからですっ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 8,
+              "loop_ends_at_frame": -1,
+              "text": "そういうことなら作戦が必要だな",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 8,
+              "loop_ends_at_frame": -1,
+              "text": "そういうことなら作戦が必要だね",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 1062,
+          "speaker_name": "マチカネタンホイザ",
+          "text": "もちろん、そこはバッチリ用意してます！ その名も……『映えメニューマシマシ作戦』！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 1062,
+          "speaker_name": "マチカネタンホイザ",
+          "text": "お客が新しいものに流れるなら、こちらも 新メニューで対抗！　ウマスタ映えする 斬新オシャレな料理を出すのです！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 90207,
+          "speaker_name": "中華屋の店主",
+          "text": "そんなことやったって無駄だ……！ 焼け石に水だよ！ ワシは負け犬なんだよぉ……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 1062,
+          "speaker_name": "マチカネタンホイザ",
+          "text": "まぁまぁ、やるだけやってみましょう！ ほら、みんなで一緒に！ えい、えい、むん！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 12,
+              "loop_ends_at_frame": -1,
+              "text": "むん！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 90207,
+          "speaker_name": "中華屋の店主",
+          "text": "むぅぅ～～んッ！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "というわけで『映えメニュー』の開発に\r とりかかったマチカネタンホイザ。 そして数日後、初のお客さんが――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 1060,
+          "speaker_name": "ナイスネイチャ",
+          "text": "すみませーん。……すみませぇーん？ ……開いてるのかな、この店？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 1062,
+          "speaker_name": "マチカネタンホイザ",
+          "text": "ようこそ～！ いらっしゃいませぇ～！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 1060,
+          "speaker_name": "ナイスネイチャ",
+          "text": "あれっ、タンホイザ？\r なにやってんの？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 1062,
+          "speaker_name": "マチカネタンホイザ",
+          "text": "ひひ、まぁまぁそれは置いておいて…… まずは当店自慢の 映えメニューをご覧ください。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 19,
+          "character_id": 1060,
+          "speaker_name": "ナイスネイチャ",
+          "text": "……『爆竹繚乱揚げ』『地獄極楽天地焼き』 『ハイスペック師匠』……。 いや、どんな料理！？　てか料理なの！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 20,
+          "character_id": 1060,
+          "speaker_name": "ナイスネイチャ",
+          "text": "ええと、全然わからんから…… ま、とりあえずオススメを……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "20": {
+      "frame_id": 20,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 21,
+          "character_id": 1062,
+          "speaker_name": "マチカネタンホイザ",
+          "text": "お待たせしました～。 こちら『三食超スタミナ暴走列車』で～す。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "21": {
+      "frame_id": 21,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 22,
+          "character_id": 1060,
+          "speaker_name": "ナイスネイチャ",
+          "text": "……ん？　レバニラ？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "22": {
+      "frame_id": 22,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 23,
+          "character_id": 1062,
+          "speaker_name": "マチカネタンホイザ",
+          "text": "そしてこちらが、『溶岩流豆腐諸島』、 『暗黒物質灼熱炒め』になります。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "23": {
+      "frame_id": 23,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 24,
+          "character_id": 1060,
+          "speaker_name": "ナイスネイチャ",
+          "text": "…………。 麻婆豆腐……と酢豚？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "24": {
+      "frame_id": 24,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 25,
+          "character_id": 1060,
+          "speaker_name": "ナイスネイチャ",
+          "text": "って、待て待て待てぇー！ 全部普通の中華じゃん！？ 奇抜なのは名前だけかい！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "25": {
+      "frame_id": 25,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 26,
+          "character_id": 1062,
+          "speaker_name": "マチカネタンホイザ",
+          "text": "ぎくぅぅっ！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "26": {
+      "frame_id": 26,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 27,
+          "character_id": 1062,
+          "speaker_name": "マチカネタンホイザ",
+          "text": "うう……そんなわけで、お店を救うために 斬新なメニュー名を考えたまでは よかったんだけど……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "27": {
+      "frame_id": 27,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 28,
+          "character_id": 1060,
+          "speaker_name": "ナイスネイチャ",
+          "text": "定食屋の娘として、味までは冒険できず、 結局ただのアレンジメニューで終わったと…… ジレンマだねぇ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "28": {
+      "frame_id": 28,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 29,
+          "character_id": 1062,
+          "speaker_name": "マチカネタンホイザ",
+          "text": "うう……私って、やっぱり 普通の殻は破れないのかなぁ～。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "29": {
+      "frame_id": 29,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 30,
+          "character_id": 1060,
+          "speaker_name": "ナイスネイチャ",
+          "text": "まぁまぁ悲観なさんな。 とりあえず作ってもらったものを 食べてから新しい作戦を――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "30": {
+      "frame_id": 30,
+      "background_id": 107,
+      "sub_background_id": 10,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 31,
+          "character_id": 1060,
+          "speaker_name": "ナイスネイチャ",
+          "text": "もぐもぐ……って、ん！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "31": {
+      "frame_id": 31,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 32,
+          "character_id": 1060,
+          "speaker_name": "ナイスネイチャ",
+          "text": "うまっ！　めちゃ美味しいじゃん、これ！ 期待のハードルを遥かに超えてて……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "32": {
+      "frame_id": 32,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 33,
+          "character_id": 1060,
+          "speaker_name": "ナイスネイチャ",
+          "text": "そう……普通じゃない！\r いけるよタンホイザ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "33": {
+      "frame_id": 33,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 34,
+          "character_id": 1062,
+          "speaker_name": "マチカネタンホイザ",
+          "text": "ええっ！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "34": {
+      "frame_id": 34,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 35,
+          "character_id": 90207,
+          "speaker_name": "中華屋の店主",
+          "text": "た、確かにこの味なら…… この店は、蘇る！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "35": {
+      "frame_id": 35,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 36,
+          "character_id": 1062,
+          "speaker_name": "マチカネタンホイザ",
+          "text": "ほ、本当……！？ 本当ですかぁ……！",
+          "flag_type": "",
+          "flag": "male_trainer",
+          "choices": [
+            {
+              "next_frame": 37,
+              "loop_ends_at_frame": -1,
+              "text": "『普通』の殻を破ったな！",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 37,
+              "loop_ends_at_frame": -1,
+              "text": "『普通』の殻を破ったね！",
+              "flag_type": "",
+              "flag": "female_trainer"
+            },
+            {
+              "next_frame": 41,
+              "loop_ends_at_frame": -1,
+              "text": "あとは知名度を高めるだけだ",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 41,
+              "loop_ends_at_frame": -1,
+              "text": "あとは知名度を高めるだけだね",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "36": {
+      "frame_id": 36,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 37,
+          "character_id": 1062,
+          "speaker_name": "マチカネタンホイザ",
+          "text": "ほ、本当……！？\r 本当ですかぁ……！",
+          "flag_type": "",
+          "flag": "female_trainer",
+          "choices": [
+            {
+              "next_frame": 37,
+              "loop_ends_at_frame": -1,
+              "text": "『普通』の殻を破ったな！",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 37,
+              "loop_ends_at_frame": -1,
+              "text": "『普通』の殻を破ったね！",
+              "flag_type": "",
+              "flag": "female_trainer"
+            },
+            {
+              "next_frame": 41,
+              "loop_ends_at_frame": -1,
+              "text": "あとは知名度を高めるだけだ",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 41,
+              "loop_ends_at_frame": -1,
+              "text": "あとは知名度を高めるだけだね",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "37": {
+      "frame_id": 37,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 38,
+          "character_id": 1062,
+          "speaker_name": "マチカネタンホイザ",
+          "text": "ややや……でも私は実家の味を 思い出しながらやっただけで……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 38,
+              "loop_ends_at_frame": -1,
+              "text": "なら、ご両親に感謝だな",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 38,
+              "loop_ends_at_frame": -1,
+              "text": "なら、ご両親に感謝だね",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "38": {
+      "frame_id": 38,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 39,
+          "character_id": 1062,
+          "speaker_name": "マチカネタンホイザ",
+          "text": "そうですね。よしっ。 じゃあ実家の方向に向かって、 感謝の祈りを捧げます。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "39": {
+      "frame_id": 39,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 40,
+          "character_id": 1062,
+          "speaker_name": "マチカネタンホイザ",
+          "text": "ありがとう、お父さんお母さん…… と、仲間外れはかわいそうだから、弟も……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "40": {
+      "frame_id": 40,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "そして……店は、ナイスネイチャが SNSで宣伝したのをきっかけに客が戻り、 無事救われたのだという。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "41": {
+      "frame_id": 41,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 42,
+          "character_id": 1062,
+          "speaker_name": "マチカネタンホイザ",
+          "text": "むむ。たしかに、まずは食べてもらわないと いけないですよね～。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "42": {
+      "frame_id": 42,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 43,
+          "character_id": 90207,
+          "speaker_name": "中華屋の店主",
+          "text": "……そうだ！　じゃあ看板娘おマチちゃんで 客寄せするのはどうだ！？ 町おこしのゆるキャラみたいに！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 43,
+              "loop_ends_at_frame": -1,
+              "text": "え……？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "43": {
+      "frame_id": 43,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 44,
+          "character_id": 1062,
+          "speaker_name": "マチカネタンホイザ",
+          "text": "なるほど～！　じゃあじゃあ、 とりあえず羽根をつけて…… 海から生まれてきたことにして――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "44": {
+      "frame_id": 44,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 45,
+          "character_id": 1060,
+          "speaker_name": "ナイスネイチャ",
+          "text": "い、いや、いらんいらんっ！ つーかさっそく矛盾してんじゃないよ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "45": {
+      "frame_id": 45,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "クセの強い親父さんが、店が傾いた原因の ような気もするが、とにかく新メニューの 味が評判になり、店は救われたのだった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1206 @@
+{
+  "story_id": "501059702",
+  "casts": [
+    0,
+    90211,
+    1059,
+    90220,
+    90959,
+    90001,
+    -1
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 28,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 28,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "メジロドーベルと駅前に出かけた帰り道――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 28,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 90220,
+          "speaker_name": "女の子A",
+          "text": "ねぇねぇ、お父さん！ 神社のお祭り寄ってこうよ～！　いいでしょ？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 28,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 90211,
+          "speaker_name": "女の子の父",
+          "text": "仕方ないなぁ、少しだけだぞ？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 28,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 1059,
+          "speaker_name": "メジロドーベル",
+          "text": "へぇ、今日お祭りやってるんだ……。 ……ふぅん。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 5,
+              "loop_ends_at_frame": -1,
+              "text": "気になるなら行ってみようか？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 28,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 1059,
+          "speaker_name": "メジロドーベル",
+          "text": "え……！？　い、いい……！ 別に気になってなんかないし！",
+          "flag_type": "",
+          "flag": "male_trainer",
+          "choices": [
+            {
+              "next_frame": 7,
+              "loop_ends_at_frame": -1,
+              "text": "じゃあ俺につき合ってほしい",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 7,
+              "loop_ends_at_frame": -1,
+              "text": "じゃあ私につき合ってほしい",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 28,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 1059,
+          "speaker_name": "メジロドーベル",
+          "text": "……い、いいよ。 そうなんだ、って思っただけだし。",
+          "flag_type": "",
+          "flag": "female_trainer",
+          "choices": [
+            {
+              "next_frame": 7,
+              "loop_ends_at_frame": -1,
+              "text": "じゃあ俺につき合ってほしい",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 7,
+              "loop_ends_at_frame": -1,
+              "text": "じゃあ私につき合ってほしい",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 28,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 1059,
+          "speaker_name": "メジロドーベル",
+          "text": "は？ ちょ、ちょっと――",
+          "flag_type": "",
+          "flag": "male_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 28,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 1059,
+          "speaker_name": "メジロドーベル",
+          "text": "は？ ちょ、ちょっと――",
+          "flag_type": "",
+          "flag": "female_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 39,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 1059,
+          "speaker_name": "メジロドーベル",
+          "text": "まったく。 ホント、アンタって強引――",
+          "flag_type": "",
+          "flag": "male_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 39,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 1059,
+          "speaker_name": "メジロドーベル",
+          "text": "……はぁ、少しだけだからね。",
+          "flag_type": "",
+          "flag": "female_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 39,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 90959,
+          "speaker_name": "？？？",
+          "text": "あれ、ベルちゃん？",
+          "flag_type": "",
+          "flag": "male_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 39,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 90959,
+          "speaker_name": "？？？",
+          "text": "あれ、ベルちゃん？",
+          "flag_type": "",
+          "flag": "female_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 39,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 1059,
+          "speaker_name": "メジロドーベル",
+          "text": "えっ……お父さん！？ どうしてここに……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 39,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 90959,
+          "speaker_name": "ドーベルの父親",
+          "text": "出張でこっちに来ていてね。ベルちゃんの 顔を見に行く途中だったんだ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 39,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 1059,
+          "speaker_name": "メジロドーベル",
+          "text": "ちょっと……！　子どもじゃないんだから、 もうベルちゃんって呼ばないでよ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 39,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 90959,
+          "speaker_name": "ドーベルの父親",
+          "text": "はは、そうだね。こうして トレセン学園で頑張っているわけだし。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 39,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 90959,
+          "speaker_name": "ドーベルの父親",
+          "text": "トレーナーさんも…… 娘がいつもお世話になっています。 お話はよく聞いていますよ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 39,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 19,
+          "character_id": 1059,
+          "speaker_name": "メジロドーベル",
+          "text": "べ、別に……！ 普通に現状報告しただけでしょ……！",
+          "flag_type": "",
+          "flag": "male_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 39,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 20,
+          "character_id": 1059,
+          "speaker_name": "メジロドーベル",
+          "text": "まぁ…… 一応、現状報告は必要でしょ？",
+          "flag_type": "",
+          "flag": "female_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "20": {
+      "frame_id": 20,
+      "background_id": 39,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 21,
+          "character_id": 90959,
+          "speaker_name": "ドーベルの父親",
+          "text": "娘は貴方にすごく感謝しているみたいでね。 これからもよろしくお願いします！",
+          "flag_type": "",
+          "flag": "male_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "21": {
+      "frame_id": 21,
+      "background_id": 39,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 22,
+          "character_id": 90959,
+          "speaker_name": "ドーベルの父親",
+          "text": "娘は貴方にすごく感謝しているみたいでね。 これからもよろしくお願いします！",
+          "flag_type": "",
+          "flag": "female_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "22": {
+      "frame_id": 22,
+      "background_id": 39,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 23,
+          "character_id": 1059,
+          "speaker_name": "メジロドーベル",
+          "text": "ちょ、ちょっと！ やめてってば……！！",
+          "flag_type": "",
+          "flag": "male_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "23": {
+      "frame_id": 23,
+      "background_id": 39,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 24,
+          "character_id": 1059,
+          "speaker_name": "メジロドーベル",
+          "text": "よ、余計なおせっかいしないでよ……！ 感謝ならちゃんと伝えてるし。",
+          "flag_type": "",
+          "flag": "female_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "24": {
+      "frame_id": 24,
+      "background_id": 43,
+      "sub_background_id": 2131,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 25,
+          "character_id": 90959,
+          "speaker_name": "ドーベルの父親",
+          "text": "お祭りかぁ。懐かしいな。 小さい頃、一緒に回ったね。",
+          "flag_type": "",
+          "flag": "male_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "25": {
+      "frame_id": 25,
+      "background_id": 43,
+      "sub_background_id": 2131,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 26,
+          "character_id": 90959,
+          "speaker_name": "ドーベルの父親",
+          "text": "お祭りかぁ。懐かしいな。 小さい頃、一緒に回ったね。",
+          "flag_type": "",
+          "flag": "female_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "26": {
+      "frame_id": 26,
+      "background_id": 43,
+      "sub_background_id": 2131,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 27,
+          "character_id": 1059,
+          "speaker_name": "メジロドーベル",
+          "text": "……小さい頃の話ね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "27": {
+      "frame_id": 27,
+      "background_id": 43,
+      "sub_background_id": 2131,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 28,
+          "character_id": 90959,
+          "speaker_name": "ドーベルの父親",
+          "text": "祭りの終盤には花火が上がってさ……。 あの時のベルちゃん、可愛かったなぁ～。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "28": {
+      "frame_id": 28,
+      "background_id": 37,
+      "sub_background_id": 630,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 29,
+          "character_id": 0,
+          "speaker_name": "幼いドーベル",
+          "text": "わぁ～！　大きな流れ星がたくさん！ 早くお願いごとしなきゃ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "29": {
+      "frame_id": 29,
+      "background_id": 37,
+      "sub_background_id": 630,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 30,
+          "character_id": 90959,
+          "speaker_name": "ドーベルの父親",
+          "text": "あはは！　流れ星とはちょっと違うかな。 あれは打ち上げ花火っていうんだよ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "30": {
+      "frame_id": 30,
+      "background_id": 37,
+      "sub_background_id": 630,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 31,
+          "character_id": 0,
+          "speaker_name": "幼いドーベル",
+          "text": "えぇ～！？　流れ星だよ～！ アタシのお願い、叶えてくれるんだもん！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "31": {
+      "frame_id": 31,
+      "background_id": 37,
+      "sub_background_id": 630,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 32,
+          "character_id": 0,
+          "speaker_name": "幼いドーベル",
+          "text": "お星さま、お星さま……。 おっきなレースでも勝てるような すごいウマ娘になれますよーにっ……！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "32": {
+      "frame_id": 32,
+      "background_id": 43,
+      "sub_background_id": 2131,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 33,
+          "character_id": 90959,
+          "speaker_name": "ドーベルの父親",
+          "text": "――ってさ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 33,
+              "loop_ends_at_frame": -1,
+              "text": "へぇ……",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "33": {
+      "frame_id": 33,
+      "background_id": 43,
+      "sub_background_id": 2131,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 34,
+          "character_id": 1059,
+          "speaker_name": "メジロドーベル",
+          "text": "なにその顔、バカにしてんの……！？",
+          "flag_type": "",
+          "flag": "male_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "34": {
+      "frame_id": 34,
+      "background_id": 43,
+      "sub_background_id": 2131,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 35,
+          "character_id": 1059,
+          "speaker_name": "メジロドーベル",
+          "text": "わ、笑わないでよ……！ 今はちゃんと区別ついてるし。",
+          "flag_type": "",
+          "flag": "female_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "35": {
+      "frame_id": 35,
+      "background_id": 43,
+      "sub_background_id": 2131,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 36,
+          "character_id": 90959,
+          "speaker_name": "ドーベルの父親",
+          "text": "ははっ。でも元気そうでなによりだよ。 表舞台にも出るようになって 無理してないかと心配だったからさ。",
+          "flag_type": "",
+          "flag": "male_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "36": {
+      "frame_id": 36,
+      "background_id": 43,
+      "sub_background_id": 2131,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 37,
+          "character_id": 90959,
+          "speaker_name": "ドーベルの父親",
+          "text": "ははっ。でも元気そうでなによりだよ。 表舞台にも出るようになって 無理してないかと心配だったからさ。",
+          "flag_type": "",
+          "flag": "female_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "37": {
+      "frame_id": 37,
+      "background_id": 43,
+      "sub_background_id": 2131,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 38,
+          "character_id": 90959,
+          "speaker_name": "ドーベルの父親",
+          "text": "……さて、もう少し一緒にいたかったけど、\r そろそろ行かなきゃ。またね、ベルちゃん。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "38": {
+      "frame_id": 38,
+      "background_id": 43,
+      "sub_background_id": 2131,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 39,
+          "character_id": 1059,
+          "speaker_name": "メジロドーベル",
+          "text": "だからベルちゃんって―― ……もう、またね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "39": {
+      "frame_id": 39,
+      "background_id": 28,
+      "sub_background_id": 131,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 40,
+          "character_id": 1059,
+          "speaker_name": "メジロドーベル",
+          "text": "はぁ……。 表舞台に出るようになって、 ちょっとは成長できたって思ってたけど――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "40": {
+      "frame_id": 40,
+      "background_id": 28,
+      "sub_background_id": 131,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 41,
+          "character_id": 1059,
+          "speaker_name": "メジロドーベル",
+          "text": "それでもまだ……心配かけちゃうくらい、 未熟だってことなのかな。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 41,
+              "loop_ends_at_frame": -1,
+              "text": "そう気を落とさないで",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "41": {
+      "frame_id": 41,
+      "background_id": 28,
+      "sub_background_id": 131,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 42,
+          "character_id": 1059,
+          "speaker_name": "メジロドーベル",
+          "text": "べ、別に……！ ア、アンタには関係ないでしょ……！",
+          "flag_type": "",
+          "flag": "male_trainer",
+          "choices": [
+            {
+              "next_frame": 43,
+              "loop_ends_at_frame": -1,
+              "text": "もっと活躍して立派なところを見せよう",
+              "flag_type": "",
+              "flag": ""
+            },
+            {
+              "next_frame": 51,
+              "loop_ends_at_frame": -1,
+              "text": "お父さんはドーベルを認めてくれているよ",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "42": {
+      "frame_id": 42,
+      "background_id": 28,
+      "sub_background_id": 131,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 43,
+          "character_id": 1059,
+          "speaker_name": "メジロドーベル",
+          "text": "うん……。だけどやっぱり…… 少しだけ、気になっちゃうかも。",
+          "flag_type": "",
+          "flag": "female_trainer",
+          "choices": [
+            {
+              "next_frame": 43,
+              "loop_ends_at_frame": -1,
+              "text": "もっと活躍して立派なところを見せよう",
+              "flag_type": "",
+              "flag": ""
+            },
+            {
+              "next_frame": 51,
+              "loop_ends_at_frame": -1,
+              "text": "お父さんはドーベルを認めてくれているよ",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "43": {
+      "frame_id": 43,
+      "background_id": 28,
+      "sub_background_id": 131,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 44,
+          "character_id": 1059,
+          "speaker_name": "メジロドーベル",
+          "text": "もっと……。",
+          "flag_type": "",
+          "flag": "male_trainer",
+          "choices": [
+            {
+              "next_frame": 45,
+              "loop_ends_at_frame": -1,
+              "text": "不安がなくなるくらい、たくさん！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "44": {
+      "frame_id": 44,
+      "background_id": 28,
+      "sub_background_id": 131,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 45,
+          "character_id": 1059,
+          "speaker_name": "メジロドーベル",
+          "text": "もっと……。",
+          "flag_type": "",
+          "flag": "female_trainer",
+          "choices": [
+            {
+              "next_frame": 45,
+              "loop_ends_at_frame": -1,
+              "text": "不安がなくなるくらい、たくさん！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "45": {
+      "frame_id": 45,
+      "background_id": 28,
+      "sub_background_id": 131,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 46,
+          "character_id": 1059,
+          "speaker_name": "メジロドーベル",
+          "text": "言われなくても……！　今後も勝ち進んで、 誰もが認める立派なウマ娘になるんだから！",
+          "flag_type": "",
+          "flag": "male_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "46": {
+      "frame_id": 46,
+      "background_id": 28,
+      "sub_background_id": 131,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 47,
+          "character_id": 1059,
+          "speaker_name": "メジロドーベル",
+          "text": "……確かに、うじうじ考えているよりも 動かないと始まらないよね。",
+          "flag_type": "",
+          "flag": "female_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "47": {
+      "frame_id": 47,
+      "background_id": 28,
+      "sub_background_id": 131,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 48,
+          "character_id": 1059,
+          "speaker_name": "メジロドーベル",
+          "text": "……だからアタシ、今よりもっと強くなる。",
+          "flag_type": "",
+          "flag": "male_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "48": {
+      "frame_id": 48,
+      "background_id": 28,
+      "sub_background_id": 131,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 49,
+          "character_id": 1059,
+          "speaker_name": "メジロドーベル",
+          "text": "アタシ、強くなる。 今よりも、もっともっと……！ お父さんに胸を張れるくらいに……！",
+          "flag_type": "",
+          "flag": "female_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "49": {
+      "frame_id": 49,
+      "background_id": 28,
+      "sub_background_id": 131,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "メジロドーベルの強いまなざしには、\r 彼女の決意がありありと表れていた。",
+          "flag_type": "",
+          "flag": "male_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "50": {
+      "frame_id": 50,
+      "background_id": 28,
+      "sub_background_id": 131,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "メジロドーベルの強いまなざしには、\r 彼女の決意がありありと表れていた。",
+          "flag_type": "",
+          "flag": "female_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "51": {
+      "frame_id": 51,
+      "background_id": 28,
+      "sub_background_id": 131,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 52,
+          "character_id": 1059,
+          "speaker_name": "メジロドーベル",
+          "text": "なっ……！ 知った風な口きかないでよ……！",
+          "flag_type": "",
+          "flag": "male_trainer",
+          "choices": [
+            {
+              "next_frame": 53,
+              "loop_ends_at_frame": -1,
+              "text": "娘を大事にしているのが伝わってきたから",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 53,
+              "loop_ends_at_frame": -1,
+              "text": "娘を大事にしているのが伝わってきたから",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "52": {
+      "frame_id": 52,
+      "background_id": 28,
+      "sub_background_id": 131,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 53,
+          "character_id": 1059,
+          "speaker_name": "メジロドーベル",
+          "text": "……どうして断言できるの。 トレーナーはお父さんじゃないのに。",
+          "flag_type": "",
+          "flag": "female_trainer",
+          "choices": [
+            {
+              "next_frame": 53,
+              "loop_ends_at_frame": -1,
+              "text": "娘を大事にしているのが伝わってきたから",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 53,
+              "loop_ends_at_frame": -1,
+              "text": "娘を大事にしているのが伝わってきたから",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "53": {
+      "frame_id": 53,
+      "background_id": 28,
+      "sub_background_id": 131,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 54,
+          "character_id": 1059,
+          "speaker_name": "メジロドーベル",
+          "text": "……親バカなだけ。 昔からずっと過保護で、心配性で、ホント――",
+          "flag_type": "",
+          "flag": "male_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "54": {
+      "frame_id": 54,
+      "background_id": 28,
+      "sub_background_id": 131,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 55,
+          "character_id": 1059,
+          "speaker_name": "メジロドーベル",
+          "text": "そっか……ならわかるでしょ？ 愛されてるってわかるから、余計悔しいの。 心配させちゃった自分が、ふがいなくて。",
+          "flag_type": "",
+          "flag": "female_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "55": {
+      "frame_id": 55,
+      "background_id": 28,
+      "sub_background_id": 131,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 56,
+          "character_id": 1059,
+          "speaker_name": "メジロドーベル",
+          "text": "……はぁ。少しは娘離れしてもらうためにも、 もっと強くならないと。",
+          "flag_type": "",
+          "flag": "male_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "56": {
+      "frame_id": 56,
+      "background_id": 28,
+      "sub_background_id": 131,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 57,
+          "character_id": 1059,
+          "speaker_name": "メジロドーベル",
+          "text": "だからアタシ、強くなる。 今よりも、もっともっと…… お父さんに胸を張れるくらいに……！",
+          "flag_type": "",
+          "flag": "female_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "57": {
+      "frame_id": 57,
+      "background_id": 28,
+      "sub_background_id": 131,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "やれやれといった感じのメジロドーベルだが、 強くなりたいという気持ちは固いようだった。",
+          "flag_type": "",
+          "flag": "male_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "58": {
+      "frame_id": 58,
+      "background_id": 28,
+      "sub_background_id": 131,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "メジロドーベルの強いまなざしには、\r 彼女の決意がありありと表れていた。",
+          "flag_type": "",
+          "flag": "female_trainer",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,430 @@
+{
+  "story_id": "501041103",
+  "casts": [
+    1041,
+    90001,
+    -1,
+    0
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 40,
+      "sub_background_id": 2110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 40,
+      "sub_background_id": 2110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "今日から『夏合宿』――\r 実力向上のため強化トレーニングが始まる。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 40,
+      "sub_background_id": 2110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 1041,
+          "speaker_name": "サクラバクシンオー",
+          "text": "そこーッ！\r 早く荷物を部屋に運んでください！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 40,
+      "sub_background_id": 2110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 1041,
+          "speaker_name": "サクラバクシンオー",
+          "text": "そこ、お喋りは後です！\r まずは施設の方へのご挨拶を！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 40,
+      "sub_background_id": 2110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 1041,
+          "speaker_name": "サクラバクシンオー",
+          "text": "そこも早く部屋へ――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 40,
+      "sub_background_id": 2110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 1041,
+          "speaker_name": "サクラバクシンオー",
+          "text": "って、トレーナーさんではないですか！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 40,
+      "sub_background_id": 2110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 1041,
+          "speaker_name": "サクラバクシンオー",
+          "text": "危ない、間違えて部屋に\r ご案内するところでした！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 7,
+              "loop_ends_at_frame": -1,
+              "text": "張り切ってるな",
+              "flag_type": "male_trainer",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 7,
+              "loop_ends_at_frame": -1,
+              "text": "張り切ってるね",
+              "flag_type": "female_trainer",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 40,
+      "sub_background_id": 2110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 1041,
+          "speaker_name": "サクラバクシンオー",
+          "text": "もちろんですとも！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 40,
+      "sub_background_id": 2110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 1041,
+          "speaker_name": "サクラバクシンオー",
+          "text": "合宿といえば、委員長の見せ場です！\r 引率、取り締まり、見回りなどなど。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 40,
+      "sub_background_id": 2110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 1041,
+          "speaker_name": "サクラバクシンオー",
+          "text": "アアッ、大忙し大忙し！\r 優等生は大変です！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 10,
+              "loop_ends_at_frame": -1,
+              "text": "……トレーニングは？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 40,
+      "sub_background_id": 2110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 1041,
+          "speaker_name": "サクラバクシンオー",
+          "text": "当然、どちらも\r カンッペキにこなして――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 40,
+      "sub_background_id": 2110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 1041,
+          "speaker_name": "サクラバクシンオー",
+          "text": "アーッッ！！\r そこの貴方、何をしているんです！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 40,
+      "sub_background_id": 2110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 1041,
+          "speaker_name": "サクラバクシンオー",
+          "text": "まだ海へ行くのは禁止されています！\r 許可がなければ通しませんッ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 40,
+      "sub_background_id": 2110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 0,
+          "speaker_name": "ウマ娘",
+          "text": "えっと……じゃあ、海行ってもいい？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 40,
+      "sub_background_id": 2110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 1041,
+          "speaker_name": "サクラバクシンオー",
+          "text": "ハッ！\r 私に許可を求めている！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 40,
+      "sub_background_id": 2110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 1041,
+          "speaker_name": "サクラバクシンオー",
+          "text": "それほど私が頼りになるということ。\r だったら、答えはひとつ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 40,
+      "sub_background_id": 2110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 1041,
+          "speaker_name": "サクラバクシンオー",
+          "text": "許可しましょうッッ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 40,
+      "sub_background_id": 2110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 0,
+          "speaker_name": "先生",
+          "text": "コラーッ！\r サクラバクシンオー、勝手に何してんだ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 40,
+      "sub_background_id": 2110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 19,
+          "character_id": 1041,
+          "speaker_name": "サクラバクシンオー",
+          "text": "先生！　見ていましたか！\r 私の判断、素晴らしかったでしょう！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 40,
+      "sub_background_id": 2110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 20,
+          "character_id": 1041,
+          "speaker_name": "サクラバクシンオー",
+          "text": "これからは『学級先生委員長』と\r 呼んでくださっても構いませんから！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "20": {
+      "frame_id": 20,
+      "background_id": 40,
+      "sub_background_id": 2110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 21,
+          "character_id": 0,
+          "speaker_name": "先生",
+          "text": "お前は何を言ってるんだ！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "21": {
+      "frame_id": 21,
+      "background_id": 40,
+      "sub_background_id": 2110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "こうして、サクラバクシンオーとの\r 熱い？　夏合宿が始まった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

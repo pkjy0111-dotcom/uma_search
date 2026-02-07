@@ -1,0 +1,916 @@
+{
+  "story_id": "041049004",
+  "casts": [
+    90600,
+    90601,
+    1070,
+    93998,
+    90001,
+    90645,
+    1014,
+    1049,
+    -1
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 72,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 72,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "『エルコンドルパサー、新人ウマ娘の挑戦を受ける。 ネット配信にて生放送』――だってよ。すっかり祭り騒ぎだな。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 72,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "ところでやたらピッチ走法のトレーニングをさせられてるが…… 普通芝で競うなら逆。歩幅が広い走りに矯正すべきじゃねぇのか？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 72,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "ピッチ走法は歩幅が短い分、回転数が上がり加速力は増すが、 消耗が激しすぎる。……ダートか、短距離向けの走りだぜ？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 4,
+              "loop_ends_at_frame": -1,
+              "text": "今回のコースは特殊だから",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 185,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "今回は、あえて学内のコースではなくフリースタイル・レース場を 借りることにした。あそこの芝は整備されておらず、力が必要だ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 185,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "求められるのは、国内の芝コースに合わせた走りではない。 ――どんな地面であっても脚を取られない、世界中で通用する走り。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 6,
+              "loop_ends_at_frame": -1,
+              "text": "これから君は世界を相手に勝ちに行くんだ",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 6,
+              "loop_ends_at_frame": -1,
+              "text": "これから貴方は世界を相手に勝ちに行くの",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 72,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "おっと、これもまた大きく出たな。 ならあらためて私も会場の下見にでも行くか。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 72,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "あのコースは学園と、芝も違えば土も違う。 策を練るならそこからだな。……本番は荒れるぜ？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 37,
+      "sub_background_id": 210,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "――彼女はあの時点から予測していたのだろうか。 レースの前日の夜、突然の大雨が降り注いだ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 185,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 90645,
+          "speaker_name": "アナウンサー",
+          "text": "天気は昨晩の大雨とはうってかわり快晴！ ついにエルコンドルパサーさんのレース生配信が始まります！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 185,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 90600,
+          "speaker_name": "記者A",
+          "text": "……しかし調べてみれば今日の相手、本当にド新人だったなんて。 こっちとしてはエルコンドルパサーの本気を見たかったのに……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 185,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 90601,
+          "speaker_name": "記者B",
+          "text": "まあ、エルのレースをカメラに収められるだけ御の字じゃねぇか。 相手がド派手に負けてくれれば、エルの走りも映えるだろ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 185,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "おっと、始まる前から随分なおもてなしだな。 エル、周りのヤツらは全員アンタにベットするらしい。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 185,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 1014,
+          "speaker_name": "エルコンドルパサー",
+          "text": "当然デス、エルは世界を舞ったコンドル。 その期待や責任をもって、アナタをたたき落としてあげます。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 185,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 1070,
+          "speaker_name": "シリウスシンボリ",
+          "text": "…………ハハッ、青くせぇやり取り。 自信がありすぎるせいか、未熟なせいか。どちらにせよ――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 185,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 1070,
+          "speaker_name": "シリウスシンボリ",
+          "text": "――今度はクソッたれな走りをするんじゃねぇぞ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 1,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 90645,
+          "speaker_name": "アナウンサー",
+          "text": "さあ、両者飛び出した！　先日の雨によりぬかるんだ足元。 だが世界と戦った“怪鳥”エルコンドルパサーの敵ではない！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 1,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "（なるほど。さすが世界で戦ってきた相手、 集中力も加速力も段違いだ。……こりゃ普通は勝てねぇな）",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 1,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 19,
+          "character_id": 90645,
+          "speaker_name": "アナウンサー",
+          "text": "ナカヤマフェスタが速度を落とした！ エルコンドルパサーのペースについていけなくなったか！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 1,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 20,
+          "character_id": 1014,
+          "speaker_name": "エルコンドルパサー",
+          "text": "……っ、ではペースはアタシが作らせてもらいますっ！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "20": {
+      "frame_id": 20,
+      "background_id": 185,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 21,
+          "character_id": 90600,
+          "speaker_name": "記者A",
+          "text": "おお～、やっぱりエルコンドルパサー圧倒的です。 余裕のリードかつ減速で、スタミナも充分キープできそうですね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "21": {
+      "frame_id": 21,
+      "background_id": 185,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 22,
+          "character_id": 1070,
+          "speaker_name": "シリウスシンボリ",
+          "text": "……烏合の衆だけに鳥目だな。ただの減速じゃない。 もっとよく見ろよ、アイツらが走る先を。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "22": {
+      "frame_id": 22,
+      "background_id": 1,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 23,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "（――っ、しまったな。エルが外に広がってやがる。 気づいてたか……、ここのコースだからこそ起こっていた異変に）",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "23": {
+      "frame_id": 23,
+      "background_id": 1,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 24,
+          "character_id": 90645,
+          "speaker_name": "アナウンサー",
+          "text": "おおっと、第3・第4コーナーの内側に大きな水たまり！ だがエルコンドルパサーこれにハマらない！　これが王者の幸運！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "24": {
+      "frame_id": 24,
+      "background_id": 1,
+      "sub_background_id": 0,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 25,
+          "character_id": 1070,
+          "speaker_name": "シリウスシンボリ",
+          "text": "運じゃなくてギリギリを狙ったんだよ。あの一帯は水たまりの せいで、もはや沼。内からなんて到底攻められない。つまり――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "25": {
+      "frame_id": 25,
+      "background_id": 1,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 26,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "（後続の私は、エルよりも大外を走るしかない。泥沼か、大外か。 どちらにせよスタミナをロスすることになる。なら定石通り……）",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "26": {
+      "frame_id": 26,
+      "background_id": 1,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 27,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "――なんて安牌、いらねぇよなァァッ！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "27": {
+      "frame_id": 27,
+      "background_id": 1,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 28,
+          "character_id": 1014,
+          "speaker_name": "エルコンドルパサー",
+          "text": "……っ！　――まさか！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "28": {
+      "frame_id": 28,
+      "background_id": 1,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 29,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "はああああああああああっ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 29,
+              "loop_ends_at_frame": -1,
+              "text": "そのままインから突き放せ！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "29": {
+      "frame_id": 29,
+      "background_id": 1,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 30,
+          "character_id": 90601,
+          "speaker_name": "記者B",
+          "text": "おいあの子、あの泥の中を全速力で駆けあがってきたぞ！？ ショートカットはできても、下手すりゃ転倒の危険だって……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "30": {
+      "frame_id": 30,
+      "background_id": 1,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 31,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "（そう、一か八かの賭け！　昂るだろう！？　高鳴るだろう！？ これこそがレース。これこそが勝負！　これこそが――）",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "31": {
+      "frame_id": 31,
+      "background_id": 1,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 32,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "――私のッ、私のための生きる場所だッッッ！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "32": {
+      "frame_id": 32,
+      "background_id": 1,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 33,
+          "character_id": 93998,
+          "speaker_name": "2人",
+          "text": "はあああああああああああああああ！ ああああああああああああああああああ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "33": {
+      "frame_id": 33,
+      "background_id": 185,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 34,
+          "character_id": 90645,
+          "speaker_name": "アナウンサー",
+          "text": "――これが世界のエルコンドルパサーだ！　この羽ばたきを見よ！ なんと完璧な走りか！　彼女以外に世界を獲るべきウマ娘はいない！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "34": {
+      "frame_id": 34,
+      "background_id": 185,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 35,
+          "character_id": 1070,
+          "speaker_name": "シリウスシンボリ",
+          "text": "エルよかったな？　大衆は久々のお前のパフォーマンスに沸いて、 目がくらんでる。……無事、首の皮一枚つながったか。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "35": {
+      "frame_id": 35,
+      "background_id": 185,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 36,
+          "character_id": 1014,
+          "speaker_name": "エルコンドルパサー",
+          "text": "はぁ、はぁ……シリウス先輩は意地悪デスね。……わかってます。 エルが休養明けだとしてもナカヤマ先輩はヒヨッコ、途上、成長中。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "36": {
+      "frame_id": 36,
+      "background_id": 185,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 37,
+          "character_id": 1014,
+          "speaker_name": "エルコンドルパサー",
+          "text": "この程度の勝利で喜んでいれば、次はさらに高く飛ばれてしまう。 けど。今度競った時に勝つのも、先に世界を獲るのも――エルです！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "37": {
+      "frame_id": 37,
+      "background_id": 185,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 38,
+          "character_id": 1070,
+          "speaker_name": "シリウスシンボリ",
+          "text": "……オイオイ、それが跡を継ぐ者を探してたヤツの態度かよ。 アハハ…………ッ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "38": {
+      "frame_id": 38,
+      "background_id": 185,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 39,
+          "character_id": 1070,
+          "speaker_name": "シリウスシンボリ",
+          "text": "そうら、仕留め損ねた鳥が先に舞うぞ！　パリの夢を見たいなら、 さっさと牙を研げ、ナカヤマ！　――世界は待ってちゃくれないぜ？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "39": {
+      "frame_id": 39,
+      "background_id": 185,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 40,
+          "character_id": 90600,
+          "speaker_name": "記者A",
+          "text": "は～……終わってみればさすがチャンピオン！　結局、挑戦者は 大口たたいて奇策だけでしたね。……盛り上がりはしましたけど。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "40": {
+      "frame_id": 40,
+      "background_id": 185,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 41,
+          "character_id": 90601,
+          "speaker_name": "記者B",
+          "text": "まあ、あの子も追いかければ記事にはなるかもな。オオカミ少年が どこまで落ちるか……バッドエンドが好きな層もいるだろう？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "41": {
+      "frame_id": 41,
+      "background_id": 185,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 42,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "…………ハハッ、あーあ。こりゃ大負けだな。 デビュー前から見事な醜態をさらしちまった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 42,
+              "loop_ends_at_frame": -1,
+              "text": "でも注目はされた。ここからが本番だよ",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "42": {
+      "frame_id": 42,
+      "background_id": 185,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 43,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "ハッ……違えねぇ。記者どもの目つきが変わった。 次を落とせば、散々な記事を書かれそうだ。……ククッ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "43": {
+      "frame_id": 43,
+      "background_id": 185,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 44,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "しっかしヤッバいな、このサイアクで……最高の賭けは！ ヒリつくどころじゃねえ。心臓が次を用意しろってうるせえよ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 44,
+              "loop_ends_at_frame": -1,
+              "text": "じゃあ俺と正式に契約してくれるか？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 44,
+              "loop_ends_at_frame": -1,
+              "text": "じゃあ私と正式に契約してくれる？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "44": {
+      "frame_id": 44,
+      "background_id": 185,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 45,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "ハハッ、んな今更かしこまってどうすんだ。 すでにお互い、泥船に乗った身だろ？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "45": {
+      "frame_id": 45,
+      "background_id": 185,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 46,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "なれよ、アンタが。私のトレーナーに。 んで――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "46": {
+      "frame_id": 46,
+      "background_id": 55,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "――どうせならたっぷり、私を生かしてくれよな？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

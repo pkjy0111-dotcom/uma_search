@@ -1,0 +1,187 @@
+{
+  "story_id": "501030202",
+  "casts": [
+    0,
+    -1,
+    1030
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 24,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 24,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 0,
+          "speaker_name": "観客たち",
+          "text": "ブ・ル・ボン！　ブ・ル・ボン！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 24,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 0,
+          "speaker_name": "実況",
+          "text": "これはすごい歓声。開始前から王者の誕生を\r 期待する声が会場中に広がっています！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 24,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 0,
+          "speaker_name": "実況",
+          "text": "今年のダービーウマ娘になるのは誰か？\r 『日本ダービー』、間もなくスタートです！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 25,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "みんな、ブルボンさんを\r 応援してる……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 5,
+              "loop_ends_at_frame": -1,
+              "text": "周りの声に惑わされるな",
+              "flag_type": "male_trainer",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 5,
+              "loop_ends_at_frame": -1,
+              "text": "周りの声に惑わされないで",
+              "flag_type": "female_trainer",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 25,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "……うん。そうだね。\r どんな舞台でも集中していかなきゃ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 25,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "捕まえなきゃいけないのはひとつだけ。\r ……ブルボンさんの背中だけだもん。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 25,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "ふぅ……ありがと、お兄さま。\r それじゃあ、いってくるね。",
+          "flag_type": "male_trainer",
+          "flag": "male_trainer",
+          "choices": []
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 25,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 1030,
+          "speaker_name": "ライスシャワー",
+          "text": "ふぅ……ありがと、お姉さま。\r それじゃあ、いってくるね。",
+          "flag_type": "female_trainer",
+          "flag": "female_trainer",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

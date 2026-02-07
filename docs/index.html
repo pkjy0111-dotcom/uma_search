@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>우마무스메 스토리 검색</title>
+    <style>
+        * { box-sizing: border-box; }
+        body { 
+            font-family: -apple-system, BlinkMacSystemFont, 'Malgun Gothic', sans-serif; 
+            max-width: 900px; 
+            margin: 0 auto; 
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        h1 { color: #4a90d9; margin-bottom: 20px; }
+        
+        .search-box {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .search-row {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+        input[type="text"] {
+            flex: 1;
+            min-width: 200px;
+            padding: 12px;
+            font-size: 16px;
+            border: 2px solid #ddd;
+            border-radius: 8px;
+            outline: none;
+            transition: border-color 0.2s;
+        }
+        input[type="text"]:focus { border-color: #4a90d9; }
+        
+        button {
+            padding: 12px 24px;
+            font-size: 16px;
+            background: #4a90d9;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+        button:hover { background: #357abd; }
+        
+        .char-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 10px;
+            margin-top: 15px;
+        }
+        .char-item {
+            padding: 12px;
+            background: #f9f9f9;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.2s;
+            border: 2px solid transparent;
+        }
+        .char-item:hover { 
+            background: #e9f4ff; 
+            border-color: #4a90d9;
+        }
+        .char-item.selected {
+            background: #4a90d9;
+            color: white;
+        }
+        .char-name { font-weight: bold; }
+        .char-count { font-size: 12px; opacity: 0.7; }
+        
+        .results {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            min-height: 200px;
+        }
+        
+        .filter-box { margin-bottom: 15px; }
+        .filter-btn {
+            padding: 6px 12px;
+            margin: 3px;
+            border: none;
+            border-radius: 20px;
+            cursor: pointer;
+            background: #e0e0e0;
+            font-size: 13px;
+            transition: all 0.2s;
+        }
+        .filter-btn.active {
+            background: #4a90d9;
+            color: white;
+        }
+        
+        .section-title {
+            margin-top: 20px;
+            padding: 10px 15px;
+            border-radius: 8px;
+            font-weight: bold;
+            font-size: 14px;
+        }
+        .section-title.own { background: #e8f5e9; color: #2e7d32; }
+        .section-title.guest { background: #fff3e0; color: #e65100; }
+        .section-title.subtype { background: #e3f2fd; color: #1565c0; }
+        
+        .story-item {
+            padding: 12px;
+            margin: 8px 0;
+            background: #fafafa;
+            border-radius: 8px;
+            border: 1px solid #eee;
+            transition: all 0.2s;
+        }
+        .story-item:hover { 
+            background: #f0f7ff;
+            border-color: #4a90d9;
+        }
+        .story-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+        .story-name { font-weight: bold; }
+        .story-source { font-size: 12px; color: #666; margin-top: 6px; }
+        
+        .story-type {
+            font-size: 11px;
+            padding: 3px 8px;
+            border-radius: 12px;
+            color: white;
+        }
+        .type-character { background: #4caf50; }
+        .type-career { background: #9c27b0; }
+        .type-event { background: #ff9800; }
+        .type-card { background: #2196f3; }
+        .type-main { background: #f44336; }
+        .type-lobby { background: #00bcd4; }
+        .type-other { background: #607d8b; }
+        
+        .subtype-tag {
+            font-size: 10px;
+            padding: 2px 6px;
+            border-radius: 8px;
+            margin-left: 5px;
+        }
+        .subtype-main { background: #ffcdd2; color: #c62828; }
+        .subtype-career { background: #e1bee7; color: #7b1fa2; }
+        .subtype-random { background: #c8e6c9; color: #2e7d32; }
+        .subtype-outfit { background: #b3e5fc; color: #0277bd; }
+        
+        .story-link {
+            padding: 6px 14px;
+            background: #4a90d9;
+            color: white;
+            text-decoration: none;
+            border-radius: 6px;
+            font-size: 13px;
+            white-space: nowrap;
+        }
+        .story-link:hover { background: #357abd; }
+        
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #888;
+        }
+        .loading::after {
+            content: '';
+            animation: dots 1.5s infinite;
+        }
+        @keyframes dots {
+            0%, 20% { content: '.'; }
+            40% { content: '..'; }
+            60%, 100% { content: '...'; }
+        }
+        
+        .empty-state {
+            text-align: center;
+            padding: 40px;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+    <h1>🏇 우마무스메 스토리 검색</h1>
+    
+    <div class="search-box">
+        <div class="search-row">
+            <input type="text" id="keyword" placeholder="캐릭터 이름 검색 (일본어/한국어)">
+            <button onclick="searchCharacter()">검색</button>
+        </div>
+        <div id="char-results" class="char-grid"></div>
+    </div>
+    
+    <div id="results" class="results">
+        <div class="empty-state">캐릭터를 검색하고 선택하면 스토리 목록이 표시됩니다</div>
+    </div>
+
+    <script>
+        let charList = [];
+        let allStories = [];
+        let activeFilters = new Set(['character', 'career', 'event', 'card', 'main', 'lobby', 'other']);
+        let currentChar = null;
+        
+        const TYPE_LABELS = {
+            character: '캐릭터', career: '육성', event: '이벤트',
+            card: '카드', main: '메인', lobby: '로비', other: '기타'
+        };
+        const SUBTYPE_LABELS = { main: '메인', career: '커리어', random: '랜덤', outfit: '의상' };
+        
+        // 초기화
+        async function init() {
+            const resp = await fetch('char_list.json');
+            charList = await resp.json();
+            
+            // URL 파라미터 체크
+            const params = new URLSearchParams(location.search);
+            const charId = params.get('char');
+            if (charId) {
+                const char = charList.find(c => c.id == charId);
+                if (char) {
+                    document.getElementById('keyword').value = char.name;
+                    searchCharacter();
+                    setTimeout(() => selectCharacter(char.id, char.name), 100);
+                }
+            }
+        }
+        
+        function searchCharacter() {
+            const keyword = document.getElementById('keyword').value.toLowerCase();
+            const filtered = keyword 
+                ? charList.filter(c => c.name.toLowerCase().includes(keyword))
+                : charList.slice(0, 50);
+            
+            const html = filtered.map(c => `
+                <div class="char-item" onclick="selectCharacter(${c.id}, '${c.name.replace(/'/g, "\'")}')">
+                    <div class="char-name">${c.name}</div>
+                    <div class="char-count">${c.count}개 스토리</div>
+                </div>
+            `).join('');
+            
+            document.getElementById('char-results').innerHTML = html || '<div class="empty-state">검색 결과 없음</div>';
+        }
+        
+        async function selectCharacter(charId, charName) {
+            currentChar = { id: charId, name: charName };
+            
+            // UI 업데이트
+            document.querySelectorAll('.char-item').forEach(el => el.classList.remove('selected'));
+            event?.target?.closest('.char-item')?.classList.add('selected');
+            
+            document.getElementById('results').innerHTML = '<div class="loading">스토리 로딩 중</div>';
+            
+            try {
+                const resp = await fetch(`char_data/${charId}.json`);
+                allStories = await resp.json();
+                renderStories();
+                
+                // URL 업데이트 (히스토리)
+                history.replaceState(null, '', `?char=${charId}`);
+            } catch (e) {
+                document.getElementById('results').innerHTML = '<div class="empty-state">스토리를 불러올 수 없습니다</div>';
+            }
+        }
+        
+        function renderStories() {
+            if (!currentChar) return;
+            
+            const filtered = allStories.filter(s => activeFilters.has(s.type));
+            
+            let html = `<h3>${currentChar.name} 등장 스토리 (${filtered.length}/${allStories.length}개)</h3>`;
+            
+            // 필터 버튼
+            html += '<div class="filter-box">';
+            Object.entries(TYPE_LABELS).forEach(([type, label]) => {
+                const count = allStories.filter(s => s.type === type).length;
+                if (count > 0) {
+                    const active = activeFilters.has(type) ? 'active' : '';
+                    html += `<button class="filter-btn ${active}" onclick="toggleFilter('${type}')">${label} (${count})</button>`;
+                }
+            });
+            html += '</div>';
+            
+            // 고유 스토리
+            const ownStories = filtered.filter(s => s.own);
+            const guestStories = filtered.filter(s => !s.own);
+            
+            if (ownStories.length > 0) {
+                html += `<div class="section-title own">🌟 ${currentChar.name}의 스토리 (${ownStories.length}개)</div>`;
+                
+                const grouped = groupBy(ownStories, 'subtype');
+                ['main', 'career', 'random', 'outfit', ''].forEach(st => {
+                    if (!grouped[st]) return;
+                    if (st) html += `<div class="section-title subtype">${SUBTYPE_LABELS[st]} (${grouped[st].length}개)</div>`;
+                    grouped[st].forEach(s => html += renderStoryItem(s));
+                });
+            }
+            
+            // 게스트 출연
+            if (guestStories.length > 0) {
+                html += `<div class="section-title guest">👥 다른 캐릭터 스토리에 출연 (${guestStories.length}개)</div>`;
+                
+                const grouped = groupBy(guestStories, 'source');
+                Object.keys(grouped).sort().forEach(src => {
+                    html += `<div class="section-title subtype">${src || '기타'} (${grouped[src].length}개)</div>`;
+                    grouped[src].forEach(s => html += renderStoryItem(s));
+                });
+            }
+            
+            if (filtered.length === 0) {
+                html += '<div class="empty-state">선택한 필터에 해당하는 스토리가 없습니다</div>';
+            }
+            
+            document.getElementById('results').innerHTML = html;
+        }
+        
+        function renderStoryItem(s) {
+            const typeClass = `type-${s.type}`;
+            const subtypeHtml = s.subtype ? `<span class="subtype-tag subtype-${s.subtype}">${SUBTYPE_LABELS[s.subtype]}</span>` : '';
+            
+            return `
+                <div class="story-item">
+                    <div class="story-header">
+                        <div>
+                            <span class="story-name">${s.name}</span>
+                            <span class="story-type ${typeClass}">${TYPE_LABELS[s.type] || s.type}</span>
+                            ${subtypeHtml}
+                        </div>
+                        <a class="story-link" href="story.html?id=${s.id}" target="_blank">읽기</a>
+                    </div>
+                    ${s.source ? `<div class="story-source">📁 ${s.source}</div>` : ''}
+                </div>
+            `;
+        }
+        
+        function toggleFilter(type) {
+            if (activeFilters.has(type)) activeFilters.delete(type);
+            else activeFilters.add(type);
+            renderStories();
+        }
+        
+        function groupBy(arr, key) {
+            return arr.reduce((acc, item) => {
+                const k = item[key] || '';
+                (acc[k] = acc[k] || []).push(item);
+                return acc;
+            }, {});
+        }
+        
+        // 이벤트
+        document.getElementById('keyword').addEventListener('keypress', e => {
+            if (e.key === 'Enter') searchCharacter();
+        });
+        document.getElementById('keyword').addEventListener('input', e => {
+            if (e.target.value.length >= 1) searchCharacter();
+        });
+        
+        init();
+    </script>
+</body>
+</html>

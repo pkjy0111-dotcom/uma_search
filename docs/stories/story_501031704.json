@@ -1,0 +1,1086 @@
+{
+  "story_id": "501031704",
+  "casts": [
+    0,
+    90209,
+    1031,
+    1064,
+    1065,
+    90001,
+    90970,
+    -1
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 28,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 28,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 1031,
+          "speaker_name": "アイネスフウジン",
+          "text": "ねえねえトレーナー！ これからバイト『みたいなの』しない？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 2,
+              "loop_ends_at_frame": -1,
+              "text": "みたいなの？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 28,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 1031,
+          "speaker_name": "アイネスフウジン",
+          "text": "そうなの！　ラーメン屋の店長がね、 『サービス向上のための満足度計測』 ってのをやるらしくて。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 28,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 1031,
+          "speaker_name": "アイネスフウジン",
+          "text": "サンプルは多いほうがいいから、 トレーナーと来てほしいって言われてるの！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "……と、言うのは嘘である。 実はこれは彼女をラーメン屋へ 誘うための口実であった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "ラーメン屋ではすでに、彼女への サプライズパーティーのため、 コンビニの店長や友人が集まっているのだ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 28,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 1031,
+          "speaker_name": "アイネスフウジン",
+          "text": "あ、用事があるなら気にしないで！ よかったらって感じだから。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 7,
+              "loop_ends_at_frame": -1,
+              "text": "いや、ぜひ行かせてもらうよ",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 7,
+              "loop_ends_at_frame": -1,
+              "text": "ううん、ぜひ行かせてもらうよ",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 28,
+      "sub_background_id": 112,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 1031,
+          "speaker_name": "アイネスフウジン",
+          "text": "はろはろ、大将～！ お客様アイネスちゃんが来たよ――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 0,
+          "speaker_name": "コンビニ店長＆2人",
+          "text": "1名様、ご案内～♪",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 1031,
+          "speaker_name": "アイネスフウジン",
+          "text": "ええ！？　ちょ、なにやってるの？ 店長まで……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 1031,
+          "speaker_name": "アイネスフウジン",
+          "text": "っていうか、案内ミスってるって！ トレーナーも一緒だから、2名――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 1031,
+          "speaker_name": "アイネスフウジン",
+          "text": "って、トレーナー着替えてる！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 12,
+              "loop_ends_at_frame": -1,
+              "text": "こちらにお座りください",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 1031,
+          "speaker_name": "アイネスフウジン",
+          "text": "え？　え？　どういうこと！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 90209,
+          "speaker_name": "コンビニの店長",
+          "text": "こちら、コースメニューの1品目。 『コンビニ店長制作協力の栄養満点サラダ』 ……と。あとでレシピも共有しとくわー。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 1031,
+          "speaker_name": "アイネスフウジン",
+          "text": "え！？　わっ、かわいいし美味しそうなのっ！ これなら、妹たちも食べてくれるかも……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 90970,
+          "speaker_name": "ラーメン屋の店長",
+          "text": "お次は…… 『ベテランバイトのお墨付きまかない丼』！ フー、これに目がないでしょ？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 1031,
+          "speaker_name": "アイネスフウジン",
+          "text": "わー！！　うんうん！ 脂質おさえめで腹持ちもいいんだよね！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 1064,
+          "speaker_name": "メジロパーマー",
+          "text": "ドリンクは、こちら…… 『ポスティングの鬼！　瞬発力ジュース』！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 19,
+          "character_id": 1064,
+          "speaker_name": "メジロパーマー",
+          "text": "え～っと……『業務都合で直接伺えませんが、 我が社で開発中のスポーツドリンクをどうぞ』 ……って、言ってたよ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 19,
+              "loop_ends_at_frame": -1,
+              "text": "それで、デザートは――",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 20,
+          "character_id": 1065,
+          "speaker_name": "ダイタクヘリオス",
+          "text": "『ウチらとひとっ走り』！ どこまでもランニング付き合っちゃう系～☆",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "20": {
+      "frame_id": 20,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 21,
+          "character_id": 1031,
+          "speaker_name": "アイネスフウジン",
+          "text": "すごい至れり尽くせり～！　だけど――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "21": {
+      "frame_id": 21,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 22,
+          "character_id": 1031,
+          "speaker_name": "アイネスフウジン",
+          "text": "やっぱりこの状況、すごく謎なの～～っ！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 22,
+              "loop_ends_at_frame": -1,
+              "text": "まあ、そうなるよな",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 22,
+              "loop_ends_at_frame": -1,
+              "text": "まあ、そうなるよね",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "22": {
+      "frame_id": 22,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 23,
+          "character_id": 90970,
+          "speaker_name": "ラーメン屋の店長",
+          "text": "だね。……実は、 『サービス向上のための満足度計測』 ってのはウソなんだ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "23": {
+      "frame_id": 23,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 24,
+          "character_id": 1031,
+          "speaker_name": "アイネスフウジン",
+          "text": "そ、そうなの！？ じゃあ、これはいったい？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 24,
+              "loop_ends_at_frame": -1,
+              "text": "これは店長たちから君への恩返しだ",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 24,
+              "loop_ends_at_frame": -1,
+              "text": "これは店長たちから貴方への恩返し",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "24": {
+      "frame_id": 24,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 25,
+          "character_id": 1031,
+          "speaker_name": "アイネスフウジン",
+          "text": "恩……返し……？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "25": {
+      "frame_id": 25,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 26,
+          "character_id": 90970,
+          "speaker_name": "ラーメン屋の店長",
+          "text": "フー、いつもありがとね。 元気に働いて、お店を助けてくれて。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "26": {
+      "frame_id": 26,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 27,
+          "character_id": 90209,
+          "speaker_name": "コンビニの店長",
+          "text": "その明るさと、 働きぶりに何度助けられたか……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "27": {
+      "frame_id": 27,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 28,
+          "character_id": 90970,
+          "speaker_name": "ラーメン屋の店長",
+          "text": "だから、これは今までの分の恩返しなのさ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "28": {
+      "frame_id": 28,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 29,
+          "character_id": 1031,
+          "speaker_name": "アイネスフウジン",
+          "text": "みんな……。……もう、お礼をしたいのは こっちのほうなのに。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "29": {
+      "frame_id": 29,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 30,
+          "character_id": 1031,
+          "speaker_name": "アイネスフウジン",
+          "text": "でも、だったら、 しっかり恩を受けないとダメだよね！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "30": {
+      "frame_id": 30,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 31,
+          "character_id": 1031,
+          "speaker_name": "アイネスフウジン",
+          "text": "よ～しっ、じゃあその恩返しメニューとやら、 しっかりいただいちゃうの！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "31": {
+      "frame_id": 31,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 32,
+          "character_id": 1031,
+          "speaker_name": "アイネスフウジン",
+          "text": "はむっ……はむはむ……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "32": {
+      "frame_id": 32,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 33,
+          "character_id": 1031,
+          "speaker_name": "アイネスフウジン",
+          "text": "……んんっ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "33": {
+      "frame_id": 33,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 34,
+          "character_id": 1031,
+          "speaker_name": "アイネスフウジン",
+          "text": "ぷは～っ！　ごちそうさまでした！ あたし好みの甘口、どれも美味しかったの～！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "34": {
+      "frame_id": 34,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 35,
+          "character_id": 90970,
+          "speaker_name": "ラーメン屋の店長",
+          "text": "どういたしまして！　それで、どうだった？ 喜んでもらえたならいいんだけど。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "35": {
+      "frame_id": 35,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 36,
+          "character_id": 1031,
+          "speaker_name": "アイネスフウジン",
+          "text": "そんなの、わかりきったことなの！ 大好きなみんなから、 こんな恩返ししてもらったら……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "36": {
+      "frame_id": 36,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 37,
+          "character_id": 1031,
+          "speaker_name": "アイネスフウジン",
+          "text": "――最高に、決まってるの！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "37": {
+      "frame_id": 37,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 38,
+          "character_id": 0,
+          "speaker_name": "全員",
+          "text": "よかった～～……！",
+          "flag_type": "",
+          "flag": "male_trainer",
+          "choices": [
+            {
+              "next_frame": 39,
+              "loop_ends_at_frame": -1,
+              "text": "大成功みたいだな！",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 39,
+              "loop_ends_at_frame": -1,
+              "text": "大成功みたいだね！",
+              "flag_type": "",
+              "flag": "female_trainer"
+            },
+            {
+              "next_frame": 43,
+              "loop_ends_at_frame": -1,
+              "text": "内緒にしてごめんな……！",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 43,
+              "loop_ends_at_frame": -1,
+              "text": "内緒にしてごめんね……！",
+              "flag_type": "",
+              "flag": "female_trainer"
+            },
+            {
+              "next_frame": 47,
+              "loop_ends_at_frame": -1,
+              "text": "君の気持ちがわかった気がする",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 47,
+              "loop_ends_at_frame": -1,
+              "text": "貴方の気持ちがわかった気がする",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "38": {
+      "frame_id": 38,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 39,
+          "character_id": 0,
+          "speaker_name": "全員",
+          "text": "よかった～～……！",
+          "flag_type": "",
+          "flag": "female_trainer",
+          "choices": [
+            {
+              "next_frame": 39,
+              "loop_ends_at_frame": -1,
+              "text": "大成功みたいだな！",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 39,
+              "loop_ends_at_frame": -1,
+              "text": "大成功みたいだね！",
+              "flag_type": "",
+              "flag": "female_trainer"
+            },
+            {
+              "next_frame": 43,
+              "loop_ends_at_frame": -1,
+              "text": "内緒にしてごめんな……！",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 43,
+              "loop_ends_at_frame": -1,
+              "text": "内緒にしてごめんね……！",
+              "flag_type": "",
+              "flag": "female_trainer"
+            },
+            {
+              "next_frame": 47,
+              "loop_ends_at_frame": -1,
+              "text": "君の気持ちがわかった気がする",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 47,
+              "loop_ends_at_frame": -1,
+              "text": "貴方の気持ちがわかった気がする",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "39": {
+      "frame_id": 39,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 40,
+          "character_id": 1031,
+          "speaker_name": "アイネスフウジン",
+          "text": "もー、悔しいけど上手なサプライズだったの！ 見事にしてやられちゃったもん。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "40": {
+      "frame_id": 40,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 41,
+          "character_id": 1031,
+          "speaker_name": "アイネスフウジン",
+          "text": "……だけど、いいもんだね、サプライズって！ そうだなー、またやってもらいたいな～。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "41": {
+      "frame_id": 41,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 42,
+          "character_id": 1031,
+          "speaker_name": "アイネスフウジン",
+          "text": "ってことは、レースにバイトにいろいろと、 これからも、がんばっちゃうしかないかな～♪",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "42": {
+      "frame_id": 42,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "その場の全員がにこやかに笑みを浮かべた。 アイネスフウジンへの恩返しは、 大成功に終わったようだ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "43": {
+      "frame_id": 43,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 44,
+          "character_id": 1031,
+          "speaker_name": "アイネスフウジン",
+          "text": "別に怒ってないから…… あ、それとも怒ってほしかったの？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 44,
+              "loop_ends_at_frame": -1,
+              "text": "え！？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "44": {
+      "frame_id": 44,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 45,
+          "character_id": 1031,
+          "speaker_name": "アイネスフウジン",
+          "text": "たしかにウソはつかれたわけだしね。 お仕置きに……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "45": {
+      "frame_id": 45,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 46,
+          "character_id": 1031,
+          "speaker_name": "アイネスフウジン",
+          "text": "今度はみんなに、 あたしからお礼をさせてもらうのっ♪",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "46": {
+      "frame_id": 46,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "そんな微笑ましいやり取りのうちに、 アイネスフウジンへの恩返しは、 成功に終わったのであった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "47": {
+      "frame_id": 47,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 48,
+          "character_id": 1031,
+          "speaker_name": "アイネスフウジン",
+          "text": "あたしの、気持ちって――",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 48,
+              "loop_ends_at_frame": -1,
+              "text": "喜んでもらえて、嬉しいって気持ち",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "48": {
+      "frame_id": 48,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 49,
+          "character_id": 1031,
+          "speaker_name": "アイネスフウジン",
+          "text": "……ふふっ、そっか。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "49": {
+      "frame_id": 49,
+      "background_id": 97,
+      "sub_background_id": 100,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "",
+          "text": "アイネスフウジンの気持ちを理解しつつ、 彼女への恩返しは成功に終わったのであった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}

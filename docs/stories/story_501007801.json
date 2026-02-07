@@ -1,0 +1,2408 @@
+{
+  "story_id": "501007801",
+  "casts": [
+    0,
+    90220,
+    1006,
+    1007,
+    90001,
+    1049,
+    -1
+  ],
+  "frames": {
+    "0": {
+      "frame_id": 0,
+      "background_id": 92,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 1,
+          "character_id": -1,
+          "speaker_name": "",
+          "text": "",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "1": {
+      "frame_id": 1,
+      "background_id": 92,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 2,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "合宿中、ちょっとした買い物で 海の家に寄ると――",
+          "flag_type": "",
+          "flag": "chance_branch_root",
+          "choices": []
+        }
+      ]
+    },
+    "2": {
+      "frame_id": 2,
+      "background_id": 92,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 3,
+          "character_id": 1007,
+          "speaker_name": "ゴールドシップ",
+          "text": "ヘーイ、ラッシャーイ！ お客さん、お1人？　お2人？　3ダース？",
+          "flag_type": "",
+          "flag": "chance_branch_leaf",
+          "choices": [
+            {
+              "next_frame": 3,
+              "loop_ends_at_frame": -1,
+              "text": "……何してるんだ？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 3,
+              "loop_ends_at_frame": -1,
+              "text": "……何してるの？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "3": {
+      "frame_id": 3,
+      "background_id": 92,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 4,
+          "character_id": 1007,
+          "speaker_name": "ゴールドシップ",
+          "text": "商売に決まってんだろ！ この海の家はゴルシ様たちの 手に落ちたんだからなあ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "4": {
+      "frame_id": 4,
+      "background_id": 92,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 5,
+          "character_id": 1007,
+          "speaker_name": "ゴールドシップ",
+          "text": "このまま海の大宮殿にランクアップさせて、 564年後に海底遺跡として発掘される くれー稼いでやるぜ！　なあ！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "5": {
+      "frame_id": 5,
+      "background_id": 92,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 6,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "ふ、テメーとならあながち絵空事じゃねえな。 塗り替えてやるか……この世界の商売の形を。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "6": {
+      "frame_id": 6,
+      "background_id": 92,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 7,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "店内を見回すが、店員の姿はない。 まさか、本当に乗っ取ったのだろうか……？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 7,
+              "loop_ends_at_frame": -1,
+              "text": "（だ、大丈夫なんだろうか……！？）",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 7,
+              "loop_ends_at_frame": -1,
+              "text": "（だ、大丈夫なのかな……！？）",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "7": {
+      "frame_id": 7,
+      "background_id": 92,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 8,
+          "character_id": 1007,
+          "speaker_name": "ゴールドシップ",
+          "text": "しっかし、いいとこに駆けつけてくれたぜ！ オメーがいればアタシら海の家族に敵はねえ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "8": {
+      "frame_id": 8,
+      "background_id": 92,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 9,
+          "character_id": 1007,
+          "speaker_name": "ゴールドシップ",
+          "text": "深海の水圧だろーと潰れねえ絆がここには ある……！！　アタシらは最強の家族だ！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "9": {
+      "frame_id": 9,
+      "background_id": 92,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 10,
+          "character_id": 1007,
+          "speaker_name": "ゴールドシップ",
+          "text": "ナカヤマがおやっさん！　アタシ苦学生！ そこのカモメが陰で見守るヒロインで、 トレーナーは愛用の紙コップだっ！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 10,
+              "loop_ends_at_frame": -1,
+              "text": "えっ",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "10": {
+      "frame_id": 10,
+      "background_id": 92,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 11,
+          "character_id": 1007,
+          "speaker_name": "ゴールドシップ",
+          "text": "うっし、まずはメニュー開発行くか！ とりあえずガラムマサラ1000倍焼きそばは 外せねーよな、おやっさん！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "11": {
+      "frame_id": 11,
+      "background_id": 92,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 12,
+          "character_id": 1007,
+          "speaker_name": "ゴールドシップ",
+          "text": "永久凍土かき氷とか、アンチョビ満開 アゲアゲ団子とか……！　ウオオ、 インスピレーションが湧いてたまらねーぜ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "12": {
+      "frame_id": 12,
+      "background_id": 92,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 13,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "……ふ、いいんじゃねえか？ テメーの好きにやってみな。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 13,
+              "loop_ends_at_frame": -1,
+              "text": "えっ！？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "13": {
+      "frame_id": 13,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 14,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "あらゆる意味で不安しかない……が、 今は昼時。悩む間もなく、多くの生徒たちが 群れをなして海の家へ殺到してきた！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "14": {
+      "frame_id": 14,
+      "background_id": 92,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 15,
+          "character_id": 0,
+          "speaker_name": "客の生徒たち",
+          "text": "『ナイアガラ花火じゅうたん揚げ』、 『海洋深層水古代スープ』……？ 何これ、どんな料理！？　頼んでみようかな？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "15": {
+      "frame_id": 15,
+      "background_id": 92,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 16,
+          "character_id": 1006,
+          "speaker_name": "オグリキャップ",
+          "text": "……お邪魔する。ゴルシの焼きそばは 美味しいからな……また食べたくなった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "16": {
+      "frame_id": 16,
+      "background_id": 92,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 17,
+          "character_id": 1007,
+          "speaker_name": "ゴールドシップ",
+          "text": "おう、出やがったなストマックモンスター！ オメーはゴルシちゃん特製、ガラムマサラ 1000倍焼きそばで迎え撃ってやらあ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "17": {
+      "frame_id": 17,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 18,
+          "character_id": 1006,
+          "speaker_name": "オグリキャップ",
+          "text": "む……！？　こ、これは……！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "18": {
+      "frame_id": 18,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 19,
+          "character_id": 1006,
+          "speaker_name": "オグリキャップ",
+          "text": "……美味しい！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "19": {
+      "frame_id": 19,
+      "background_id": 92,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 20,
+          "character_id": 0,
+          "speaker_name": "客の生徒たち",
+          "text": "おおっ、オグリ先輩も認めた……！ 本当に美味しいんだ！　すみません、 こっちもくださーい！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "20": {
+      "frame_id": 20,
+      "background_id": 92,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 21,
+          "character_id": 1007,
+          "speaker_name": "ゴールドシップ",
+          "text": "サンキュー！　そんじゃ盛況に お応えして564秒サービスタイムだ！ ヒマラヤ盛りでご提供だぜええええ！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "21": {
+      "frame_id": 21,
+      "background_id": 92,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 22,
+          "character_id": 0,
+          "speaker_name": "客の生徒たち",
+          "text": "やったー！　じゃあ私も私もー！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 22,
+              "loop_ends_at_frame": -1,
+              "text": "爆売れしてる……！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "22": {
+      "frame_id": 22,
+      "background_id": 92,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 23,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "……やはりヤツは、 自由にやらせてみた方が面白い。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "23": {
+      "frame_id": 23,
+      "background_id": 92,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 24,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "それに、あの天性の人懐っこさ。 ……私にゃ縁のない持ち物だな。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "24": {
+      "frame_id": 24,
+      "background_id": 92,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 25,
+          "character_id": 1007,
+          "speaker_name": "ゴールドシップ",
+          "text": "おうおう、おやっさん！　紙コップ！ ぼーっとしてねえで手伝ってくれ！ ファミリーの力を合わせんだよ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "25": {
+      "frame_id": 25,
+      "background_id": 92,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 26,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "ふ――ああ、待ってな！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "26": {
+      "frame_id": 26,
+      "background_id": 92,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 27,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "無事、盛況のまま終わることができた！ そして、店じまいの準備をしていると――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "27": {
+      "frame_id": 27,
+      "background_id": 92,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 28,
+          "character_id": 90220,
+          "speaker_name": "小さな女の子",
+          "text": "あ、あの……！　お姉ちゃんたち…… ありがとうございました！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 28,
+              "loop_ends_at_frame": -1,
+              "text": "えっと……君は？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 28,
+              "loop_ends_at_frame": -1,
+              "text": "えっと……貴方は？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "28": {
+      "frame_id": 28,
+      "background_id": 92,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 29,
+          "character_id": 90220,
+          "speaker_name": "小さな女の子",
+          "text": "……ここ、わたしのおじいちゃんのお店なの。 でも、おじいちゃん、 あつさでたおれちゃって……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "29": {
+      "frame_id": 29,
+      "background_id": 92,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 30,
+          "character_id": 90220,
+          "speaker_name": "小さな女の子",
+          "text": "……おじいちゃん、トレセン学園の人たちが 楽しみにしてるから、しめるのはダメだって。 ムリして、お店あけようとしてたの。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "30": {
+      "frame_id": 30,
+      "background_id": 92,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 31,
+          "character_id": 90220,
+          "speaker_name": "小さな女の子",
+          "text": "そうしたら、お姉ちゃんたちが、 まかせておけ、って――",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 31,
+              "loop_ends_at_frame": -1,
+              "text": "そういうことだったのか……",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 31,
+              "loop_ends_at_frame": -1,
+              "text": "そういうことだったの……",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "31": {
+      "frame_id": 31,
+      "background_id": 92,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 32,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "……へっ、よしなよ。少なくとも私は、 同情で引き受けたわけじゃねえ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "32": {
+      "frame_id": 32,
+      "background_id": 92,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 33,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "ただ……奇想天外、何をしでかすか わからねえヤツと何かをやってみる…… そいつに興味が湧いただけさ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "33": {
+      "frame_id": 33,
+      "background_id": 92,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 34,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "定石に頼り、そつなくこなすだけ…… そんなのよりは、よほど心が躍るからな。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "34": {
+      "frame_id": 34,
+      "background_id": 92,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 35,
+          "character_id": 1007,
+          "speaker_name": "ゴールドシップ",
+          "text": "へっへっへ、楽しみにしときな！ 明日からは呼び込みにイルミネーション つけたゴルシ神輿が出動するからよ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "35": {
+      "frame_id": 35,
+      "background_id": 92,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 36,
+          "character_id": 90220,
+          "speaker_name": "小さな女の子",
+          "text": "すごい！　なにそれなにそれ！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "36": {
+      "frame_id": 36,
+      "background_id": 92,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 37,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "ふ……全く、定石からは程遠いヤツだぜ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "37": {
+      "frame_id": 37,
+      "background_id": 92,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 38,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "――おい。それならよ、 その神輿に屋台も合体させちまって、 移動式海の家にしちまったらどうだ？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "38": {
+      "frame_id": 38,
+      "background_id": 92,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 39,
+          "character_id": 1007,
+          "speaker_name": "ゴールドシップ",
+          "text": "おう、いいじゃねーか！ 余ってるジェットエンジンあっからよ、 そいつもくっつけちまおうぜ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "39": {
+      "frame_id": 39,
+      "background_id": 92,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 40,
+          "character_id": 90220,
+          "speaker_name": "小さな女の子",
+          "text": "ほ……ホント！？ それでそれで！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "40": {
+      "frame_id": 40,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "奇想天外が奇想天外を呼び…… 2人は協力して、合宿の合間に 海の家を盛り上げていくことになるのだった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "41": {
+      "frame_id": 41,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 42,
+          "character_id": 1007,
+          "speaker_name": "ゴールドシップ",
+          "text": "ヘーイ、ラッシャーイ！ お客さん、お1人？　お2人？　3ダース？",
+          "flag_type": "",
+          "flag": "chance_branch_leaf",
+          "choices": [
+            {
+              "next_frame": 42,
+              "loop_ends_at_frame": -1,
+              "text": "……何してるんだ？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 42,
+              "loop_ends_at_frame": -1,
+              "text": "……何してるの？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "42": {
+      "frame_id": 42,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 43,
+          "character_id": 1007,
+          "speaker_name": "ゴールドシップ",
+          "text": "商売に決まってんだろ！ この海の家はゴルシ様たちの 手に落ちたんだからなあ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "43": {
+      "frame_id": 43,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 44,
+          "character_id": 1007,
+          "speaker_name": "ゴールドシップ",
+          "text": "このまま海の大宮殿にランクアップさせて、 564年後に海底遺跡として発掘される くれー稼いでやるぜ！　なあ！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "44": {
+      "frame_id": 44,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 45,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "ふ、テメーとならあながち絵空事じゃねえな。 塗り替えてやるか……この世界の商売の形を。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "45": {
+      "frame_id": 45,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 46,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "店内を見回すが、店員の姿はない。 まさか、本当に乗っ取ったのだろうか……？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 46,
+              "loop_ends_at_frame": -1,
+              "text": "（だ、大丈夫なんだろうか……！？）",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 46,
+              "loop_ends_at_frame": -1,
+              "text": "（だ、大丈夫なのかな……！？）",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "46": {
+      "frame_id": 46,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 47,
+          "character_id": 1007,
+          "speaker_name": "ゴールドシップ",
+          "text": "しっかし、いいとこに駆けつけてくれたぜ！ オメーがいればアタシら海の家族に敵はねえ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "47": {
+      "frame_id": 47,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 48,
+          "character_id": 1007,
+          "speaker_name": "ゴールドシップ",
+          "text": "深海の水圧だろーと潰れねえ絆がここには ある……！！　アタシらは最強の家族だ！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "48": {
+      "frame_id": 48,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 49,
+          "character_id": 1007,
+          "speaker_name": "ゴールドシップ",
+          "text": "ナカヤマがおやっさん！　アタシ苦学生！ そこのカモメが陰で見守るヒロインで、 トレーナーは愛用の紙コップだっ！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 49,
+              "loop_ends_at_frame": -1,
+              "text": "えっ",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "49": {
+      "frame_id": 49,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 50,
+          "character_id": 1007,
+          "speaker_name": "ゴールドシップ",
+          "text": "うっし、まずはメニュー開発行くか！ とりあえずガラムマサラ1000倍焼きそばは 外せねーよな、おやっさん！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "50": {
+      "frame_id": 50,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 51,
+          "character_id": 1007,
+          "speaker_name": "ゴールドシップ",
+          "text": "永久凍土かき氷とか、アンチョビ満開 アゲアゲ団子とか……！　ウオオ、 インスピレーションが湧いてたまらねーぜ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "51": {
+      "frame_id": 51,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 52,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "……ふ、いいんじゃねえか？ テメーの好きにやってみな。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 52,
+              "loop_ends_at_frame": -1,
+              "text": "えっ！？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "52": {
+      "frame_id": 52,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 53,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "あらゆる意味で不安しかない……が、 今は昼時。悩む間もなく、多くの生徒たちが 群れをなして海の家へ殺到してきた！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "53": {
+      "frame_id": 53,
+      "background_id": 92,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 54,
+          "character_id": 0,
+          "speaker_name": "客の生徒たち",
+          "text": "『ナイアガラ花火じゅうたん揚げ』、 『海洋深層水古代スープ』……？ 何これ、どんな料理！？　頼んでみようかな？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "54": {
+      "frame_id": 54,
+      "background_id": 92,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 55,
+          "character_id": 1006,
+          "speaker_name": "オグリキャップ",
+          "text": "……お邪魔する。ゴルシの焼きそばは 美味しいからな……また食べたくなった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "55": {
+      "frame_id": 55,
+      "background_id": 92,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 56,
+          "character_id": 1007,
+          "speaker_name": "ゴールドシップ",
+          "text": "おう、出やがったなストマックモンスター！ オメーはゴルシちゃん特製、ガラムマサラ 1000倍焼きそばで迎え撃ってやらあ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "56": {
+      "frame_id": 56,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 57,
+          "character_id": 1006,
+          "speaker_name": "オグリキャップ",
+          "text": "む……！？　こ、これは……！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "57": {
+      "frame_id": 57,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 58,
+          "character_id": 1006,
+          "speaker_name": "オグリキャップ",
+          "text": "……美味しい！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "58": {
+      "frame_id": 58,
+      "background_id": 92,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 59,
+          "character_id": 0,
+          "speaker_name": "客の生徒たち",
+          "text": "おおっ、オグリ先輩も認めた……！ 本当に美味しいんだ！　すみません、 こっちもくださーい！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "59": {
+      "frame_id": 59,
+      "background_id": 92,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 60,
+          "character_id": 1007,
+          "speaker_name": "ゴールドシップ",
+          "text": "サンキュー！　そんじゃ盛況に お応えして564秒サービスタイムだ！ ヒマラヤ盛りでご提供だぜええええ！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "60": {
+      "frame_id": 60,
+      "background_id": 92,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 61,
+          "character_id": 0,
+          "speaker_name": "客の生徒たち",
+          "text": "やったー！　じゃあ私も私もー！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 61,
+              "loop_ends_at_frame": -1,
+              "text": "爆売れしてる……！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "61": {
+      "frame_id": 61,
+      "background_id": 92,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 62,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "……やはりヤツは、 自由にやらせてみた方が面白い。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "62": {
+      "frame_id": 62,
+      "background_id": 92,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 63,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "それに、あの天性の人懐っこさ。 ……私にゃ縁のない持ち物だな。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "63": {
+      "frame_id": 63,
+      "background_id": 92,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 64,
+          "character_id": 1007,
+          "speaker_name": "ゴールドシップ",
+          "text": "おうおう、おやっさん！　紙コップ！ ぼーっとしてねえで手伝ってくれ！ ファミリーの力を合わせんだよ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "64": {
+      "frame_id": 64,
+      "background_id": 92,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 65,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "ふ――ああ、待ってな！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "65": {
+      "frame_id": 65,
+      "background_id": 92,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 66,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "無事、盛況のまま終わることができた！ そして、店じまいの準備をしていると――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "66": {
+      "frame_id": 66,
+      "background_id": 92,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 67,
+          "character_id": 90220,
+          "speaker_name": "小さな女の子",
+          "text": "あ、あの……！　お姉ちゃんたち…… ありがとうございました！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 67,
+              "loop_ends_at_frame": -1,
+              "text": "えっと……君は？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 67,
+              "loop_ends_at_frame": -1,
+              "text": "えっと……貴方は？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "67": {
+      "frame_id": 67,
+      "background_id": 92,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 68,
+          "character_id": 90220,
+          "speaker_name": "小さな女の子",
+          "text": "……ここ、わたしのおじいちゃんのお店なの。 でも、おじいちゃん、 あつさでたおれちゃって……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "68": {
+      "frame_id": 68,
+      "background_id": 92,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 69,
+          "character_id": 90220,
+          "speaker_name": "小さな女の子",
+          "text": "……おじいちゃん、トレセン学園の人たちが 楽しみにしてるから、しめるのはダメだって。 ムリして、お店あけようとしてたの。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "69": {
+      "frame_id": 69,
+      "background_id": 92,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 70,
+          "character_id": 90220,
+          "speaker_name": "小さな女の子",
+          "text": "そうしたら、お姉ちゃんたちが、 まかせておけ、って――",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 70,
+              "loop_ends_at_frame": -1,
+              "text": "そういうことだったのか……",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 70,
+              "loop_ends_at_frame": -1,
+              "text": "そういうことだったの……",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "70": {
+      "frame_id": 70,
+      "background_id": 92,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 71,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "……へっ、よしなよ。少なくとも私は、 同情で引き受けたわけじゃねえ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "71": {
+      "frame_id": 71,
+      "background_id": 92,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 72,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "ただ……奇想天外、何をしでかすか わからねえヤツと何かをやってみる…… そいつに興味が湧いただけさ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "72": {
+      "frame_id": 72,
+      "background_id": 92,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 73,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "定石に頼り、そつなくこなすだけ…… そんなのよりは、よほど心が躍るからな。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "73": {
+      "frame_id": 73,
+      "background_id": 92,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 74,
+          "character_id": 1007,
+          "speaker_name": "ゴールドシップ",
+          "text": "へっへっへ、楽しみにしときな！ 明日からは呼び込みにイルミネーション つけたゴルシ神輿が出動するからよ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "74": {
+      "frame_id": 74,
+      "background_id": 92,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 75,
+          "character_id": 90220,
+          "speaker_name": "小さな女の子",
+          "text": "すごい！　なにそれなにそれ！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "75": {
+      "frame_id": 75,
+      "background_id": 92,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 76,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "ふ……全く、定石からは程遠いヤツだぜ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "76": {
+      "frame_id": 76,
+      "background_id": 92,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 77,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "――おう、待ちな。せっかくの海だ。 私の考えじゃ、ここは断然、 イルミネーション船だね。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "77": {
+      "frame_id": 77,
+      "background_id": 92,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 78,
+          "character_id": 1007,
+          "speaker_name": "ゴールドシップ",
+          "text": "ああ？　船じゃあキャタピラが つけらんねーじゃねーか！　いただけねーな！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "78": {
+      "frame_id": 78,
+      "background_id": 92,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 79,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "ふ……じゃあここは競い合って 決めてみようか？　キャタピラとスクリュー、 どっちが上か……！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "79": {
+      "frame_id": 79,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "共鳴しながらも切磋琢磨しあう2人―― おかげで、海の家は翌日からも なんだかんだ盛況を極めたのだった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "80": {
+      "frame_id": 80,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 81,
+          "character_id": 1007,
+          "speaker_name": "ゴールドシップ",
+          "text": "ヘーイ、ラッシャーイ！ お客さん、お1人？　お2人？　3ダース？",
+          "flag_type": "",
+          "flag": "chance_branch_leaf",
+          "choices": [
+            {
+              "next_frame": 81,
+              "loop_ends_at_frame": -1,
+              "text": "……何してるんだ？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 81,
+              "loop_ends_at_frame": -1,
+              "text": "……何してるの？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "81": {
+      "frame_id": 81,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 82,
+          "character_id": 1007,
+          "speaker_name": "ゴールドシップ",
+          "text": "商売に決まってんだろ！ この海の家はゴルシ様たちの 手に落ちたんだからなあ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "82": {
+      "frame_id": 82,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 83,
+          "character_id": 1007,
+          "speaker_name": "ゴールドシップ",
+          "text": "このまま海の大宮殿にランクアップさせて、 564年後に海底遺跡として発掘される くれー稼いでやるぜ！　なあ！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "83": {
+      "frame_id": 83,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 84,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "ふ、テメーとならあながち絵空事じゃねえな。 塗り替えてやるか……この世界の商売の形を。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "84": {
+      "frame_id": 84,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 85,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "店内を見回すが、店員の姿はない。 まさか、本当に乗っ取ったのだろうか……？",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 85,
+              "loop_ends_at_frame": -1,
+              "text": "（だ、大丈夫なんだろうか……！？）",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 85,
+              "loop_ends_at_frame": -1,
+              "text": "（だ、大丈夫なのかな……！？）",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "85": {
+      "frame_id": 85,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 86,
+          "character_id": 1007,
+          "speaker_name": "ゴールドシップ",
+          "text": "しっかし、いいとこに駆けつけてくれたぜ！ オメーがいればアタシら海の家族に敵はねえ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "86": {
+      "frame_id": 86,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 87,
+          "character_id": 1007,
+          "speaker_name": "ゴールドシップ",
+          "text": "深海の水圧だろーと潰れねえ絆がここには ある……！！　アタシらは最強の家族だ！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "87": {
+      "frame_id": 87,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 88,
+          "character_id": 1007,
+          "speaker_name": "ゴールドシップ",
+          "text": "ナカヤマがおやっさん！　アタシ苦学生！ そこのカモメが陰で見守るヒロインで、 トレーナーは愛用の紙コップだっ！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 88,
+              "loop_ends_at_frame": -1,
+              "text": "えっ",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "88": {
+      "frame_id": 88,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 89,
+          "character_id": 1007,
+          "speaker_name": "ゴールドシップ",
+          "text": "うっし、まずはメニュー開発行くか！ とりあえずガラムマサラ1000倍焼きそばは 外せねーよな、おやっさん！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "89": {
+      "frame_id": 89,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 90,
+          "character_id": 1007,
+          "speaker_name": "ゴールドシップ",
+          "text": "永久凍土かき氷とか、アンチョビ満開 アゲアゲ団子とか……！　ウオオ、 インスピレーションが湧いてたまらねーぜ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "90": {
+      "frame_id": 90,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 91,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "……ふ、いいんじゃねえか？ テメーの好きにやってみな。",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 91,
+              "loop_ends_at_frame": -1,
+              "text": "えっ！？",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "91": {
+      "frame_id": 91,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 92,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "あらゆる意味で不安しかない……が、 今は昼時。悩む間もなく、多くの生徒たちが 群れをなして海の家へ殺到してきた！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "92": {
+      "frame_id": 92,
+      "background_id": 92,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 93,
+          "character_id": 0,
+          "speaker_name": "客の生徒たち",
+          "text": "『ナイアガラ花火じゅうたん揚げ』、 『海洋深層水古代スープ』……？ 何これ、どんな料理！？　頼んでみようかな？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "93": {
+      "frame_id": 93,
+      "background_id": 92,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 94,
+          "character_id": 1006,
+          "speaker_name": "オグリキャップ",
+          "text": "……お邪魔する。ゴルシの焼きそばは 美味しいからな……また食べたくなった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "94": {
+      "frame_id": 94,
+      "background_id": 92,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 95,
+          "character_id": 1007,
+          "speaker_name": "ゴールドシップ",
+          "text": "おう、出やがったなストマックモンスター！ オメーはゴルシちゃん特製、ガラムマサラ 1000倍焼きそばで迎え撃ってやらあ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "95": {
+      "frame_id": 95,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 96,
+          "character_id": 1006,
+          "speaker_name": "オグリキャップ",
+          "text": "む……！？　こ、これは……！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "96": {
+      "frame_id": 96,
+      "background_id": 37,
+      "sub_background_id": 110,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 97,
+          "character_id": 1006,
+          "speaker_name": "オグリキャップ",
+          "text": "……美味しい！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "97": {
+      "frame_id": 97,
+      "background_id": 92,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 98,
+          "character_id": 0,
+          "speaker_name": "客の生徒たち",
+          "text": "おおっ、オグリ先輩も認めた……！ 本当に美味しいんだ！　すみません、 こっちもくださーい！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "98": {
+      "frame_id": 98,
+      "background_id": 92,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 99,
+          "character_id": 1007,
+          "speaker_name": "ゴールドシップ",
+          "text": "サンキュー！　そんじゃ盛況に お応えして564秒サービスタイムだ！ ヒマラヤ盛りでご提供だぜええええ！！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "99": {
+      "frame_id": 99,
+      "background_id": 92,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 100,
+          "character_id": 0,
+          "speaker_name": "客の生徒たち",
+          "text": "やったー！　じゃあ私も私もー！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 100,
+              "loop_ends_at_frame": -1,
+              "text": "爆売れしてる……！",
+              "flag_type": "",
+              "flag": ""
+            }
+          ]
+        }
+      ]
+    },
+    "100": {
+      "frame_id": 100,
+      "background_id": 92,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 101,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "……やはりヤツは、 自由にやらせてみた方が面白い。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "101": {
+      "frame_id": 101,
+      "background_id": 92,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 102,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "それに、あの天性の人懐っこさ。 ……私にゃ縁のない持ち物だな。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "102": {
+      "frame_id": 102,
+      "background_id": 92,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 103,
+          "character_id": 1007,
+          "speaker_name": "ゴールドシップ",
+          "text": "おうおう、おやっさん！　紙コップ！ ぼーっとしてねえで手伝ってくれ！ ファミリーの力を合わせんだよ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "103": {
+      "frame_id": 103,
+      "background_id": 92,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 104,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "ふ――ああ、待ってな！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "104": {
+      "frame_id": 104,
+      "background_id": 92,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 105,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "無事、盛況のまま終わることができた！ そして、店じまいの準備をしていると――",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "105": {
+      "frame_id": 105,
+      "background_id": 92,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 106,
+          "character_id": 90220,
+          "speaker_name": "小さな女の子",
+          "text": "あ、あの……！　お姉ちゃんたち…… ありがとうございました！",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 106,
+              "loop_ends_at_frame": -1,
+              "text": "えっと……君は？",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 106,
+              "loop_ends_at_frame": -1,
+              "text": "えっと……貴方は？",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "106": {
+      "frame_id": 106,
+      "background_id": 92,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 107,
+          "character_id": 90220,
+          "speaker_name": "小さな女の子",
+          "text": "……ここ、わたしのおじいちゃんのお店なの。 でも、おじいちゃん、 あつさでたおれちゃって……。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "107": {
+      "frame_id": 107,
+      "background_id": 92,
+      "sub_background_id": 111,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 108,
+          "character_id": 90220,
+          "speaker_name": "小さな女の子",
+          "text": "……おじいちゃん、トレセン学園の人たちが 楽しみにしてるから、しめるのはダメだって。 ムリして、お店あけようとしてたの。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "108": {
+      "frame_id": 108,
+      "background_id": 92,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 109,
+          "character_id": 90220,
+          "speaker_name": "小さな女の子",
+          "text": "そうしたら、お姉ちゃんたちが、 まかせておけ、って――",
+          "flag_type": "",
+          "flag": "",
+          "choices": [
+            {
+              "next_frame": 109,
+              "loop_ends_at_frame": -1,
+              "text": "そういうことだったのか……",
+              "flag_type": "",
+              "flag": "male_trainer"
+            },
+            {
+              "next_frame": 109,
+              "loop_ends_at_frame": -1,
+              "text": "そういうことだったの……",
+              "flag_type": "",
+              "flag": "female_trainer"
+            }
+          ]
+        }
+      ]
+    },
+    "109": {
+      "frame_id": 109,
+      "background_id": 92,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 110,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "……へっ、よしなよ。少なくとも私は、 同情で引き受けたわけじゃねえ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "110": {
+      "frame_id": 110,
+      "background_id": 92,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 111,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "ただ……奇想天外、何をしでかすか わからねえヤツと何かをやってみる…… そいつに興味が湧いただけさ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "111": {
+      "frame_id": 111,
+      "background_id": 92,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 112,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "定石に頼り、そつなくこなすだけ…… そんなのよりは、よほど心が躍るからな。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "112": {
+      "frame_id": 112,
+      "background_id": 92,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 113,
+          "character_id": 1007,
+          "speaker_name": "ゴールドシップ",
+          "text": "へっへっへ、楽しみにしときな！ 明日からは呼び込みにイルミネーション つけたゴルシ神輿が出動するからよ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "113": {
+      "frame_id": 113,
+      "background_id": 92,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 114,
+          "character_id": 90220,
+          "speaker_name": "小さな女の子",
+          "text": "すごい！　なにそれなにそれ！？",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "114": {
+      "frame_id": 114,
+      "background_id": 92,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 115,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "ふ……全く、定石からは程遠いヤツだぜ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "115": {
+      "frame_id": 115,
+      "background_id": 92,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 116,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "ま、だがほどほどにしときな。 アンタの考えは面白れえが、あんまりやると 最終的に海の家じゃなくなっちまいそうだ。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "116": {
+      "frame_id": 116,
+      "background_id": 92,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 117,
+          "character_id": 1007,
+          "speaker_name": "ゴールドシップ",
+          "text": "なんだよオイ！　そこは進化していくから 面白れーんじゃねーかよ！",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "117": {
+      "frame_id": 117,
+      "background_id": 92,
+      "sub_background_id": 121,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": 118,
+          "character_id": 1049,
+          "speaker_name": "ナカヤマフェスタ",
+          "text": "店主のじいさんへの義理もあるだろうが。ま、 舵取りはこの“おやっさん”に任せときな。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    },
+    "118": {
+      "frame_id": 118,
+      "background_id": 37,
+      "sub_background_id": 120,
+      "cg": "",
+      "animated_cg": null,
+      "dialogue": [
+        {
+          "next_frame": -1,
+          "character_id": 90001,
+          "speaker_name": "モノローグ",
+          "text": "ぽんぽんと肩を叩きながらなだめる ナカヤマフェスタ。2人の協力で、 海の家は翌日以降も盛況を極めたのだった。",
+          "flag_type": "",
+          "flag": "",
+          "choices": []
+        }
+      ]
+    }
+  }
+}
