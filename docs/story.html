@@ -162,7 +162,7 @@
         
         let charMap = {};
         let storyMap = {};
-        let storyTextData = null; // 복사용 텍스트 데이터 저장
+        let storyTextData = null;
         
         async function init() {
             const params = new URLSearchParams(location.search);
@@ -222,14 +222,14 @@
             const frames = story.frames || {};
             const skipFrames = new Set();
             
-            // 복사용 텍스트 생성 변수
+            // 복사용 텍스트
             let copyText = `${name}\n`;
             copyText += `타입: ${TYPE_LABELS[type] || type}\n`;
             copyText += `등장: ${casts.length ? casts.join(', ') : '없음'}\n`;
             if (source) copyText += `출처: ${source}\n`;
             copyText += `\n${'='.repeat(40)}\n\n`;
             
-            let branches = []; // 분기 저장용
+            let branches = [];
             
             function getBranchDialogues(startFrame, allBranchStarts) {
                 const dialogues = [];
@@ -305,14 +305,13 @@
                         const nextSet = new Set(nextFrames);
                         
                         const isGenderOnly = flags.every(f => ['male_trainer', 'female_trainer', ''].includes(f)) && nextSet.size <= 1;
+                        const hasBranch = !isGenderOnly && nextSet.size > 0;
                         
                         html += '<div class="choices">';
-                        html += `<div class="choices-title">▼ 선택지${isGenderOnly ? '' : ' (분기)'}</div>`;
+                        html += `<div class="choices-title">▼ 선택지${hasBranch ? ' (분기)' : ''}</div>`;
                         
                         const allBranchStarts = new Set(nextFrames);
-                        
-                        // 복사용: 선택지 표시
-                        copyText += `\n`;
+                        const isSingleChoice = choices.filter(c => c.text).length === 1;
                         
                         for (let i = 0; i < choices.length; i++) {
                             const choice = choices[i];
@@ -327,18 +326,19 @@
                             else if (flag === 'female_trainer') label = '(여성 트레이너)';
                             
                             html += '<div class="choice-block">';
-                            html += `<div class="choice-text">${isGenderOnly ? '' : '➤ '}${choiceText}<span class="choice-label">${label}</span></div>`;
+                            html += `<div class="choice-text">${hasBranch ? '➤ ' : ''}${choiceText}<span class="choice-label">${label}</span></div>`;
                             
-                            // 복사용: 선택지 추가
-                            copyText += `[선택지 ${i + 1}${label ? ' ' + label : ''}] ${choiceText}\n`;
-                            
-                            if (!isGenderOnly && nextFrame != null) {
+                            if (hasBranch && nextFrame != null) {
                                 const branchDialogues = getBranchDialogues(nextFrame, allBranchStarts);
                                 
-                                // 분기 내용이 있으면 저장
                                 if (branchDialogues.length > 0) {
+                                    // 분기 저장 (복사용)
                                     let branchText = `\n${'_'.repeat(40)}\n\n`;
-                                    branchText += `[선택지 ${i + 1}의 분기: ${choiceText}]\n\n`;
+                                    if (isSingleChoice) {
+                                        branchText += `[선택지의 분기: ${choiceText}]\n\n`;
+                                    } else {
+                                        branchText += `[선택지 ${i + 1}의 분기: ${choiceText}]\n\n`;
+                                    }
                                     
                                     for (const bd of branchDialogues) {
                                         html += '<div class="branch-dialogue">';
@@ -359,7 +359,27 @@
                             html += '</div>';
                         }
                         html += '</div>';
-                        copyText += `\n`;
+                        
+                        // 복사용: 분기 없는 선택지만 본문에 표시
+                        if (!hasBranch) {
+                            for (let i = 0; i < choices.length; i++) {
+                                const choice = choices[i];
+                                const choiceText = choice.text || '';
+                                const flag = choice.flag_type || '';
+                                
+                                if (!choiceText) continue;
+                                
+                                let label = '';
+                                if (flag === 'male_trainer') label = ' (남성 트레이너)';
+                                else if (flag === 'female_trainer') label = ' (여성 트레이너)';
+                                
+                                if (isSingleChoice) {
+                                    copyText += `[선택지${label}] ${choiceText}\n`;
+                                } else {
+                                    copyText += `[선택지 ${i + 1}${label}] ${choiceText}\n`;
+                                }
+                            }
+                        }
                     }
                     
                     html += '</div>';
@@ -375,7 +395,6 @@
                 }
             }
             
-            // 복사용 텍스트 저장
             storyTextData = copyText;
             
             document.getElementById('content').innerHTML = html;
@@ -396,7 +415,6 @@
                     btn.classList.remove('copied');
                 }, 2000);
             }).catch(err => {
-                // fallback for older browsers
                 const textarea = document.createElement('textarea');
                 textarea.value = storyTextData;
                 document.body.appendChild(textarea);
