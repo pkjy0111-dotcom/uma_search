@@ -14,17 +14,32 @@
             background: #f5f5f5;
         }
         
-        .back-btn {
-            display: inline-block;
+        .top-bar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 10px;
             margin-bottom: 15px;
+        }
+        .nav-btns { display: flex; gap: 8px; }
+        
+        .back-btn, .copy-btn {
+            display: inline-block;
             padding: 10px 18px;
             background: #666;
             color: white;
             text-decoration: none;
             border-radius: 8px;
+            border: none;
+            font-size: 14px;
+            cursor: pointer;
             transition: background 0.2s;
         }
-        .back-btn:hover { background: #444; }
+        .back-btn:hover, .copy-btn:hover { background: #444; }
+        .copy-btn { background: #4a90d9; }
+        .copy-btn:hover { background: #357abd; }
+        .copy-btn.copied { background: #4caf50; }
         
         .story-header {
             background: linear-gradient(135deg, #4a90d9, #357abd);
@@ -126,8 +141,13 @@
     </style>
 </head>
 <body>
-    <a class="back-btn" href="javascript:history.back()">← 뒤로가기</a>
-    <a class="back-btn" href="index.html" style="margin-left:8px">🏠 홈</a>
+    <div class="top-bar">
+        <div class="nav-btns">
+            <a class="back-btn" href="javascript:history.back()">← 뒤로가기</a>
+            <a class="back-btn" href="index.html">🏠 홈</a>
+        </div>
+        <button class="copy-btn" onclick="copyStoryText()">📋 전체 복사</button>
+    </div>
     
     <div id="content">
         <div class="loading">스토리 로딩 중...</div>
@@ -142,6 +162,7 @@
         
         let charMap = {};
         let storyMap = {};
+        let storyTextData = null; // 복사용 텍스트 데이터 저장
         
         async function init() {
             const params = new URLSearchParams(location.search);
@@ -153,7 +174,6 @@
             }
             
             try {
-                // 메타데이터 로드
                 const [charResp, mapResp] = await Promise.all([
                     fetch('char_map.json'),
                     fetch('story_map.json')
@@ -161,7 +181,6 @@
                 charMap = await charResp.json();
                 storyMap = await mapResp.json();
                 
-                // 스토리 로드
                 const storyResp = await fetch(`stories/story_${storyId}.json`);
                 if (!storyResp.ok) throw new Error('스토리를 찾을 수 없습니다');
                 const story = await storyResp.json();
@@ -203,7 +222,15 @@
             const frames = story.frames || {};
             const skipFrames = new Set();
             
-            // 분기 대사 추출 함수
+            // 복사용 텍스트 생성 변수
+            let copyText = `${name}\n`;
+            copyText += `타입: ${TYPE_LABELS[type] || type}\n`;
+            copyText += `등장: ${casts.length ? casts.join(', ') : '없음'}\n`;
+            if (source) copyText += `출처: ${source}\n`;
+            copyText += `\n${'='.repeat(40)}\n\n`;
+            
+            let branches = []; // 분기 저장용
+            
             function getBranchDialogues(startFrame, allBranchStarts) {
                 const dialogues = [];
                 let current = startFrame;
@@ -220,7 +247,7 @@
                     let nextFrame = null;
                     for (const d of (frame.dialogue || [])) {
                         const speaker = d.speaker_name || '';
-                        const text = (d.text || '').replace(/\\r/g, '<br>');
+                        const text = (d.text || '').replace(/\\r/g, '\n');
                         nextFrame = d.next_frame;
                         
                         if (text) {
@@ -229,7 +256,6 @@
                         }
                     }
                     
-                    // 합류점 체크
                     let incomingCount = 0;
                     for (const fk in frames) {
                         for (const fd of (frames[fk].dialogue || [])) {
@@ -243,7 +269,6 @@
                 return dialogues;
             }
             
-            // 프레임 순서대로 렌더링
             const sortedKeys = Object.keys(frames).sort((a, b) => parseInt(a) - parseInt(b));
             
             for (const frameKey of sortedKeys) {
@@ -254,6 +279,7 @@
                 for (const d of (frame.dialogue || [])) {
                     const speaker = d.speaker_name || '';
                     const text = (d.text || '').replace(/\\r/g, '<br>');
+                    const textPlain = (d.text || '').replace(/\\r/g, '\n');
                     const choices = d.choices || [];
                     
                     if (!text && !choices.length) continue;
@@ -265,6 +291,12 @@
                     }
                     if (text) {
                         html += `<div class="text">${text}</div>`;
+                        // 복사용 텍스트 추가
+                        if (speaker) {
+                            copyText += `[${speaker}] ${textPlain}\n`;
+                        } else {
+                            copyText += `${textPlain}\n`;
+                        }
                     }
                     
                     if (choices.length) {
@@ -279,7 +311,11 @@
                         
                         const allBranchStarts = new Set(nextFrames);
                         
-                        for (const choice of choices) {
+                        // 복사용: 선택지 표시
+                        copyText += `\n`;
+                        
+                        for (let i = 0; i < choices.length; i++) {
+                            const choice = choices[i];
                             const choiceText = choice.text || '';
                             const nextFrame = choice.next_frame;
                             const flag = choice.flag_type || '';
@@ -293,25 +329,89 @@
                             html += '<div class="choice-block">';
                             html += `<div class="choice-text">${isGenderOnly ? '' : '➤ '}${choiceText}<span class="choice-label">${label}</span></div>`;
                             
+                            // 복사용: 선택지 추가
+                            copyText += `[선택지 ${i + 1}${label ? ' ' + label : ''}] ${choiceText}\n`;
+                            
                             if (!isGenderOnly && nextFrame != null) {
                                 const branchDialogues = getBranchDialogues(nextFrame, allBranchStarts);
-                                for (const bd of branchDialogues) {
-                                    html += '<div class="branch-dialogue">';
-                                    if (bd.speaker) html += `<div class="branch-speaker">【${bd.speaker}】</div>`;
-                                    html += `<div class="branch-text">${bd.text}</div>`;
-                                    html += '</div>';
+                                
+                                // 분기 내용이 있으면 저장
+                                if (branchDialogues.length > 0) {
+                                    let branchText = `\n${'_'.repeat(40)}\n\n`;
+                                    branchText += `[선택지 ${i + 1}의 분기: ${choiceText}]\n\n`;
+                                    
+                                    for (const bd of branchDialogues) {
+                                        html += '<div class="branch-dialogue">';
+                                        if (bd.speaker) {
+                                            html += `<div class="branch-speaker">【${bd.speaker}】</div>`;
+                                            branchText += `[${bd.speaker}] ${bd.text}\n`;
+                                        } else {
+                                            branchText += `${bd.text}\n`;
+                                        }
+                                        html += `<div class="branch-text">${bd.text.replace(/\n/g, '<br>')}</div>`;
+                                        html += '</div>';
+                                    }
+                                    
+                                    branchText += `\n${'_'.repeat(40)}\n`;
+                                    branches.push(branchText);
                                 }
                             }
                             html += '</div>';
                         }
                         html += '</div>';
+                        copyText += `\n`;
                     }
                     
                     html += '</div>';
                 }
             }
             
+            // 분기 내용 추가
+            if (branches.length > 0) {
+                copyText += `\n${'='.repeat(40)}\n`;
+                copyText += `[분기 내용]\n`;
+                for (const branch of branches) {
+                    copyText += branch;
+                }
+            }
+            
+            // 복사용 텍스트 저장
+            storyTextData = copyText;
+            
             document.getElementById('content').innerHTML = html;
+        }
+        
+        function copyStoryText() {
+            if (!storyTextData) {
+                alert('스토리가 아직 로드되지 않았습니다.');
+                return;
+            }
+            
+            navigator.clipboard.writeText(storyTextData).then(() => {
+                const btn = document.querySelector('.copy-btn');
+                btn.textContent = '✓ 복사됨!';
+                btn.classList.add('copied');
+                setTimeout(() => {
+                    btn.textContent = '📋 전체 복사';
+                    btn.classList.remove('copied');
+                }, 2000);
+            }).catch(err => {
+                // fallback for older browsers
+                const textarea = document.createElement('textarea');
+                textarea.value = storyTextData;
+                document.body.appendChild(textarea);
+                textarea.select();
+                document.execCommand('copy');
+                document.body.removeChild(textarea);
+                
+                const btn = document.querySelector('.copy-btn');
+                btn.textContent = '✓ 복사됨!';
+                btn.classList.add('copied');
+                setTimeout(() => {
+                    btn.textContent = '📋 전체 복사';
+                    btn.classList.remove('copied');
+                }, 2000);
+            });
         }
         
         init();
