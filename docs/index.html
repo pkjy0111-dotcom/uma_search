@@ -51,6 +51,34 @@
         }
         button:hover { background: #357abd; }
         
+        .char-list-section {
+            margin-top: 20px;
+        }
+        .char-list-title {
+            font-size: 14px;
+            color: #666;
+            margin-bottom: 10px;
+        }
+        .char-list {
+            font-size: 14px;
+            line-height: 2;
+            color: #333;
+        }
+        .char-list-item {
+            display: inline;
+            cursor: pointer;
+            color: #1565c0;
+            margin-right: 12px;
+            white-space: nowrap;
+        }
+        .char-list-item:hover {
+            text-decoration: underline;
+        }
+        .char-list-item .count {
+            color: #888;
+            font-size: 12px;
+        }
+        
         .char-grid {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
@@ -196,14 +224,20 @@
     
     <div class="search-box">
         <div class="search-row">
-            <input type="text" id="keyword" placeholder="캐릭터 이름 검색 (일본어/한국어)">
+            <input type="text" id="keyword" placeholder="캐릭터 이름 검색 (일본어)">
             <button onclick="searchCharacter()">검색</button>
         </div>
+        
+        <div class="char-list-section">
+            <div class="char-list-title">🏇 우마무스메 목록 (등장 스토리 순)</div>
+            <div id="char-list" class="char-list"></div>
+        </div>
+        
         <div id="char-results" class="char-grid"></div>
     </div>
     
     <div id="results" class="results">
-        <div class="empty-state">캐릭터를 검색하고 선택하면 스토리 목록이 표시됩니다</div>
+        <div class="empty-state">캐릭터를 검색하거나 선택하면 스토리 목록이 표시됩니다</div>
     </div>
 
     <script>
@@ -218,12 +252,12 @@
         };
         const SUBTYPE_LABELS = { main: '메인', career: '커리어', random: '랜덤', outfit: '의상' };
         
-        // 초기화
         async function init() {
             const resp = await fetch('char_list.json');
             charList = await resp.json();
             
-            // URL 파라미터 체크
+            renderCharList();
+            
             const params = new URLSearchParams(location.search);
             const charId = params.get('char');
             if (charId) {
@@ -236,11 +270,24 @@
             }
         }
         
+        function renderCharList() {
+            // 육성 스토리 있는 캐릭터만, 스토리 개수 순 정렬
+            const filtered = charList
+                .filter(c => c.hasCareer)
+                .sort((a, b) => b.count - a.count);
+            
+            const html = filtered.map(c => 
+                `<span class="char-list-item" onclick="selectCharacter(${c.id}, '${c.name.replace(/'/g, "\'")}')">${c.name}<span class="count">(${c.count})</span></span>`
+            ).join('');
+            
+            document.getElementById('char-list').innerHTML = html;
+        }
+        
         function searchCharacter() {
             const keyword = document.getElementById('keyword').value.toLowerCase();
             const filtered = keyword 
                 ? charList.filter(c => c.name.toLowerCase().includes(keyword))
-                : charList.slice(0, 50);
+                : [];
             
             const html = filtered.map(c => `
                 <div class="char-item" onclick="selectCharacter(${c.id}, '${c.name.replace(/'/g, "\'")}')">
@@ -249,13 +296,12 @@
                 </div>
             `).join('');
             
-            document.getElementById('char-results').innerHTML = html || '<div class="empty-state">검색 결과 없음</div>';
+            document.getElementById('char-results').innerHTML = html || (keyword ? '<div class="empty-state">검색 결과 없음</div>' : '');
         }
         
         async function selectCharacter(charId, charName) {
             currentChar = { id: charId, name: charName };
             
-            // UI 업데이트
             document.querySelectorAll('.char-item').forEach(el => el.classList.remove('selected'));
             event?.target?.closest('.char-item')?.classList.add('selected');
             
@@ -266,7 +312,6 @@
                 allStories = await resp.json();
                 renderStories();
                 
-                // URL 업데이트 (히스토리)
                 history.replaceState(null, '', `?char=${charId}`);
             } catch (e) {
                 document.getElementById('results').innerHTML = '<div class="empty-state">스토리를 불러올 수 없습니다</div>';
@@ -280,7 +325,6 @@
             
             let html = `<h3>${currentChar.name} 등장 스토리 (${filtered.length}/${allStories.length}개)</h3>`;
             
-            // 필터 버튼
             html += '<div class="filter-box">';
             Object.entries(TYPE_LABELS).forEach(([type, label]) => {
                 const count = allStories.filter(s => s.type === type).length;
@@ -291,7 +335,6 @@
             });
             html += '</div>';
             
-            // 고유 스토리
             const ownStories = filtered.filter(s => s.own);
             const guestStories = filtered.filter(s => !s.own);
             
@@ -306,7 +349,6 @@
                 });
             }
             
-            // 게스트 출연
             if (guestStories.length > 0) {
                 html += `<div class="section-title guest">👥 다른 캐릭터 스토리에 출연 (${guestStories.length}개)</div>`;
                 
@@ -357,7 +399,6 @@
             }, {});
         }
         
-        // 이벤트
         document.getElementById('keyword').addEventListener('keypress', e => {
             if (e.key === 'Enter') searchCharacter();
         });
