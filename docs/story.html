@@ -221,6 +221,7 @@
             
             const frames = story.frames || {};
             const skipFrames = new Set();
+            const processedChoices = new Set(); // 이미 처리한 선택지 추적
             
             // 복사용 텍스트
             let copyText = `${name}\n`;
@@ -291,7 +292,6 @@
                     }
                     if (text) {
                         html += `<div class="text">${text}</div>`;
-                        // 복사용 텍스트 추가
                         if (speaker) {
                             copyText += `[${speaker}] ${textPlain}\n`;
                         } else {
@@ -300,6 +300,10 @@
                     }
                     
                     if (choices.length) {
+                        // 선택지 고유 키 생성 (중복 처리 방지)
+                        const choiceKey = choices.map(c => c.text || '').join('|');
+                        const alreadyProcessed = processedChoices.has(choiceKey);
+                        
                         const flags = choices.map(c => c.flag_type || '');
                         const nextFrames = choices.map(c => c.next_frame).filter(f => f != null);
                         const nextSet = new Set(nextFrames);
@@ -311,7 +315,8 @@
                         html += `<div class="choices-title">▼ 선택지${hasBranch ? ' (분기)' : ''}</div>`;
                         
                         const allBranchStarts = new Set(nextFrames);
-                        const isSingleChoice = choices.filter(c => c.text).length === 1;
+                        const validChoices = choices.filter(c => c.text);
+                        const isSingleChoice = validChoices.length === 1;
                         
                         for (let i = 0; i < choices.length; i++) {
                             const choice = choices[i];
@@ -332,36 +337,46 @@
                                 const branchDialogues = getBranchDialogues(nextFrame, allBranchStarts);
                                 
                                 if (branchDialogues.length > 0) {
-                                    // 분기 저장 (복사용)
-                                    let branchText = `\n${'_'.repeat(40)}\n\n`;
-                                    if (isSingleChoice) {
-                                        branchText += `[선택지의 분기: ${choiceText}]\n\n`;
-                                    } else {
-                                        branchText += `[선택지 ${i + 1}의 분기: ${choiceText}]\n\n`;
-                                    }
-                                    
                                     for (const bd of branchDialogues) {
                                         html += '<div class="branch-dialogue">';
                                         if (bd.speaker) {
                                             html += `<div class="branch-speaker">【${bd.speaker}】</div>`;
-                                            branchText += `[${bd.speaker}] ${bd.text}\n`;
-                                        } else {
-                                            branchText += `${bd.text}\n`;
                                         }
                                         html += `<div class="branch-text">${bd.text.replace(/\n/g, '<br>')}</div>`;
                                         html += '</div>';
                                     }
                                     
-                                    branchText += `\n${'_'.repeat(40)}\n`;
-                                    branches.push(branchText);
+                                    // 복사용 분기 추가 (중복 방지)
+                                    if (!alreadyProcessed) {
+                                        let branchText = `\n${'_'.repeat(40)}\n\n`;
+                                        if (isSingleChoice) {
+                                            branchText += `[선택지의 분기: ${choiceText}]\n\n`;
+                                        } else {
+                                            branchText += `[선택지 ${i + 1}의 분기: ${choiceText}]\n\n`;
+                                        }
+                                        
+                                        for (const bd of branchDialogues) {
+                                            if (bd.speaker) {
+                                                branchText += `[${bd.speaker}] ${bd.text}\n`;
+                                            } else {
+                                                branchText += `${bd.text}\n`;
+                                            }
+                                        }
+                                        
+                                        branchText += `\n${'_'.repeat(40)}\n`;
+                                        branches.push(branchText);
+                                    }
                                 }
                             }
                             html += '</div>';
                         }
                         html += '</div>';
                         
+                        // 처리 완료 표시
+                        processedChoices.add(choiceKey);
+                        
                         // 복사용: 분기 없는 선택지만 본문에 표시
-                        if (!hasBranch) {
+                        if (!hasBranch && !alreadyProcessed) {
                             for (let i = 0; i < choices.length; i++) {
                                 const choice = choices[i];
                                 const choiceText = choice.text || '';
